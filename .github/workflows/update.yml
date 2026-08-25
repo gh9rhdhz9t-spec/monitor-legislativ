@@ -1,0 +1,95 @@
+name: Actualizare monitor legislativ
+
+on:
+  schedule:
+    # GitHub Actions ruleaza cron doar in UTC, iar Romania schimba ora de doua ori
+    # pe an. Pornim la toate cele patru ore posibile si lasam pasul "gate" sa
+    # opreasca rularile care nu cad la 08:00 sau 16:00 ora locala.
+    #   vara (EEST, UTC+3): 05:00 -> 08:00, 13:00 -> 16:00
+    #   iarna (EET,  UTC+2): 06:00 -> 08:00, 14:00 -> 16:00
+    - cron: '0 5,6,13,14 * * *'
+  workflow_dispatch:          # rulare manuala, fara verificarea orei
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'scripts/**'
+      - '.github/workflows/update.yml'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: monitor-legislativ
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      proceed: ${{ steps.gate.outputs.proceed }}
+    steps:
+      - name: Verifica ora locala (Europe/Bucharest)
+        id: gate
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "Declansare ${{ github.event_name }} — rulez fara verificarea orei."
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          HOUR=$(TZ=Europe/Bucharest date +%H)
+          echo "Ora locala in Romania: ${HOUR}:00"
+          if [ "$HOUR" = "08" ] || [ "$HOUR" = "16" ]; then
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Nu este 08:00 sau 16:00 ora Romaniei — sar peste aceasta rulare."
+            echo "proceed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.proceed == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.proceed == 'true'
+        with:
+          python-version: '3.12'
+
+      - name: Colecteaza actele noi
+        if: steps.gate.outputs.proceed == 'true'
+        env:
+          PAGES: '6'
+        run: python3 scripts/scrape.py
+
+      - name: Salveaza datele in repo
+        if: steps.gate.outputs.proceed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/acts.json
+          if git diff --staged --quiet; then
+            echo "Nicio modificare in date."
+          else
+            git commit -m "Actualizare automata: $(TZ=Europe/Bucharest date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+        if: steps.gate.outputs.proceed == 'true'
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.gate.outputs.proceed == 'true'
+        with:
+          path: '.'
+
+  deploy:
+    needs: update
+    if: needs.update.outputs.proceed == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

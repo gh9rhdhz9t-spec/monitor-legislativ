@@ -1,0 +1,591 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Monitor Legislativ — dialog social &amp; economie socială</title>
+<meta name="description" content="Monitorizare zilnică a actelor normative publicate în Monitorul Oficial, clasificate tematic și punctate după relevanța pentru dialogul social și economia socială.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>">
+<style>
+:root{
+  --bg:#f6f7f9; --panel:#ffffff; --ink:#14171f; --muted:#5d6470; --line:#e2e5ea;
+  --accent:#1f5fa8; --accent-soft:#e8f0fa;
+  --c1:#2f5fa6; --c2:#3f7cbf; --c3:#5f9bd1; --c4:#8dbcdf; --c5:#bcd6e8;
+  --c6:#f2d9a8; --c7:#eeb772; --c8:#e58f4c; --c9:#d55f33; --c10:#bb2b26;
+  --shadow:0 1px 2px rgba(16,20,28,.06),0 4px 14px rgba(16,20,28,.05);
+  --radius:12px;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --bg:#0f1218; --panel:#171b23; --ink:#e8ecf2; --muted:#98a1b0; --line:#262c37;
+    --accent:#6aa6e8; --accent-soft:#1a2635;
+    --c1:#3a6fb8; --c2:#4b86c9; --c3:#63a0d6; --c4:#7fb3dd; --c5:#9cc3e2;
+    --c6:#e8cc95; --c7:#e3ae67; --c8:#dd8a4a; --c9:#d05c33; --c10:#c93a30;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3);
+  }
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:1280px;margin:0 auto;padding:24px 20px 64px}
+
+header.top{margin-bottom:22px}
+h1{font-size:26px;line-height:1.2;margin:0 0 6px;letter-spacing:-.01em}
+h1 .thin{font-weight:400;color:var(--muted)}
+.sub{color:var(--muted);font-size:14px;margin:0}
+.sub a{color:var(--accent)}
+
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:20px 0}
+.kpi{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+  padding:14px 16px;box-shadow:var(--shadow)}
+.kpi b{display:block;font-size:26px;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.kpi span{display:block;color:var(--muted);font-size:12px;text-transform:uppercase;
+  letter-spacing:.05em;margin-top:2px}
+
+.controls{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+  padding:14px;box-shadow:var(--shadow);display:grid;gap:12px;
+  grid-template-columns:minmax(200px,2fr) repeat(auto-fit,minmax(140px,1fr));align-items:end}
+.field{display:flex;flex-direction:column;gap:5px;min-width:0}
+.field label{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:600}
+input,select{font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--line);
+  border-radius:8px;padding:8px 10px;width:100%;min-width:0}
+input:focus,select:focus{outline:2px solid var(--accent);outline-offset:-1px;border-color:transparent}
+.btnrow{display:flex;gap:8px;flex-wrap:wrap}
+button{font:inherit;cursor:pointer;background:var(--panel);color:var(--ink);
+  border:1px solid var(--line);border-radius:8px;padding:8px 12px}
+button:hover{border-color:var(--accent);color:var(--accent)}
+button.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+button.primary:hover{filter:brightness(1.08);color:#fff}
+
+.meta{display:flex;justify-content:space-between;align-items:baseline;gap:12px;
+  flex-wrap:wrap;margin:18px 0 10px;color:var(--muted);font-size:13px}
+
+.tablewrap{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+  box-shadow:var(--shadow);overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:920px}
+thead th{position:sticky;top:0;background:var(--panel);z-index:2;text-align:left;
+  font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);
+  font-weight:700;padding:11px 12px;border-bottom:1px solid var(--line);white-space:nowrap;
+  cursor:pointer;user-select:none}
+thead th:hover{color:var(--accent)}
+thead th.nosort{cursor:default}
+thead th.nosort:hover{color:var(--muted)}
+th .arrow{opacity:.45;font-size:10px}
+tbody tr{border-bottom:1px solid var(--line);vertical-align:top}
+tbody tr:last-child{border-bottom:0}
+tbody tr:hover{background:var(--accent-soft)}
+td{padding:12px}
+td.date{white-space:nowrap;font-variant-numeric:tabular-nums;color:var(--muted);font-size:13px}
+td.date b{display:block;color:var(--ink);font-weight:600}
+.act-title{font-weight:600;margin:0 0 4px}
+.act-title a{color:var(--ink);text-decoration:none}
+.act-title a:hover{color:var(--accent);text-decoration:underline}
+.act-desc{margin:0;color:var(--muted);font-size:13.5px;max-width:62ch}
+.emit{font-size:13px;max-width:22ch}
+.tag{display:inline-block;font-size:11.5px;padding:3px 8px;border-radius:999px;
+  background:var(--accent-soft);color:var(--accent);white-space:nowrap;font-weight:600;
+  border:1px solid transparent}
+@media (prefers-color-scheme:dark){.tag{border-color:var(--line)}}
+.pill{display:inline-block;font-size:11px;padding:2px 7px;border-radius:6px;
+  border:1px solid var(--line);color:var(--muted);white-space:nowrap;margin-top:5px}
+.new{background:#2e7d32;border-color:#2e7d32;color:#fff;font-weight:700}
+.score{display:flex;align-items:center;gap:8px;white-space:nowrap}
+.dot{width:26px;height:26px;border-radius:50%;display:grid;place-items:center;
+  color:#fff;font-weight:700;font-size:13px;flex:none}
+.s1{background:var(--c1)}.s2{background:var(--c2)}.s3{background:var(--c3)}
+.s4{background:var(--c4)}.s5{background:var(--c5)}.s6{background:var(--c6)}
+.s7{background:var(--c7)}.s8{background:var(--c8)}.s9{background:var(--c9)}
+.s10{background:var(--c10)}
+/* capetele reci si calde sunt inchise -> text alb; mijlocul e pal -> text inchis */
+.s4,.s5,.s6,.s7{color:#14171f}
+.dot{font-size:12.5px}
+.empty{padding:48px 20px;text-align:center;color:var(--muted)}
+footer{margin-top:28px;color:var(--muted);font-size:12.5px;line-height:1.7}
+footer a{color:var(--accent)}
+.legend{display:flex;gap:14px;flex-wrap:wrap;margin-top:6px}
+.legend span{display:flex;align-items:center;gap:6px;font-size:12px}
+.legend i{width:11px;height:11px;border-radius:3px;display:inline-block}
+#more{display:block;margin:16px auto 0}
+.legend .ramp{gap:0}
+.legend .ramp i{width:20px;height:12px;border-radius:0}
+.legend .ramp i:first-of-type{border-radius:3px 0 0 3px}
+.legend .ramp i:last-of-type{border-radius:0 3px 3px 0}
+
+/* ---- vizualizatorul de act ---- */
+.viewbtn{margin-top:6px;font-size:12px;padding:4px 9px;border-radius:6px}
+dialog#viewer{border:0;padding:0;background:transparent;max-width:900px;width:calc(100% - 32px)}
+dialog#viewer::backdrop{background:rgba(10,13,18,.62);backdrop-filter:blur(2px)}
+.sheet{background:var(--panel);color:var(--ink);border:1px solid var(--line);
+  border-radius:14px;box-shadow:0 12px 48px rgba(0,0,0,.3);max-height:88vh;
+  display:flex;flex-direction:column;overflow:hidden}
+.sheet header{padding:18px 20px 14px;border-bottom:1px solid var(--line);position:relative}
+.sheet header h2{margin:0 0 6px;font-size:19px;line-height:1.3;padding-right:40px}
+.sheet header .facts{color:var(--muted);font-size:13px}
+.closex{position:absolute;top:14px;right:14px;width:30px;height:30px;border-radius:8px;
+  display:grid;place-items:center;font-size:18px;line-height:1;padding:0}
+.sheet .body{overflow-y:auto;padding:18px 20px 26px}
+.vlegend{display:flex;gap:12px;flex-wrap:wrap;margin:0 0 16px;font-size:12px;color:var(--muted)}
+.vlegend b{display:inline-block;padding:2px 7px;border-radius:5px;font-weight:600}
+.b-ins{background:rgba(46,125,50,.16);color:#1f6d24;border-left:3px solid #2e7d32}
+.b-del{background:rgba(198,40,40,.14);color:#a52222;border-left:3px solid #c62828}
+.b-new{background:rgba(31,95,168,.14);color:#1a5296;border-left:3px solid #1f5fa8}
+@media (prefers-color-scheme:dark){
+  .b-ins{color:#8fd694}.b-del{color:#f09b9b}.b-new{color:#8fc0f2}
+}
+.ops{border:1px solid var(--line);border-radius:10px;overflow:hidden;margin-bottom:18px}
+.ops table{min-width:0;width:100%;font-size:13px}
+.ops th{position:static;font-size:10.5px;padding:8px 10px}
+.ops td{padding:8px 10px;border-bottom:1px solid var(--line)}
+.ops tr:last-child td{border-bottom:0}
+.op-badge{font-size:10.5px;font-weight:700;padding:2px 7px;border-radius:5px;white-space:nowrap}
+.op-MODIFICA{background:rgba(230,150,40,.18);color:#a86a10}
+.op-ABROGA{background:rgba(198,40,40,.16);color:#a52222}
+.op-COMPLETEAZA{background:rgba(46,125,50,.16);color:#1f6d24}
+.op-ALTA{background:var(--accent-soft);color:var(--accent)}
+@media (prefers-color-scheme:dark){
+  .op-MODIFICA{color:#e8b76a}.op-ABROGA{color:#f09b9b}.op-COMPLETEAZA{color:#8fd694}
+}
+.struck{text-decoration:line-through;text-decoration-color:#c62828;text-decoration-thickness:2px}
+.blk{margin:0 0 11px;line-height:1.6}
+.blk.art{font-weight:700;margin-top:20px;font-size:15.5px}
+.blk.hdr{color:var(--muted);font-style:italic}
+.blk.sign{color:var(--muted);font-size:13px;white-space:pre-line}
+.blk.op{padding:9px 12px;border-radius:0 8px 8px 0;margin-bottom:13px}
+.blk .prefix{display:block;font-weight:600;margin-bottom:5px;font-size:13px}
+.loading{padding:40px;text-align:center;color:var(--muted)}
+@media (max-width:640px){
+  .wrap{padding:16px 12px 48px}
+  h1{font-size:21px}
+  .controls{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="top">
+  <h1>Monitor Legislativ <span class="thin">— dialog social &amp; economie socială</span></h1>
+  <p class="sub">Acte normative publicate în Monitorul Oficial, preluate din
+    <a href="https://legislatie.just.ro/Public/RezultateCautare" target="_blank" rel="noopener">Portalul Legislativ</a>,
+    clasificate tematic și punctate de la 1 la 10 după relevanța pentru dialogul social și economia socială.
+    Actualizare automată zilnic la <b>08:00</b> și <b>16:00</b> (ora României).</p>
+</header>
+
+<section class="kpis" id="kpis"></section>
+
+<section class="controls">
+  <div class="field">
+    <label for="q">Căutare</label>
+    <input id="q" type="search" placeholder="titlu, descriere, emitent, număr…" autocomplete="off">
+  </div>
+  <div class="field">
+    <label for="cat">Categorie</label>
+    <select id="cat"><option value="">Toate</option></select>
+  </div>
+  <div class="field">
+    <label for="minscore">Relevanță minimă</label>
+    <select id="minscore">
+      <option value="1">1+ (toate)</option>
+      <option value="3">3+</option>
+      <option value="5">5+</option>
+      <option value="6">6+ (relevante)</option>
+      <option value="8">8+ (ridicată)</option>
+      <option value="10">10 (maximă)</option>
+    </select>
+  </div>
+  <div class="field">
+    <label for="emit">Emitent</label>
+    <select id="emit"><option value="">Toți</option></select>
+  </div>
+  <div class="field">
+    <label for="from">Publicat de la</label>
+    <input id="from" type="date">
+  </div>
+  <div class="field">
+    <label for="to">până la</label>
+    <input id="to" type="date">
+  </div>
+  <div class="field">
+    <label>&nbsp;</label>
+    <div class="btnrow">
+      <button id="reset">Resetează</button>
+      <button id="csv" class="primary">CSV</button>
+    </div>
+  </div>
+</section>
+
+<div class="meta">
+  <div id="count">Se încarcă…</div>
+  <div id="updated"></div>
+</div>
+
+<div class="tablewrap">
+  <table>
+    <thead>
+      <tr>
+        <th data-sort="data_publicare">Publicat <span class="arrow">▾</span></th>
+        <th data-sort="data_vigoare">În vigoare <span class="arrow"></span></th>
+        <th data-sort="emitent">Emitent <span class="arrow"></span></th>
+        <th data-sort="titlu" style="min-width:340px">Act &amp; descriere <span class="arrow"></span></th>
+        <th data-sort="categorie">Categorie <span class="arrow"></span></th>
+        <th data-sort="scor">Relevanță <span class="arrow"></span></th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+</div>
+<button id="more" style="display:none">Încarcă încă 100</button>
+
+<footer>
+  <div class="legend">
+    <span class="ramp">Relevanță:</span>
+    <span class="ramp"><i class="s1"></i><i class="s2"></i><i class="s3"></i><i class="s4"></i><i class="s5"></i>
+      <i class="s6"></i><i class="s7"></i><i class="s8"></i><i class="s9"></i><i class="s10"></i></span>
+    <span>1 = fără legătură (rece) → 10 = impact direct asupra dialogului social (cald)</span>
+  </div>
+  <p>Scorul (1–10) este calculat automat, pe baza unui lexicon de termeni specifici (dialog social, contracte
+  colective, sindicate, patronate, economie socială, muncă, protecție socială), ponderat cu emitentul
+  actului și forța juridică a acestuia. Este un instrument de triere, nu o evaluare juridică.
+  Sursa oficială rămâne <a href="https://legislatie.just.ro" target="_blank" rel="noopener">legislatie.just.ro</a>.</p>
+</footer>
+
+</div>
+
+<dialog id="viewer">
+  <div class="sheet">
+    <header>
+      <h2 id="v-title"></h2>
+      <div class="facts" id="v-facts"></div>
+      <button class="closex" id="v-close" aria-label="Închide">&times;</button>
+    </header>
+    <div class="body" id="v-body"></div>
+  </div>
+</dialog>
+
+<script>
+const PAGE = 100;
+let ACTS = [], VIEW = [], shown = 0;
+let sortKey = 'data_publicare', sortDir = -1;
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c =>
+  ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+const RO = ['ianuarie','februarie','martie','aprilie','mai','iunie','iulie',
+            'august','septembrie','octombrie','noiembrie','decembrie'];
+
+function fmtDate(iso){
+  if(!iso) return '—';
+  const p = iso.split('-');
+  if(p.length !== 3) return iso;
+  return `${+p[2]} ${RO[+p[1]-1]} ${p[0]}`;
+}
+function shortDate(iso){
+  if(!iso) return '—';
+  const p = iso.split('-');
+  return p.length === 3 ? `${p[2]}.${p[1]}.${p[0]}` : iso;
+}
+function emitentOf(a){ return (a.emitenti && a.emitenti[0]) || '—'; }
+
+// Descrierea portalului începe cu „privind…" / „pentru…"; o curățăm și o
+// scurtăm aici, ca să nu stocăm de două ori același text în acts.json.
+function rezumat(a, limit = 260){
+  let s = (a.descriere || a.titlu || '').replace(/^\s*(privind|pentru|referitor la)\s+/i, '').trim();
+  if(s) s = s[0].toUpperCase() + s.slice(1);
+  if(s.length <= limit) return s;
+  let cut = s.slice(0, limit);
+  const sp = cut.lastIndexOf(' ');
+  if(sp > limit * 0.6) cut = cut.slice(0, sp);
+  return cut.replace(/[ ,;:.]+$/, '') + '…';
+}
+function todayISO(){
+  const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+}
+
+function isNew(a){
+  // "nou" = adaugat de scraper in ultimele 24h
+  if(!a.first_seen) return false;
+  return (Date.now() - Date.parse(a.first_seen)) < 24*3600*1000;
+}
+
+function buildFilters(){
+  const cats = [...new Set(ACTS.map(a => a.categorie))].sort((x,y) => x.localeCompare(y,'ro'));
+  const catSel = $('#cat');
+  cats.forEach(c => catSel.insertAdjacentHTML('beforeend', `<option>${esc(c)}</option>`));
+
+  const counts = {};
+  ACTS.forEach(a => (a.emitenti||[]).forEach(e => counts[e] = (counts[e]||0)+1));
+  const emits = Object.keys(counts).sort((x,y) => counts[y]-counts[x] || x.localeCompare(y,'ro'));
+  const emitSel = $('#emit');
+  emits.forEach(e => emitSel.insertAdjacentHTML('beforeend',
+    `<option value="${esc(e)}">${esc(e)} (${counts[e]})</option>`));
+}
+
+function kpis(){
+  const today = todayISO();
+  const nou = ACTS.filter(isNew).length;
+  const azi = ACTS.filter(a => a.data_publicare === today).length;
+  const hot = ACTS.filter(a => a.scor >= 6).length;
+  const munca = ACTS.filter(a => a.categorie === 'Muncă și dialog social'
+                              || a.categorie === 'Economie socială').length;
+  const data = [
+    [ACTS.length, 'acte urmărite'],
+    [azi, 'publicate azi'],
+    [nou, 'adăugate în 24h'],
+    [hot, 'relevanță 6–10'],
+    [munca, 'muncă & ec. socială'],
+  ];
+  $('#kpis').innerHTML = data.map(([v,l]) =>
+    `<div class="kpi"><b>${v}</b><span>${l}</span></div>`).join('');
+}
+
+function applyFilters(){
+  const q = $('#q').value.trim().toLowerCase();
+  const cat = $('#cat').value;
+  const min = +$('#minscore').value;
+  const emit = $('#emit').value;
+  const from = $('#from').value, to = $('#to').value;
+
+  VIEW = ACTS.filter(a => {
+    if(a.scor < min) return false;
+    if(cat && a.categorie !== cat) return false;
+    if(emit && !(a.emitenti||[]).includes(emit)) return false;
+    const d = a.data_publicare || '';
+    if(from && d && d < from) return false;
+    if(to && d && d > to) return false;
+    if(q){
+      const hay = [a.titlu, a.descriere, a.numar, a.tip,
+                   (a.emitenti||[]).join(' '), a.categorie].join(' ').toLowerCase();
+      if(!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  VIEW.sort((x,y) => {
+    let a, b;
+    if(sortKey === 'emitent'){ a = emitentOf(x); b = emitentOf(y); }
+    else { a = x[sortKey]; b = y[sortKey]; }
+    if(a == null) a = ''; if(b == null) b = '';
+    if(typeof a === 'number' && typeof b === 'number') return (a-b)*sortDir;
+    return String(a).localeCompare(String(b),'ro')*sortDir;
+  });
+
+  shown = 0;
+  $('#rows').innerHTML = '';
+  render();
+  $('#count').textContent =
+    `${VIEW.length} ${VIEW.length === 1 ? 'act' : 'acte'} · din ${ACTS.length} urmărite`;
+}
+
+function rowHTML(a){
+  const nou = isNew(a) ? ' <span class="pill new">NOU</span>' : '';
+  const nr = [a.tip, a.numar && ('nr. ' + a.numar)].filter(Boolean).join(' ');
+  const mo = a.monitor_nr ? `M. Of. ${a.monitor_nr}` : '';
+  return `<tr>
+    <td class="date"><b>${shortDate(a.data_publicare)}</b>${esc(mo)}</td>
+    <td class="date">${shortDate(a.data_vigoare)}</td>
+    <td class="emit">${esc(emitentOf(a))}</td>
+    <td>
+      <p class="act-title"><a href="https://legislatie.just.ro/Public/DetaliiDocument/${esc(a.id)}"
+         target="_blank" rel="noopener">${esc(a.titlu)}</a>${nou}</p>
+      <p class="act-desc">${esc(rezumat(a))}</p>
+      ${nr ? `<span class="pill">${esc(nr)}</span>` : ''}
+      ${a.are_text ? `<button class="viewbtn" data-view="${esc(a.id)}">Vezi textul și modificările</button>` : ''}
+    </td>
+    <td><span class="tag">${esc(a.categorie)}</span></td>
+    <td><div class="score"><span class="dot s${a.scor}">${a.scor}</span></div></td>
+  </tr>`;
+}
+
+function render(){
+  const slice = VIEW.slice(shown, shown + PAGE);
+  if(!VIEW.length){
+    $('#rows').innerHTML =
+      `<tr><td colspan="6" class="empty">Niciun act nu corespunde filtrelor alese.</td></tr>`;
+    $('#more').style.display = 'none';
+    return;
+  }
+  $('#rows').insertAdjacentHTML('beforeend', slice.map(rowHTML).join(''));
+  shown += slice.length;
+  $('#more').style.display = shown < VIEW.length ? 'block' : 'none';
+  $('#more').textContent = `Încarcă încă ${Math.min(PAGE, VIEW.length - shown)}`;
+}
+
+function toCSV(){
+  const head = ['Data publicarii','Data intrarii in vigoare','Emitent','Tip','Numar',
+                'Titlu','Descriere','Categorie','Scor','Monitorul Oficial','Link'];
+  const q = v => '"' + String(v == null ? '' : v).replace(/"/g,'""') + '"';
+  const lines = [head.map(q).join(',')];
+  VIEW.forEach(a => lines.push([
+    a.data_publicare, a.data_vigoare, (a.emitenti||[]).join('; '), a.tip, a.numar,
+    a.titlu, rezumat(a), a.categorie, a.scor, a.monitor_nr,
+    'https://legislatie.just.ro/Public/DetaliiDocument/' + a.id
+  ].map(q).join(',')));
+  const blob = new Blob(['﻿' + lines.join('\r\n')], {type:'text/csv;charset=utf-8'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `monitor-legislativ-${todayISO()}.csv`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+/* ---------- vizualizatorul de act ---------- */
+
+const OP_CLASS = {abrogat:'b-del', introdus:'b-ins', modificat:'b-ins'};
+const OP_LABEL = {abrogat:'ABROGĂ', introdus:'INTRODUCE', modificat:'MODIFICĂ'};
+
+function opKind(t){
+  const f = (t||'').toUpperCase();
+  if(f.includes('ABROG')) return 'ABROGA';
+  if(f.includes('COMPLET')) return 'COMPLETEAZA';
+  if(f.includes('MODIFIC')) return 'MODIFICA';
+  return 'ALTA';
+}
+
+function opsTable(ops){
+  if(!ops || !ops.length) return '';
+  const rows = ops.map(o => {
+    const k = opKind(o.operatiune);
+    // Ce se abrogă e text scos din legislație: îl tăiem cu roșu.
+    const tinta = k === 'ABROGA'
+      ? `<span class="struck">${esc(o.tinta)}</span>`
+      : esc(o.tinta);
+    const link = o.tinta_id
+      ? ` <a href="https://legislatie.just.ro/Public/DetaliiDocument/${esc(o.tinta_id)}"
+             target="_blank" rel="noopener">↗</a>` : '';
+    return `<tr><td>${esc(o.sectiune)}</td>
+      <td><span class="op-badge op-${k}">${esc(o.operatiune)}</span></td>
+      <td>${tinta}${link}</td></tr>`;
+  }).join('');
+  return `<div class="ops"><table>
+    <thead><tr><th>Secțiune</th><th>Operațiune</th><th>Act vizat</th></tr></thead>
+    <tbody>${rows}</tbody></table></div>`;
+}
+
+function blockHTML(b, actNou){
+  const cls = b.cls || '';
+  if(cls.startsWith('S_ART_TTL') || cls.startsWith('S_ANX_TTL'))
+    return `<p class="blk art">${esc(b.text)}</p>`;
+  if(cls.startsWith('S_HDR')) return `<p class="blk hdr">${esc(b.text)}</p>`;
+  if(cls.startsWith('S_SMN')) return `<p class="blk sign">${esc(b.text)}</p>`;
+
+  if(b.op){
+    const tone = OP_CLASS[b.op] || 'b-new';
+    if(b.nou){
+      // Textul nou instalat de act — evidențiat verde; prefixul rămâne neutru.
+      return `<p class="blk op ${tone}">
+        <span class="prefix">${esc(b.prefix || OP_LABEL[b.op])}</span>${esc(b.nou)}</p>`;
+    }
+    const body = b.op === 'abrogat' ? `<span class="struck">${esc(b.text)}</span>` : esc(b.text);
+    return `<p class="blk op ${tone}"><span class="prefix">${OP_LABEL[b.op]}</span>${body}</p>`;
+  }
+  // Într-un act complet nou, dispozițiile proprii sunt „text nou" — albastru.
+  if(actNou) return `<p class="blk op b-new">${esc(b.text)}</p>`;
+  return `<p class="blk">${esc(b.text)}</p>`;
+}
+
+function viewerLegend(d){
+  const parts = [];
+  if(d.act_nou) parts.push('<b class="b-new">albastru</b> text nou (act nou)');
+  else {
+    parts.push('<b class="b-ins">verde</b> text adăugat sau formă nouă');
+    parts.push('<b class="b-del">roșu tăiat</b> dispoziții abrogate');
+  }
+  return `<div class="vlegend">${parts.join('')}</div>`;
+}
+
+async function openAct(id){
+  const dlg = $('#viewer');
+  const meta = ACTS.find(a => a.id === id) || {};
+  $('#v-title').textContent = meta.titlu || 'Act';
+  $('#v-facts').textContent = '';
+  $('#v-body').innerHTML = '<div class="loading">Se încarcă textul actului…</div>';
+  if(!dlg.open) dlg.showModal();
+
+  try{
+    const r = await fetch(`data/acts/${encodeURIComponent(id)}.json`);
+    if(!r.ok) throw new Error('HTTP ' + r.status);
+    const d = await r.json();
+
+    // Fișierul de detaliu poate fi generat fără metadate (rulare manuală);
+    // în acel caz folosim ce știm deja din tabel.
+    const emitenti = (d.emitenti && d.emitenti.length) ? d.emitenti : (meta.emitenti || []);
+    const mo   = d.monitor_nr     || meta.monitor_nr;
+    const pub  = d.data_publicare || meta.data_publicare;
+    const viv  = d.data_vigoare   || meta.data_vigoare;
+    if(d.titlu || meta.titlu) $('#v-title').textContent = d.titlu || meta.titlu;
+    const facts = [
+      emitenti.join(', '),
+      mo  ? `M. Of. ${mo}` : '',
+      pub ? `publicat ${fmtDate(pub)}` : '',
+      viv ? `în vigoare ${fmtDate(viv)}` : '',
+    ].filter(Boolean).join(' · ');
+    $('#v-facts').innerHTML = esc(facts) +
+      ` · <a href="https://legislatie.just.ro/Public/DetaliiDocument/${esc(id)}"
+            target="_blank" rel="noopener">vezi pe portal ↗</a>`;
+
+    $('#v-body').innerHTML =
+      viewerLegend(d) + opsTable(d.operatiuni) +
+      (d.blocuri||[]).map(b => blockHTML(b, d.act_nou)).join('');
+    $('#v-body').scrollTop = 0;
+  }catch(e){
+    $('#v-body').innerHTML = `<div class="loading">Textul nu a putut fi încărcat (${esc(e.message)}).<br><br>
+      <a href="https://legislatie.just.ro/Public/DetaliiDocument/${esc(id)}"
+         target="_blank" rel="noopener">Deschide actul pe portal ↗</a></div>`;
+  }
+}
+
+function wire(){
+  const dlg = $('#viewer');
+  $('#v-close').addEventListener('click', () => dlg.close());
+  dlg.addEventListener('click', e => { if(e.target === dlg) dlg.close(); });
+  document.addEventListener('click', e => {
+    const b = e.target.closest('[data-view]');
+    if(b) openAct(b.dataset.view);
+  });
+
+  ['#q','#cat','#minscore','#emit','#from','#to'].forEach(sel => {
+    const el = $(sel);
+    el.addEventListener(sel === '#q' ? 'input' : 'change', applyFilters);
+  });
+  $('#reset').addEventListener('click', () => {
+    ['#q','#from','#to'].forEach(s => $(s).value = '');
+    $('#cat').value = ''; $('#emit').value = ''; $('#minscore').value = '1';
+    applyFilters();
+  });
+  $('#csv').addEventListener('click', toCSV);
+  $('#more').addEventListener('click', render);
+
+  document.querySelectorAll('thead th[data-sort]').forEach(th => {
+    th.addEventListener('click', () => {
+      const k = th.dataset.sort;
+      if(k === sortKey){ sortDir *= -1; }
+      else { sortKey = k; sortDir = (k === 'scor' || k.startsWith('data')) ? -1 : 1; }
+      document.querySelectorAll('thead th .arrow').forEach(s => s.textContent = '');
+      th.querySelector('.arrow').textContent = sortDir === -1 ? '▾' : '▴';
+      applyFilters();
+    });
+  });
+}
+
+fetch('data/acts.json?t=' + Date.now())
+  .then(r => { if(!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+  .then(d => {
+    ACTS = d.acts || [];
+    const gen = d.generated_at ? new Date(d.generated_at) : null;
+    $('#updated').textContent = gen
+      ? 'Ultima actualizare: ' + gen.toLocaleString('ro-RO', {dateStyle:'long', timeStyle:'short'})
+      : '';
+    buildFilters(); kpis(); wire(); applyFilters();
+  })
+  .catch(e => {
+    $('#count').textContent = 'Nu am putut încărca datele (' + e.message + ').';
+    $('#rows').innerHTML = `<tr><td colspan="6" class="empty">
+      Fișierul <code>data/acts.json</code> nu este disponibil încă.</td></tr>`;
+  });
+</script>
+</body>
+</html>
