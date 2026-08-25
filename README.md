@@ -69,22 +69,25 @@ decât absența lui.
 
 ## Actualizare automată
 
-Colectarea rulează **local**, la **08:00** și **16:00** ora României, prin
-`scripts/run-update.sh`; publicarea pe GitHub Pages se face automat la fiecare
-push, prin `.github/workflows/deploy.yml`.
+Dashboard-ul trăiește ca **Artifact** pe claude.ai, nu ca site static. O rutină
+programată rulează `scripts/run-update.sh` la **08:00** și **16:00** ora
+României, apoi republică artefactul la aceeași adresă.
 
-> **De ce nu rulează colectarea pe GitHub Actions?**
+Artefactele rulează sub un CSP strict, care nu permite cereri către fișiere
+alăturate, așa că `scripts/build_artifact.py` lipește datele direct în pagină:
+indexul actelor și textele integrale ajung în HTML ca JSON.
+
+> **De ce rulează colectarea local și nu pe GitHub Actions?**
 > Portalul `legislatie.just.ro` refuză conexiunile venite din centre de date.
 > De pe un runner GitHub, DNS-ul rezolvă și handshake-ul TLS reușește, dar
 > serverul închide conexiunea fără să trimită vreun răspuns (curl iese cu 92 la
 > HTTP/2 și 52 la HTTP/1.1, identic pentru Python). De pe o conexiune din
-> România totul funcționează normal, așa că partea de colectare stă pe mașina
-> locală, iar GitHub se ocupă doar de publicare.
+> România totul funcționează normal, deci colectarea stă pe mașina locală.
 
 Fiecare rulare scanează primele 6 pagini de rezultate (300 de acte), le adaugă în
 `data/acts.json` (bază cumulativă, cheia = id-ul documentului de pe portal),
 recalculează scorurile pentru toate actele, descarcă textul integral pentru cel
-mult 40 de acte relevante noi și redeployează site-ul.
+mult 40 de acte relevante noi și reconstruiește artefactul.
 
 Textul integral se păstrează doar pentru actele cu scor ≥ 4 și doar 180 de zile:
 la ~16 KB per act, arhivarea întregului Monitor Oficial ar depăși 350 MB pe an.
@@ -92,11 +95,12 @@ la ~16 KB per act, arhivarea întregului Monitor Oficial ar depăși 350 MB pe a
 ## Rulare locală
 
 ```bash
-python3 scripts/scrape.py          # PAGES=4 implicit
-python3 -m http.server 8801        # apoi deschide http://localhost:8801
+bash scripts/run-update.sh         # colectare + reconstruirea artefactului
 ```
 
 ```bash
+python3 scripts/scrape.py            # doar colectarea (PAGES=4 implicit)
+python3 scripts/build_artifact.py    # doar reconstruirea paginii
 python3 scripts/detail.py 313622     # textul unui singur act, pentru depanare
 ```
 
@@ -115,12 +119,15 @@ concepte și potrivirea pe rădăcină se aplică automat cheilor noi. Scrie che
 ## Structură
 
 ```
-index.html            dashboard (tabel, filtre, sortare, vizualizator, export CSV)
+scripts/artifact_template.html  pagina în sine (tabel, filtre, cititor de act)
+scripts/build_artifact.py       lipește datele în pagină -> dist/
+scripts/run-update.sh           rulare completă, apelată de rutină
 data/acts.json        baza cumulativă de acte (index)
 data/acts/<id>.json   textul integral + operațiunile, încărcat la cerere
 scripts/scrape.py     colectare, parsare, clasificare, scorare
 scripts/detail.py     textul integral și marcarea modificărilor
 scripts/lexicon.py    termenii și ponderile — aici se fac ajustările
+dist/                 artefactul construit, autonom
 ```
 
 Sursa oficială rămâne [legislatie.just.ro](https://legislatie.just.ro).

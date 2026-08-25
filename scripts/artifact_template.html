@@ -1,0 +1,770 @@
+<title>Radar Legislativ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap">
+
+<style>
+/* ---------------------------------------------------------------
+   Paleta. :root poarta tema deschisa completa; blocurile de mai jos
+   redefinesc doar jetoanele, ca tema sa se rezolve ca un set intreg
+   in toate cele trei stari (sistem, ales deschis, ales inchis).
+   --------------------------------------------------------------- */
+:root{
+  --paper:#f5f6f8;
+  --card:#ffffff;
+  --ink:#161a21;
+  --ink-soft:#3d4653;
+  --muted:#5b6472;
+  --rule:#e1e5eb;
+  --rule-soft:#eef1f5;
+  --accent:#2d4a7c;
+  --accent-ink:#2d4a7c;
+  --accent-wash:#e9eef6;
+
+  /* Rampa de relevanta: rece (irelevant) -> cald (impact direct). */
+  --r1:#2f5fa6;  --r2:#3d7ab8;  --r3:#5795c6;  --r4:#7fb0d4;  --r5:#a9c8de;
+  --r6:#eed9a8;  --r7:#e8b877;  --r8:#dd9150;  --r9:#cd6236;  --r10:#bb2b26;
+  --on-cold:#ffffff; --on-mid:#2a2f38; --on-warm:#ffffff;
+
+  --add:#1f6b32; --add-wash:#e6f2e9; --add-rule:#2e8b45;
+  --cut:#a32222; --cut-wash:#fbeaea; --cut-rule:#c62828;
+  --new:#24558f; --new-wash:#e8eff8; --new-rule:#2d4a7c;
+  --hold:#8a5a12; --hold-wash:#fbf0dc;
+
+  --shadow:0 1px 2px rgba(22,26,33,.05), 0 6px 20px rgba(22,26,33,.06);
+  --shadow-lift:0 18px 60px rgba(22,26,33,.28);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#12151b;
+    --card:#191d25;
+    --ink:#e9edf3;
+    --ink-soft:#c2cad6;
+    --muted:#939cab;
+    --rule:#272d38;
+    --rule-soft:#20252e;
+    --accent:#7ea9de;
+    --accent-ink:#9dbde8;
+    --accent-wash:#1b2532;
+
+    --r1:#3b6fb5;  --r2:#4a85c4;  --r3:#5e9ace;  --r4:#79aed6;  --r5:#95c0dd;
+    --r6:#e3cd9b;  --r7:#dfb072;  --r8:#d68d4f;  --r9:#c96038;  --r10:#c3382f;
+    --on-cold:#ffffff; --on-mid:#161a21; --on-warm:#ffffff;
+
+    --add:#7fce93; --add-wash:#14261a; --add-rule:#3f9c56;
+    --cut:#f0a0a0; --cut-wash:#2a1516; --cut-rule:#c9453f;
+    --new:#9dc0ea; --new-wash:#151f2c; --new-rule:#3f6ba8;
+    --hold:#e0bd7c; --hold-wash:#241d10;
+
+    --shadow:0 1px 2px rgba(0,0,0,.5), 0 6px 20px rgba(0,0,0,.35);
+    --shadow-lift:0 18px 60px rgba(0,0,0,.6);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#12151b;
+  --card:#191d25;
+  --ink:#e9edf3;
+  --ink-soft:#c2cad6;
+  --muted:#939cab;
+  --rule:#272d38;
+  --rule-soft:#20252e;
+  --accent:#7ea9de;
+  --accent-ink:#9dbde8;
+  --accent-wash:#1b2532;
+
+  --r1:#3b6fb5;  --r2:#4a85c4;  --r3:#5e9ace;  --r4:#79aed6;  --r5:#95c0dd;
+  --r6:#e3cd9b;  --r7:#dfb072;  --r8:#d68d4f;  --r9:#c96038;  --r10:#c3382f;
+  --on-cold:#ffffff; --on-mid:#161a21; --on-warm:#ffffff;
+
+  --add:#7fce93; --add-wash:#14261a; --add-rule:#3f9c56;
+  --cut:#f0a0a0; --cut-wash:#2a1516; --cut-rule:#c9453f;
+  --new:#9dc0ea; --new-wash:#151f2c; --new-rule:#3f6ba8;
+  --hold:#e0bd7c; --hold-wash:#241d10;
+
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 6px 20px rgba(0,0,0,.35);
+  --shadow-lift:0 18px 60px rgba(0,0,0,.6);
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  font-size:15px; line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1240px;margin:0 auto;padding:34px 22px 72px}
+
+/* ---- antet ---- */
+.masthead{
+  display:flex;justify-content:space-between;align-items:flex-end;gap:26px;
+  flex-wrap:wrap;padding-bottom:18px;border-bottom:2px solid var(--ink);
+}
+h1{
+  font-family:"Source Serif 4",Georgia,serif;
+  font-weight:700;font-size:clamp(28px,4.2vw,40px);line-height:1.05;
+  margin:0;letter-spacing:-.015em;text-wrap:balance;
+}
+.tagline{color:var(--muted);font-size:14.5px;margin:7px 0 0;max-width:62ch}
+.stamp{
+  font-family:"IBM Plex Mono",ui-monospace,monospace;
+  font-size:11.5px;color:var(--muted);text-align:right;line-height:1.7;
+  white-space:nowrap;
+}
+.stamp b{display:block;color:var(--ink);font-weight:500}
+
+/* ---- rezumat ---- */
+.summary{
+  display:grid;background:var(--card);border:1px solid var(--rule);
+  grid-template-columns:repeat(auto-fit,minmax(132px,1fr));
+  margin:22px 0 26px;border-radius:3px;overflow:hidden;
+}
+.stat{padding:15px 16px;box-shadow:inset -1px -1px 0 var(--rule)}
+.stat b{
+  display:block;font-family:"IBM Plex Mono",monospace;
+  font-size:27px;font-weight:500;letter-spacing:-.02em;
+  font-variant-numeric:tabular-nums;line-height:1.15;
+}
+.stat span{
+  display:block;font-size:10.5px;text-transform:uppercase;
+  letter-spacing:.09em;color:var(--muted);margin-top:3px;font-weight:600;
+}
+
+/* ---- filtre ---- */
+.filters{
+  display:grid;gap:13px;align-items:end;margin-bottom:8px;
+  grid-template-columns:minmax(190px,1.7fr) repeat(auto-fit,minmax(132px,1fr));
+}
+.f{display:flex;flex-direction:column;gap:5px;min-width:0}
+.f label{
+  font-size:10.5px;text-transform:uppercase;letter-spacing:.09em;
+  color:var(--muted);font-weight:600;
+}
+input,select{
+  font:inherit;font-size:14px;color:var(--ink);background:var(--card);
+  border:1px solid var(--rule);border-radius:3px;padding:8px 10px;
+  width:100%;min-width:0;
+}
+input:focus-visible,select:focus-visible,button:focus-visible,
+[data-view]:focus-visible,th:focus-visible{
+  outline:2px solid var(--accent);outline-offset:2px;
+}
+.acts{display:flex;gap:7px}
+button{
+  font:inherit;font-size:13.5px;cursor:pointer;background:var(--card);
+  color:var(--ink);border:1px solid var(--rule);border-radius:3px;padding:8px 12px;
+}
+button:hover{border-color:var(--accent);color:var(--accent-ink)}
+
+.tally{
+  display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;
+  margin:16px 0 9px;font-size:12.5px;color:var(--muted);
+  font-family:"IBM Plex Mono",monospace;
+}
+
+/* ---- tabel ---- */
+.sheet{
+  background:var(--card);border:1px solid var(--rule);
+  border-radius:3px;overflow-x:auto;box-shadow:var(--shadow);
+}
+table{border-collapse:collapse;width:100%;min-width:900px}
+thead th{
+  position:sticky;top:0;z-index:2;background:var(--card);text-align:left;
+  font-size:10.5px;text-transform:uppercase;letter-spacing:.09em;
+  color:var(--muted);font-weight:700;padding:11px 13px;
+  border-bottom:1px solid var(--ink);white-space:nowrap;cursor:pointer;
+  user-select:none;
+}
+thead th:hover{color:var(--accent-ink)}
+th .dir{opacity:.5;font-size:9px;margin-left:2px}
+tbody tr{border-bottom:1px solid var(--rule-soft);vertical-align:top}
+tbody tr:last-child{border-bottom:0}
+tbody tr:hover{background:var(--accent-wash)}
+td{padding:13px}
+/* Banda de relevanta: severitatea se citeste dintr-o privire, nu doar din cifra */
+td.stripe{padding:0;width:4px}
+td.stripe i{display:block;width:4px;height:100%;min-height:64px}
+td.when{
+  white-space:nowrap;font-family:"IBM Plex Mono",monospace;font-size:12px;
+  color:var(--muted);font-variant-numeric:tabular-nums;
+}
+td.when b{display:block;color:var(--ink);font-weight:500;font-size:12.5px}
+.who{font-size:12.5px;color:var(--ink-soft);max-width:20ch}
+.title{
+  font-family:"Source Serif 4",Georgia,serif;font-size:16px;font-weight:600;
+  margin:0 0 4px;line-height:1.3;
+}
+.title a{color:var(--ink);text-decoration:none}
+.title a:hover{color:var(--accent-ink);text-decoration:underline}
+.gist{margin:0;color:var(--ink-soft);font-size:13.5px;max-width:64ch;line-height:1.5}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:7px;align-items:center}
+.chip{
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;padding:2px 6px;
+  border:1px solid var(--rule);border-radius:2px;color:var(--muted);white-space:nowrap;
+}
+.chip.fresh{background:var(--add-wash);border-color:var(--add-rule);color:var(--add);font-weight:500}
+.read{font-size:11.5px;padding:3px 9px;border-radius:2px}
+.topic{
+  display:inline-block;font-size:11.5px;padding:3px 9px;border-radius:2px;
+  background:var(--accent-wash);color:var(--accent-ink);font-weight:600;white-space:nowrap;
+}
+.score{
+  width:30px;height:30px;border-radius:3px;display:grid;place-items:center;
+  font-family:"IBM Plex Mono",monospace;font-weight:500;font-size:13.5px;
+  font-variant-numeric:tabular-nums;
+}
+.r1{background:var(--r1);color:var(--on-cold)} .r2{background:var(--r2);color:var(--on-cold)}
+.r3{background:var(--r3);color:var(--on-cold)} .r4{background:var(--r4);color:var(--on-mid)}
+.r5{background:var(--r5);color:var(--on-mid)}  .r6{background:var(--r6);color:var(--on-mid)}
+.r7{background:var(--r7);color:var(--on-mid)}  .r8{background:var(--r8);color:var(--on-warm)}
+.r9{background:var(--r9);color:var(--on-warm)} .r10{background:var(--r10);color:var(--on-warm)}
+.b1{background:var(--r1)} .b2{background:var(--r2)} .b3{background:var(--r3)}
+.b4{background:var(--r4)} .b5{background:var(--r5)} .b6{background:var(--r6)}
+.b7{background:var(--r7)} .b8{background:var(--r8)} .b9{background:var(--r9)}
+.b10{background:var(--r10)}
+.void{padding:52px 20px;text-align:center;color:var(--muted)}
+#more{display:block;margin:16px auto 0}
+
+/* ---- cititorul de act ---- */
+dialog{
+  border:0;padding:0;background:transparent;max-width:880px;
+  width:calc(100% - 30px);color:var(--ink);
+}
+dialog::backdrop{background:rgba(10,13,18,.6)}
+.reader{
+  background:var(--card);border:1px solid var(--rule);border-radius:4px;
+  box-shadow:var(--shadow-lift);max-height:88vh;display:flex;flex-direction:column;
+}
+.reader > header{padding:19px 22px 15px;border-bottom:1px solid var(--rule);position:relative}
+.reader h2{
+  font-family:"Source Serif 4",Georgia,serif;font-size:21px;font-weight:700;
+  margin:0 0 6px;line-height:1.25;padding-right:38px;text-wrap:balance;
+}
+.facts{color:var(--muted);font-size:12.5px;font-family:"IBM Plex Mono",monospace}
+.facts a{color:var(--accent-ink)}
+.shut{
+  position:absolute;top:15px;right:16px;width:30px;height:30px;
+  display:grid;place-items:center;font-size:19px;line-height:1;padding:0;border-radius:3px;
+}
+.scroll{overflow-y:auto;padding:19px 22px 30px}
+
+.key{display:flex;gap:9px;flex-wrap:wrap;margin:0 0 17px;font-size:12px;color:var(--muted);align-items:center}
+.key b{padding:2px 8px;border-radius:2px;font-weight:600;font-size:11.5px}
+.k-add{background:var(--add-wash);color:var(--add);border-left:3px solid var(--add-rule)}
+.k-cut{background:var(--cut-wash);color:var(--cut);border-left:3px solid var(--cut-rule)}
+.k-new{background:var(--new-wash);color:var(--new);border-left:3px solid var(--new-rule)}
+
+.ledger{border:1px solid var(--rule);border-radius:3px;overflow-x:auto;margin-bottom:19px}
+.ledger table{min-width:0;font-size:12.5px}
+.ledger th{position:static;padding:8px 11px;font-size:10px}
+.ledger td{padding:8px 11px;border-bottom:1px solid var(--rule-soft);vertical-align:top}
+.ledger tr:last-child td{border-bottom:0}
+.ledger tr:hover{background:transparent}
+.verb{
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;font-weight:500;
+  padding:2px 7px;border-radius:2px;white-space:nowrap;
+}
+.v-MODIFICA{background:var(--hold-wash);color:var(--hold)}
+.v-ABROGA{background:var(--cut-wash);color:var(--cut)}
+.v-COMPLETEAZA{background:var(--add-wash);color:var(--add)}
+.v-ALTA{background:var(--accent-wash);color:var(--accent-ink)}
+.gone{text-decoration:line-through;text-decoration-color:var(--cut-rule);text-decoration-thickness:2px}
+
+.p{margin:0 0 11px;line-height:1.62}
+.p.art{
+  font-family:"Source Serif 4",Georgia,serif;font-weight:700;font-size:16.5px;
+  margin:22px 0 10px;
+}
+.p.pre{color:var(--muted);font-style:italic}
+.p.sig{color:var(--muted);font-size:12.5px;white-space:pre-line;margin-top:16px}
+.p.mark{padding:10px 13px;border-radius:0 3px 3px 0;margin-bottom:13px}
+.m-add{background:var(--add-wash);border-left:3px solid var(--add-rule)}
+.m-cut{background:var(--cut-wash);border-left:3px solid var(--cut-rule)}
+.m-new{background:var(--new-wash);border-left:3px solid var(--new-rule)}
+.notice{
+  margin:0 0 17px;padding:10px 13px;border-radius:0 3px 3px 0;
+  background:var(--new-wash);border-left:3px solid var(--new-rule);
+  color:var(--new);font-size:13px;
+}
+.notice b{font-weight:600}
+.p .op{
+  display:block;font-family:"IBM Plex Mono",monospace;font-size:10.5px;
+  font-weight:500;letter-spacing:.06em;margin-bottom:6px;
+}
+.m-add .op{color:var(--add)} .m-cut .op{color:var(--cut)} .m-new .op{color:var(--new)}
+
+/* ---- subsol ---- */
+footer{margin-top:34px;padding-top:20px;border-top:1px solid var(--rule);
+  color:var(--muted);font-size:12.5px;line-height:1.75}
+footer a{color:var(--accent-ink)}
+footer h3{
+  font-family:"Source Serif 4",Georgia,serif;font-size:15px;color:var(--ink);
+  margin:0 0 7px;font-weight:600;
+}
+.ramp{display:flex;align-items:center;gap:9px;margin:11px 0 15px;flex-wrap:wrap}
+.ramp .bars{display:flex}
+.ramp i{width:23px;height:13px;display:block}
+.ramp i:first-child{border-radius:2px 0 0 2px}
+.ramp i:last-child{border-radius:0 2px 2px 0}
+.ramp span{font-size:11.5px}
+
+@media (max-width:680px){
+  .wrap{padding:22px 13px 56px}
+  .masthead{align-items:flex-start}
+  .stamp{text-align:left}
+  .filters{grid-template-columns:1fr 1fr}
+  .f.wide{grid-column:1 / -1}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <div>
+      <h1>Radar Legislativ</h1>
+      <p class="tagline">Actele publicate în Monitorul Oficial, catalogate tematic și
+        punctate de la 1 la 10 după cât de mult ating dialogul social și economia socială.</p>
+    </div>
+    <div class="stamp" id="stamp"></div>
+  </header>
+
+  <section class="summary" id="summary"></section>
+
+  <section class="filters">
+    <div class="f wide">
+      <label for="q">Căutare</label>
+      <input id="q" type="search" placeholder="titlu, descriere, emitent, număr…" autocomplete="off">
+    </div>
+    <div class="f">
+      <label for="cat">Categorie</label>
+      <select id="cat"><option value="">Toate</option></select>
+    </div>
+    <div class="f">
+      <label for="min">Relevanță</label>
+      <select id="min">
+        <option value="1">toate</option>
+        <option value="3">3 și peste</option>
+        <option value="5">5 și peste</option>
+        <option value="6">6 și peste</option>
+        <option value="8">8 și peste</option>
+      </select>
+    </div>
+    <div class="f">
+      <label for="who">Emitent</label>
+      <select id="who"><option value="">Toți</option></select>
+    </div>
+    <div class="f">
+      <label for="from">Din data</label>
+      <input id="from" type="date">
+    </div>
+    <div class="f">
+      <label for="to">Până la</label>
+      <input id="to" type="date">
+    </div>
+    <div class="f">
+      <label>&nbsp;</label>
+      <div class="acts">
+        <button id="clear" type="button">Resetează</button>
+        <button id="csv" type="button">CSV</button>
+      </div>
+    </div>
+  </section>
+
+  <div class="tally">
+    <span id="count"></span>
+    <span id="src">sursă: legislatie.just.ro</span>
+  </div>
+
+  <div class="sheet">
+    <table>
+      <thead>
+        <tr>
+          <th aria-hidden="true" style="width:4px;padding:0;cursor:default"></th>
+          <th data-k="data_publicare" tabindex="0">Publicat <span class="dir">▼</span></th>
+          <th data-k="data_vigoare" tabindex="0">În vigoare <span class="dir"></span></th>
+          <th data-k="emitent" tabindex="0">Emitent <span class="dir"></span></th>
+          <th data-k="titlu" tabindex="0" style="min-width:330px">Act <span class="dir"></span></th>
+          <th data-k="categorie" tabindex="0">Categorie <span class="dir"></span></th>
+          <th data-k="scor" tabindex="0">Relev. <span class="dir"></span></th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+  <button id="more" type="button" style="display:none">Încarcă încă 100</button>
+
+  <footer>
+    <h3>Cum se citește relevanța</h3>
+    <div class="ramp">
+      <span class="bars">
+        <i class="b1"></i><i class="b2"></i><i class="b3"></i><i class="b4"></i><i class="b5"></i>
+        <i class="b6"></i><i class="b7"></i><i class="b8"></i><i class="b9"></i><i class="b10"></i>
+      </span>
+      <span><b>1</b> fără legătură &nbsp;→&nbsp; <b>10</b> impact direct asupra dialogului social</span>
+    </div>
+    <p>Scorul se calculează automat dintr-un lexicon de termeni — dialog social, contracte
+    colective, sindicate, patronate, economie socială, muncă, protecție socială — ponderat cu
+    emitentul actului și cu forța lui juridică, din care se scad penalizări pentru zgomotul
+    administrativ (exproprieri, numiri în funcție, erate). Este un instrument de triere,
+    nu o evaluare juridică.</p>
+    <p>Actele cu relevanță ridicată se pot citi integral aici, cu modificările evidențiate.
+    Portalul publică însă doar forma <em>consolidată</em>, fără istoric de versiuni: se vede
+    ce text se adaugă și ce se abrogă, dar nu și forma dinaintea modificării, fiindcă ea nu
+    mai este publicată nicăieri. Sursa oficială rămâne
+    <a href="https://legislatie.just.ro" target="_blank" rel="noopener">legislatie.just.ro</a>.</p>
+  </footer>
+</div>
+
+<dialog id="reader">
+  <div class="reader">
+    <header>
+      <h2 id="r-title"></h2>
+      <div class="facts" id="r-facts"></div>
+      <button class="shut" id="r-shut" type="button" aria-label="Închide">&times;</button>
+    </header>
+    <div class="scroll" id="r-body"></div>
+  </div>
+</dialog>
+
+<script id="payload" type="application/json">__DATE__</script>
+<script>
+(function(){
+"use strict";
+
+const DATA = JSON.parse(document.getElementById('payload').textContent);
+const ACTS = DATA.acts || [];
+const DETAILS = DATA.details || {};
+const STEP = 100;
+
+let view = [], shown = 0, key = 'data_publicare', dir = -1;
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g,
+  c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+const MONTHS = ['ianuarie','februarie','martie','aprilie','mai','iunie','iulie',
+                'august','septembrie','octombrie','noiembrie','decembrie'];
+const longDate = iso => {
+  const p = (iso||'').split('-');
+  return p.length === 3 ? `${+p[2]} ${MONTHS[+p[1]-1]} ${p[0]}` : (iso || '—');
+};
+const shortDate = iso => {
+  const p = (iso||'').split('-');
+  return p.length === 3 ? `${p[2]}.${p[1]}.${p[0]}` : (iso || '—');
+};
+const issuer = a => (a.emitenti && a.emitenti[0]) || '—';
+const docURL = id => 'https://legislatie.just.ro/Public/DetaliiDocument/' + id;
+
+function today(){
+  const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+}
+
+// Descrierea portalului începe cu „privind…" / „pentru…"; o curățăm aici,
+// ca să nu ținem de două ori același text în date.
+function gist(a, limit){
+  limit = limit || 250;
+  let s = (a.descriere || a.titlu || '').replace(/^\s*(privind|pentru|referitor la)\s+/i,'').trim();
+  if(s) s = s[0].toUpperCase() + s.slice(1);
+  if(s.length <= limit) return s;
+  let cut = s.slice(0, limit);
+  const sp = cut.lastIndexOf(' ');
+  if(sp > limit*0.6) cut = cut.slice(0, sp);
+  return cut.replace(/[ ,;:.]+$/,'') + '…';
+}
+
+const isFresh = a => a.first_seen && (Date.now() - Date.parse(a.first_seen + 'T00:00:00Z')) < 36*3600*1000;
+
+/* ---------- antet + rezumat ---------- */
+
+function header(){
+  const gen = DATA.generated_at ? new Date(DATA.generated_at) : null;
+  $('#stamp').innerHTML = gen
+    ? `<b>${esc(gen.toLocaleDateString('ro-RO',{day:'numeric',month:'long',year:'numeric'}))}</b>
+       actualizat ${esc(gen.toLocaleTimeString('ro-RO',{hour:'2-digit',minute:'2-digit'}))}<br>
+       zilnic la 08:00 și 16:00`
+    : '';
+
+  const t = today();
+  const stats = [
+    [ACTS.length, 'acte urmărite'],
+    [ACTS.filter(a => a.data_publicare === t).length, 'publicate azi'],
+    [ACTS.filter(isFresh).length, 'adăugate recent'],
+    [ACTS.filter(a => a.scor >= 6).length, 'relevanță 6+'],
+    [ACTS.filter(a => a.categorie === 'Muncă și dialog social'
+                   || a.categorie === 'Economie socială').length, 'muncă & ec. socială'],
+  ];
+  $('#summary').innerHTML = stats.map(([v,l]) =>
+    `<div class="stat"><b>${v}</b><span>${l}</span></div>`).join('');
+}
+
+function fillFilters(){
+  const cats = [...new Set(ACTS.map(a => a.categorie))].sort((a,b)=>a.localeCompare(b,'ro'));
+  $('#cat').insertAdjacentHTML('beforeend',
+    cats.map(c => `<option>${esc(c)}</option>`).join(''));
+
+  const tally = {};
+  ACTS.forEach(a => (a.emitenti||[]).forEach(e => tally[e] = (tally[e]||0)+1));
+  const list = Object.keys(tally).sort((a,b) => tally[b]-tally[a] || a.localeCompare(b,'ro'));
+  $('#who').insertAdjacentHTML('beforeend',
+    list.map(e => `<option value="${esc(e)}">${esc(e)} (${tally[e]})</option>`).join(''));
+}
+
+/* ---------- tabel ---------- */
+
+function filter(){
+  const q = $('#q').value.trim().toLowerCase();
+  const cat = $('#cat').value, min = +$('#min').value, who = $('#who').value;
+  const from = $('#from').value, to = $('#to').value;
+
+  view = ACTS.filter(a => {
+    if(a.scor < min) return false;
+    if(cat && a.categorie !== cat) return false;
+    if(who && !(a.emitenti||[]).includes(who)) return false;
+    const d = a.data_publicare || '';
+    if(from && d && d < from) return false;
+    if(to && d && d > to) return false;
+    if(q){
+      const hay = [a.titlu, a.descriere, a.numar, a.tip, a.categorie,
+                   (a.emitenti||[]).join(' ')].join(' ').toLowerCase();
+      if(!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  view.sort((x,y) => {
+    let a = key === 'emitent' ? issuer(x) : x[key];
+    let b = key === 'emitent' ? issuer(y) : y[key];
+    a = a == null ? '' : a; b = b == null ? '' : b;
+    if(typeof a === 'number' && typeof b === 'number') return (a-b)*dir;
+    return String(a).localeCompare(String(b),'ro')*dir;
+  });
+
+  shown = 0; $('#rows').innerHTML = ''; paint();
+  $('#count').textContent = `${view.length} ${view.length === 1 ? 'act' : 'acte'} · din ${ACTS.length}`;
+}
+
+function row(a){
+  const fresh = isFresh(a) ? '<span class="chip fresh">NOU</span>' : '';
+  const ref = [a.tip, a.numar && ('nr. ' + a.numar)].filter(Boolean).join(' ');
+  const mo = a.monitor_nr ? `M. Of. ${esc(a.monitor_nr)}` : '';
+  const read = a.are_text
+    ? `<button class="read" type="button" data-view="${esc(a.id)}">Citește actul</button>` : '';
+  return `<tr>
+    <td class="stripe"><i class="b${a.scor}"></i></td>
+    <td class="when"><b>${shortDate(a.data_publicare)}</b>${mo}</td>
+    <td class="when">${shortDate(a.data_vigoare)}</td>
+    <td class="who">${esc(issuer(a))}</td>
+    <td>
+      <p class="title"><a href="${docURL(esc(a.id))}" target="_blank" rel="noopener">${esc(a.titlu)}</a></p>
+      <p class="gist">${esc(gist(a))}</p>
+      <div class="chips">${ref ? `<span class="chip">${esc(ref)}</span>` : ''}${fresh}${read}</div>
+    </td>
+    <td><span class="topic">${esc(a.categorie)}</span></td>
+    <td><span class="score r${a.scor}">${a.scor}</span></td>
+  </tr>`;
+}
+
+function paint(){
+  if(!view.length){
+    $('#rows').innerHTML = '<tr><td colspan="7" class="void">Niciun act nu corespunde filtrelor alese.</td></tr>';
+    $('#more').style.display = 'none';
+    return;
+  }
+  const slice = view.slice(shown, shown + STEP);
+  $('#rows').insertAdjacentHTML('beforeend', slice.map(row).join(''));
+  shown += slice.length;
+  const left = view.length - shown;
+  $('#more').style.display = left > 0 ? 'block' : 'none';
+  $('#more').textContent = `Încarcă încă ${Math.min(STEP, left)}`;
+}
+
+/* ---------- cititorul ---------- */
+
+const TONE  = {abrogat:'m-cut', introdus:'m-add', modificat:'m-add'};
+const VERB  = {abrogat:'ABROGĂ', introdus:'INTRODUCE', modificat:'MODIFICĂ'};
+
+function verbOf(t){
+  const s = (t||'').toUpperCase();
+  if(s.includes('ABROG')) return 'ABROGA';
+  if(s.includes('COMPLET')) return 'COMPLETEAZA';
+  if(s.includes('MODIFIC')) return 'MODIFICA';
+  return 'ALTA';
+}
+
+function ledger(ops){
+  if(!ops || !ops.length) return '';
+  const rows = ops.map(o => {
+    const v = verbOf(o.operatiune);
+    // Ce se abrogă iese din legislație: îl tăiem.
+    const target = v === 'ABROGA'
+      ? `<span class="gone">${esc(o.tinta)}</span>` : esc(o.tinta);
+    const link = o.tinta_id
+      ? ` <a href="${docURL(esc(o.tinta_id))}" target="_blank" rel="noopener">↗</a>` : '';
+    return `<tr><td>${esc(o.sectiune)}</td>
+      <td><span class="verb v-${v}">${esc(o.operatiune)}</span></td>
+      <td>${target}${link}</td></tr>`;
+  }).join('');
+  return `<div class="ledger"><table>
+    <thead><tr><th>Secțiune</th><th>Operațiune</th><th>Act vizat</th></tr></thead>
+    <tbody>${rows}</tbody></table></div>`;
+}
+
+function para(b){
+  const c = b.cls || '';
+  if(c.startsWith('S_ART_TTL') || c.startsWith('S_ANX_TTL'))
+    return `<p class="p art">${esc(b.text)}</p>`;
+  if(c.startsWith('S_HDR')) return `<p class="p pre">${esc(b.text)}</p>`;
+  if(c.startsWith('S_SMN')) return `<p class="p sig">${esc(b.text)}</p>`;
+
+  if(b.op){
+    const tone = TONE[b.op] || 'm-new';
+    if(b.nou){
+      return `<p class="p mark ${tone}"><span class="op">${esc(b.prefix || VERB[b.op])}</span>${esc(b.nou)}</p>`;
+    }
+    const body = b.op === 'abrogat' ? `<span class="gone">${esc(b.text)}</span>` : esc(b.text);
+    return `<p class="p mark ${tone}"><span class="op">${VERB[b.op]}</span>${body}</p>`;
+  }
+  // Într-un act integral nou nu colorăm fiecare paragraf: dacă totul e
+  // evidențiat, evidențierea nu mai spune nimic. Faptul se anunță o dată, sus.
+  return `<p class="p">${esc(b.text)}</p>`;
+}
+
+function legend(d){
+  if(d.act_nou){
+    return `<p class="notice"><b>Act nou.</b> Nu modifică și nu abrogă alt act —
+      întregul text de mai jos este reglementare nouă.</p>`;
+  }
+  return `<div class="key">
+    <b class="k-add">verde</b> text adăugat sau formă nouă
+    <b class="k-cut">roșu tăiat</b> dispoziții abrogate</div>`;
+}
+
+function open(id){
+  const d = DETAILS[id];
+  const meta = ACTS.find(a => a.id === id) || {};
+  const dlg = $('#reader');
+  if(!d){
+    $('#r-title').textContent = meta.titlu || 'Act';
+    $('#r-facts').innerHTML = `<a href="${docURL(esc(id))}" target="_blank" rel="noopener">vezi pe portal ↗</a>`;
+    $('#r-body').innerHTML = '<p class="void">Textul integral nu este inclus pentru acest act.</p>';
+    if(!dlg.open) dlg.showModal();
+    return;
+  }
+
+  $('#r-title').textContent = d.titlu || meta.titlu || 'Act';
+  const emit = (d.emitenti && d.emitenti.length ? d.emitenti : (meta.emitenti||[])).join(', ');
+  const mo   = d.monitor_nr || meta.monitor_nr;
+  const pub  = d.data_publicare || meta.data_publicare;
+  const viv  = d.data_vigoare || meta.data_vigoare;
+  const facts = [emit, mo ? `M. Of. ${mo}` : '',
+                 pub ? `publicat ${longDate(pub)}` : '',
+                 viv ? `în vigoare ${longDate(viv)}` : ''].filter(Boolean).join(' · ');
+  $('#r-facts').innerHTML = esc(facts) +
+    ` · <a href="${docURL(esc(id))}" target="_blank" rel="noopener">vezi pe portal ↗</a>`;
+
+  $('#r-body').innerHTML = legend(d) + ledger(d.operatiuni) +
+    (d.blocuri||[]).map(b => para(b)).join('');
+  if(!dlg.open) dlg.showModal();
+  $('#r-body').scrollTop = 0;
+}
+
+/* ---------- CSV ---------- */
+
+function csvText(){
+  const head = ['Data publicarii','Data intrarii in vigoare','Emitent','Tip','Numar',
+                'Titlu','Descriere','Categorie','Relevanta','Monitorul Oficial','Link'];
+  const cell = v => '"' + String(v == null ? '' : v).replace(/"/g,'""') + '"';
+  const lines = [head.map(cell).join(',')];
+  view.forEach(a => lines.push([
+    a.data_publicare, a.data_vigoare, (a.emitenti||[]).join('; '), a.tip, a.numar,
+    a.titlu, gist(a, 1e9), a.categorie, a.scor, a.monitor_nr, docURL(a.id)
+  ].map(cell).join(',')));
+  return '\ufeff' + lines.join('\r\n');
+}
+
+// Pagina nu poate descărca singură un fișier: saveul trece prin capabilitatea
+// „downloads", iar cititorul confirmă. Dacă nu e disponibilă, ascundem butonul.
+let saver = null;
+
+async function initSaver(){
+  const btn = $('#csv');
+  btn.style.display = 'none';
+  try{
+    saver = await claude.use('downloads');
+  }catch(e){ saver = null; }
+  if(saver) btn.style.display = '';
+}
+
+async function exportCSV(){
+  if(!saver) return;
+  const btn = $('#csv');
+  const label = btn.textContent;
+  const body = csvText();
+  const stem = `radar-legislativ-${today()}`;
+  const say = t => { btn.textContent = t; setTimeout(() => btn.textContent = label, 2200); };
+
+  try{
+    await saver.save({filename: stem + '.csv', data: body});
+    say('Salvat');
+  }catch(err){
+    const code = err && err.code;
+    if(code === 'declined') return;                 // cititorul a refuzat
+    if(code === 'extension_not_enabled'){
+      // .csv nu e permis în acest context; .txt e în setul de bază.
+      try{
+        await saver.save({filename: stem + '.txt', data: body});
+        say('Salvat ca .txt');
+      }catch(e2){
+        if(e2 && e2.code !== 'declined') say('Nu s-a putut salva');
+      }
+      return;
+    }
+    if(code === 'rate_limited'){ say('Reîncearcă imediat'); return; }
+    say('Nu s-a putut salva');
+  }
+}
+
+/* ---------- legături ---------- */
+
+function wire(){
+  ['#q','#cat','#min','#who','#from','#to'].forEach(sel =>
+    $(sel).addEventListener(sel === '#q' ? 'input' : 'change', filter));
+
+  $('#clear').addEventListener('click', () => {
+    ['#q','#from','#to'].forEach(s => $(s).value = '');
+    $('#cat').value = ''; $('#who').value = ''; $('#min').value = '1';
+    filter();
+  });
+  $('#csv').addEventListener('click', exportCSV);
+  $('#more').addEventListener('click', paint);
+
+  const dlg = $('#reader');
+  $('#r-shut').addEventListener('click', () => dlg.close());
+  dlg.addEventListener('click', e => { if(e.target === dlg) dlg.close(); });
+  document.addEventListener('click', e => {
+    const b = e.target.closest('[data-view]');
+    if(b) open(b.dataset.view);
+  });
+
+  document.querySelectorAll('thead th[data-k]').forEach(th => {
+    const sort = () => {
+      const k = th.dataset.k;
+      if(k === key){ dir *= -1; }
+      else { key = k; dir = (k === 'scor' || k.startsWith('data')) ? -1 : 1; }
+      document.querySelectorAll('thead th .dir').forEach(s => s.textContent = '');
+      th.querySelector('.dir').textContent = dir === -1 ? '▼' : '▲';
+      filter();
+    };
+    th.addEventListener('click', sort);
+    th.addEventListener('keydown', e => {
+      if(e.key === 'Enter' || e.key === ' '){ e.preventDefault(); sort(); }
+    });
+  });
+}
+
+header(); fillFilters(); wire(); filter(); initSaver();
+})();
+</script>
