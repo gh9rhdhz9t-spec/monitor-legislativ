@@ -66,3 +66,47 @@ Cele mai relevante acte din aceasta rulare:
   [8] Protecție socială și pensii — ORDIN nr. 197 din 12 august 2026
   [8] Fiscalitate și buget — ORDIN nr. 685 din 29 mai 2026
 [2026-08-25 17:49:09] Publicat: 182 acte noi, 282 în total.
+[2026-08-25 17:59:21] Republic artefactul…
+```bash
+bash /Users/radustochita/monitor-legislativ/scripts/republish.sh
+```
+
+Acesta pornește o sesiune `claude -p` separată cu `--allowed-tools Artifact` și publică fișierul la aceeași adresă: `https://claude.ai/code/artifact/e6c1fd26-5c03-4c23-97c7-4ed78eb439bc`.
+[2026-08-25 17:59:38] Artefact republicat.
+[2026-08-25 18:00:08] ── pornesc actualizarea ──
+Baza existenta: 282 acte
+→ pagina 1/6
+  · sesiune initializata (1 cookie-uri)
+  50 acte (total unic: 50)
+→ pagina 2/6
+  50 acte (total unic: 100)
+→ pagina 3/6
+  50 acte (total unic: 150)
+→ pagina 4/6
+  50 acte (total unic: 200)
+→ pagina 5/6
+  46 acte (total unic: 246)
+→ pagina 6/6
+  50 acte (total unic: 296)
+
+Text integral: 8 de descarcat (0 in coada)
+  · sesiune initializata (1 cookie-uri)
+  ✓ ORDIN 4465
+  ✓ DECIZIE 40
+  ✓ ORDIN 4622
+  ✓ ORDIN 1388
+  ✓ ORDIN 1034
+  ✓ LEGE 169
+  ✓ HOTARARE 605
+  ✓ ORDIN 1027
+Text integral disponibil pentru 51 acte (0 fisiere eliminate)
+
+300 acte in baza (18 noi, 0 eliminate prin retentie)
+
+Cele mai relevante acte din aceasta rulare:
+  [8] Muncă și dialog social — DECIZIA nr. 77 din 22 iunie 2026
+  [8] Protecție socială și pensii — ANEXE din 12 august 2026
+  [8] Protecție socială și pensii — ORDIN nr. 197 din 12 august 2026
+  [8] Fiscalitate și buget — ORDIN nr. 685 din 29 mai 2026
+  [8] Muncă și dialog social — DECIZIA nr. 40 din 9 martie 2026
+dist/radar-legislativ.html — 300 acte, 51 cu text integral, 0.78 MB

@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-08-25T14:47:37+00:00",
+ "generated_at": "2026-08-25T15:00:08+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 282,
- "new_this_run": 182,
+ "total": 300,
+ "new_this_run": 18,
  "pages_scanned": 6,
  "categories": {
   "Fiscalitate și buget": 40,
   "Transporturi și infrastructură": 27,
-  "Muncă și dialog social": 6,
+  "Muncă și dialog social": 7,
   "Agricultură și dezvoltare rurală": 46,
-  "Economie, IMM și comerț": 31,
+  "Economie, IMM și comerț": 39,
   "Justiție și afaceri interne": 31,
   "Altele": 13,
-  "Administrație publică": 25,
-  "Educație și cercetare": 34,
-  "Sănătate": 6,
+  "Administrație publică": 27,
+  "Educație și cercetare": 38,
+  "Sănătate": 8,
   "Afaceri externe și UE": 2,
-  "Energie și mediu": 10,
+  "Energie și mediu": 11,
   "Protecție socială și pensii": 6,
   "Apărare și securitate națională": 2,
   "Cultură, culte și sport": 2,
@@ -3345,6 +3345,92 @@
    "are_text": false
   },
   {
+   "id": "313418",
+   "tip": "ORDIN",
+   "numar": "4548",
+   "data_act": "2026-07-27",
+   "titlu": "ORDIN nr. 4.548 din 27 iulie 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Liceul Creştin LOGOS Satu Mare din judeţul Satu Mare",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "674",
+   "data_publicare": "2026-08-14",
+   "data_vigoare": "2026-08-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
+   "id": "313417",
+   "tip": "ORDIN",
+   "numar": "4507",
+   "data_act": "2026-07-22",
+   "titlu": "ORDIN nr. 4.507 din 22 iulie 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Inspira International School din municipiul Craiova, judeţul Dolj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "674",
+   "data_publicare": "2026-08-14",
+   "data_vigoare": "2026-08-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
+   "id": "313416",
+   "tip": "ORDIN",
+   "numar": "4465",
+   "data_act": "2026-07-21",
+   "titlu": "ORDIN nr. 4.465 din 21 iulie 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Grădiniţa cu program normal şi prelungit \"Ruffy Strumfi\" din municipiul Bucureşti, sectorul 1",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "674",
+   "data_publicare": "2026-08-14",
+   "data_vigoare": "2026-08-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-25",
+   "are_text": true
+  },
+  {
+   "id": "313415",
+   "tip": "ORDIN",
+   "numar": "1259",
+   "data_act": "2026-08-11",
+   "titlu": "ORDIN nr. 1.259 din 11 august 2026",
+   "descriere": "pentru modificarea şi completarea Schemei de ajutor de minimis pentru operatorii economici în vederea modernizării şi dezvoltării staţiunilor balneare şi balneoclimatice, aprobată prin Ordinul ministrului economiei, antreprenoriatului şi turismului nr. 181/2023",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "674",
+   "data_publicare": "2026-08-14",
+   "data_vigoare": "2026-08-14",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
    "id": "313414",
    "tip": "ORDIN",
    "numar": "1635",
@@ -4093,6 +4179,66 @@
    "are_text": false
   },
   {
+   "id": "313561",
+   "tip": "PRESCRIPTII",
+   "numar": "",
+   "data_act": "2026-07-24",
+   "titlu": "PRESCRIPŢIE TEHNICĂ PT C 15-2025 din 24 iulie 2026",
+   "descriere": "Instalaţii de alimentare cu hidrogen",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "667",
+   "data_publicare": "2026-08-12",
+   "data_vigoare": "2026-08-12",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
+   "id": "313560",
+   "tip": "PRESCRIPTII",
+   "numar": "",
+   "data_act": "2026-07-24",
+   "titlu": "PRESCRIPŢIE TEHNICĂ PT CR 8-2025 din 24 iulie 2026",
+   "descriere": "privind autorizarea personalului de deservire a instalaţiilor/echipamentelor şi acceptarea personalului auxiliar de deservire",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "667",
+   "data_publicare": "2026-08-12",
+   "data_vigoare": "2026-08-12",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
+   "id": "313559",
+   "tip": "PRESCRIPTII",
+   "numar": "",
+   "data_act": "2026-07-24",
+   "titlu": "PRESCRIPŢIE TEHNICĂ PT CR 4-2025 din 24 iulie 2026",
+   "descriere": "Autorizarea persoanelor juridice pentru efectuarea de activităţi la instalaţii/echipamente din domeniul reglementat de către ISCIR",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "667",
+   "data_publicare": "2026-08-12",
+   "data_vigoare": "2026-08-12",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
    "id": "313491",
    "tip": "PRESCRIPTII",
    "numar": "",
@@ -4347,6 +4493,26 @@
    "termeni": [
     "ministerul educatiei"
    ],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
+   "id": "313367",
+   "tip": "ORDIN",
+   "numar": "1174",
+   "data_act": "2026-07-24",
+   "titlu": "ORDIN nr. 1.174 din 24 iulie 2026",
+   "descriere": "pentru aprobarea Prescripţiei tehnice PT C 15-2025 \"Instalaţii de alimentare cu hidrogen\"",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "667",
+   "data_publicare": "2026-08-12",
+   "data_vigoare": "2026-08-12",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
    "first_seen": "2026-08-25",
    "are_text": false
   },
@@ -5279,6 +5445,154 @@
    "are_text": false
   },
   {
+   "id": "313356",
+   "tip": "CUANTUM",
+   "numar": "TOTAL",
+   "data_act": "2026-08-11",
+   "titlu": "CUANTUM TOTAL din 11 august 2026",
+   "descriere": "publicat în temeiul Legii nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+   "emitenti": [
+    "Partide Politice"
+   ],
+   "monitor_nr": "665",
+   "data_publicare": "2026-08-11",
+   "data_vigoare": "2026-08-11",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
+   "id": "313355",
+   "tip": "CUANTUM",
+   "numar": "TOTAL",
+   "data_act": "2026-08-11",
+   "titlu": "CUANTUM TOTAL din 11 august 2026",
+   "descriere": "publicat în temeiul Legii nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+   "emitenti": [
+    "Partide Politice"
+   ],
+   "monitor_nr": "665",
+   "data_publicare": "2026-08-11",
+   "data_vigoare": "2026-08-11",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
+   "id": "313354",
+   "tip": "DECIZIE",
+   "numar": "40",
+   "data_act": "2026-03-09",
+   "titlu": "DECIZIA nr. 40 din 9 martie 2026",
+   "descriere": "referitoare la art. 268 alin. (1) lit. c) raportat la prevederile art. 146 alin. (2) şi (3) din Legea nr. 53/2003 - Codul muncii , republicată, cu modificările şi completările ulterioare",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "665",
+   "data_publicare": "2026-08-11",
+   "data_vigoare": "2026-08-11",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 8,
+   "termeni": [
+    "codul muncii"
+   ],
+   "first_seen": "2026-08-25",
+   "are_text": true
+  },
+  {
+   "id": "313353",
+   "tip": "ORDIN",
+   "numar": "797",
+   "data_act": "2026-07-31",
+   "titlu": "ORDIN nr. 797 din 31 iulie 2026",
+   "descriere": "pentru aprobarea constituirii echipelor de verificare şi control al etichetei energetice",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "665",
+   "data_publicare": "2026-08-11",
+   "data_vigoare": "2026-08-11",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
+   "id": "313352",
+   "tip": "ORDIN",
+   "numar": "4622",
+   "data_act": "2026-08-06",
+   "titlu": "ORDIN nr. 4.622 din 6 august 2026",
+   "descriere": "privind aprobarea calendarului pentru organizarea şi desfăşurarea concursului pentru ocuparea funcţiilor vacante de director şi director adjunct din unităţile de învăţământ preuniversitar de stat, sesiunea august-decembrie 2026, şi pentru aprobarea bibliografiei pentru susţinerea probei scrise din cadrul concursului",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "664",
+   "data_publicare": "2026-08-11",
+   "data_vigoare": "2026-08-11",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-25",
+   "are_text": true
+  },
+  {
+   "id": "313351",
+   "tip": "ORDIN",
+   "numar": "1388",
+   "data_act": "2026-07-30",
+   "titlu": "ORDIN nr. 1.388 din 30 iulie 2026",
+   "descriere": "privind modificarea şi completarea anexei nr. 2 la Ordinul ministrului sănătăţii şi al preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale şi a preţurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naţionale de sănătate şi a metodologiei de calcul al acestora",
+   "emitenti": [
+    "Casa Națională de Asigurări de Sănătate"
+   ],
+   "monitor_nr": "664",
+   "data_publicare": "2026-08-11",
+   "data_vigoare": "2026-08-11",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "casa nationala de asigurari de sanatate"
+   ],
+   "first_seen": "2026-08-25",
+   "are_text": true
+  },
+  {
+   "id": "313350",
+   "tip": "ORDIN",
+   "numar": "1034",
+   "data_act": "2026-08-07",
+   "titlu": "ORDIN nr. 1.034 din 7 august 2026",
+   "descriere": "privind modificarea şi completarea anexei nr. 2 la Ordinul ministrului sănătăţii şi al preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale şi a preţurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naţionale de sănătate şi a metodologiei de calcul al acestora",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "664",
+   "data_publicare": "2026-08-11",
+   "data_vigoare": "2026-08-11",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-08-25",
+   "are_text": true
+  },
+  {
    "id": "313349",
    "tip": "ORDIN",
    "numar": "224",
@@ -5535,6 +5849,68 @@
    "are_text": true
   },
   {
+   "id": "313335",
+   "tip": "ORDIN",
+   "numar": "988",
+   "data_act": "2026-06-24",
+   "titlu": "ORDIN nr. 988 din 24 iunie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Telegondola Mamaia - S.R.L., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "663",
+   "data_publicare": "2026-08-11",
+   "data_vigoare": "2026-08-11",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
+   "id": "313334",
+   "tip": "AMENDAMENT",
+   "numar": "1",
+   "data_act": "2026-07-02",
+   "titlu": "AMENDAMENT nr. 1 din 2 iulie 2026",
+   "descriere": "la Contractul de finanţare dintre Guvernul României, reprezentat de Ministerul Investiţiilor şi Proiectelor Europene, şi Banca Europeană de Investiţii privind Fondul de Fonduri pentru digitalizare, acţiune climatică şi alte domenii de interes, finanţat din Planul naţional de redresare şi rezilienţă al României, semnat la Bucureşti la 31 martie 2022",
+   "emitenti": [
+    "Act Internațional"
+   ],
+   "monitor_nr": "663",
+   "data_publicare": "2026-08-11",
+   "data_vigoare": "2026-08-11",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
+   "id": "313333",
+   "tip": "HOTARARE",
+   "numar": "584",
+   "data_act": "2026-08-06",
+   "titlu": "HOTĂRÂRE nr. 584 din 6 august 2026",
+   "descriere": "pentru aprobarea Amendamentului nr. 1 semnat la Bucureşti la 2 iulie 2026 la Contractul de finanţare dintre Guvernul României, reprezentat de Ministerul Investiţiilor şi Proiectelor Europene, şi Banca Europeană de Investiţii privind Fondul de Fonduri pentru digitalizare, acţiune climatică şi alte domenii de interes, finanţat din Planul naţional de redresare şi rezilienţă al României, semnat la Bucureşti la 31 martie 2022",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "663",
+   "data_publicare": "2026-08-11",
+   "data_vigoare": "2026-08-11",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
    "id": "313330",
    "tip": "DECRET",
    "numar": "720",
@@ -5596,7 +5972,7 @@
     "parlamentul"
    ],
    "first_seen": "2026-08-25",
-   "are_text": false
+   "are_text": true
   },
   {
    "id": "313327",
@@ -5639,7 +6015,7 @@
     "guvernul"
    ],
    "first_seen": "2026-08-25",
-   "are_text": false
+   "are_text": true
   },
   {
    "id": "313325",
@@ -5749,7 +6125,7 @@
     "ministerul sanatatii"
    ],
    "first_seen": "2026-08-25",
-   "are_text": false
+   "are_text": true
   },
   {
    "id": "313320",
