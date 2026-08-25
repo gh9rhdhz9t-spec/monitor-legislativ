@@ -69,9 +69,24 @@ decât absența lui.
 
 ## Actualizare automată
 
-Dashboard-ul trăiește ca **Artifact** pe claude.ai, nu ca site static. O rutină
-programată rulează `scripts/run-update.sh` la **08:00** și **16:00** ora
-României, apoi republică artefactul la aceeași adresă.
+Dashboard-ul trăiește ca **Artifact** pe claude.ai, nu ca site static.
+Actualizarea are două jumătăți, fiindcă niciuna nu poate face singură tot:
+
+| Când (ora României) | Unde | Ce face |
+|---|---|---|
+| 08:00 și 16:00 | Mac-ul local (launchd) | colectează, reconstruiește pagina, o urcă pe GitHub |
+| 09:20 și 17:20 | rutină în cloud | preia pagina din repo și republică artefactul |
+
+Împărțirea nu e o preferință, ci suma a două constrângeri:
+
+- **colectarea nu poate rula în cloud** — portalul refuză conexiunile din centre
+  de date (detalii mai jos);
+- **republicarea nu poate rula local** — unealta `Artifact` nu există în
+  `claude -p`, CLI-ul fără interfață; există doar în sesiunile din cloud.
+
+Așa că fiecare jumătate rulează unde chiar poate rula, iar repo-ul public
+le leagă. Decalajul de ~80 de minute lasă timp și memoriei CDN a GitHub
+(care ține fișierele raw câteva minute) să se împrospăteze.
 
 Artefactele rulează sub un CSP strict, care nu permite cereri către fișiere
 alăturate, așa că `scripts/build_artifact.py` lipește datele direct în pagină:
@@ -95,7 +110,8 @@ la ~16 KB per act, arhivarea întregului Monitor Oficial ar depăși 350 MB pe a
 ## Rulare locală
 
 ```bash
-bash scripts/run-update.sh         # colectare + reconstruirea artefactului
+bash scripts/run-update.sh         # colectare + reconstruirea paginii
+bash scripts/scheduled-run.sh      # exact ce rulează launchd
 ```
 
 ```bash
@@ -121,7 +137,8 @@ concepte și potrivirea pe rădăcină se aplică automat cheilor noi. Scrie che
 ```
 scripts/artifact_template.html  pagina în sine (tabel, filtre, cititor de act)
 scripts/build_artifact.py       lipește datele în pagină -> dist/
-scripts/run-update.sh           rulare completă, apelată de rutină
+scripts/run-update.sh           colectare + build + push
+scripts/scheduled-run.sh        ce pornește launchd, de două ori pe zi
 data/acts.json        baza cumulativă de acte (index)
 data/acts/<id>.json   textul integral + operațiunile, încărcat la cerere
 scripts/scrape.py     colectare, parsare, clasificare, scorare

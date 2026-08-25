@@ -1,9 +1,12 @@
 #!/bin/bash
-# Rularea programată: colectează, reconstruiește, republică.
+# Rularea programată: colectează, reconstruiește, publică pe GitHub.
 #
 # Pornit de launchd la 08:00 și 16:00. launchd folosește ora locală a
-# sistemului, deci trecerea la ora de vară se rezolvă de la sine — spre
-# deosebire de cron-ul GitHub, care merge doar pe UTC.
+# sistemului, deci trecerea la ora de vară se rezolvă de la sine.
+#
+# Republicarea artefactului NU se face aici: unealta Artifact nu există în
+# `claude -p` (CLI-ul fără interfață). O rutină în cloud preia fișierul
+# construit de aici, din repo, și îl republică la 09:20 și 17:20 ora României.
 
 set -uo pipefail
 
@@ -21,9 +24,9 @@ STATUS=$?
 
 RC=0
 case $STATUS in
-  0) bash scripts/republish.sh || RC=$? ;;
+  0) say "Date noi publicate pe GitHub; rutina din cloud le va prelua." ;;
   2) say "Nimic nou — artefactul rămâne cum e." ;;
-  *) say "Colectarea a eșuat (cod $STATUS) — nu republic."; RC=$STATUS ;;
+  *) say "Colectarea a eșuat (cod $STATUS)."; RC=$STATUS ;;
 esac
 
 # Ținem jurnalul la o dimensiune rezonabilă.
