@@ -1,0 +1,36 @@
+name: Publică dashboard-ul
+
+# Portalul legislatie.just.ro refuză conexiunile venite din centrele de date
+# (inclusiv runnerele GitHub): handshake-ul TLS reușește, dar serverul închide
+# conexiunea fără să răspundă. Colectarea rulează de aceea pe o mașină cu IP
+# din România — vezi scripts/run-update.sh și rutina programată — iar aici
+# doar publicăm ce a fost adus.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - id: deployment
+        uses: actions/deploy-pages@v4

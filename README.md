@@ -69,11 +69,17 @@ decât absența lui.
 
 ## Actualizare automată
 
-`.github/workflows/update.yml` rulează zilnic la **08:00** și **16:00**, ora României.
+Colectarea rulează **local**, la **08:00** și **16:00** ora României, prin
+`scripts/run-update.sh`; publicarea pe GitHub Pages se face automat la fiecare
+push, prin `.github/workflows/deploy.yml`.
 
-GitHub Actions acceptă cron doar în UTC, iar România schimbă ora de două ori pe an,
-deci workflow-ul pornește la 05:00, 06:00, 13:00 și 14:00 UTC, iar un pas de
-verificare oprește rulările care nu cad exact la ora locală dorită.
+> **De ce nu rulează colectarea pe GitHub Actions?**
+> Portalul `legislatie.just.ro` refuză conexiunile venite din centre de date.
+> De pe un runner GitHub, DNS-ul rezolvă și handshake-ul TLS reușește, dar
+> serverul închide conexiunea fără să trimită vreun răspuns (curl iese cu 92 la
+> HTTP/2 și 52 la HTTP/1.1, identic pentru Python). De pe o conexiune din
+> România totul funcționează normal, așa că partea de colectare stă pe mașina
+> locală, iar GitHub se ocupă doar de publicare.
 
 Fiecare rulare scanează primele 6 pagini de rezultate (300 de acte), le adaugă în
 `data/acts.json` (bază cumulativă, cheia = id-ul documentului de pe portal),
