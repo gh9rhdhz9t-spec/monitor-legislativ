@@ -26,7 +26,9 @@ import urllib.parse
 import urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from scrape import BASE, UA, clean, fetch, fold  # noqa: E402
+from scrape import (  # noqa: E402
+    BASE, UA, BROWSER_HEADERS, _OPENER, _decode, _warm_up, clean, fetch, fold,
+)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ACTS_DIR = os.path.join(ROOT, "data", "acts")
@@ -61,7 +63,7 @@ def strip_tags(x: str) -> str:
 
 def fetch_blocks(doc_id: str):
     """Descarca pagina de detaliu si o reduce la o lista de blocuri de text."""
-    page = fetch(DETAIL_URL % doc_id)
+    page = fetch(DETAIL_URL % doc_id, referer=BASE + "/Public/RezultateCautare")
     # Textul actului incepe la titlul marcat S_DEN; tot ce e inainte (meniu,
     # cuprins, butonul "Forma printabila") repeta continutul sau e navigatie.
     m = re.search(r'<[a-z]+[^>]*class="[^"]*\bS_DEN\b[^"]*"', page)
@@ -90,13 +92,19 @@ def fetch_blocks(doc_id: str):
 def fetch_operations(doc_id: str):
     """Tabelul 'Actiuni induse': ce act si ce element modifica actul curent."""
     try:
+        _warm_up()          # aceeasi sesiune ca restul cererilor
         data = urllib.parse.urlencode({"contor": doc_id}).encode()
-        req = urllib.request.Request(INDUSE_URL, data=data, headers={
-            "User-Agent": UA, "X-Requested-With": "XMLHttpRequest",
-            "Accept": "application/json, text/javascript, */*; q=0.01",
-        })
-        with urllib.request.urlopen(req, timeout=45) as r:
-            payload = json.loads(r.read().decode("utf-8", errors="replace"))
+        req = urllib.request.Request(INDUSE_URL, data=data)
+        for k, v in BROWSER_HEADERS:
+            if k not in ("Accept", "Sec-Fetch-Dest", "Sec-Fetch-Mode", "Sec-Fetch-User"):
+                req.add_header(k, v)
+        req.add_header("Accept", "application/json, text/javascript, */*; q=0.01")
+        req.add_header("X-Requested-With", "XMLHttpRequest")
+        req.add_header("Sec-Fetch-Dest", "empty")
+        req.add_header("Sec-Fetch-Mode", "cors")
+        req.add_header("Referer", DETAIL_URL % doc_id)
+        with _OPENER.open(req, timeout=45) as r:
+            payload = json.loads(_decode(r))
     except Exception as e:                      # noqa: BLE001 - orice esec = fara operatiuni
         print("    ! actiuniInduse %s: %s" % (doc_id, e), file=sys.stderr)
         return []

@@ -10,7 +10,10 @@ cheia = id-ul documentului de pe portal).
 
 from __future__ import annotations
 
+import gzip
 import html
+import http.cookiejar
+import io as _io
 import json
 import os
 import re
@@ -19,6 +22,7 @@ import time
 import unicodedata
 import urllib.error
 import urllib.request
+import zlib
 from datetime import datetime, timezone, timedelta
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -107,23 +111,81 @@ def parse_ro_date(s: str):
 # Retea
 # --------------------------------------------------------------------------
 
-def fetch(url: str, tries: int = 4) -> str:
+# Portalul refuza cererile care nu arata a browser real: raspunde cu
+# "Remote end closed connection" cand lipsesc cookie-urile de sesiune sau
+# antetele obisnuite. Folosim un opener cu cookie jar, pornit printr-o vizita
+# pe pagina principala, exact ca un vizitator obisnuit.
+_COOKIES = http.cookiejar.CookieJar()
+_OPENER = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(_COOKIES))
+_WARMED = False
+
+BROWSER_HEADERS = [
+    ("User-Agent", UA),
+    ("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,"
+               "image/webp,*/*;q=0.8"),
+    ("Accept-Language", "ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7"),
+    ("Accept-Encoding", "gzip, deflate"),
+    ("Connection", "keep-alive"),
+    ("Upgrade-Insecure-Requests", "1"),
+    ("Sec-Fetch-Dest", "document"),
+    ("Sec-Fetch-Mode", "navigate"),
+    ("Sec-Fetch-Site", "same-origin"),
+    ("Sec-Fetch-User", "?1"),
+]
+
+
+def _decode(resp) -> str:
+    raw = resp.read()
+    enc = (resp.headers.get("Content-Encoding") or "").lower()
+    if "gzip" in enc:
+        raw = gzip.GzipFile(fileobj=_io.BytesIO(raw)).read()
+    elif "deflate" in enc:
+        try:
+            raw = zlib.decompress(raw)
+        except zlib.error:
+            raw = zlib.decompress(raw, -zlib.MAX_WBITS)
+    return raw.decode("utf-8", errors="replace")
+
+
+def _warm_up():
+    """Ia cookie-urile de sesiune de pe pagina principala."""
+    global _WARMED
+    if _WARMED:
+        return
+    try:
+        req = urllib.request.Request(BASE + "/")
+        for k, v in BROWSER_HEADERS:
+            req.add_header(k, v)
+        with _OPENER.open(req, timeout=60) as r:
+            _decode(r)
+        _WARMED = True
+        print("  · sesiune initializata (%d cookie-uri)" % len(_COOKIES))
+    except Exception as e:                      # noqa: BLE001
+        print("  ! nu am putut initializa sesiunea: %s" % e, file=sys.stderr)
+
+
+def fetch(url: str, tries: int = 5, referer: str = None) -> str:
+    _warm_up()
     last = None
     for attempt in range(tries):
         try:
-            req = urllib.request.Request(url, headers={
-                "User-Agent": UA,
-                "Accept": "text/html,application/xhtml+xml",
-                "Accept-Language": "ro-RO,ro;q=0.9,en;q=0.8",
-            })
-            with urllib.request.urlopen(req, timeout=60) as r:
-                return r.read().decode("utf-8", errors="replace")
-        except (urllib.error.URLError, OSError) as e:
+            req = urllib.request.Request(url)
+            for k, v in BROWSER_HEADERS:
+                req.add_header(k, v)
+            req.add_header("Referer", referer or (BASE + "/"))
+            with _OPENER.open(req, timeout=60) as r:
+                return _decode(r)
+        except (urllib.error.URLError, OSError, EOFError) as e:
             last = e
-            wait = 3 * (attempt + 1)
+            wait = min(60, 5 * (2 ** attempt))     # 5, 10, 20, 40, 60
             print("  ! %s (incercarea %d/%d), reincerc in %ds"
                   % (e, attempt + 1, tries, wait), file=sys.stderr)
             time.sleep(wait)
+            if attempt == 1:                       # a doua ratare: reia sesiunea
+                global _WARMED
+                _WARMED = False
+                _COOKIES.clear()
+                _warm_up()
     raise RuntimeError("Nu am putut descarca %s: %s" % (url, last))
 
 
