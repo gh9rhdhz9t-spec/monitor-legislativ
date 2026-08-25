@@ -140,3 +140,11 @@ Cele mai relevante acte din aceasta rulare:
   [8] Fiscalitate și buget — ORDIN nr. 685 din 29 mai 2026
   [8] Muncă și dialog social — DECIZIA nr. 40 din 9 martie 2026
 dist/radar-legislativ.html — 300 acte, 51 cu text integral, 0.78 MB
+[2026-08-25 18:01:26] Gata: 0 acte noi, 300 în total. Artefactul poate fi republicat.
+[2026-08-25 18:01:26] Republic artefactul…
+Pași alternativi pe care îi poți face:
+1. Deschide artefactul existent la adresa `https://claude.ai/code/artifact/e6c1fd26-5c03-4c23-97c7-4ed78eb439bc`
+2. Apasă butonul **Republish** / **Publish** din interfața artefactului
+
+Sau, dacă vrei, pot genera artefactul direct în această conversație citind fișierul `dist/radar-legislativ.html` și publicându-l ca artefact nou — dar asta înseamnă un URL nou, nu același.
+[2026-08-25 18:02:00] Artefact republicat.
