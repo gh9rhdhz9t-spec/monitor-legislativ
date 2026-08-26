@@ -1,28 +1,516 @@
 {
- "generated_at": "2026-08-25T15:06:58+00:00",
+ "generated_at": "2026-08-26T06:50:09+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 300,
- "new_this_run": 0,
- "pages_scanned": 3,
+ "total": 323,
+ "new_this_run": 23,
+ "pages_scanned": 6,
  "categories": {
-  "Fiscalitate și buget": 40,
-  "Transporturi și infrastructură": 27,
+  "Fiscalitate și buget": 41,
+  "Administrație publică": 33,
+  "Sănătate": 9,
+  "Altele": 15,
+  "Transporturi și infrastructură": 30,
+  "Energie și mediu": 13,
+  "Agricultură și dezvoltare rurală": 48,
+  "Educație și cercetare": 43,
+  "Cultură, culte și sport": 3,
   "Muncă și dialog social": 7,
-  "Agricultură și dezvoltare rurală": 46,
   "Economie, IMM și comerț": 39,
   "Justiție și afaceri interne": 31,
-  "Altele": 13,
-  "Administrație publică": 27,
-  "Educație și cercetare": 38,
-  "Sănătate": 8,
   "Afaceri externe și UE": 2,
-  "Energie și mediu": 11,
   "Protecție socială și pensii": 6,
   "Apărare și securitate națională": 2,
-  "Cultură, culte și sport": 2,
   "Digitalizare și comunicații": 1
  },
  "acts": [
+  {
+   "id": "313646",
+   "tip": "ORDIN",
+   "numar": "1020",
+   "data_act": "2026-08-20",
+   "titlu": "ORDIN nr. 1.020 din 20 august 2026",
+   "descriere": "pentru modificarea Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 3.789/2024 pentru aprobarea Procedurii privind organizarea şi înscrierea în Registrul RO e-Factura obligatoriu, precum şi a modelului, conţinutului şi instrucţiunilor de completare ale formularului (082) \"Cerere privind înregistrarea în/scoaterea din Registrul RO e-Factura obligatoriu\"",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "706",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313645",
+   "tip": "DECIZIE",
+   "numar": "13",
+   "data_act": "2026-08-25",
+   "titlu": "DECIZIE nr. 13 din 25 august 2026",
+   "descriere": "pentru completarea anexei la Decizia preşedintelui Camerei Deputaţilor nr. 11/2026 privind convocarea Camerei Deputaţilor în sesiune extraordinară",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "706",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313644",
+   "tip": "ORDIN",
+   "numar": "1157",
+   "data_act": "2026-08-21",
+   "titlu": "ORDIN nr. 1.157 din 21 august 2026",
+   "descriere": "privind modificarea Ordinului ministrului sănătăţii nr. 80/2023 pentru aprobarea componenţei şi a Regulamentului de organizare şi funcţionare a Comisiei Naţionale de Bioetică a Medicamentului şi a Dispozitivelor Medicale",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "705",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": true
+  },
+  {
+   "id": "313643",
+   "tip": "PLAN",
+   "numar": "",
+   "data_act": "2026-08-19",
+   "titlu": "PLAN DE MĂSURI din 19 august 2026",
+   "descriere": "pentru identificarea soluţiilor necesare pentru dezvoltarea unor lanţuri de aprovizionare locală pentru construcţia de centrale eoliene offshore, în concordanţă cu cele mai bune practici internaţionale",
+   "emitenti": [
+    "Autoritatea Competentă pentru Reglementarea Operațiunilor Offshore la Marea Neagră"
+   ],
+   "monitor_nr": "705",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313642",
+   "tip": "ORDIN",
+   "numar": "1553",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 1.553 din 19 august 2026",
+   "descriere": "pentru aprobarea Planului de măsuri pentru identificarea soluţiilor necesare pentru dezvoltarea unor lanţuri de aprovizionare locală pentru construcţia de centrale eoliene offshore, în concordanţă cu cele mai bune practici internaţionale",
+   "emitenti": [
+    "Autoritatea Competentă pentru Reglementarea Operațiunilor Offshore la Marea Neagră"
+   ],
+   "monitor_nr": "705",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313641",
+   "tip": "PLAN",
+   "numar": "",
+   "data_act": "2026-08-24",
+   "titlu": "PLAN DE MĂSURI din 24 august 2026",
+   "descriere": "pentru identificarea soluţiilor necesare pentru dezvoltarea unor lanţuri de aprovizionare locală pentru construcţia de centrale eoliene offshore, în concordanţă cu cele mai bune practici internaţionale",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "705",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313640",
+   "tip": "ORDIN",
+   "numar": "795",
+   "data_act": "2026-08-24",
+   "titlu": "ORDIN nr. 795 din 24 august 2026",
+   "descriere": "pentru aprobarea Planului de măsuri pentru identificarea soluţiilor necesare pentru dezvoltarea unor lanţuri de aprovizionare locală pentru construcţia de centrale eoliene offshore, în concordanţă cu cele mai bune practici internaţionale",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "705",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313639",
+   "tip": "PLAN",
+   "numar": "",
+   "data_act": "2026-08-18",
+   "titlu": "PLAN DE MĂSURI din 18 august 2026",
+   "descriere": "pentru identificarea soluţiilor necesare pentru dezvoltarea unor lanţuri de aprovizionare locală pentru construcţia de centrale eoliene offshore, în concordanţă cu cele mai bune practici internaţionale",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "705",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313638",
+   "tip": "ORDIN",
+   "numar": "923",
+   "data_act": "2026-08-18",
+   "titlu": "ORDIN nr. 923 din 18 august 2026",
+   "descriere": "pentru aprobarea Planului de măsuri pentru identificarea soluţiilor necesare pentru dezvoltarea unor lanţuri de aprovizionare locală pentru construcţia de centrale eoliene offshore, în concordanţă cu cele mai bune practici internaţionale",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "705",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313637",
+   "tip": "ORDIN",
+   "numar": "239",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 239 din 19 august 2026",
+   "descriere": "pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigaţii aparţinând domeniului privat al statului, aflată în administrarea Agenţiei Naţionale de Îmbunătăţiri Funciare şi situată pe teritoriul Organizaţiei utilizatorilor de apă pentru irigaţii Chiaburu PL 28 din judeţul Brăila, în proprietatea acestei organizaţii",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "705",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313636",
+   "tip": "ORDIN",
+   "numar": "238",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 238 din 19 august 2026",
+   "descriere": "pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigaţii aparţinând domeniului privat al statului, aflată în administrarea Agenţiei Naţionale de Îmbunătăţiri Funciare şi situată pe teritoriul Organizaţiei utilizatorilor de apă pentru irigaţii Chiaburu PL 27 din judeţul Brăila, în proprietatea acestei organizaţii",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "705",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313635",
+   "tip": "ORDIN",
+   "numar": "4549",
+   "data_act": "2026-07-27",
+   "titlu": "ORDIN nr. 4.549 din 27 iulie 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Militară de Maiştri Militari şi Subofiţeri a Forţelor Aeriene \"Traian Vuia\" din comuna Cochirleanca, judeţul Buzău",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "703",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313634",
+   "tip": "ORDIN",
+   "numar": "4512",
+   "data_act": "2026-07-22",
+   "titlu": "ORDIN nr. 4.512 din 22 iulie 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Teoretic Bilingv \"Ita Wegman\" din municipiul Bucureşti, sectorul 2",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "703",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313633",
+   "tip": "ORDIN",
+   "numar": "4510",
+   "data_act": "2026-07-22",
+   "titlu": "ORDIN nr. 4.510 din 22 iulie 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"Nicolae Iorga\" Baia Mare din municipiul Baia Mare, judeţul Maramureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "703",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313632",
+   "tip": "HOTARARE",
+   "numar": "659",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 659 din 20 august 2026",
+   "descriere": "privind modificarea anului dobândirii şi actualizarea valorii de inventar, ca urmare a reevaluării, a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Dealul Spirii\" Bucureşti-Ilfov, precum şi trecerea unei construcţii din cadrul acestui imobil din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "703",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313631",
+   "tip": "HOTARARE",
+   "numar": "658",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 658 din 20 august 2026",
+   "descriere": "privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Porolissum\" al Judeţului Sălaj, ca urmare a reevaluării, precum şi trecerea unor amenajări la teren din cadrul imobilului cu denumirea MF nr. 102225 din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "703",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313630",
+   "tip": "HOTARARE",
+   "numar": "656",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 656 din 20 august 2026",
+   "descriere": "privind înscrierea unei colecţii de bunuri culturale mobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea acesteia în administrarea Ministerului Culturii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "703",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313629",
+   "tip": "HOTARARE",
+   "numar": "652",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 652 din 20 august 2026",
+   "descriere": "privind actualizarea valorii de inventar a unui bun aflat în domeniul public al statului şi în administrarea Agenţiei Judeţene pentru Plăţi şi Inspecţie Socială Brăila",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "703",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313628",
+   "tip": "HOTARARE",
+   "numar": "630",
+   "data_act": "2026-08-14",
+   "titlu": "HOTĂRÂRE nr. 630 din 14 august 2026",
+   "descriere": "privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.558/2022 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Sibiu-Făgăraş\", aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional, precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 1.558/2022",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "703",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313627",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-08-17",
+   "titlu": "REGULAMENT-CADRU din 17 august 2026",
+   "descriere": "privind organizarea şi funcţionarea comisiilor de etică din organizaţiile de cercetare",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "704",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313626",
+   "tip": "ORDIN",
+   "numar": "4665",
+   "data_act": "2026-08-17",
+   "titlu": "ORDIN nr. 4.665 din 17 august 2026",
+   "descriere": "privind aprobarea Regulamentului-cadru privind organizarea şi funcţionarea comisiilor de etică din organizaţiile de cercetare",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "704",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313625",
+   "tip": "DECIZIE",
+   "numar": "12",
+   "data_act": "2026-08-25",
+   "titlu": "DECIZIE nr. 12 din 25 august 2026",
+   "descriere": "pentru completarea anexei la Decizia preşedintelui Camerei Deputaţilor nr. 11/2026 privind convocarea Camerei Deputaţilor în sesiune extraordinară",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "704",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313624",
+   "tip": "DECIZIE",
+   "numar": "16",
+   "data_act": "2026-08-25",
+   "titlu": "DECIZIE nr. 16 din 25 august 2026",
+   "descriere": "pentru completarea anexei la Decizia preşedintelui Senatului nr. 15/2026 privind convocarea Senatului în sesiune extraordinară",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "704",
+   "data_publicare": "2026-08-25",
+   "data_vigoare": "2026-08-25",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
   {
    "id": "313622",
    "tip": "ORDIN",
