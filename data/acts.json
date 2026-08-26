@@ -1,28 +1,348 @@
 {
- "generated_at": "2026-08-26T06:50:09+00:00",
+ "generated_at": "2026-08-26T13:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 323,
- "new_this_run": 23,
+ "total": 338,
+ "new_this_run": 15,
  "pages_scanned": 6,
  "categories": {
-  "Fiscalitate și buget": 41,
-  "Administrație publică": 33,
-  "Sănătate": 9,
-  "Altele": 15,
-  "Transporturi și infrastructură": 30,
+  "Educație și cercetare": 47,
+  "Economie, IMM și comerț": 40,
+  "Fiscalitate și buget": 42,
+  "Administrație publică": 35,
+  "Sănătate": 10,
+  "Afaceri externe și UE": 5,
+  "Altele": 16,
+  "Justiție și afaceri interne": 32,
+  "Transporturi și infrastructură": 31,
   "Energie și mediu": 13,
   "Agricultură și dezvoltare rurală": 48,
-  "Educație și cercetare": 43,
   "Cultură, culte și sport": 3,
   "Muncă și dialog social": 7,
-  "Economie, IMM și comerț": 39,
-  "Justiție și afaceri interne": 31,
-  "Afaceri externe și UE": 2,
   "Protecție socială și pensii": 6,
   "Apărare și securitate națională": 2,
   "Digitalizare și comunicații": 1
  },
  "acts": [
+  {
+   "id": "313663",
+   "tip": "ORDIN",
+   "numar": "4724",
+   "data_act": "2026-08-21",
+   "titlu": "ORDIN nr. 4.724 din 21 august 2026",
+   "descriere": "pentru aprobarea listei instituţiilor de învăţământ superior acreditate care organizează, în anul universitar 2026-2027, Programul de formare psihopedagogică în vederea certificării competenţelor pentru profesia didactică (nivelul I, respectiv nivelul II) sau Programul universitar de formare psihopedagogică pentru învăţământ preuniversitar",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "708",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": true
+  },
+  {
+   "id": "313662",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-08-12",
+   "titlu": "REGULAMENT din 12 august 2026",
+   "descriere": "de organizare şi funcţionare a Comisiei Naţionale de Statistică şi Prognoză a Învăţământului Superior",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "708",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": true
+  },
+  {
+   "id": "313661",
+   "tip": "ORDIN",
+   "numar": "4650",
+   "data_act": "2026-08-12",
+   "titlu": "ORDIN nr. 4.650 din 12 august 2026",
+   "descriere": "pentru aprobarea Regulamentului de organizare şi funcţionare a Comisiei Naţionale de Statistică şi Prognoză a Învăţământului Superior",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "708",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": true
+  },
+  {
+   "id": "313660",
+   "tip": "ORDIN",
+   "numar": "4652",
+   "data_act": "2026-08-12",
+   "titlu": "ORDIN nr. 4.652 din 12 august 2026",
+   "descriere": "privind modificarea şi completarea art. 2 din Ordinul ministrului educaţiei nr. 5.990/2021 privind menţinerea acreditării Universităţii din Bucureşti în vederea organizării programelor de studii universitare de doctorat",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "708",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": true
+  },
+  {
+   "id": "313659",
+   "tip": "ORDIN",
+   "numar": "1281",
+   "data_act": "2026-08-14",
+   "titlu": "ORDIN nr. 1.281 din 14 august 2026",
+   "descriere": "pentru aprobarea Prescripţiei tehnice PT C 12-2025 \"Cisterne, containere şi butoaie metalice pentru gaze comprimate, lichefiate sau dizolvate sub presiune\"",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "708",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313658",
+   "tip": "HOTARARE",
+   "numar": "662",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 662 din 20 august 2026",
+   "descriere": "privind aprobarea cuantumului şi a plăţii contribuţiei financiare voluntare a României la bugetul Secretariatului Consiliului Cooperării Regionale, pentru sprijinirea implementării Strategiei Europei de Sud-Est 2030, în domeniul dezvoltării durabile",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "708",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": true
+  },
+  {
+   "id": "313657",
+   "tip": "HOTARARE",
+   "numar": "660",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 660 din 20 august 2026",
+   "descriere": "privind darea în folosinţă gratuită Ministerului Afacerilor Interne - Inspectoratul General de Aviaţie a unui imobil aflat în domeniul public al statului şi în administrarea Administraţiei Naţionale a Rezervelor de Stat şi Probleme Speciale - Unitatea Teritorială 440",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "708",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313656",
+   "tip": "HOTARARE",
+   "numar": "646",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 646 din 20 august 2026",
+   "descriere": "privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Afacerilor Interne - Inspectoratul de Poliţie Judeţean Vaslui",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "708",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313655",
+   "tip": "HOTARARE",
+   "numar": "645",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 645 din 20 august 2026",
+   "descriere": "privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Institutului de Medicină Legală Iaşi, instituţie subordonată Ministerului Sănătăţii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "708",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313654",
+   "tip": "AMENDAMENT",
+   "numar": "",
+   "data_act": "2026-04-07",
+   "titlu": "AMENDAMENT din 7 aprilie 2026",
+   "descriere": "convenit între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin schimbul de scrisori semnate la Bucureşti la 7 aprilie 2026 şi la 29 aprilie 2026, la Acordul de împrumut (Proiect de îmbunătăţire a serviciilor judiciare) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 17 februarie 2017 şi la 27 februarie 2017",
+   "emitenti": [
+    "Act Internațional"
+   ],
+   "monitor_nr": "708",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313653",
+   "tip": "HOTARARE",
+   "numar": "644",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 644 din 20 august 2026",
+   "descriere": "privind aprobarea amendamentului convenit între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin schimbul de scrisori semnate la Bucureşti la 7 aprilie 2026 şi la 29 aprilie 2026, la Acordul de împrumut (Proiect de îmbunătăţire a serviciilor judiciare) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 17 februarie 2017 şi la 27 februarie 2017",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "708",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313652",
+   "tip": "DECIZIE",
+   "numar": "152",
+   "data_act": "2026-02-17",
+   "titlu": "DECIZIA nr. 152 din 17 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a sintagmei \"ce i-a fost solicitat, în scris\" din cuprinsul art. 697 alin. (1) din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "708",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313651",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-08-19",
+   "titlu": "REGULAMENT din 19 august 2026",
+   "descriere": "privind mecanismul de achiziţionare a serviciului de sistem pentru flexibilitatea consumului dispecerizabil",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "707",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313650",
+   "tip": "ORDIN",
+   "numar": "54",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 54 din 19 august 2026",
+   "descriere": "pentru aprobarea Regulamentului privind mecanismul de achiziţionare a serviciului de sistem pentru flexibilitatea consumului dispecerizabil",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "707",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
+  {
+   "id": "313649",
+   "tip": "HOTARARE",
+   "numar": "651",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 651 din 20 august 2026",
+   "descriere": "privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.193/2021 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Drum expres Craiova-Piteşti şi legăturile la drumurile existente\", tronsonul 3, aflate pe raza localităţilor Bărăşti, Coloneşti, Optaşi-Măgura, Priseaca, Scorniceşti, Tătuleşti şi Valea Mare din judeţul Olt, precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 1.193/2021",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "707",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-26",
+   "are_text": false
+  },
   {
    "id": "313646",
    "tip": "ORDIN",
