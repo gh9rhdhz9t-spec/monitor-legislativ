@@ -1,28 +1,623 @@
 {
- "generated_at": "2026-08-27T05:02:00+00:00",
+ "generated_at": "2026-08-27T13:00:04+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 338,
- "new_this_run": 0,
+ "total": 366,
+ "new_this_run": 28,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 47,
+  "Altele": 19,
+  "Muncă și dialog social": 9,
+  "Educație și cercetare": 54,
+  "Energie și mediu": 16,
+  "Administrație publică": 38,
+  "Justiție și afaceri interne": 34,
+  "Transporturi și infrastructură": 37,
+  "Protecție socială și pensii": 7,
+  "Fiscalitate și buget": 43,
   "Economie, IMM și comerț": 40,
-  "Fiscalitate și buget": 42,
-  "Administrație publică": 35,
   "Sănătate": 10,
   "Afaceri externe și UE": 5,
-  "Altele": 16,
-  "Justiție și afaceri interne": 32,
-  "Transporturi și infrastructură": 31,
-  "Energie și mediu": 13,
   "Agricultură și dezvoltare rurală": 48,
   "Cultură, culte și sport": 3,
-  "Muncă și dialog social": 7,
-  "Protecție socială și pensii": 6,
   "Apărare și securitate națională": 2,
   "Digitalizare și comunicații": 1
  },
  "acts": [
+  {
+   "id": "313794",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-07-23",
+   "titlu": "REGULAMENT din 23 iulie 2026",
+   "descriere": "de organizare şi funcţionare a Consiliului pentru Dezvoltare Regională al Regiunii de Dezvoltare Vest",
+   "emitenti": [
+    "Consiliul pentru Dezvoltare Regionala al Regiunii de Dezvoltare Vest"
+   ],
+   "monitor_nr": "714",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313793",
+   "tip": "HOTARARE",
+   "numar": "2",
+   "data_act": "2026-07-23",
+   "titlu": "HOTĂRÂRE nr. 2 din 23 iulie 2026",
+   "descriere": "privind aprobarea Regulamentului de organizare şi funcţionare a Consiliului pentru Dezvoltare Regională al Regiunii de Dezvoltare Vest",
+   "emitenti": [
+    "Consiliul pentru Dezvoltare Regionala al Regiunii de Dezvoltare Vest"
+   ],
+   "monitor_nr": "714",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313792",
+   "tip": "DECIZIE",
+   "numar": "79",
+   "data_act": "2026-06-22",
+   "titlu": "DECIZIA nr. 79 din 22 iunie 2026",
+   "descriere": "referitoare la Hotărârea Guvernului nr. 582/2016 pentru aprobarea Normelor metodologice de aplicare a prevederilor art. 3^1 alin. (2) , (3) şi (8) , art. 3^3 şi 3^4 din Ordonanţa de urgenţă a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "714",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": true
+  },
+  {
+   "id": "313791",
+   "tip": "ORDIN",
+   "numar": "4807",
+   "data_act": "2026-08-21",
+   "titlu": "ORDIN nr. 4.807 din 21 august 2026",
+   "descriere": "privind acreditarea domeniului de doctorat \"Administrarea afacerilor\" în cadrul Şcolii Doctorale a Universităţii din Petroşani",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "714",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313790",
+   "tip": "ORDIN",
+   "numar": "4806",
+   "data_act": "2026-08-21",
+   "titlu": "ORDIN nr. 4.806 din 21 august 2026",
+   "descriere": "privind acreditarea domeniului de doctorat \"Ingineria produselor alimentare\" în cadrul Şcolii Doctorale Interdisciplinare organizate la Universitatea \"Transilvania\" din Braşov",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "714",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313789",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-08-19",
+   "titlu": "NORME METODOLOGICE din 19 august 2026",
+   "descriere": "privind degrevarea de normă didactică de predare şi stabilirea obligaţiei de predare a personalului didactic de predare care ocupă funcţii de conducere, îndrumare şi control în învăţământul preuniversitar de stat",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "714",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": true
+  },
+  {
+   "id": "313788",
+   "tip": "ORDIN",
+   "numar": "4690",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 4.690 din 19 august 2026",
+   "descriere": "pentru aprobarea Normelor metodologice privind degrevarea de normă didactică de predare şi stabilirea obligaţiei de predare a personalului didactic de predare care ocupă funcţii de conducere, îndrumare şi control în învăţământul preuniversitar de stat",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "714",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": true
+  },
+  {
+   "id": "313787",
+   "tip": "DECIZIE",
+   "numar": "396",
+   "data_act": "2026-07-29",
+   "titlu": "DECIZIE nr. 396 din 29 iulie 2026",
+   "descriere": "privind raportarea unor date statistice de către furnizorii de reţele publice de comunicaţii electronice sau de servicii de comunicaţii electronice destinate publicului",
+   "emitenti": [
+    "Autoritatea Națională pentru Administrare și Reglementare în Comunicații"
+   ],
+   "monitor_nr": "713",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2027-01-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313786",
+   "tip": "ORDIN",
+   "numar": "4658",
+   "data_act": "2026-08-12",
+   "titlu": "ORDIN nr. 4.658 din 12 august 2026",
+   "descriere": "privind aprobarea calendarului de colectare a datelor, precum şi a categoriilor şi tipurilor de date raportate în Platforma naţională de raportare unică în învăţământul superior (PNRUIS)",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "713",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": true
+  },
+  {
+   "id": "313785",
+   "tip": "HOTARARE",
+   "numar": "657",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 657 din 20 august 2026",
+   "descriere": "privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Buzău, Braşov, Bihor, Prahova, Covasna, Constanţa şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "713",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313784",
+   "tip": "HOTARARE",
+   "numar": "653",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 653 din 20 august 2026",
+   "descriere": "privind actualizarea valorii de inventar, ca urmare a reevaluării, a unui bun aflat în domeniul public al statului şi în administrarea Inspectoratului Teritorial de Muncă Giurgiu",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "713",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [
+    "inspectoratul teritorial de munca",
+    "guvernul"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313783",
+   "tip": "DECIZIE",
+   "numar": "758",
+   "data_act": "2025-12-11",
+   "titlu": "DECIZIA nr. 758 din 11 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 32 alin. (7) şi ale art. 37^1 din Legea cetăţeniei române nr. 21/1991 , în redactarea anterioară intrării în vigoare a Legii nr. 14/2025 pentru modificarea şi completarea Legii cetăţeniei române nr. 21/1991 , precum şi pentru modificarea şi completarea altor acte normative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "713",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313679",
+   "tip": "ORDIN",
+   "numar": "55",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 55 din 19 august 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului privind desemnarea operatorului desemnat al pieţei de energie electrică, aprobat prin Ordinul preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Energiei nr. 94/2023",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "711",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313678",
+   "tip": "ORDIN",
+   "numar": "975",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 975 din 25 august 2026",
+   "descriere": "privind aprobarea modelelor formularelor referitoare la autorizarea construirii",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "711",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313677",
+   "tip": "INSTRUCTIUNI",
+   "numar": "",
+   "data_act": "2026-08-25",
+   "titlu": "INSTRUCȚIUNE TEHNICĂ din 25 august 2026",
+   "descriere": "pentru evaluarea riscului în procedurile de urbanism şi autorizare a construcţiilor pentru infrastructura de hidrogen",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "711",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313676",
+   "tip": "ORDIN",
+   "numar": "944",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 944 din 25 august 2026",
+   "descriere": "privind aprobarea Instrucţiunii tehnice pentru evaluarea riscului în procedurile de urbanism şi autorizare a construcţiilor pentru infrastructura de hidrogen",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "711",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313675",
+   "tip": "INSTRUCTIUNI",
+   "numar": "",
+   "data_act": "2026-08-21",
+   "titlu": "INSTRUCȚIUNE TEHNICĂ din 21 august 2026",
+   "descriere": "pentru evaluarea riscului în procedurile de urbanism şi autorizare a construcţiilor pentru infrastructura de hidrogen",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "711",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313674",
+   "tip": "ORDIN",
+   "numar": "938",
+   "data_act": "2026-08-21",
+   "titlu": "ORDIN nr. 938 din 21 august 2026",
+   "descriere": "privind aprobarea Instrucţiunii tehnice pentru evaluarea riscului în procedurile de urbanism şi autorizare a construcţiilor pentru infrastructura de hidrogen",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "711",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313673",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-08-24",
+   "titlu": "NORME din 24 august 2026",
+   "descriere": "privind pregătirea şi atestarea profesională a conducătorilor auto în vederea obţinerii certificatului de pregătire profesională (CPP)",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "711",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313672",
+   "tip": "ORDIN",
+   "numar": "801",
+   "data_act": "2026-08-24",
+   "titlu": "ORDIN nr. 801 din 24 august 2026",
+   "descriere": "pentru stabilirea condiţiilor de obţinere a certificatului de pregătire profesională (CPP) şi pentru modificarea unor acte normative în domeniul transportului rutier",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "711",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313671",
+   "tip": "DECIZIE",
+   "numar": "210",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 210 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 510 alin. (2) şi (3) raportate la art. 509 alin. (1) pct. 8 şi la art. 513 alin. (4) din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "711",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313670",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-08-19",
+   "titlu": "METODOLOGIE din 19 august 2026",
+   "descriere": "privind evaluarea anuală a performanţelor profesionale individuale ale directorilor cluburilor sportive universitare",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "710",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "spor",
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": true
+  },
+  {
+   "id": "313669",
+   "tip": "ORDIN",
+   "numar": "4703",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 4.703 din 19 august 2026",
+   "descriere": "pentru aprobarea Metodologiei privind evaluarea anuală a performanţelor profesionale individuale ale directorilor cluburilor sportive universitare",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "710",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "spor",
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": true
+  },
+  {
+   "id": "313668",
+   "tip": "DECIZIE",
+   "numar": "14",
+   "data_act": "2026-08-26",
+   "titlu": "DECIZIE nr. 14 din 26 august 2026",
+   "descriere": "pentru modificarea şi completarea anexei la Decizia preşedintelui Camerei Deputaţilor nr. 11/2026 privind convocarea Camerei Deputaţilor în sesiune extraordinară",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "710",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313666",
+   "tip": "HOTARARE",
+   "numar": "654",
+   "data_act": "2026-08-20",
+   "titlu": "HOTĂRÂRE nr. 654 din 20 august 2026",
+   "descriere": "privind înscrierea unei clădiri în inventarul centralizat al bunurilor din domeniul public al statului şi în administrarea Casei Judeţene de Pensii Giurgiu şi comasarea acesteia cu terenul aferent",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "709",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 4,
+   "termeni": [
+    "pensii",
+    "guvernul"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": true
+  },
+  {
+   "id": "313665",
+   "tip": "DECIZIE",
+   "numar": "474",
+   "data_act": "2025-10-16",
+   "titlu": "DECIZIA nr. 474 din 16 octombrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (5) teza a doua din Ordonanţa de urgenţă a Guvernului nr. 132/2020 privind măsuri de sprijin destinate salariaţilor şi angajatorilor în contextul situaţiei epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum şi pentru stimularea creşterii ocupării forţei de muncă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "709",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 6,
+   "termeni": [
+    "salariu",
+    "ocuparea fortei de munca",
+    "angajator"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": true
+  },
+  {
+   "id": "313664",
+   "tip": "DECIZIE",
+   "numar": "17",
+   "data_act": "2026-08-26",
+   "titlu": "DECIZIE nr. 17 din 26 august 2026",
+   "descriere": "pentru completarea anexei la Decizia preşedintelui Senatului nr. 15/2026 privind convocarea Senatului în sesiune extraordinară",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "709",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "309929",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-08-26",
+   "titlu": "COMUNICAT din 26 august 2026",
+   "descriere": "privind procedura de comunicare a actului administrativ fiscal emis pe suport hârtie și expediat prin poștă cu scrisoare recomandată cu confirmare de primire",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-27",
+   "are_text": false
+  },
   {
    "id": "313663",
    "tip": "ORDIN",
