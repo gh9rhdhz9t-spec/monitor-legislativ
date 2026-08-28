@@ -1,28 +1,600 @@
 {
- "generated_at": "2026-08-28T05:00:02+00:00",
+ "generated_at": "2026-08-28T13:00:06+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 366,
- "new_this_run": 0,
+ "total": 394,
+ "new_this_run": 28,
  "pages_scanned": 6,
  "categories": {
-  "Altele": 19,
+  "Educație și cercetare": 55,
+  "Transporturi și infrastructură": 38,
+  "Economie, IMM și comerț": 43,
+  "Fiscalitate și buget": 45,
+  "Administrație publică": 41,
+  "Cultură, culte și sport": 7,
+  "Sănătate": 11,
+  "Justiție și afaceri interne": 40,
+  "Afaceri externe și UE": 6,
+  "Altele": 22,
+  "Protecție socială și pensii": 8,
+  "Apărare și securitate națională": 3,
+  "Digitalizare și comunicații": 2,
   "Muncă și dialog social": 9,
-  "Educație și cercetare": 54,
   "Energie și mediu": 16,
-  "Administrație publică": 38,
-  "Justiție și afaceri interne": 34,
-  "Transporturi și infrastructură": 37,
-  "Protecție socială și pensii": 7,
-  "Fiscalitate și buget": 43,
-  "Economie, IMM și comerț": 40,
-  "Sănătate": 10,
-  "Afaceri externe și UE": 5,
-  "Agricultură și dezvoltare rurală": 48,
-  "Cultură, culte și sport": 3,
-  "Apărare și securitate națională": 2,
-  "Digitalizare și comunicații": 1
+  "Agricultură și dezvoltare rurală": 48
  },
  "acts": [
+  {
+   "id": "313823",
+   "tip": "ORDIN",
+   "numar": "5111",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.111 din 27 august 2026",
+   "descriere": "pentru modificarea anexei nr. 2 la Ordinul ministrului educaţiei naţionale nr. 3.393/2017 privind aprobarea programelor şcolare pentru învăţământul gimnazial",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "719",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": true
+  },
+  {
+   "id": "313822",
+   "tip": "HOTARARE",
+   "numar": "670",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 670 din 27 august 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Companiei Naţionale de Administrare a Infrastructurii Rutiere - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "719",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313821",
+   "tip": "HOTARARE",
+   "numar": "669",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 669 din 27 august 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli aferent activităţii de privatizare al Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului pe anul 2026",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "719",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": true
+  },
+  {
+   "id": "313820",
+   "tip": "HOTARARE",
+   "numar": "668",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 668 din 27 august 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Compania Naţională Romarm - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "719",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": true
+  },
+  {
+   "id": "313819",
+   "tip": "HOTARARE",
+   "numar": "667",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 667 din 27 august 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea \"Avioane Craiova\" - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "719",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": true
+  },
+  {
+   "id": "313818",
+   "tip": "HOTARARE",
+   "numar": "666",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 666 din 27 august 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea IOR - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "719",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": true
+  },
+  {
+   "id": "313817",
+   "tip": "DECIZIE",
+   "numar": "15",
+   "data_act": "2026-08-28",
+   "titlu": "DECIZIE nr. 15 din 28 august 2026",
+   "descriere": "privind convocarea Camerei Deputaţilor în sesiune ordinară",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "719",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313816",
+   "tip": "DECIZIE",
+   "numar": "18",
+   "data_act": "2026-08-26",
+   "titlu": "DECIZIE nr. 18 din 26 august 2026",
+   "descriere": "privind convocarea Senatului în sesiune ordinară",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "719",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313815",
+   "tip": "DECIZIE",
+   "numar": "116",
+   "data_act": "2026-02-24",
+   "titlu": "DECIZIE nr. 116 din 24 februarie 2026",
+   "descriere": "privind procedura de licenţiere, de autorizare şi de notificare a serviciilor media audiovizuale",
+   "emitenti": [
+    "Consiliul Național al Audiovizualului"
+   ],
+   "monitor_nr": "718",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-09-27",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313814",
+   "tip": "ORDIN",
+   "numar": "1161",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 1.161 din 25 august 2026",
+   "descriere": "privind modificarea şi completarea anexelor nr. 1 şi 2 la Ordinul ministrului sănătăţii nr. 5.994/2024 pentru aprobarea preţurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deţinătorii de autorizaţie de punere pe piaţă a medicamentelor sau reprezentanţii acestora, distribuitorii angro şi furnizorii de servicii medicale şi medicamente pentru acele medicamente care fac obiectul unei relaţii contractuale cu Ministerul Sănătăţii, casele de asigurări de sănătate şi/sau direcţiile de sănătate publică judeţene şi a municipiului Bucureşti, cuprinse în Catalogul naţional al preţurilor medicamentelor autorizate de punere pe piaţă în România, a preţurilor de referinţă generice şi a preţurilor de referinţă inovative",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "718",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": true
+  },
+  {
+   "id": "313813",
+   "tip": "ORDIN",
+   "numar": "835",
+   "data_act": "2026-08-21",
+   "titlu": "ORDIN nr. 835 din 21 august 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei din anii 2021, 2022, 2023, 2024 şi de procentul de indexare a salariului minim pe economie la data de 1.01.2021, la data de 1.01.2022, la data de 1.01.2023, la data de 1.10.2023, respectiv la data de 1.07.2024, conform Sentinţei civile nr. 226 din 27.10.2025, pronunţată de Curtea de Apel Iaşi - Secţia contencios administrativ şi fiscal în Dosarul nr. 465/45/2025, definitivă prin Decizia civilă nr. 2.706 din 3.06.2026, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 465/45/2025",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "718",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 10,
+   "termeni": [
+    "salariul minim",
+    "salariu"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": true
+  },
+  {
+   "id": "313811",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-08-27",
+   "titlu": "PROCEDURĂ din 27 august 2026",
+   "descriere": "privind notificarea şi emiterea acordului scris pentru executarea lucrărilor prevăzute la art. 284 alin. (4) , în cazul construcţiilor monument istoric şi al construcţiilor cu valoare arhitecturală sau istorică stabilită prin documentaţii de urbanism aprobate, din Legea nr. 169/2026 privind Codul amenajării teritoriului, urbanismului şi construcţiilor",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "717",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313810",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-08-27",
+   "titlu": "PROCEDURĂ din 27 august 2026",
+   "descriere": "privind solicitarea şi emiterea acordului scris al Ministerului Culturii sau al serviciilor publice deconcentrate ale acestuia, după caz, pentru emiterea autorizaţiei de construire pentru lucrări de intervenţie în primă urgenţă, în cazul construcţiilor monument istoric şi al construcţiilor cu valoare arhitecturală sau istorică stabilită prin documentaţii de urbanism aprobate",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "717",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313809",
+   "tip": "ORDIN",
+   "numar": "3167",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 3.167 din 27 august 2026",
+   "descriere": "privind aprobarea procedurilor şi a formatelor pentru emiterea acordului scris al Ministerului Culturii sau al serviciilor publice deconcentrate ale acestuia, după caz, conform art. 283 şi 284 din Legea nr. 169/2026 privind Codul amenajării teritoriului, urbanismului şi construcţiilor",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "717",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313808",
+   "tip": "DECIZIE",
+   "numar": "236",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 236 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 15 alin. (4) din Ordonanţa Guvernului nr. 21/1992 privind protecţia consumatorilor, ale art. 27 alin. (3) din Ordonanţa Guvernului nr. 2/2018 privind pachetele de servicii de călătorie şi serviciile de călătorie asociate, precum şi pentru modificarea unor acte normative şi ale art. 15^1 din Legea nr. 363/2007 privind combaterea practicilor incorecte ale comercianţilor în relaţia cu consumatorii şi armonizarea reglementărilor cu legislaţia europeană privind protecţia consumatorilor, în redactarea anterioară modificării acestora prin art. II pct. 12 din Ordonanţa de urgenţă a Guvernului nr. 58/2022 pentru modificarea şi completarea unor acte normative din domeniul protecţiei consumatorilor",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "717",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313807",
+   "tip": "HOTARARE",
+   "numar": "665",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 665 din 27 august 2026",
+   "descriere": "privind rechemarea unui consul general",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "716",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313806",
+   "tip": "HOTARARE",
+   "numar": "664",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 664 din 27 august 2026",
+   "descriere": "privind aprobarea listei perimetrelor eoliene offshore care pot fi concesionate în sectorul românesc al Mării Negre",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "716",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "concediu",
+    "guvernul"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": true
+  },
+  {
+   "id": "313805",
+   "tip": "HOTARARE",
+   "numar": "663",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 663 din 27 august 2026",
+   "descriere": "pentru reaprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii \"Sistem de alertă timpurie - SAT (Early warning system)\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "716",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313804",
+   "tip": "DECIZIE",
+   "numar": "425",
+   "data_act": "2026-04-30",
+   "titlu": "DECIZIA nr. 425 din 30 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a sintagmelor \"şi care domiciliază, la data cererii, pe teritoriul României\" şi \"tribunalul de la domiciliul minorului\" din cuprinsul art. 10 alin. (6) din Legea cetăţeniei române nr. 21/1991",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "716",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313803",
+   "tip": "DECIZIE",
+   "numar": "382",
+   "data_act": "2026-04-28",
+   "titlu": "DECIZIA nr. 382 din 28 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 453 alin. (1) , ale art. 509 alin. (1) pct. 11 şi ale art. 513 alin. (1) din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "716",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313802",
+   "tip": "DECIZIE",
+   "numar": "885",
+   "data_act": "2026-08-17",
+   "titlu": "DECIZIA nr. 885 din 17 august 2026",
+   "descriere": "referitoare la obiecţia de neconstituţionalitate a Legii privind aprobarea Strategiei naţionale şi a Planului naţional de acţiune pentru conservarea biodiversităţii 2026-2030",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "715",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313801",
+   "tip": "NORMA",
+   "numar": "16",
+   "data_act": "2026-08-21",
+   "titlu": "NORMĂ nr. 16 din 21 august 2026",
+   "descriere": "privind autorizarea furnizorilor de pensii private",
+   "emitenti": [
+    "Autoritatea de Supraveghere Financiară"
+   ],
+   "monitor_nr": "712",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2027-01-05",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 4,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": true
+  },
+  {
+   "id": "313800",
+   "tip": "ORDIN",
+   "numar": "151",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. M.151 din 25 august 2026",
+   "descriere": "pentru completarea Instrucţiunilor privind formarea profesională şi evoluţia în cariera militară în Armata României, aprobate prin Ordinul ministrului apărării naţionale nr. M.30/2012",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "712",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 5,
+   "termeni": [
+    "formare profesionala"
+   ],
+   "first_seen": "2026-08-28",
+   "are_text": true
+  },
+  {
+   "id": "313799",
+   "tip": "ORDIN",
+   "numar": "1",
+   "data_act": "2026-08-06",
+   "titlu": "ORDIN nr. 1 din 6 august 2026",
+   "descriere": "pentru aprobarea Măsurilor de gestionare a riscurilor de securitate cibernetică aferente reţelelor şi sistemelor informatice utilizate de entităţile esenţiale şi importante şi a Metodologiei de autoevaluare a maturităţii măsurilor de gestionare a riscurilor de securitate cibernetică şi pentru modificarea Metodologiei privind evaluarea nivelului de risc al entităţilor, aprobată prin Ordinul directorului Directoratului Naţional de Securitate Cibernetică nr. 2/2025 pentru aprobarea Criteriilor şi pragurilor de determinare a gradului de perturbare a unui serviciu şi a Metodologiei privind evaluarea nivelului de risc al entităţilor",
+   "emitenti": [
+    "Directoratul Național de Securitate Cibernetică"
+   ],
+   "monitor_nr": "712",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313798",
+   "tip": "DECIZIE",
+   "numar": "286",
+   "data_act": "2026-08-27",
+   "titlu": "DECIZIE nr. 286 din 27 august 2026",
+   "descriere": "privind completarea alin. (2) al art. 1 din Decizia prim-ministrului nr. 335/2025 privind stabilirea atribuţiilor domnului Tánczos Barna, viceprim-ministru",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "712",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313797",
+   "tip": "DECIZIE",
+   "numar": "285",
+   "data_act": "2026-08-27",
+   "titlu": "DECIZIE nr. 285 din 27 august 2026",
+   "descriere": "privind numirea doamnei Anca-Florina Iordache în funcţia de secretar de stat la Ministerul Finanţelor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "712",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
+  {
+   "id": "313796",
+   "tip": "DECIZIE",
+   "numar": "111",
+   "data_act": "2026-02-05",
+   "titlu": "DECIZIA nr. 111 din 5 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (1) şi ale art. 4 din Legea nr. 76/2012 pentru punerea în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "712",
+   "data_publicare": "2026-08-27",
+   "data_vigoare": "2026-08-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-28",
+   "are_text": false
+  },
   {
    "id": "313794",
    "tip": "REGULAMENT",
@@ -279,6 +851,26 @@
    "scor": 1,
    "termeni": [],
    "first_seen": "2026-08-27",
+   "are_text": false
+  },
+  {
+   "id": "313795",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-08-25",
+   "titlu": "ANEXE din 25 august 2026",
+   "descriere": "privind modelele formularelor utilizate în activitatea de autorizare a executării lucrărilor de construcţii - emitere certificat de urbanism, construire, desfiinţare, modificare, regularizare, în procedura notificării, precum şi ale formularelor conexe",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "711",
+   "data_publicare": "2026-08-26",
+   "data_vigoare": "2026-08-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-28",
    "are_text": false
   },
   {
