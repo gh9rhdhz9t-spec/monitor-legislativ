@@ -382,7 +382,11 @@ def classify(act: dict) -> str:
     return best
 
 
-def score_act(act: dict):
+# Categoriile in care un termen din nucleul dur chiar descrie subiectul actului.
+SOCIAL_CATS = {"Muncă și dialog social", "Economie socială", "Protecție socială și pensii"}
+
+
+def score_act(act: dict, categorie: str = ""):
     """Returneaza (scor 1-10, detalii) pentru relevanta in dialog social / economie sociala."""
     text = fold(" ".join([act["titlu"], act["descriere"]]))
     emit = fold(" ".join(act["emitenti"]))
@@ -392,6 +396,8 @@ def score_act(act: dict):
     b, kb = count_hits(text, TIER_B)
     c, kc = count_hits(text, TIER_C)
     n, kn = count_hits(text, NOISE)
+
+    a_n = len(ka)          # cate concepte distincte din nucleul dur, nu doar ponderea
 
     e = 0
     ke = []
@@ -405,12 +411,20 @@ def score_act(act: dict):
         if kw in tip:
             t = max(t, w, key=abs) if t else w
 
+    # Un singur termen din nucleul dur, intr-un act al carui emitent si categorie
+    # nu au legatura cu munca, e aproape intotdeauna o trimitere incidentala --
+    # de pilda un tarif veterinar indexat cu "salariul minim pe economie". Cerem
+    # o confirmare inainte sa cantareasca cat un act chiar despre subiect.
+    coroborat = (a_n >= 2 or e >= 3 or b >= 6 or categorie in SOCIAL_CATS)
+    if a_n == 1 and not coroborat:
+        a = min(a, 3)
+
     # Plafonam contributia fiecarui nivel ca sa nu domine un singur termen repetat.
     raw = min(a, 14) + min(b, 9) + min(c, 5) + e + t + n
 
     # Scala 1-10: nucleul dur (Tier A) ridica actul in jumatatea superioara,
     # restul se aseaza dupa scorul brut acumulat.
-    if a >= 6 or (a >= 5 and e >= 4):
+    if (a >= 6 and coroborat) or (a >= 5 and e >= 4):
         if raw >= 12:
             scor = 10
         elif raw >= 9:
@@ -441,7 +455,8 @@ def score_act(act: dict):
 
     return scor, {
         "raw": raw,
-        "tier_a": a, "tier_b": b, "tier_c": c, "noise": n,
+        "tier_a": a, "tier_a_n": a_n, "coroborat": coroborat,
+        "tier_b": b, "tier_c": c, "noise": n,
         "emitent": e, "tip": t,
         "keywords": (ka + kb + ke)[:8],
     }
@@ -472,8 +487,8 @@ def scrape():
 
 
 def enrich(act: dict, now_iso: str) -> dict:
-    scor, det = score_act(act)
     act["categorie"] = classify(act)
+    scor, det = score_act(act, act["categorie"])
     act["scor"] = scor
     act["termeni"] = det["keywords"][:5]
     act["first_seen"] = now_iso[:10]
@@ -556,6 +571,15 @@ def main():
             act = enrich(act, now_iso)
             new_ids.append(act["id"])
         db[act["id"]] = act
+
+    # Recalculam scorurile pentru toata baza, nu doar pentru actele proaspete:
+    # altfel o ajustare a lexiconului s-ar aplica doar de aici inainte, iar
+    # actele mai vechi ar ramane cu scoruri calculate dupa reguli diferite.
+    for act in db.values():
+        act["categorie"] = classify(act)
+        scor, det = score_act(act, act["categorie"])
+        act["scor"] = scor
+        act["termeni"] = det["keywords"][:5]
 
     # Retentie: pastram fereastra utila, dupa data publicarii (sau prima vedere).
     cutoff = (now - timedelta(days=RETENTION_DAYS)).date().isoformat()
