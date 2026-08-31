@@ -1,28 +1,989 @@
 {
- "generated_at": "2026-08-30T13:00:01+00:00",
+ "generated_at": "2026-08-31T05:05:18+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 394,
- "new_this_run": 0,
+ "total": 440,
+ "new_this_run": 46,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 55,
-  "Transporturi și infrastructură": 38,
-  "Economie, IMM și comerț": 43,
-  "Fiscalitate și buget": 45,
-  "Administrație publică": 41,
+  "Altele": 33,
+  "Energie și mediu": 26,
+  "Transporturi și infrastructură": 39,
+  "Justiție și afaceri interne": 44,
+  "Protecție socială și pensii": 10,
+  "Fiscalitate și buget": 47,
+  "Educație și cercetare": 66,
+  "Economie, IMM și comerț": 44,
+  "Agricultură și dezvoltare rurală": 49,
+  "Afaceri externe și UE": 7,
+  "Administrație publică": 43,
   "Cultură, culte și sport": 7,
   "Sănătate": 11,
-  "Justiție și afaceri interne": 40,
-  "Afaceri externe și UE": 6,
-  "Altele": 22,
-  "Protecție socială și pensii": 8,
   "Apărare și securitate națională": 3,
   "Digitalizare și comunicații": 2,
-  "Muncă și dialog social": 9,
-  "Energie și mediu": 16,
-  "Agricultură și dezvoltare rurală": 48
+  "Muncă și dialog social": 9
  },
  "acts": [
+  {
+   "id": "313869",
+   "tip": "DECRET",
+   "numar": "733",
+   "data_act": "2026-08-28",
+   "titlu": "DECRET nr. 733 din 28 august 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea şi completarea unor acte normative în domeniul integrităţii",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "725",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313868",
+   "tip": "LEGE",
+   "numar": "180",
+   "data_act": "2026-08-28",
+   "titlu": "LEGE nr. 180 din 28 august 2026",
+   "descriere": "pentru modificarea şi completarea unor acte normative în domeniul integrităţii",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "725",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": true
+  },
+  {
+   "id": "313867",
+   "tip": "ORDIN",
+   "numar": "1022",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 1.022 din 28 august 2026",
+   "descriere": "privind aprobarea Procedurii de elaborare, modificare/actualizare şi aprobare a documentaţiilor de amenajare a teritoriului şi a documentaţiilor de urbanism, a formularelor utilizate, precum şi a listei avizelor necesare",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "724",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313866",
+   "tip": "HOTARARE",
+   "numar": "684",
+   "data_act": "2026-08-28",
+   "titlu": "HOTĂRÂRE nr. 684 din 28 august 2026",
+   "descriere": "pentru prelungirea perioadei de aplicare a măsurilor de siguranţă prevăzute în Hotărârea Guvernului nr. 603/2026 privind adoptarea unor măsuri de siguranţă pe piaţa de energie electrică",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "724",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313865",
+   "tip": "HOTARARE",
+   "numar": "683",
+   "data_act": "2026-08-28",
+   "titlu": "HOTĂRÂRE nr. 683 din 28 august 2026",
+   "descriere": "privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2026, pentru suplimentarea bugetului Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "724",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 4,
+   "termeni": [
+    "alocatie",
+    "guvernul"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": true
+  },
+  {
+   "id": "313864",
+   "tip": "HOTARARE",
+   "numar": "680",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 680 din 27 august 2026",
+   "descriere": "pentru aprobarea repartizării fondurilor acordate României în cadrul Instrumentului \"Acţiunea pentru securitatea Europei\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "724",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313863",
+   "tip": "DECIZIE",
+   "numar": "139",
+   "data_act": "2026-02-17",
+   "titlu": "DECIZIA nr. 139 din 17 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 381 alin. (7) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "724",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313862",
+   "tip": "DECRET",
+   "numar": "731",
+   "data_act": "2026-08-28",
+   "titlu": "DECRET nr. 731 din 28 august 2026",
+   "descriere": "privind promulgarea Legii pentru completarea Legii nr. 7/2023 privind susţinerea procesului de dezinstituţionalizare a persoanelor adulte cu dizabilităţi şi aplicarea unor măsuri de accelerare a acestuia şi de prevenire a instituţionalizării, precum şi pentru modificarea şi completarea unor acte normative, pentru modificarea şi completarea Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap, precum şi pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 90/2025 pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "724",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313861",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-08-28",
+   "titlu": "PROCEDURĂ din 28 august 2026",
+   "descriere": "de acordare a plăţilor, precum şi situaţiile de suspendare, modificare şi încetare a dreptului la beneficiul pentru locuire şi la beneficiul de tranziţie pentru persoanele adulte cu handicap",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "724",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313860",
+   "tip": "LEGE",
+   "numar": "178",
+   "data_act": "2026-08-28",
+   "titlu": "LEGE nr. 178 din 28 august 2026",
+   "descriere": "pentru completarea Legii nr. 7/2023 privind susţinerea procesului de dezinstituţionalizare a persoanelor adulte cu dizabilităţi şi aplicarea unor măsuri de accelerare a acestuia şi de prevenire a instituţionalizării, precum şi pentru modificarea şi completarea unor acte normative, pentru modificarea şi completarea Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap, precum şi pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 90/2025 pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "724",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 5,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": true
+  },
+  {
+   "id": "313859",
+   "tip": "DECIZIE",
+   "numar": "78",
+   "data_act": "2026-06-22",
+   "titlu": "DECIZIA nr. 78 din 22 iunie 2026",
+   "descriere": "referitoare la art. 41 şi art. 53 din Constituţia României",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "723",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313858",
+   "tip": "DECRET",
+   "numar": "735",
+   "data_act": "2026-08-28",
+   "titlu": "DECRET nr. 735 din 28 august 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea şi completarea art. 208 din Legea învăţământului preuniversitar nr. 198/2023 , pentru prorogarea unor termene şi pentru abrogarea art. LIX din Legea nr. 141/2025 privind unele măsuri fiscal-bugetare",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "723",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313857",
+   "tip": "LEGE",
+   "numar": "182",
+   "data_act": "2026-08-28",
+   "titlu": "LEGE nr. 182 din 28 august 2026",
+   "descriere": "pentru modificarea şi completarea art. 208 din Legea învăţământului preuniversitar nr. 198/2023 , pentru prorogarea unor termene şi pentru abrogarea art. LIX din Legea nr. 141/2025 privind unele măsuri fiscal-bugetare",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "723",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 5,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": true
+  },
+  {
+   "id": "313856",
+   "tip": "DECRET",
+   "numar": "734",
+   "data_act": "2026-08-28",
+   "titlu": "DECRET nr. 734 din 28 august 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea şi completarea Legii nr. 237/2023 privind integrarea hidrogenului din surse regenerabile şi cu emisii reduse de carbon în sectoarele industriei şi transporturilor, precum şi a Ordonanţei de urgenţă a Guvernului nr. 163/2022 pentru completarea cadrului legal de promovare a utilizării energiei din surse regenerabile, precum şi pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "723",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313855",
+   "tip": "LEGE",
+   "numar": "181",
+   "data_act": "2026-08-28",
+   "titlu": "LEGE nr. 181 din 28 august 2026",
+   "descriere": "pentru modificarea şi completarea Legii nr. 237/2023 privind integrarea hidrogenului din surse regenerabile şi cu emisii reduse de carbon în sectoarele industriei şi transporturilor, precum şi a Ordonanţei de urgenţă a Guvernului nr. 163/2022 pentru completarea cadrului legal de promovare a utilizării energiei din surse regenerabile, precum şi pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "723",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": true
+  },
+  {
+   "id": "313854",
+   "tip": "DECRET",
+   "numar": "732",
+   "data_act": "2026-08-28",
+   "titlu": "DECRET nr. 732 din 28 august 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 6/2025 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică în perioada 1 aprilie 2025-30 iunie 2025, respectiv măsurile aplicabile clienţilor finali din piaţa de gaze naturale în perioada 1 aprilie 2025-31 martie 2026, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei şi a Ordonanţei de urgenţă a Guvernului nr. 27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "723",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313853",
+   "tip": "LEGE",
+   "numar": "179",
+   "data_act": "2026-08-28",
+   "titlu": "LEGE nr. 179 din 28 august 2026",
+   "descriere": "pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 6/2025 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică în perioada 1 aprilie 2025-30 iunie 2025, respectiv măsurile aplicabile clienţilor finali din piaţa de gaze naturale în perioada 1 aprilie 2025-31 martie 2026, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei şi a Ordonanţei de urgenţă a Guvernului nr. 27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "723",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": true
+  },
+  {
+   "id": "313852",
+   "tip": "HOTARARE",
+   "numar": "21",
+   "data_act": "2026-08-28",
+   "titlu": "HOTĂRÂRE nr. 21 din 28 august 2026",
+   "descriere": "privind prelungirea stării de alertă la nivelul României instituite prin Hotărârea Comitetului Naţional pentru Situaţii de Urgenţă nr. 15/2026",
+   "emitenti": [
+    "Comitetul Național pentru Situații de Urgență"
+   ],
+   "monitor_nr": "722",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313851",
+   "tip": "COD",
+   "numar": "",
+   "data_act": "2026-08-28",
+   "titlu": "CODUL din 28 august 2026",
+   "descriere": "pentru hidrogen",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "722",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313850",
+   "tip": "ORDIN",
+   "numar": "56",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 56 din 28 august 2026",
+   "descriere": "privind aprobarea Codului pentru hidrogen",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "722",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313849",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-08-27",
+   "titlu": "METODOLOGIE din 27 august 2026",
+   "descriere": "privind înrolarea în Registrul electronic al soluţiilor informatice utilizate pentru implementarea programelor de cercetare, dezvoltare şi inovare finanţate din fonduri publice",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "722",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313848",
+   "tip": "ORDIN",
+   "numar": "5172",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.172 din 27 august 2026",
+   "descriere": "pentru aprobarea Metodologiei privind înrolarea în Registrul electronic al soluţiilor informatice utilizate pentru implementarea programelor de cercetare, dezvoltare şi inovare finanţate din fonduri publice",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "722",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313847",
+   "tip": "DECIZIE",
+   "numar": "293",
+   "data_act": "2026-08-28",
+   "titlu": "DECIZIE nr. 293 din 28 august 2026",
+   "descriere": "privind împuternicirea domnului general de brigadă cu o stea Marciu Lucian-Dumitru pentru a îndeplini atribuţiile funcţiei vacante de inspector general al Inspectoratului General pentru Situaţii de Urgenţă",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "722",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313846",
+   "tip": "DECIZIE",
+   "numar": "117",
+   "data_act": "2026-02-12",
+   "titlu": "DECIZIA nr. 117 din 12 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 453 alin. (4) teza finală şi ale art. 459 alin. (3) lit. c) raportat la art. 453 alin. (1) lit. f) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "722",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313845",
+   "tip": "DECRET",
+   "numar": "737",
+   "data_act": "2026-08-28",
+   "titlu": "DECRET nr. 737 din 28 august 2026",
+   "descriere": "pentru promulgarea Legii privind aprobarea Strategiei naţionale şi a Planului naţional de acţiune pentru conservarea biodiversităţii 2026-2030",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "722",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313844",
+   "tip": "LEGE",
+   "numar": "184",
+   "data_act": "2026-08-28",
+   "titlu": "LEGE nr. 184 din 28 august 2026",
+   "descriere": "privind aprobarea Strategiei naţionale şi a Planului naţional de acţiune pentru conservarea biodiversităţii 2026-2030",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "722",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": true
+  },
+  {
+   "id": "313843",
+   "tip": "ORDIN",
+   "numar": "5170",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.170 din 27 august 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului intern de organizare şi funcţionare a Autorităţii Naţionale pentru Cercetare, aprobat prin Ordinul ministrului educaţiei şi cercetării nr. 4.038/2025",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "721",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": true
+  },
+  {
+   "id": "313842",
+   "tip": "ORDIN",
+   "numar": "1112",
+   "data_act": "2026-08-24",
+   "titlu": "ORDIN nr. 1.112 din 24 august 2026",
+   "descriere": "privind aprobarea Ghidului de plată a ajutorului de stat acordat în baza Hotărârii Guvernului nr. 486/2026 privind stimularea investiţiilor în vederea realizării de produse cu deficit comercial din industria prelucrătoare - Revizia 0",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "721",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313841",
+   "tip": "ORDIN",
+   "numar": "250",
+   "data_act": "2026-08-21",
+   "titlu": "ORDIN nr. 250 din 21 august 2026",
+   "descriere": "pentru modificarea şi completarea Ordinului ministrului agriculturii şi dezvoltării rurale nr. 5/2026 privind nominalizarea punctelor de debarcare şi centrelor de primă vânzare pentru debarcarea şi comercializarea capturilor de peşte obţinute din pescuit comercial în habitatele acvatice naturale",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "721",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313840",
+   "tip": "DECRET",
+   "numar": "736",
+   "data_act": "2026-08-28",
+   "titlu": "DECRET nr. 736 din 28 august 2026",
+   "descriere": "pentru promulgarea Legii privind închiderea operaţională şi financiară a Planului naţional de redresare şi rezilienţă",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "721",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313839",
+   "tip": "LEGE",
+   "numar": "183",
+   "data_act": "2026-08-28",
+   "titlu": "LEGE nr. 183 din 28 august 2026",
+   "descriere": "privind închiderea operaţională şi financiară a Planului naţional de redresare şi rezilienţă",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "721",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": true
+  },
+  {
+   "id": "313838",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-08-27",
+   "titlu": "METODOLOGIE-CADRU din 27 august 2026",
+   "descriere": "privind operaţionalizarea unităţilor/compartimentelor/departamentelor de inovare şi transfer tehnologic la nivelul agenţiilor de finanţare",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313837",
+   "tip": "ORDIN",
+   "numar": "5171",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.171 din 27 august 2026",
+   "descriere": "pentru aprobarea Metodologiei-cadru privind operaţionalizarea unităţilor/compartimentelor/departamentelor de inovare şi transfer tehnologic la nivelul agenţiilor de finanţare",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313836",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-08-25",
+   "titlu": "PROCEDURĂ SPECIFICĂ din 25 august 2026",
+   "descriere": "de implementare a măsurii de susţinere a activităţii didactice, emisă pe suport electronic, pentru anul şcolar/universitar 2025-2026",
+   "emitenti": [
+    "Serviciul de Telecomunicații Speciale"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313835",
+   "tip": "ORDIN",
+   "numar": "430",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 430 din 25 august 2026",
+   "descriere": "pentru aprobarea Procedurii specifice de implementare a măsurii de susţinere a activităţii didactice, emisă pe suport electronic, pentru anul şcolar/universitar 2025-2026",
+   "emitenti": [
+    "Serviciul de Telecomunicații Speciale"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313834",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-08-26",
+   "titlu": "PROCEDURĂ SPECIFICĂ din 26 august 2026",
+   "descriere": "de implementare a măsurii de susţinere a activităţii didactice, emisă pe suport electronic, pentru anul şcolar/universitar 2025-2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313833",
+   "tip": "ORDIN",
+   "numar": "5102",
+   "data_act": "2026-08-26",
+   "titlu": "ORDIN nr. 5.102 din 26 august 2026",
+   "descriere": "pentru aprobarea Procedurii specifice de implementare a măsurii de susţinere a activităţii didactice, emisă pe suport electronic, pentru anul şcolar/universitar 2025-2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313832",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-08-20",
+   "titlu": "PROCEDURĂ SPECIFICĂ din 20 august 2026",
+   "descriere": "de implementare a măsurii de susţinere a activităţii didactice, emisă pe suport electronic, pentru anul şcolar/universitar 2025-2026",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313831",
+   "tip": "ORDIN",
+   "numar": "1315",
+   "data_act": "2026-08-20",
+   "titlu": "ORDIN nr. 1.315 din 20 august 2026",
+   "descriere": "pentru aprobarea Procedurii specifice de implementare a măsurii de susţinere a activităţii didactice, emisă pe suport electronic, pentru anul şcolar/universitar 2025-2026",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313830",
+   "tip": "DECIZIE",
+   "numar": "292",
+   "data_act": "2026-08-28",
+   "titlu": "DECIZIE nr. 292 din 28 august 2026",
+   "descriere": "privind numirea unor membri în cadrul Consiliului consultativ pentru evaluarea impactului actelor normative",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313829",
+   "tip": "DECIZIE",
+   "numar": "291",
+   "data_act": "2026-08-28",
+   "titlu": "DECIZIE nr. 291 din 28 august 2026",
+   "descriere": "pentru numirea doamnei Flavia-Ramona Boghiu în funcţia de secretar de stat la Ministerul Mediului, Apelor şi Pădurilor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313828",
+   "tip": "DECIZIE",
+   "numar": "290",
+   "data_act": "2026-08-28",
+   "titlu": "DECIZIE nr. 290 din 28 august 2026",
+   "descriere": "pentru eliberarea domnului Raul Pop din funcţia de secretar de stat la Ministerul Mediului, Apelor şi Pădurilor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313827",
+   "tip": "DECIZIE",
+   "numar": "289",
+   "data_act": "2026-08-28",
+   "titlu": "DECIZIE nr. 289 din 28 august 2026",
+   "descriere": "privind încetarea, la cerere, a exercitării, cu caracter temporar, de către domnul Vlaicu Dan a funcţiei publice vacante de secretar general al Autorităţii Electorale Permanente",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [
+    "functie publica"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313826",
+   "tip": "DECIZIE",
+   "numar": "288",
+   "data_act": "2026-08-28",
+   "titlu": "DECIZIE nr. 288 din 28 august 2026",
+   "descriere": "privind eliberarea domnului Ionuţ Sorin Banciu, la cerere, din funcţia de vicepreşedinte al Autorităţii Naţionale de Reglementare în Domeniul Minier, Petrolier şi al Stocării Geologice a Dioxidului de Carbon",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313825",
+   "tip": "DECIZIE",
+   "numar": "287",
+   "data_act": "2026-08-28",
+   "titlu": "DECIZIE nr. 287 din 28 august 2026",
+   "descriere": "pentru eliberarea doamnei Cristina Trăilă, la cerere, din funcţia de secretar general adjunct al Guvernului, cu rang de secretar de stat",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313824",
+   "tip": "DECIZIE",
+   "numar": "215",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 215 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a sintagmei \"încheiere definitivă\" din cuprinsul art. 906 alin. (2) din Codul de procedură civilă , în interpretarea dată prin Decizia nr. 73 din 16 octombrie 2017 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "720",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
   {
    "id": "313823",
    "tip": "ORDIN",
