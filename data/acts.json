@@ -1,28 +1,316 @@
 {
- "generated_at": "2026-08-31T05:05:18+00:00",
+ "generated_at": "2026-08-31T13:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 440,
- "new_this_run": 46,
+ "total": 455,
+ "new_this_run": 15,
  "pages_scanned": 6,
  "categories": {
+  "Educație și cercetare": 69,
+  "Energie și mediu": 35,
+  "Justiție și afaceri interne": 45,
+  "Muncă și dialog social": 10,
+  "Cultură, culte și sport": 8,
   "Altele": 33,
-  "Energie și mediu": 26,
   "Transporturi și infrastructură": 39,
-  "Justiție și afaceri interne": 44,
   "Protecție socială și pensii": 10,
   "Fiscalitate și buget": 47,
-  "Educație și cercetare": 66,
   "Economie, IMM și comerț": 44,
   "Agricultură și dezvoltare rurală": 49,
   "Afaceri externe și UE": 7,
   "Administrație publică": 43,
-  "Cultură, culte și sport": 7,
   "Sănătate": 11,
   "Apărare și securitate națională": 3,
-  "Digitalizare și comunicații": 2,
-  "Muncă și dialog social": 9
+  "Digitalizare și comunicații": 2
  },
  "acts": [
+  {
+   "id": "313883",
+   "tip": "ORDIN",
+   "numar": "5078",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.078 din 25 august 2026",
+   "descriere": "privind acreditarea domeniului de doctorat \"Muzică\" în cadrul Şcolii Doctorale \"Alexandru Piru\" a Facultăţii de Litere, organizată la Universitatea din Craiova",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "726",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313882",
+   "tip": "ORDIN",
+   "numar": "5076",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.076 din 25 august 2026",
+   "descriere": "privind acreditarea domeniului de doctorat \"Asistenţă socială\" în cadrul Şcolii Doctorale de Ştiinţe Sociale, organizată la Universitatea \"Lucian Blaga\" din Sibiu",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "726",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "asistenta sociala",
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": true
+  },
+  {
+   "id": "313881",
+   "tip": "ORDIN",
+   "numar": "1786",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 1.786 din 28 august 2026",
+   "descriere": "privind aprobarea Catalogului naţional al zonelor prioritare pentru biodiversitate",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "726",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313880",
+   "tip": "DECIZIE",
+   "numar": "720",
+   "data_act": "2025-12-09",
+   "titlu": "DECIZIA nr. 720 din 9 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2 lit. d) din Legea nr. 168/2020 pentru recunoaşterea meritelor personalului participant la acţiuni militare, misiuni şi operaţii pe teritoriul sau în afara teritoriului statului român şi acordarea unor drepturi acestuia, familiei acestuia şi urmaşilor celui decedat",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "726",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313879",
+   "tip": "CADRU",
+   "numar": "MET",
+   "data_act": "2026-08-28",
+   "titlu": "CADRUL METODOLOGIC din 28 august 2026",
+   "descriere": "pentru elaborarea şi implementarea programelor de sprijin prevăzute la art. 4 alin. (1) din Legea nr. 168/2026 privind decarbonizarea sectorului de încălzire şi răcire, precum şi pentru modificarea şi completarea unor acte normative, inclusiv criteriilor de eligibilitate, a criteriilor pentru efectuarea testului de fezabilitate tehnică prevăzut la art. 4 alin. (3) din aceeaşi lege, a intensităţii sprijinului, a definiţiei şi măsurilor de protecţie aplicabile gospodăriilor afectate de sărăcie energetică şi gospodăriilor vulnerabile, precum şi a mecanismului de acordare a sprijinului",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "727",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313878",
+   "tip": "ORDIN",
+   "numar": "1787",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 1.787 din 28 august 2026",
+   "descriere": "pentru aprobarea cadrului metodologic pentru elaborarea şi implementarea programelor de sprijin prevăzute la art. 4 alin. (1) din Legea nr. 168/2026 privind decarbonizarea sectorului de încălzire şi răcire, precum şi pentru modificarea şi completarea unor acte normative, inclusiv criteriilor de eligibilitate, a criteriilor pentru efectuarea testului de fezabilitate tehnică prevăzut la art. 4 alin. (3) din aceeaşi lege, a intensităţii sprijinului, a definiţiei şi măsurilor de protecţie aplicabile gospodăriilor afectate de sărăcie energetică şi gospodăriilor vulnerabile, precum şi a mecanismului de acordare a sprijinului",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "727",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313877",
+   "tip": "CADRU",
+   "numar": "MET",
+   "data_act": "2026-08-28",
+   "titlu": "CADRUL METODOLOGIC din 28 august 2026",
+   "descriere": "pentru elaborarea şi implementarea programelor de sprijin prevăzute la art. 4 alin. (1) din Legea nr. 168/2026 privind decarbonizarea sectorului de încălzire şi răcire, precum şi pentru modificarea şi completarea unor acte normative, inclusiv criteriilor de eligibilitate, a criteriilor pentru efectuarea testului de fezabilitate tehnică prevăzut la art. 4 alin. (3) din aceeaşi lege, a intensităţii sprijinului, a definiţiei şi măsurilor de protecţie aplicabile gospodăriilor afectate de sărăcie energetică şi gospodăriilor vulnerabile, precum şi a mecanismului de acordare a sprijinului",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "727",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313876",
+   "tip": "ORDIN",
+   "numar": "1019",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 1.019 din 28 august 2026",
+   "descriere": "pentru aprobarea cadrului metodologic pentru elaborarea şi implementarea programelor de sprijin prevăzute la art. 4 alin. (1) din Legea nr. 168/2026 privind decarbonizarea sectorului de încălzire şi răcire, precum şi pentru modificarea şi completarea unor acte normative, inclusiv criteriilor de eligibilitate, a criteriilor pentru efectuarea testului de fezabilitate tehnică prevăzut la art. 4 alin. (3) din aceeaşi lege, a intensităţii sprijinului, a definiţiei şi măsurilor de protecţie aplicabile gospodăriilor afectate de sărăcie energetică şi gospodăriilor vulnerabile, precum şi a mecanismului de acordare a sprijinului",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "727",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313875",
+   "tip": "CADRU",
+   "numar": "MET",
+   "data_act": "2026-08-28",
+   "titlu": "CADRUL METODOLOGIC din 28 august 2026",
+   "descriere": "pentru elaborarea şi implementarea programelor de sprijin prevăzute la art. 4 alin. (1) din Legea nr. 168/2026 privind decarbonizarea sectorului de încălzire şi răcire, precum şi pentru modificarea şi completarea unor acte normative, inclusiv criteriilor de eligibilitate, a criteriilor pentru efectuarea testului de fezabilitate tehnică prevăzut la art. 4 alin. (3) din aceeaşi lege, a intensităţii sprijinului, a definiţiei şi măsurilor de protecţie aplicabile gospodăriilor afectate de sărăcie energetică şi gospodăriilor vulnerabile, precum şi a mecanismului de acordare a sprijinului",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "727",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313874",
+   "tip": "ORDIN",
+   "numar": "957",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 957 din 28 august 2026",
+   "descriere": "pentru aprobarea cadrului metodologic pentru elaborarea şi implementarea programelor de sprijin prevăzute la art. 4 alin. (1) din Legea nr. 168/2026 privind decarbonizarea sectorului de încălzire şi răcire, precum şi pentru modificarea şi completarea unor acte normative, inclusiv criteriilor de eligibilitate, a criteriilor pentru efectuarea testului de fezabilitate tehnică prevăzut la art. 4 alin. (3) din aceeaşi lege, a intensităţii sprijinului, a definiţiei şi măsurilor de protecţie aplicabile gospodăriilor afectate de sărăcie energetică şi gospodăriilor vulnerabile, precum şi a mecanismului de acordare a sprijinului",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "727",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313873",
+   "tip": "CADRU",
+   "numar": "MET",
+   "data_act": "2026-08-18",
+   "titlu": "CADRUL METODOLOGIC din 18 august 2026",
+   "descriere": "pentru elaborarea şi implementarea programelor de sprijin prevăzute la art. 4 alin. (1) din Legea nr. 168/2026 privind decarbonizarea sectorului de încălzire şi răcire, precum şi pentru modificarea şi completarea unor acte normative, inclusiv criteriilor de eligibilitate, a criteriilor pentru efectuarea testului de fezabilitate tehnică prevăzut la art. 4 alin. (3) din aceeaşi lege, a intensităţii sprijinului, a definiţiei şi măsurilor de protecţie aplicabile gospodăriilor afectate de sărăcie energetică şi gospodăriilor vulnerabile, precum şi a mecanismului de acordare a sprijinului",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "727",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313872",
+   "tip": "ORDIN",
+   "numar": "1299",
+   "data_act": "2026-08-18",
+   "titlu": "ORDIN nr. 1.299 din 18 august 2026",
+   "descriere": "pentru aprobarea cadrului metodologic pentru elaborarea şi implementarea programelor de sprijin prevăzute la art. 4 alin. (1) din Legea nr. 168/2026 privind decarbonizarea sectorului de încălzire şi răcire, precum şi pentru modificarea şi completarea unor acte normative, inclusiv criteriilor de eligibilitate, a criteriilor pentru efectuarea testului de fezabilitate tehnică prevăzut la art. 4 alin. (3) din aceeaşi lege, a intensităţii sprijinului, a definiţiei şi măsurilor de protecţie aplicabile gospodăriilor afectate de sărăcie energetică şi gospodăriilor vulnerabile, precum şi a mecanismului de acordare a sprijinului",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "727",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313871",
+   "tip": "DECIZIE",
+   "numar": "183",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIA nr. 183 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. (2) şi (4) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "727",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-08-31",
+   "are_text": true
+  },
+  {
+   "id": "313870",
+   "tip": "DECRET",
+   "numar": "738",
+   "data_act": "2026-08-31",
+   "titlu": "DECRET nr. 738 din 31 august 2026",
+   "descriere": "privind conferirea Ordinului Meritul Cultural",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "727",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-08-31",
+   "are_text": false
+  },
   {
    "id": "313869",
    "tip": "DECRET",
@@ -5323,6 +5611,28 @@
    "scor": 2,
    "termeni": [],
    "first_seen": "2026-08-25",
+   "are_text": false
+  },
+  {
+   "id": "313812",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-08-14",
+   "titlu": "ANEXE din 14 august 2026",
+   "descriere": "pentru modificarea anexelor nr. 1 şi 2 la Hotărârea Guvernului nr. 192/2026 privind aprobarea domeniilor şi programelor de studii universitare de master acreditate şi a numărului maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2026-2027",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "679",
+   "data_publicare": "2026-08-17",
+   "data_vigoare": "2026-08-17",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-08-31",
    "are_text": false
   },
   {
