@@ -1,28 +1,829 @@
 {
- "generated_at": "2026-09-01T05:08:21+00:00",
+ "generated_at": "2026-09-02T05:00:40+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 477,
- "new_this_run": 22,
+ "total": 517,
+ "new_this_run": 40,
  "pages_scanned": 6,
  "categories": {
-  "Agricultură și dezvoltare rurală": 50,
-  "Altele": 34,
-  "Energie și mediu": 42,
-  "Fiscalitate și buget": 50,
-  "Educație și cercetare": 73,
-  "Justiție și afaceri interne": 51,
+  "Educație și cercetare": 75,
+  "Economie, IMM și comerț": 48,
+  "Justiție și afaceri interne": 61,
+  "Administrație publică": 48,
+  "Altele": 36,
+  "Digitalizare și comunicații": 4,
+  "Fiscalitate și buget": 54,
+  "Energie și mediu": 47,
+  "Transporturi și infrastructură": 43,
+  "Agricultură și dezvoltare rurală": 51,
   "Muncă și dialog social": 10,
   "Cultură, culte și sport": 8,
-  "Transporturi și infrastructură": 39,
+  "Sănătate": 12,
   "Protecție socială și pensii": 10,
-  "Economie, IMM și comerț": 44,
   "Afaceri externe și UE": 7,
-  "Administrație publică": 43,
-  "Sănătate": 11,
-  "Apărare și securitate națională": 3,
-  "Digitalizare și comunicații": 2
+  "Apărare și securitate națională": 3
  },
  "acts": [
+  {
+   "id": "313946",
+   "tip": "ORDIN",
+   "numar": "4353",
+   "data_act": "2026-07-07",
+   "titlu": "ORDIN nr. 4.353 din 7 iulie 2026",
+   "descriere": "privind aprobarea programei şcolare pentru disciplina \"NATO în lumea contemporană\", clasa a X-a, învăţământ liceal, disciplină opţională din curriculumul la decizia elevului din oferta şcolii, în ofertă naţională",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "735",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-02",
+   "are_text": true
+  },
+  {
+   "id": "313945",
+   "tip": "ORDIN",
+   "numar": "13906",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 13.906 din 31 august 2026",
+   "descriere": "pentru aprobarea modelului formularului de integritate prevăzut la art. 5 alin. (3) din Legea nr. 184/2016 privind instituirea unui mecanism de prevenire a conflictului de interese în procedura de atribuire a contractelor de achiziţie publică",
+   "emitenti": [
+    "Agenția Națională de Integritate"
+   ],
+   "monitor_nr": "735",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313944",
+   "tip": "ORDIN",
+   "numar": "1387",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 1.387 din 31 august 2026",
+   "descriere": "pentru aprobarea modelului formularului de integritate prevăzut la art. 5 alin. (3) din Legea nr. 184/2016 privind instituirea unui mecanism de prevenire a conflictului de interese în procedura de atribuire a contractelor de achiziţie publică",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "735",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313943",
+   "tip": "DECIZIE",
+   "numar": "281",
+   "data_act": "2026-03-26",
+   "titlu": "DECIZIA nr. 281 din 26 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 29 alin. (5) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, precum şi ale art. 470 alin. (5) şi ale art. 487 alin. (1) din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "735",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313942",
+   "tip": "DECRET",
+   "numar": "751",
+   "data_act": "2026-09-01",
+   "titlu": "DECRET nr. 751 din 1 septembrie 2026",
+   "descriere": "privind trecerea în rezervă a unui general de brigadă cu o stea din Serviciul Român de Informaţii",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "735",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313941",
+   "tip": "HOTARARE",
+   "numar": "46",
+   "data_act": "2026-09-01",
+   "titlu": "HOTĂRÂRE nr. 46 din 1 septembrie 2026",
+   "descriere": "pentru alegerea vicepreşedinţilor, secretarilor şi chestorilor Camerei Deputaţilor",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "735",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313940",
+   "tip": "HOTARARE",
+   "numar": "115",
+   "data_act": "2026-09-01",
+   "titlu": "HOTĂRÂRE nr. 115 din 1 septembrie 2026",
+   "descriere": "pentru modificarea Hotărârii Senatului nr. 134/2024 privind aprobarea componenţei numerice şi nominale a comisiilor permanente ale Senatului",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "735",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313939",
+   "tip": "HOTARARE",
+   "numar": "114",
+   "data_act": "2026-09-01",
+   "titlu": "HOTĂRÂRE nr. 114 din 1 septembrie 2026",
+   "descriere": "pentru alegerea vicepreşedinţilor, secretarilor şi chestorilor Biroului permanent al Senatului",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "735",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313938",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-07-09",
+   "titlu": "METODOLOGIA DE SELECŢIE ŞI CRITERIILE DE REPREZENTATIVITATE din 9 iulie 2026",
+   "descriere": "pentru stabilirea componenţei Consiliului consultativ strategic pentru transformare digitală şi tehnologia informaţiei",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 4,
+   "termeni": [
+    "reprezentativitate"
+   ],
+   "first_seen": "2026-09-02",
+   "are_text": true
+  },
+  {
+   "id": "313937",
+   "tip": "ORDIN",
+   "numar": "1082",
+   "data_act": "2026-07-09",
+   "titlu": "ORDIN nr. 1.082 din 9 iulie 2026",
+   "descriere": "privind organizarea Consiliului consultativ strategic pentru transformare digitală şi tehnologia informaţiei",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313936",
+   "tip": "ORDIN",
+   "numar": "992",
+   "data_act": "2026-08-14",
+   "titlu": "ORDIN nr. 992 din 14 august 2026",
+   "descriere": "pentru modificarea şi completarea Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.757/2019 pentru aprobarea Procedurii de mediere, precum şi a documentelor pe care debitorii le prezintă în vederea susţinerii situaţiei economice şi financiare",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313935",
+   "tip": "ORDIN",
+   "numar": "1607",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 1.607 din 25 august 2026",
+   "descriere": "pentru aprobarea Planului de măsuri pentru simplificarea şi eficientizarea procedurilor administrative privind proiectele de energie eoliană offshore",
+   "emitenti": [
+    "Autoritatea Competentă pentru Reglementarea Operațiunilor Offshore la Marea Neagră"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313934",
+   "tip": "ORDIN",
+   "numar": "1349",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 1.349 din 28 august 2026",
+   "descriere": "pentru aprobarea Planului de măsuri pentru simplificarea şi eficientizarea procedurilor administrative privind proiectele de energie eoliană offshore",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313933",
+   "tip": "ORDIN",
+   "numar": "945",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 945 din 25 august 2026",
+   "descriere": "pentru aprobarea Planului de măsuri pentru simplificarea şi eficientizarea procedurilor administrative privind proiectele de energie eoliană offshore",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313932",
+   "tip": "DECRET",
+   "numar": "750",
+   "data_act": "2026-09-01",
+   "titlu": "DECRET nr. 750 din 1 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313931",
+   "tip": "DECRET",
+   "numar": "749",
+   "data_act": "2026-09-01",
+   "titlu": "DECRET nr. 749 din 1 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313930",
+   "tip": "DECRET",
+   "numar": "748",
+   "data_act": "2026-09-01",
+   "titlu": "DECRET nr. 748 din 1 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313929",
+   "tip": "DECRET",
+   "numar": "747",
+   "data_act": "2026-09-01",
+   "titlu": "DECRET nr. 747 din 1 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313928",
+   "tip": "DECRET",
+   "numar": "746",
+   "data_act": "2026-09-01",
+   "titlu": "DECRET nr. 746 din 1 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313927",
+   "tip": "DECRET",
+   "numar": "745",
+   "data_act": "2026-09-01",
+   "titlu": "DECRET nr. 745 din 1 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313926",
+   "tip": "DECRET",
+   "numar": "744",
+   "data_act": "2026-09-01",
+   "titlu": "DECRET nr. 744 din 1 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313925",
+   "tip": "DECRET",
+   "numar": "743",
+   "data_act": "2026-09-01",
+   "titlu": "DECRET nr. 743 din 1 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313924",
+   "tip": "DECRET",
+   "numar": "742",
+   "data_act": "2026-09-01",
+   "titlu": "DECRET nr. 742 din 1 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313923",
+   "tip": "CUANTUM",
+   "numar": "TOTAL",
+   "data_act": "2026-09-01",
+   "titlu": "CUANTUM TOTAL din 1 septembrie 2026",
+   "descriere": "publicat în temeiul Legii nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+   "emitenti": [
+    "Partide Politice"
+   ],
+   "monitor_nr": "733",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313922",
+   "tip": "CUANTUM",
+   "numar": "TOTAL",
+   "data_act": "2026-09-01",
+   "titlu": "CUANTUM TOTAL din 1 septembrie 2026",
+   "descriere": "publicat în temeiul Legii nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+   "emitenti": [
+    "Partide Politice"
+   ],
+   "monitor_nr": "733",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313921",
+   "tip": "ORDIN",
+   "numar": "1345",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 1.345 din 28 august 2026",
+   "descriere": "pentru modificarea Ordinului ministrului investiţiilor şi proiectelor europene nr. 654/2025 privind aprobarea Schemei de măsuri de ajutor de minimis având ca obiectiv dezvoltarea microîntreprinderilor prin acordarea de sprijin pentru creşterea durabilă şi crearea de locuri de muncă în cadrul Programului Tranziţie Justă 2021-2027",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "733",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313920",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-08-27",
+   "titlu": "METODOLOGIE din 27 august 2026",
+   "descriere": "de acordare a permisului de explorare în perimetrele eoliene offshore",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "733",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313919",
+   "tip": "ORDIN",
+   "numar": "951",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 951 din 27 august 2026",
+   "descriere": "privind aprobarea Metodologiei de acordare a permisului de explorare în perimetrele eoliene offshore",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "733",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313918",
+   "tip": "ORDIN",
+   "numar": "1132",
+   "data_act": "2026-08-26",
+   "titlu": "ORDIN nr. 1.132 din 26 august 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 şi a situaţiei centralizate privind veniturile şi cheltuielile din bazele de cost pe anul 2026 ale Regiei Autonome \"Administraţia Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "733",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313917",
+   "tip": "ORDIN",
+   "numar": "720",
+   "data_act": "2026-07-24",
+   "titlu": "ORDIN nr. 720 din 24 iulie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 şi a situaţiei centralizate privind veniturile şi cheltuielile din bazele de cost pe anul 2026 ale Regiei Autonome \"Administraţia Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "733",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313916",
+   "tip": "ORDIN",
+   "numar": "994",
+   "data_act": "2026-07-23",
+   "titlu": "ORDIN nr. 994 din 23 iulie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii \"Informatică Feroviară\" - S.A., filiala Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A.",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "732",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-09-02",
+   "are_text": true
+  },
+  {
+   "id": "313915",
+   "tip": "ORDIN",
+   "numar": "1133",
+   "data_act": "2026-08-26",
+   "titlu": "ORDIN nr. 1.133 din 26 august 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii \"Informatică Feroviară\" - S.A., filiala Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A.",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "732",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313914",
+   "tip": "ORDIN",
+   "numar": "687",
+   "data_act": "2026-07-14",
+   "titlu": "ORDIN nr. 687 din 14 iulie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii \"Informatică Feroviară\" - S.A., filiala Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A.",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "732",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313913",
+   "tip": "HOTARARE",
+   "numar": "214",
+   "data_act": "2026-08-28",
+   "titlu": "HOTĂRÂRE nr. 214 din 28 august 2026",
+   "descriere": "pentru modificarea şi completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 35/2014 privind aprobarea cotizaţiilor şi taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice şi juridice, şi pentru membrii stagiari în activitatea de audit financiar",
+   "emitenti": [
+    "Camera Auditorilor Financiari din România"
+   ],
+   "monitor_nr": "732",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2027-01-01",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313912",
+   "tip": "ORDIN",
+   "numar": "4662",
+   "data_act": "2026-08-17",
+   "titlu": "ORDIN nr. 4.662 din 17 august 2026",
+   "descriere": "privind aprobarea Notei de prezentare şi a planurilor-cadru pentru învăţământul liceal cu frecvenţă zi, filiera teoretică, profilul real - specializarea matematică-informatică, respectiv profilul umanist - specializarea ştiinţe sociale, pentru secţii/şcoli speciale germane",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "732",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-02",
+   "are_text": true
+  },
+  {
+   "id": "313911",
+   "tip": "ORDIN",
+   "numar": "1763",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 1.763 din 25 august 2026",
+   "descriere": "pentru aprobarea relocării unui cuib de barză (Ciconia ciconia) de pe raza comunei Baia de Fier, judeţul Gorj",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "732",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313910",
+   "tip": "ORDIN",
+   "numar": "1019",
+   "data_act": "2026-08-20",
+   "titlu": "ORDIN nr. 1.019 din 20 august 2026",
+   "descriere": "pentru modificarea anexei nr. 2 la Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 3.666/2020 privind aprobarea modelului şi conţinutului formularelor şi documentelor utilizate în activitatea de verificare documentară",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "732",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313909",
+   "tip": "ORDIN",
+   "numar": "252",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 252 din 27 august 2026",
+   "descriere": "pentru modificarea şi completarea Ordinului ministrului agriculturii şi dezvoltării rurale nr. 393/2023 privind aprobarea Sistemului de sancţiuni administrative pentru condiţionalitate începând cu anul de cerere 2023",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "732",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-02",
+   "are_text": false
+  },
+  {
+   "id": "313908",
+   "tip": "HOTARARE",
+   "numar": "673",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 673 din 27 august 2026",
+   "descriere": "privind aprobarea plăţii contribuţiei financiare voluntare a României la bugetul Organizaţiei pentru Cooperare şi Dezvoltare Economică, aferentă anului 2026, având în vedere statutul de stat membru asociat în cadrul Grupului de lucru privind combaterea mituirii funcţionarilor publici în cadrul operaţiunilor economice internaţionale",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "732",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 6,
+   "termeni": [
+    "functionari publici",
+    "guvernul"
+   ],
+   "first_seen": "2026-09-02",
+   "are_text": true
+  },
   {
    "id": "313905",
    "tip": "HOTARARE",
@@ -768,6 +1569,28 @@
    "scor": 1,
    "termeni": [],
    "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "313907",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-08-25",
+   "titlu": "ANEXĂ din 25 august 2026",
+   "descriere": "privind modificarea şi completarea anexelor nr. 1 şi 2 la Ordinul ministrului sănătăţii nr. 5.994/2024 pentru aprobarea preţurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deţinătorii de autorizaţie de punere pe piaţă a medicamentelor sau reprezentanţii acestora, distribuitorii angro şi furnizorii de servicii medicale şi medicamente pentru acele medicamente care fac obiectul unei relaţii contractuale cu Ministerul Sănătăţii, casele de asigurări de sănătate şi/sau direcţiile de sănătate publică judeţene şi a municipiului Bucureşti, cuprinse în Catalogul naţional al preţurilor medicamentelor autorizate de punere pe piaţă în România, a preţurilor de referinţă generice şi a preţurilor de referinţă inovative",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "718",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-09-02",
    "are_text": false
   },
   {
