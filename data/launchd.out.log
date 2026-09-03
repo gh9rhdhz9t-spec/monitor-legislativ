@@ -511,3 +511,80 @@ Cele mai relevante acte din aceasta rulare:
   [8] Fiscalitate și buget — ORDIN nr. 685 din 29 mai 2026
   [8] Muncă și dialog social — DECIZIA nr. 40 din 9 martie 2026
 dist/radar-legislativ.html — 517 acte, 92 cu text integral, 1.62 MB
+[2026-09-02 08:35:46] Gata: 40 acte noi, 517 în total. Artefactul poate fi republicat.
+[2026-09-02 08:35:46] Date noi publicate pe GitHub; rutina din cloud le va prelua.
+[2026-09-02 16:11:43] ── pornesc actualizarea ──
+  ! nu am putut initializa sesiunea: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 1/5), reincerc in 5s
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 2/5), reincerc in 10s
+  ! nu am putut initializa sesiunea: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 3/5), reincerc in 20s
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 4/5), reincerc in 40s
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 5/5), reincerc in 60s
+Baza existenta: 517 acte
+→ pagina 1/6
+Traceback (most recent call last):
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 633, in <module>
+    main()
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 558, in main
+    acts = scrape()
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 474, in scrape
+    chunks = split_items(fetch(url))
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 189, in fetch
+    raise RuntimeError("Nu am putut descarca %s: %s" % (url, last))
+RuntimeError: Nu am putut descarca https://legislatie.just.ro/Public/RezultateCautare?page=1&rezultatePerPagina=5: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[2026-09-02 18:26:09] EȘEC: colectarea nu s-a încheiat cu bine; nu public nimic.
+[2026-09-02 18:26:09] Colectarea a eșuat (cod 1).
+[2026-09-03 08:11:03] ── pornesc actualizarea ──
+  ! nu am putut initializa sesiunea: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 1/5), reincerc in 5s
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 2/5), reincerc in 10s
+  ! nu am putut initializa sesiunea: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 3/5), reincerc in 20s
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 4/5), reincerc in 40s
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 5/5), reincerc in 60s
+Baza existenta: 517 acte
+→ pagina 1/6
+Traceback (most recent call last):
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 633, in <module>
+    main()
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 558, in main
+    acts = scrape()
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 474, in scrape
+    chunks = split_items(fetch(url))
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 189, in fetch
+    raise RuntimeError("Nu am putut descarca %s: %s" % (url, last))
+RuntimeError: Nu am putut descarca https://legislatie.just.ro/Public/RezultateCautare?page=1&rezultatePerPagina=5: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[2026-09-03 10:21:28] EȘEC: colectarea nu s-a încheiat cu bine; nu public nimic.
+[2026-09-03 10:21:28] Colectarea a eșuat (cod 1).
+[2026-09-03 16:00:03] ── pornesc actualizarea ──
+Baza existenta: 517 acte
+→ pagina 1/6
+  · sesiune initializata (1 cookie-uri)
+  50 acte (total unic: 50)
+→ pagina 2/6
+  45 acte (total unic: 95)
+→ pagina 3/6
+  50 acte (total unic: 145)
+→ pagina 4/6
+  50 acte (total unic: 195)
+→ pagina 5/6
+  50 acte (total unic: 245)
+→ pagina 6/6
+  50 acte (total unic: 295)
+
+Text integral: 2 de descarcat (0 in coada)
+  · sesiune initializata (1 cookie-uri)
+  ✓ ORDIN 5214
+  ✓ DECIZIE 473
+Text integral disponibil pentru 94 acte (0 fisiere eliminate)
+
+558 acte in baza (41 noi, 0 eliminate prin retentie)
+
+Cele mai relevante acte din aceasta rulare:
+  [8] Muncă și dialog social — DECIZIA nr. 77 din 22 iunie 2026
+  [8] Protecție socială și pensii — ANEXE din 12 august 2026
+  [8] Protecție socială și pensii — ORDIN nr. 197 din 12 august 2026
+  [8] Fiscalitate și buget — ORDIN nr. 685 din 29 mai 2026
+  [8] Muncă și dialog social — DECIZIA nr. 40 din 9 martie 2026
+dist/radar-legislativ.html — 558 acte, 94 cu text integral, 1.68 MB

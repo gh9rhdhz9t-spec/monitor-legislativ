@@ -1,28 +1,874 @@
 {
- "generated_at": "2026-09-02T05:00:40+00:00",
+ "generated_at": "2026-09-03T13:00:03+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 517,
- "new_this_run": 40,
+ "total": 558,
+ "new_this_run": 41,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 75,
-  "Economie, IMM și comerț": 48,
-  "Justiție și afaceri interne": 61,
-  "Administrație publică": 48,
-  "Altele": 36,
+  "Educație și cercetare": 77,
+  "Altele": 42,
+  "Fiscalitate și buget": 60,
+  "Justiție și afaceri interne": 66,
+  "Energie și mediu": 56,
+  "Afaceri externe și UE": 8,
+  "Transporturi și infrastructură": 49,
+  "Administrație publică": 50,
+  "Muncă și dialog social": 11,
+  "Apărare și securitate națională": 4,
+  "Cultură, culte și sport": 9,
+  "Economie, IMM și comerț": 49,
   "Digitalizare și comunicații": 4,
-  "Fiscalitate și buget": 54,
-  "Energie și mediu": 47,
-  "Transporturi și infrastructură": 43,
   "Agricultură și dezvoltare rurală": 51,
-  "Muncă și dialog social": 10,
-  "Cultură, culte și sport": 8,
   "Sănătate": 12,
-  "Protecție socială și pensii": 10,
-  "Afaceri externe și UE": 7,
-  "Apărare și securitate națională": 3
+  "Protecție socială și pensii": 10
  },
  "acts": [
+  {
+   "id": "313988",
+   "tip": "ORDIN",
+   "numar": "5214",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.214 din 27 august 2026",
+   "descriere": "privind aprobarea graficului de desfăşurare a examenelor de certificare a calificării profesionale a absolvenţilor din învăţământul profesional şi tehnic preuniversitar în anul şcolar 2026-2027",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "745",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-03",
+   "are_text": true
+  },
+  {
+   "id": "313987",
+   "tip": "ORDIN",
+   "numar": "1027",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 1.027 din 31 august 2026",
+   "descriere": "privind acordarea titlului de parc industrial Societăţii Compania de Servicii Publice Zărneşti - S.R.L.",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "745",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313986",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-08-20",
+   "titlu": "PROCEDURĂ din 20 august 2026",
+   "descriere": "privind stabilirea din oficiu a taxei pe valoarea adăugată datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300)",
+   "emitenti": [
+    "Agenția Națională de Cadastru și Publicitate Imobiliară"
+   ],
+   "monitor_nr": "745",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313985",
+   "tip": "ORDIN",
+   "numar": "1022",
+   "data_act": "2026-08-20",
+   "titlu": "ORDIN nr. 1.022 din 20 august 2026",
+   "descriere": "pentru aprobarea Procedurii privind stabilirea din oficiu a taxei pe valoarea adăugată datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300), precum şi a modelului şi conţinutului unor formulare",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "745",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313984",
+   "tip": "ORDIN",
+   "numar": "1021",
+   "data_act": "2026-08-20",
+   "titlu": "ORDIN nr. 1.021 din 20 august 2026",
+   "descriere": "pentru modificarea şi completarea Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 3.788/2024 pentru aprobarea Procedurii privind organizarea şi înscrierea în Registrul RO e-Factura opţional, precum şi a modelului, conţinutului şi instrucţiunilor de completare ale formularului (081) \"Cerere privind înregistrarea în Registrul RO e-Factura opţional/renunţarea la cererea privind înregistrarea în Registrul RO e-Factura opţional\"",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "743",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313983",
+   "tip": "DECIZIE",
+   "numar": "136",
+   "data_act": "2026-02-17",
+   "titlu": "DECIZIA nr. 136 din 17 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 336 alin. (1) din Codul penal , în redactarea anterioară intrării în vigoare a Legii nr. 200/2023 pentru modificarea şi completarea Legii nr. 286/2009 privind Codul penal , precum şi a altor acte normative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "743",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313982",
+   "tip": "DECIZIE",
+   "numar": "644",
+   "data_act": "2025-11-25",
+   "titlu": "DECIZIA nr. 644 din 25 noiembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) , ale art. 4 alin. (1^1) - (1^3) , (3) şi (4), ale art. 5 alin. (3) şi (3^1) , ale art. 7 alin. (4) şi (5^1) , ale art. 8 alin. (5) , ale art. 10 alin. (1) şi ale art. 11 teza întâi din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligaţiilor asumate prin credite, precum şi a Legii nr. 52/2020 pentru modificarea şi completarea Legii nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligaţiilor asumate prin credite, în ansamblul său",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "743",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313981",
+   "tip": "NORMA",
+   "numar": "(R)",
+   "data_act": "2015-06-16",
+   "titlu": "NORME din 16 iunie 2015",
+   "descriere": "privind organizarea şi desfăşurarea concursului/examenului în vederea ocupării de către personalul Ministerului Apărării Naţionale a posturilor permanente din structurile de reprezentare naţională în străinătate, precum şi a celor din structurile internaţionale la care România este parte",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "742",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313980",
+   "tip": "ORDIN",
+   "numar": "",
+   "data_act": null,
+   "titlu": "ORDIN nr. M.59 din 16 iunie 2015",
+   "descriere": "pentru aprobarea Normelor privind organizarea şi desfăşurarea concursului/examenului în vederea ocupării de către personalul Ministerului Apărării Naţionale a posturilor permanente din structurile de reprezentare naţională în străinătate, precum şi a celor din structurile internaţionale la care România este parte",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "742",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313979",
+   "tip": "HOTARARE",
+   "numar": "215",
+   "data_act": "2026-08-28",
+   "titlu": "HOTĂRÂRE nr. 215 din 28 august 2026",
+   "descriere": "pentru modificarea şi completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 74/2014 privind aprobarea formularelor pentru raportarea anuală a membrilor Camerei Auditorilor Financiari din România",
+   "emitenti": [
+    "Camera Auditorilor Financiari din România"
+   ],
+   "monitor_nr": "742",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313977",
+   "tip": "RECTIFICARE",
+   "numar": "292",
+   "data_act": "2026-08-28",
+   "titlu": "RECTIFICARE nr. 292 din 28 august 2026",
+   "descriere": "referitoare la Decizia prim-ministrului nr. 292/2026",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "741",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313976",
+   "tip": "HOTARARE",
+   "numar": "9",
+   "data_act": "2026-09-01",
+   "titlu": "HOTĂRÂRE nr. 9 din 1 septembrie 2026",
+   "descriere": "privind ocuparea locului vacant de vicepreşedinte al Consiliului superior al Camerei Consultanţilor Fiscali",
+   "emitenti": [
+    "Camera Consultanților Fiscali"
+   ],
+   "monitor_nr": "741",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313975",
+   "tip": "HOTARARE",
+   "numar": "22",
+   "data_act": "2026-09-01",
+   "titlu": "HOTĂRÂRE nr. 22 din 1 septembrie 2026",
+   "descriere": "privind aprobarea unor măsuri şi lucrări de intervenţie pentru asigurarea debitelor şi nivelurilor necesare Centralei Nuclearoelectrice Cernavodă în perioada stării de alertă declarate prin Hotărârea Comitetului Naţional pentru Situaţii de Urgenţă nr. 15/2026 şi prelungite prin Hotărârea Comitetului Naţional pentru Situaţii de Urgenţă nr. 21/2026",
+   "emitenti": [
+    "Comitetul Național pentru Situații de Urgență"
+   ],
+   "monitor_nr": "741",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313974",
+   "tip": "NORMA",
+   "numar": "3",
+   "data_act": "2026-08-28",
+   "titlu": "NORMA nr. N3.18 din 28 august 2026",
+   "descriere": "referitoare la \"Operaţiuni de finanţare temporară a întreprinderilor publice în numele şi în contul statului\" (ediţia I/0)",
+   "emitenti": [
+    "Comitetul Interministerial de Finanțări, Garanții și Asigurări"
+   ],
+   "monitor_nr": "741",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313973",
+   "tip": "HOTARARE",
+   "numar": "170",
+   "data_act": "2026-08-28",
+   "titlu": "HOTĂRÂRE nr. 170 din 28 august 2026",
+   "descriere": "pentru aprobarea Normei N3.18 \"Operaţiuni de finanţare temporară a întreprinderilor publice în numele şi în contul statului\" (ediţia I/0)",
+   "emitenti": [
+    "Comitetul Interministerial de Finanțări, Garanții și Asigurări"
+   ],
+   "monitor_nr": "741",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313972",
+   "tip": "DECIZIE",
+   "numar": "884",
+   "data_act": "2026-08-17",
+   "titlu": "DECIZIA nr. 884 din 17 august 2026",
+   "descriere": "referitoare la obiecţia de neconstituţionalitate a Legii pentru ratificarea Acordului de împrumut (Primul împrumut pentru politici de dezvoltare în domeniul fiscal şi creştere economică) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington, la 16 aprilie 2026",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "740",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313971",
+   "tip": "ACORD",
+   "numar": "",
+   "data_act": "2026-08-03",
+   "titlu": "ACORD din 3 august 2026",
+   "descriere": "privind grantul, semnat la Bruxelles la 24 iulie 2026 şi la Bucureşti la 3 august 2026, dintre Banca Internaţională pentru Reconstrucţie şi Dezvoltare, în calitate de administrator al Facilităţii de granturi pentru pregătirea proiectelor, şi Guvernul României, în valoare de până la 1.700.000 dolari SUA, acordat României pentru pregătirea Programului Încălzire durabilă pentru o Românie rezilientă (SHARP)",
+   "emitenti": [
+    "Act Internațional"
+   ],
+   "monitor_nr": "739",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-08-03",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313970",
+   "tip": "ORDIN",
+   "numar": "1139",
+   "data_act": "2026-08-26",
+   "titlu": "ORDIN nr. 1.139 din 26 august 2026",
+   "descriere": "pentru aprobarea publicării Acordului privind grantul, semnat la Bruxelles la 24 iulie 2026 şi la Bucureşti la 3 august 2026, dintre Banca Internaţională pentru Reconstrucţie şi Dezvoltare, în calitate de administrator al Facilităţii de granturi pentru pregătirea proiectelor, şi Guvernul României, în valoare de până la 1.700.000 dolari SUA, acordat României pentru pregătirea Programului Încălzire durabilă pentru o Românie rezilientă (SHARP)",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "739",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313969",
+   "tip": "ORDIN",
+   "numar": "821",
+   "data_act": "2026-09-01",
+   "titlu": "ORDIN nr. 821 din 1 septembrie 2026",
+   "descriere": "privind modificarea şi completarea anexei la Ordinul ministrului transporturilor şi infrastructurii nr. 1.318/2025 pentru aprobarea Schemei de ajutor de stat privind promovarea infrastructurii pentru o mobilitate cu emisii zero în sprijinul întreprinderilor şi comunităţilor (e-MOVE RO)",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "739",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313968",
+   "tip": "ORDIN",
+   "numar": "820",
+   "data_act": "2026-09-01",
+   "titlu": "ORDIN nr. 820 din 1 septembrie 2026",
+   "descriere": "pentru modificarea anexei la Ordinul ministrului transporturilor şi infrastructurii nr. 755/2025 pentru aprobarea Schemei de ajutor de stat privind înlocuirea utilajelor şi echipamentelor neperformante din punctul de vedere al consumului de energie din sectorul transportului naval şi aerian cu utilaje şi echipamente cu emisii zero, precum şi a vehiculelor ce asigură servicii anexe transportului feroviar şi naval, pentru a se califica drept vehicule cu emisii zero",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "739",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313967",
+   "tip": "ORDIN",
+   "numar": "819",
+   "data_act": "2026-09-01",
+   "titlu": "ORDIN nr. 819 din 1 septembrie 2026",
+   "descriere": "pentru modificarea anexei la Ordinul ministrului transporturilor şi infrastructurii nr. 756/2025 pentru aprobarea Schemei de ajutor de stat privind sprijinirea investiţiilor destinate achiziţiei de vehicule cu emisii zero pentru transportul rutier şi feroviar de mărfuri, maritim şi pe căi navigabile interioare de pasageri şi mărfuri",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "739",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313966",
+   "tip": "ORDIN",
+   "numar": "818",
+   "data_act": "2026-09-01",
+   "titlu": "ORDIN nr. 818 din 1 septembrie 2026",
+   "descriere": "privind modificarea anexei la Ordinul ministrului transporturilor şi infrastructurii nr. 1.319/2025 pentru aprobarea Schemei de ajutor de stat privind dezvoltarea infrastructurii de reîncărcare a vehiculelor electrice pe reţeaua naţională de autostrăzi, drumuri expres şi naţionale \"e-Mobility RO\"",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "739",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313965",
+   "tip": "ORDIN",
+   "numar": "817",
+   "data_act": "2026-09-01",
+   "titlu": "ORDIN nr. 817 din 1 septembrie 2026",
+   "descriere": "pentru modificarea anexei la Ordinul ministrului transporturilor şi infrastructurii nr. 2.291/2025 pentru aprobarea Schemei de ajutor de stat şi de minimis privind sprijinirea investiţiilor destinate înlocuirii flotei întreprinderilor, precum şi pentru înlocuirea vehiculelor pentru transportul rutier de pasageri \"e-DRIVE\"",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "739",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313964",
+   "tip": "DECIZIE",
+   "numar": "294",
+   "data_act": "2026-09-02",
+   "titlu": "DECIZIE nr. 294 din 2 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Dantes Nicolae Bratu a funcţiei publice vacante din categoria înalţilor funcţionari publici de inspector general de stat la Inspecţia Muncii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "739",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [
+    "inspectia muncii",
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313963",
+   "tip": "DECIZIE",
+   "numar": "808",
+   "data_act": "2025-12-16",
+   "titlu": "DECIZIA nr. 808 din 16 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a sintagmei \"în mod cumulativ\", cuprinsă în partea introductivă a dispoziţiilor art. 4 alin. (1) din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligaţiilor asumate prin credite, precum şi a dispoziţiilor art. 4 alin. (1) lit. b) şi c) din acelaşi act normativ",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "739",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313962",
+   "tip": "HOTARARE",
+   "numar": "672",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 672 din 27 august 2026",
+   "descriere": "privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilului proprietate publică a statului, precum şi aprobarea listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, situate pe amplasamentul suplimentar, necesar pentru relocarea utilităţilor, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Bacău-Paşcani\", lot 3",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "738",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313961",
+   "tip": "ORDIN",
+   "numar": "1159",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 1.159 din 31 august 2026",
+   "descriere": "privind prospectele de emisiune a certificatelor de trezorerie cu discont şi a obligaţiunilor de stat de tip benchmark aferente lunii septembrie 2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "738",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313960",
+   "tip": "DECIZIE",
+   "numar": "213",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 213 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 50 alin. (1) din Codul de procedură civilă şi ale art. 139 alin. (1) lit. b) din Legea nr. 304/2004 privind organizarea judiciară",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "738",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313959",
+   "tip": "ORDIN",
+   "numar": "5077",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.077 din 25 august 2026",
+   "descriere": "privind aprobarea programelor de examen pentru disciplinele/modulele de pregătire corespunzătoare probelor examenului naţional de bacalaureat - 2030",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "737",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313958",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-08-26",
+   "titlu": "METODOLOGIE din 26 august 2026",
+   "descriere": "pentru înfiinţarea, organizarea şi funcţionarea subunităţilor din cadrul unităţilor fără personalitate juridică din Regia Naţională a Pădurilor - Romsilva",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "737",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313957",
+   "tip": "ORDIN",
+   "numar": "1766",
+   "data_act": "2026-08-26",
+   "titlu": "ORDIN nr. 1.766 din 26 august 2026",
+   "descriere": "privind aprobarea Metodologiei pentru înfiinţarea, organizarea şi funcţionarea subunităţilor din cadrul unităţilor fără personalitate juridică din Regia Naţională a Pădurilor - Romsilva",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "737",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313956",
+   "tip": "ORDIN",
+   "numar": "1757",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 1.757 din 25 august 2026",
+   "descriere": "privind aprobarea derogării în scop ştiinţific în vederea montării de colare pentru 5 exemplare din specia Ursus arctos",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "737",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313955",
+   "tip": "DECIZIE",
+   "numar": "473",
+   "data_act": "2025-10-16",
+   "titlu": "DECIZIA nr. 473 din 16 octombrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 70 , cu referire la art. 69 alin. (1) din cuprinsul capitolului II din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "737",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-09-03",
+   "are_text": true
+  },
+  {
+   "id": "313954",
+   "tip": "ORDIN",
+   "numar": "156",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. M.156 din 27 august 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor maiştri militari şi subofiţeri din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "736",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313953",
+   "tip": "ORDIN",
+   "numar": "155",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. M.155 din 27 august 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor ofiţeri din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "736",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313952",
+   "tip": "ORDIN",
+   "numar": "1",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. DG-1 din 27 august 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor gradaţi profesionişti din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Direcția Generală de Informații a Apărării"
+   ],
+   "monitor_nr": "736",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313951",
+   "tip": "HOTARARE",
+   "numar": "678",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 678 din 27 august 2026",
+   "descriere": "privind actualizarea valorii de inventar a bunurilor imobile aflate în domeniul public al statului şi în administrarea Operei Naţionale Române din Cluj-Napoca, instituţie publică aflată în subordinea Ministerului Culturii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "736",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313950",
+   "tip": "HOTARARE",
+   "numar": "677",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 677 din 27 august 2026",
+   "descriere": "privind actualizarea valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Administraţiei Naţionale a Rezervelor de Stat şi Probleme Speciale - Unitatea Teritorială 235 şi Unitatea Teritorială 320, ca urmare a reevaluării, precum şi înscrierea unui bun imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Administraţiei Naţionale a Rezervelor de Stat şi Probleme Speciale - Unitatea Teritorială 330",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "736",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313949",
+   "tip": "HOTARARE",
+   "numar": "676",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 676 din 27 august 2026",
+   "descriere": "privind actualizarea descrierii tehnice şi a valorii de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea Institutului de Investigare a Crimelor Comunismului şi Memoria Exilului Românesc",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "736",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313948",
+   "tip": "HOTARARE",
+   "numar": "675",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 675 din 27 august 2026",
+   "descriere": "privind închirierea unor părţi din imobilul 706, aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "736",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "313947",
+   "tip": "HOTARARE",
+   "numar": "674",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 674 din 27 august 2026",
+   "descriere": "privind trecerea unor părţi de imobile aflate în administrarea Ministerului Apărării Naţionale, constituite din construcţii şi amenajări la terenuri, situate în judeţele Alba, Ilfov, Dâmboviţa, Brăila, Galaţi, Braşov, Buzău, Constanţa şi municipiul Bucureşti, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "736",
+   "data_publicare": "2026-09-02",
+   "data_vigoare": "2026-09-02",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-03",
+   "are_text": false
+  },
   {
    "id": "313946",
    "tip": "ORDIN",
