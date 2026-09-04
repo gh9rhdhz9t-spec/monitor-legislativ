@@ -1,28 +1,587 @@
 {
- "generated_at": "2026-09-04T05:01:09+00:00",
+ "generated_at": "2026-09-04T13:01:19+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 558,
- "new_this_run": 0,
+ "total": 584,
+ "new_this_run": 26,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 77,
-  "Altele": 42,
-  "Fiscalitate și buget": 60,
-  "Justiție și afaceri interne": 66,
+  "Transporturi și infrastructură": 50,
+  "Protecție socială și pensii": 14,
+  "Afaceri externe și UE": 9,
+  "Fiscalitate și buget": 65,
+  "Educație și cercetare": 80,
+  "Altele": 46,
+  "Economie, IMM și comerț": 53,
+  "Justiție și afaceri interne": 69,
+  "Sănătate": 13,
   "Energie și mediu": 56,
-  "Afaceri externe și UE": 8,
-  "Transporturi și infrastructură": 49,
   "Administrație publică": 50,
   "Muncă și dialog social": 11,
   "Apărare și securitate națională": 4,
   "Cultură, culte și sport": 9,
-  "Economie, IMM și comerț": 49,
   "Digitalizare și comunicații": 4,
-  "Agricultură și dezvoltare rurală": 51,
-  "Sănătate": 12,
-  "Protecție socială și pensii": 10
+  "Agricultură și dezvoltare rurală": 51
  },
  "acts": [
+  {
+   "id": "314015",
+   "tip": "ORDIN",
+   "numar": "824",
+   "data_act": "2026-09-01",
+   "titlu": "ORDIN nr. 824 din 1 septembrie 2026",
+   "descriere": "pentru aprobarea Ghidului solicitantului privind sprijinirea investiţiilor destinate achiziţiei de vehicule cu emisii zero pentru transportul rutier şi feroviar de mărfuri, maritim şi pe căi navigabile interioare de pasageri şi mărfuri",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "751",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "314014",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-08-20",
+   "titlu": "REGULAMENT din 20 august 2026",
+   "descriere": "de organizare şi funcţionare a Comisiei superioare de evaluare a persoanelor adulte cu handicap",
+   "emitenti": [
+    "Autoritatea Națională pentru Protecția Drepturilor Persoanelor cu Dizabilități"
+   ],
+   "monitor_nr": "751",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "314013",
+   "tip": "ORDIN",
+   "numar": "784",
+   "data_act": "2026-08-20",
+   "titlu": "ORDIN nr. 784 din 20 august 2026",
+   "descriere": "privind aprobarea Regulamentului de organizare şi funcţionare a Comisiei superioare de evaluare a persoanelor adulte cu handicap",
+   "emitenti": [
+    "Autoritatea Națională pentru Protecția Drepturilor Persoanelor cu Dizabilități"
+   ],
+   "monitor_nr": "751",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "314012",
+   "tip": "ORDIN",
+   "numar": "505",
+   "data_act": "2026-07-15",
+   "titlu": "ORDIN nr. 505 din 15 iulie 2026",
+   "descriere": "pentru modificarea Ordinului preşedintelui Autorităţii Naţionale pentru Protecţia Consumatorilor nr. 72/2010 privind unele măsuri de informare a consumatorilor",
+   "emitenti": [
+    "Autoritatea Națională pentru Protecția Consumatorilor"
+   ],
+   "monitor_nr": "749",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-10-04",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "314011",
+   "tip": "HOTARARE",
+   "numar": "10",
+   "data_act": "2026-09-01",
+   "titlu": "HOTĂRÂRE nr. 10 din 1 septembrie 2026",
+   "descriere": "pentru completarea anexei la Hotărârea Consiliului superior al Camerei Consultanţilor Fiscali nr. 2/2026 pentru aprobarea Normelor privind realizarea de expertize fiscale judiciare şi extrajudiciare de către consultanţii fiscali",
+   "emitenti": [
+    "Camera Consultanților Fiscali"
+   ],
+   "monitor_nr": "749",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "314010",
+   "tip": "ORDIN",
+   "numar": "4685",
+   "data_act": "2026-08-18",
+   "titlu": "ORDIN nr. 4.685 din 18 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Şcoala Postliceală Sanitară \"Hipocrates\" Sighetu Marmaţiei din municipiul Sighetu Marmaţiei, judeţul Maramureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "750",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "314009",
+   "tip": "HOTARARE",
+   "numar": "700",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 700 din 3 septembrie 2026",
+   "descriere": "pentru modificarea Hotărârii Guvernului nr. 16/2017 privind organizarea şi funcţionarea Ministerului Afacerilor Externe",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "750",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "314008",
+   "tip": "HOTARARE",
+   "numar": "697",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 697 din 3 septembrie 2026",
+   "descriere": "pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Clădire Laboratoare de Cercetare în Inteligenţă Artificială\" la Universitatea Tehnică din Cluj-Napoca",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "750",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "314007",
+   "tip": "HOTARARE",
+   "numar": "696",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 696 din 3 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Naţională a Apelor Minerale - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "750",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": true
+  },
+  {
+   "id": "314006",
+   "tip": "HOTARARE",
+   "numar": "695",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 695 din 3 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Compania Naţională a Cuprului, Aurului şi Fierului MINVEST - S.A. Deva, aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "750",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": true
+  },
+  {
+   "id": "314005",
+   "tip": "HOTARARE",
+   "numar": "694",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 694 din 3 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Naţională a Sării - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "750",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": true
+  },
+  {
+   "id": "314004",
+   "tip": "DECIZIE",
+   "numar": "169",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIA nr. 169 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă, în redactarea anterioară modificărilor aduse prin Legea nr. 31/2023 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "750",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "314003",
+   "tip": "DECIZIE",
+   "numar": "395",
+   "data_act": "2026-04-29",
+   "titlu": "DECIZIA nr. 395 din 29 aprilie 2026",
+   "descriere": "referitoare la sesizarea de neconstituţionalitate a Hotărârii Parlamentului României nr. 46/2025 privind desemnarea membrilor Consiliului de administraţie al Societăţii Române de Radiodifuziune",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "748",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "314002",
+   "tip": "DECIZIE",
+   "numar": "394",
+   "data_act": "2026-04-29",
+   "titlu": "DECIZIA nr. 394 din 29 aprilie 2026",
+   "descriere": "referitoare la sesizarea de neconstituţionalitate a Hotărârii Parlamentului României nr. 45/2025 privind desemnarea membrilor Consiliului de administraţie al Societăţii Române de Televiziune",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "748",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "314001",
+   "tip": "ORDIN",
+   "numar": "1442",
+   "data_act": "2026-08-04",
+   "titlu": "ORDIN nr. 1.442 din 4 august 2026",
+   "descriere": "pentru modificarea şi completarea anexei nr. 1 la Ordinul preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 141/2017 privind aprobarea formularelor specifice pentru verificarea respectării criteriilor de eligibilitate aferente protocoalelor terapeutice pentru medicamentele notate cu (**)1, (**)1Ω şi (**)1β în Lista cuprinzând denumirile comune internaţionale corespunzătoare medicamentelor de care beneficiază asiguraţii, cu sau fără contribuţie personală, pe bază de prescripţie medicală, în sistemul de asigurări sociale de sănătate, precum şi denumirile comune internaţionale corespunzătoare medicamentelor care se acordă în cadrul programelor naţionale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008 , cu modificările şi completările ulterioare, şi a metodologiei de transmitere a acestora în platforma informatică din asigurările de sănătate",
+   "emitenti": [
+    "Casa Națională de Asigurări de Sănătate"
+   ],
+   "monitor_nr": "747",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 5,
+   "termeni": [
+    "asigurari sociale",
+    "casa nationala de asigurari de sanatate"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": true
+  },
+  {
+   "id": "314000",
+   "tip": "HOTARARE",
+   "numar": "702",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 702 din 3 septembrie 2026",
+   "descriere": "privind aprobarea acordării de stimulente financiare absolvenţilor care au obţinut media 10 la evaluarea naţională pentru absolvenţii clasei a VIII-a, sesiunea 2026, şi la examenul naţional de bacalaureat, sesiunea specială şi sesiunea iunie-iulie 2026",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "747",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "313999",
+   "tip": "DECIZIE",
+   "numar": "182",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIA nr. 182 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 56 alin. (1) lit. c) din Codul muncii , precum şi ale art. 106 alin. (4) şi ale art. 130^2 din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "747",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 9,
+   "termeni": [
+    "codul muncii",
+    "pensii"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": true
+  },
+  {
+   "id": "313998",
+   "tip": "HOTARARE",
+   "numar": "693",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 693 din 3 septembrie 2026",
+   "descriere": "privind suplimentarea bugetului Secretariatului General al Guvernului pentru Directoratul Naţional de Securitate Cibernetică (DNSC) din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2026",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "746",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "313997",
+   "tip": "HOTARARE",
+   "numar": "692",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 692 din 3 septembrie 2026",
+   "descriere": "privind acordarea unor ajutoare de urgenţă",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "746",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "313996",
+   "tip": "HOTARARE",
+   "numar": "691",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 691 din 3 septembrie 2026",
+   "descriere": "privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2026, pentru suplimentarea bugetului Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "746",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 5,
+   "termeni": [
+    "alocatie",
+    "guvernul"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": true
+  },
+  {
+   "id": "313995",
+   "tip": "HOTARARE",
+   "numar": "690",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 690 din 3 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Hotărârii Guvernului nr. 1.094/2025 privind instituirea unei scheme de ajutor de stat pentru compensarea creşterii preţului la motorină prin compensarea parţială a accizei la motorina utilizată drept combustibil pentru motor",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "746",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "313993",
+   "tip": "ORDIN",
+   "numar": "1178",
+   "data_act": "2026-09-02",
+   "titlu": "ORDIN nr. 1.178 din 2 septembrie 2026",
+   "descriere": "privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei şi euro, lansate în perioada 4-11 septembrie 2026, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanţelor, ce urmează a fi listate pe piaţa reglementată administrată de Bursa de Valori Bucureşti - S.A. şi supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanţelor publice nr. 2.118/2020",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "744",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "313992",
+   "tip": "HOTARARE",
+   "numar": "48",
+   "data_act": "2026-09-02",
+   "titlu": "HOTĂRÂRE nr. 48 din 2 septembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Către un al 28-lea regim pentru întreprinderile din UE - COM (2026) 320 şi la propunerea de Regulament al Parlamentului European şi al Consiliului privind cadrul juridic al celui de al 28-lea regim al societăţilor comerciale - \"EU Inc.\" - COM (2026) 321",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "744",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "313991",
+   "tip": "HOTARARE",
+   "numar": "47",
+   "data_act": "2026-09-02",
+   "titlu": "HOTĂRÂRE nr. 47 din 2 septembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului de instituire a unui cadru de măsuri pentru accelerarea capacităţii industriale şi a decarbonizării în sectoare strategice şi de modificare a Regulamentelor (UE) 2018/1.724, (UE) 2024/1.735 şi (UE) 2024/3.110 - COM (2026) 100",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "744",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
+  {
+   "id": "313990",
+   "tip": "HOTARARE",
+   "numar": "117",
+   "data_act": "2026-09-02",
+   "titlu": "HOTĂRÂRE nr. 117 din 2 septembrie 2026",
+   "descriere": "pentru aprobarea Raportului de activitate al Consiliului de monitorizare a implementării Convenţiei privind drepturile persoanelor cu dizabilităţi pe anul 2025",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "744",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 4,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": true
+  },
+  {
+   "id": "313989",
+   "tip": "HOTARARE",
+   "numar": "116",
+   "data_act": "2026-09-02",
+   "titlu": "HOTĂRÂRE nr. 116 din 2 septembrie 2026",
+   "descriere": "pentru modificarea Hotărârii Senatului nr. 134/2024 privind aprobarea componenţei numerice şi nominale a comisiilor permanente ale Senatului",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "744",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-04",
+   "are_text": false
+  },
   {
    "id": "313988",
    "tip": "ORDIN",
@@ -73,7 +632,7 @@
    "titlu": "PROCEDURĂ din 20 august 2026",
    "descriere": "privind stabilirea din oficiu a taxei pe valoarea adăugată datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300)",
    "emitenti": [
-    "Agenția Națională de Cadastru și Publicitate Imobiliară"
+    "Agenția Națională de Administrare Fiscală"
    ],
    "monitor_nr": "745",
    "data_publicare": "2026-09-03",
