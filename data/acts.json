@@ -1,21 +1,21 @@
 {
- "generated_at": "2026-09-06T13:00:03+00:00",
+ "generated_at": "2026-09-07T05:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 584,
- "new_this_run": 0,
+ "total": 595,
+ "new_this_run": 11,
  "pages_scanned": 6,
  "categories": {
-  "Transporturi și infrastructură": 50,
+  "Educație și cercetare": 84,
+  "Energie și mediu": 58,
+  "Administrație publică": 52,
+  "Economie, IMM și comerț": 54,
+  "Justiție și afaceri interne": 70,
+  "Transporturi și infrastructură": 51,
   "Protecție socială și pensii": 14,
   "Afaceri externe și UE": 9,
   "Fiscalitate și buget": 65,
-  "Educație și cercetare": 80,
   "Altele": 46,
-  "Economie, IMM și comerț": 53,
-  "Justiție și afaceri interne": 69,
   "Sănătate": 13,
-  "Energie și mediu": 56,
-  "Administrație publică": 50,
   "Muncă și dialog social": 11,
   "Apărare și securitate națională": 4,
   "Cultură, culte și sport": 9,
@@ -23,6 +23,246 @@
   "Agricultură și dezvoltare rurală": 51
  },
  "acts": [
+  {
+   "id": "314027",
+   "tip": "ORDIN",
+   "numar": "5089",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.089 din 25 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Tehnologic \"Anghel Saligny\" din municipiul Baia Mare, judeţul Maramureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "753",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-07",
+   "are_text": false
+  },
+  {
+   "id": "314026",
+   "tip": "ORDIN",
+   "numar": "5088",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.088 din 25 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Teoretic \"Adrian Păunescu\" Bârca din comuna Bârca, judeţul Dolj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "753",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-07",
+   "are_text": false
+  },
+  {
+   "id": "314025",
+   "tip": "ORDIN",
+   "numar": "5086",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.086 din 25 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"Dr. Ioan Mihalyi de Apşa\" Sighetu Marmaţiei din judeţul Maramureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "753",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-07",
+   "are_text": false
+  },
+  {
+   "id": "314024",
+   "tip": "ORDIN",
+   "numar": "1192",
+   "data_act": "2026-09-04",
+   "titlu": "ORDIN nr. 1.192 din 4 septembrie 2026",
+   "descriere": "privind prospectul de emisiune a titlurilor de stat destinate populaţiei, prin intermediul unităţilor operative ale Trezoreriei Statului şi prin subunităţile poştale din reţeaua Companiei Naţionale \"Poşta Română\" - S.A. şi în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada septembrie-octombrie 2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "753",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-09-07",
+   "are_text": false
+  },
+  {
+   "id": "314023",
+   "tip": "DECIZIE",
+   "numar": "298",
+   "data_act": "2026-09-04",
+   "titlu": "DECIZIE nr. 298 din 4 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Radu-Lucian Ionescu a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Secretariatului de stat pentru recunoaşterea meritelor luptătorilor împotriva regimului comunist instaurat în România în perioada 1945-1989",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "753",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-07",
+   "are_text": false
+  },
+  {
+   "id": "314022",
+   "tip": "DECIZIE",
+   "numar": "297",
+   "data_act": "2026-09-04",
+   "titlu": "DECIZIE nr. 297 din 4 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Constanţa-Valuşca Teişan a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general adjunct al Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "753",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-07",
+   "are_text": false
+  },
+  {
+   "id": "314021",
+   "tip": "DECIZIE",
+   "numar": "296",
+   "data_act": "2026-09-04",
+   "titlu": "DECIZIE nr. 296 din 4 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Cezar-Ionuţ Trifan a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general adjunct al Ministerului Afacerilor Externe",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "753",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-07",
+   "are_text": false
+  },
+  {
+   "id": "314020",
+   "tip": "DECIZIE",
+   "numar": "295",
+   "data_act": "2026-09-04",
+   "titlu": "DECIZIE nr. 295 din 4 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Alexandru Avram a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Mediului, Apelor şi Pădurilor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "753",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-07",
+   "are_text": false
+  },
+  {
+   "id": "314019",
+   "tip": "DECIZIE",
+   "numar": "734",
+   "data_act": "2026-06-24",
+   "titlu": "DECIZIA nr. 734 din 24 iunie 2026",
+   "descriere": "referitoare la obiecţia de neconstituţionalitate a Legii pentru modificarea art. 425 alin. (1) lit. b) din Legea nr. 134/2010 privind Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "753",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-07",
+   "are_text": false
+  },
+  {
+   "id": "314018",
+   "tip": "ORDIN",
+   "numar": "4983",
+   "data_act": "2026-08-24",
+   "titlu": "ORDIN nr. 4.983 din 24 august 2026",
+   "descriere": "privind autorizarea de funcţionare provizorie a domeniului de doctorat \"Medicină\" în cadrul Şcolii Doctorale de Ştiinţe Medicale şi ale Sănătăţii, organizată la Universitatea \"Babeş-Bolyai\" din Cluj-Napoca",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "752",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-07",
+   "are_text": true
+  },
+  {
+   "id": "314017",
+   "tip": "HOTARARE",
+   "numar": "701",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 701 din 3 septembrie 2026",
+   "descriere": "privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 346/2022 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Varianta ocolitoare a oraşului Aleşd\", precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 346/2022",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "752",
+   "data_publicare": "2026-09-04",
+   "data_vigoare": "2026-09-04",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-07",
+   "are_text": false
+  },
   {
    "id": "314015",
    "tip": "ORDIN",
