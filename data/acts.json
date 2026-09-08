@@ -1,13 +1,14 @@
 {
- "generated_at": "2026-09-07T13:00:05+00:00",
+ "generated_at": "2026-09-08T05:00:00+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 616,
- "new_this_run": 21,
+ "total": 621,
+ "new_this_run": 5,
  "pages_scanned": 6,
  "categories": {
+  "Educație și cercetare": 95,
+  "Agricultură și dezvoltare rurală": 52,
   "Economie, IMM și comerț": 57,
-  "Educație și cercetare": 92,
-  "Sănătate": 15,
+  "Sănătate": 16,
   "Transporturi și infrastructură": 53,
   "Energie și mediu": 60,
   "Muncă și dialog social": 12,
@@ -19,10 +20,93 @@
   "Altele": 46,
   "Apărare și securitate națională": 4,
   "Cultură, culte și sport": 9,
-  "Digitalizare și comunicații": 4,
-  "Agricultură și dezvoltare rurală": 51
+  "Digitalizare și comunicații": 4
  },
  "acts": [
+  {
+   "id": "314053",
+   "tip": "ORDIN",
+   "numar": "5101",
+   "data_act": "2026-08-26",
+   "titlu": "ORDIN nr. 5.101 din 26 august 2026",
+   "descriere": "privind componenţa reţelei naţionale a şcolilor de aplicaţie pentru anul şcolar 2026-2027",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "754",
+   "data_publicare": "2026-09-07",
+   "data_vigoare": "2026-09-07",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": false
+  },
+  {
+   "id": "314052",
+   "tip": "ORDIN",
+   "numar": "529",
+   "data_act": "2026-09-03",
+   "titlu": "ORDIN nr. 529 din 3 septembrie 2026",
+   "descriere": "privind aprobarea Licenţei de concesiune pentru exploatare nr. 29.694/2026",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Minier, Petrolier și al Stocării geologice a dioxidului de carbon"
+   ],
+   "monitor_nr": "754",
+   "data_publicare": "2026-09-07",
+   "data_vigoare": "2026-09-07",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "concediu"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": false
+  },
+  {
+   "id": "314051",
+   "tip": "ORDIN",
+   "numar": "528",
+   "data_act": "2026-09-03",
+   "titlu": "ORDIN nr. 528 din 3 septembrie 2026",
+   "descriere": "privind aprobarea Licenţei de dare în administrare pentru explorare nr. 29.692/2026",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Minier, Petrolier și al Stocării geologice a dioxidului de carbon"
+   ],
+   "monitor_nr": "754",
+   "data_publicare": "2026-09-07",
+   "data_vigoare": "2026-09-07",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-08",
+   "are_text": false
+  },
+  {
+   "id": "314050",
+   "tip": "ORDIN",
+   "numar": "260",
+   "data_act": "2026-09-02",
+   "titlu": "ORDIN nr. 260 din 2 septembrie 2026",
+   "descriere": "privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului recreativ în habitatele acvatice naturale, cu excepţia Rezervaţiei Biosferei \"Delta Dunării\", modul de eliberare a permiselor de pescuit recreativ şi valabilitatea acestora",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "754",
+   "data_publicare": "2026-09-07",
+   "data_vigoare": "2026-09-07",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-08",
+   "are_text": false
+  },
   {
    "id": "314048",
    "tip": "REGULAMENT",
@@ -1016,6 +1100,29 @@
    "termeni": [],
    "first_seen": "2026-09-04",
    "are_text": false
+  },
+  {
+   "id": "314049",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-08-04",
+   "titlu": "ANEXE din 4 august 2026",
+   "descriere": "pentru modificarea şi completarea anexei nr. 1 la Ordinul preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 141/2017 privind aprobarea formularelor specifice pentru verificarea respectării criteriilor de eligibilitate aferente protocoalelor terapeutice pentru medicamentele notate cu (**)1, (**)1Ω şi (**)1β în Lista cuprinzând denumirile comune internaţionale corespunzătoare medicamentelor de care beneficiază asiguraţii, cu sau fără contribuţie personală, pe bază de prescripţie medicală, în sistemul de asigurări sociale de sănătate, precum şi denumirile comune internaţionale corespunzătoare medicamentelor care se acordă în cadrul programelor naţionale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008 , cu modificările şi completările ulterioare, şi a metodologiei de transmitere a acestora în platforma informatică din asigurările de sănătate",
+   "emitenti": [
+    "Casa Națională de Asigurări de Sănătate"
+   ],
+   "monitor_nr": "747",
+   "data_publicare": "2026-09-03",
+   "data_vigoare": "2026-09-03",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 5,
+   "termeni": [
+    "asigurari sociale",
+    "casa nationala de asigurari de sanatate"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": true
   },
   {
    "id": "314001",
