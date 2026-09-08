@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-08T05:00:00+00:00",
+ "generated_at": "2026-09-08T13:00:06+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 621,
- "new_this_run": 5,
+ "total": 633,
+ "new_this_run": 12,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 95,
+  "Educație și cercetare": 107,
   "Agricultură și dezvoltare rurală": 52,
   "Economie, IMM și comerț": 57,
   "Sănătate": 16,
@@ -23,6 +23,270 @@
   "Digitalizare și comunicații": 4
  },
  "acts": [
+  {
+   "id": "314065",
+   "tip": "ORDIN",
+   "numar": "5544",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.544 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Şcolii Gimnaziale \"Regina Maria\" din municipiul Sibiu, judeţul Sibiu",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "759",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": true
+  },
+  {
+   "id": "314064",
+   "tip": "ORDIN",
+   "numar": "5540",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.540 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Liceului Teoretic \"Filadelfia\" din municipiul Suceava, judeţul Suceava",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "759",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": true
+  },
+  {
+   "id": "314063",
+   "tip": "ORDIN",
+   "numar": "5084",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.084 din 25 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Tehnologic \"Vasile Netea\" din comuna Deda, judeţul Mureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "759",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": true
+  },
+  {
+   "id": "314062",
+   "tip": "ORDIN",
+   "numar": "5082",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.082 din 25 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Tehnologic \"Al. Ioan Cuza\" din municipiul Slobozia, judeţul Ialomiţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "759",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": true
+  },
+  {
+   "id": "314061",
+   "tip": "ORDIN",
+   "numar": "5081",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.081 din 25 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Tehnologic Topraisar din comuna Topraisar, judeţul Constanţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "759",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": false
+  },
+  {
+   "id": "314060",
+   "tip": "ORDIN",
+   "numar": "5080",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.080 din 25 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Tehnologic Agricol \"Alexiu Berinde\" Seini din judeţul Maramureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "759",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": true
+  },
+  {
+   "id": "314059",
+   "tip": "ORDIN",
+   "numar": "4715",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 4.715 din 19 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Şcoala Primară \"Licurici\" din municipiul Râmnicu Vâlcea, judeţul Vâlcea",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "759",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": false
+  },
+  {
+   "id": "314058",
+   "tip": "ORDIN",
+   "numar": "4714",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 4.714 din 19 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Grădiniţa \"Atelier de Bucurie\" din comuna Slătioara, judeţul Olt",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "759",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": false
+  },
+  {
+   "id": "314057",
+   "tip": "ORDIN",
+   "numar": "4713",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 4.713 din 19 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Grădiniţa cu Program Normal şi Prelungit \"ABC\" din municipiul Craiova, judeţul Dolj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "759",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": false
+  },
+  {
+   "id": "314056",
+   "tip": "ORDIN",
+   "numar": "4684",
+   "data_act": "2026-08-18",
+   "titlu": "ORDIN nr. 4.684 din 18 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Şcoala Gimnazială \"Micul Lord\" din oraşul Bragadiru, judeţul Ilfov",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "759",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": true
+  },
+  {
+   "id": "314055",
+   "tip": "ORDIN",
+   "numar": "4683",
+   "data_act": "2026-08-18",
+   "titlu": "ORDIN nr. 4.683 din 18 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Recea din comuna Recea, judeţul Maramureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "759",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": true
+  },
+  {
+   "id": "314054",
+   "tip": "ORDIN",
+   "numar": "4678",
+   "data_act": "2026-08-18",
+   "titlu": "ORDIN nr. 4.678 din 18 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Grădiniţa cu program prelungit \"Arons\" din municipiul Bucureşti, sectorul 4",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "759",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-08",
+   "are_text": true
+  },
   {
    "id": "314053",
    "tip": "ORDIN",
