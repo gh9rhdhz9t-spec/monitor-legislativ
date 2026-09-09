@@ -1,28 +1,955 @@
 {
- "generated_at": "2026-09-09T05:00:01+00:00",
+ "generated_at": "2026-09-09T13:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 633,
- "new_this_run": 0,
+ "total": 677,
+ "new_this_run": 44,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 107,
+  "Energie și mediu": 61,
+  "Educație și cercetare": 129,
+  "Administrație publică": 54,
+  "Justiție și afaceri interne": 77,
+  "Altele": 52,
+  "Transporturi și infrastructură": 56,
+  "Fiscalitate și buget": 68,
+  "Sănătate": 18,
+  "Muncă și dialog social": 13,
   "Agricultură și dezvoltare rurală": 52,
   "Economie, IMM și comerț": 57,
-  "Sănătate": 16,
-  "Transporturi și infrastructură": 53,
-  "Energie și mediu": 60,
-  "Muncă și dialog social": 12,
-  "Justiție și afaceri interne": 71,
-  "Fiscalitate și buget": 67,
-  "Administrație publică": 52,
   "Protecție socială și pensii": 14,
   "Afaceri externe și UE": 9,
-  "Altele": 46,
   "Apărare și securitate națională": 4,
   "Cultură, culte și sport": 9,
   "Digitalizare și comunicații": 4
  },
  "acts": [
+  {
+   "id": "314359",
+   "tip": "ORDIN",
+   "numar": "57",
+   "data_act": "2026-09-03",
+   "titlu": "ORDIN nr. 57 din 3 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului de măsurare a cantităţilor de gaze naturale tranzacţionate în România, aprobat prin Ordinul preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Energiei nr. 62/2008",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "765",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314358",
+   "tip": "ORDIN",
+   "numar": "5557",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.557 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot unor unităţi de învăţământ preuniversitar",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "765",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314357",
+   "tip": "ORDIN",
+   "numar": "4617",
+   "data_act": "2026-08-04",
+   "titlu": "ORDIN nr. 4.617 din 4 august 2026",
+   "descriere": "pentru aprobarea Metodologiei privind elaborarea/revizuirea şi aprobarea documentelor de tip reglator ale curriculumului naţional",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "765",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314356",
+   "tip": "ORDIN",
+   "numar": "4437",
+   "data_act": "2026-07-16",
+   "titlu": "ORDIN nr. 4.437 din 16 iulie 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Centrul Şcolar pentru Educaţie Incluzivă \"Constantin Păunescu\" din oraşul Recaş, judeţul Timiş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "765",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314355",
+   "tip": "ORDIN",
+   "numar": "4436",
+   "data_act": "2026-07-16",
+   "titlu": "ORDIN nr. 4.436 din 16 iulie 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Teremia Mare din comuna Teremia Mare, judeţul Timiş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "765",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314354",
+   "tip": "DECIZIE",
+   "numar": "104",
+   "data_act": "2026-02-05",
+   "titlu": "DECIZIA nr. 104 din 5 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 41 alin. (1) din Legea nr. 115/2015 pentru alegerea autorităţilor administraţiei publice locale, pentru modificarea Legii administraţiei publice locale nr. 215/2001 , precum şi pentru modificarea şi completarea Legii nr. 393/2004 privind Statutul aleşilor locali",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "765",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314353",
+   "tip": "DECIZIE",
+   "numar": "705",
+   "data_act": "2025-12-04",
+   "titlu": "DECIZIA nr. 705 din 4 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 102 alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, în interpretarea dată prin Decizia nr. 5 din 12 aprilie 2021 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru soluţionarea recursului în interesul legii",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "765",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314101",
+   "tip": "HOTARARE",
+   "numar": "1223",
+   "data_act": "2026-05-19",
+   "titlu": "HOTĂRÂRE nr. 1.223 din 19 mai 2026",
+   "descriere": "pentru modificarea Regulamentului de ordine interioară al instanţelor judecătoreşti, aprobat prin Hotărârea Secţiei pentru judecători a Consiliului Superior al Magistraturii nr. 3.243/2022",
+   "emitenti": [
+    "Consiliul Superior al Magistraturii"
+   ],
+   "monitor_nr": "764",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314100",
+   "tip": "DECIZIE",
+   "numar": "134",
+   "data_act": "2026-02-17",
+   "titlu": "DECIZIA nr. 134 din 17 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 451 din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "764",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314099",
+   "tip": "HOTARARE",
+   "numar": "2",
+   "data_act": "2026-09-08",
+   "titlu": "HOTĂRÂRE nr. 2 din 8 septembrie 2026",
+   "descriere": "pentru prelungirea termenului prevăzut la art. 2 alin. (1) din Hotărârea Parlamentului României nr. 31/2025 privind constituirea Comisiei speciale comune a Camerei Deputaţilor şi Senatului în domeniul legislaţiei privind prevenirea, combaterea şi sancţionarea violenţei domestice - \"România fără violenţă domestică\"",
+   "emitenti": [
+    "Birourile Permanente ale Camerei Deputaților și Senatului"
+   ],
+   "monitor_nr": "764",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor",
+    "senatul"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314098",
+   "tip": "HOTARARE",
+   "numar": "118",
+   "data_act": "2026-09-08",
+   "titlu": "HOTĂRÂRE nr. 118 din 8 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Hotărârii Senatului nr. 113/2026 privind încuviinţarea desfăşurării unei anchete parlamentare de către o comisie permanentă",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "764",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314097",
+   "tip": "ORDIN",
+   "numar": "5556",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.556 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Colegiului Naţional \"Decebal\" din municipiul Deva, judeţul Hunedoara, începând cu anul şcolar 2026-2027",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "762",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314096",
+   "tip": "ORDIN",
+   "numar": "5554",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.554 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Şcolii Gimnaziale nr. 1 din Independenţa, judeţul Galaţi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "762",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314095",
+   "tip": "ORDIN",
+   "numar": "5553",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.553 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Şcolii Gimnaziale nr. 79 din municipiul Bucureşti, sectorul 4",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "762",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314094",
+   "tip": "ORDIN",
+   "numar": "5548",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.548 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Liceului Tehnologic Verneşti din comuna Verneşti, judeţul Buzău",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "762",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314093",
+   "tip": "ORDIN",
+   "numar": "5547",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.547 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Centrului Şcolar de Educaţie Incluzivă Alexandria, judeţul Teleorman",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "762",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314092",
+   "tip": "ORDIN",
+   "numar": "5546",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.546 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Colegiului Naţional \"Andrei Şaguna\" din municipiul Braşov, judeţul Braşov",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "762",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314091",
+   "tip": "ORDIN",
+   "numar": "5545",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.545 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Şcolii Gimnaziale \"Dimitrie Negruţiu\" din comuna Pogoneşti, judeţul Vaslui",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "762",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314090",
+   "tip": "ORDIN",
+   "numar": "822",
+   "data_act": "2026-09-01",
+   "titlu": "ORDIN nr. 822 din 1 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea anexei la Ordinul ministrului transporturilor şi infrastructurii nr. 1.848/2023 privind aprobarea Schemei de ajutor de stat pentru realizarea de investiţii în infrastructura de transport naval aferentă Programului Transport (PT 2021-2027), prioritatea 7 - Dezvoltarea transportului naval şi multimodal, obiectivul specific 3.1. Dezvoltarea unei reţele TEN-T, reziliente la schimbările climatice, inteligente, sigure, durabile şi intermodale şi obiectivul specific 3.2. Dezvoltarea şi ameliorarea unei mobilităţi naţionale, regionale şi locale sustenabile, reziliente la schimbările climatice, inteligente şi intermodale, inclusiv îmbunătăţirea accesului la TEN-T şi a mobilităţii transfrontaliere, precum şi de investiţii pentru promovarea eficienţei energetice a porturilor din România",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "762",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314089",
+   "tip": "DECIZIE",
+   "numar": "162",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIA nr. 162 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 281 alin. (1) lit. f) , în redactarea anterioară intrării în vigoare a Legii nr. 279/2022 pentru modificarea art. 281 alin. (1) lit. f) din Legea nr. 135/2010 privind Codul de procedură penală , precum şi ale art. 286 alin. (2) lit. a) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "762",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314088",
+   "tip": "HOTARARE",
+   "numar": "8",
+   "data_act": "2026-09-01",
+   "titlu": "HOTĂRÂRE nr. 8 din 1 septembrie 2026",
+   "descriere": "privind aprobarea domeniilor de examinare, a tematicii şi bibliografiei corespunzătoare fiecărui domeniu pentru examenul de atribuire a calităţii de consultant fiscal sau de consultant fiscal asistent - sesiunea octombrie 2026",
+   "emitenti": [
+    "Camera Consultanților Fiscali"
+   ],
+   "monitor_nr": "763",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314087",
+   "tip": "HOTARARE",
+   "numar": "4",
+   "data_act": "2026-09-08",
+   "titlu": "HOTĂRÂRE nr. 4 din 8 septembrie 2026",
+   "descriere": "pentru numirea directorului general interimar al Societăţii Române de Televiziune",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "763",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314086",
+   "tip": "HOTARARE",
+   "numar": "3",
+   "data_act": "2026-09-08",
+   "titlu": "HOTĂRÂRE nr. 3 din 8 septembrie 2026",
+   "descriere": "pentru numirea directorului general interimar al Societăţii Române de Radiodifuziune",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "763",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314085",
+   "tip": "ORDIN",
+   "numar": "5552",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.552 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Şcolii Gimnaziale \"Vasile Mitru\" din comuna Taşca, judeţul Neamţ",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "761",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314084",
+   "tip": "ORDIN",
+   "numar": "5551",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.551 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Şcolii Gimnaziale Nr. 165 din Bucureşti",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "761",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314083",
+   "tip": "ORDIN",
+   "numar": "5550",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.550 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Şcolii Gimnaziale Nr. 206 din municipiul Bucureşti, sectorul 6",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "761",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314082",
+   "tip": "ORDIN",
+   "numar": "5549",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.549 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Şcolii Profesionale Speciale \"Sfântul Stelian\" din municipiul Botoşani, judeţul Botoşani",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "761",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314081",
+   "tip": "ORDIN",
+   "numar": "5543",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.543 din 31 august 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Şcolii Gimnaziale \"Montessori School of Iaşi\" din comuna Rediu, judeţul Iaşi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "761",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314080",
+   "tip": "ORDIN",
+   "numar": "5225",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.225 din 28 august 2026",
+   "descriere": "privind măsuri de aplicare şi corelare a planurilor de învăţământ pentru învăţământul profesional, liceal - filiera tehnologică şi postliceal cu structura anului şcolar 2026-2027",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "761",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314079",
+   "tip": "ORDIN",
+   "numar": "1238",
+   "data_act": "2026-09-03",
+   "titlu": "ORDIN nr. 1.238 din 3 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea anexei la Ordinul ministrului sănătăţii nr. 126/2024 privind avizarea cursurilor de perfecţionare în management sanitar sau management al serviciilor de sănătate",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "761",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314078",
+   "tip": "ORDIN",
+   "numar": "1040",
+   "data_act": "2026-09-04",
+   "titlu": "ORDIN nr. 1.040 din 4 septembrie 2026",
+   "descriere": "privind acordarea titlului de parc industrial Societăţii Parc Industrial Băileşti - S.R.L.",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "761",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314077",
+   "tip": "DECIZIE",
+   "numar": "138",
+   "data_act": "2026-02-17",
+   "titlu": "DECIZIA nr. 138 din 17 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 62 alin. (3) şi ale art. 63 alin. (2) din Legea nr. 254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "761",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314076",
+   "tip": "ORDIN",
+   "numar": "5583",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.583 din 31 august 2026",
+   "descriere": "pentru aprobarea planurilor de învăţământ şi a programelor şcolare pentru cultura de specialitate şi pregătirea practică din aria curriculară Tehnologii, precum şi pentru stagiile de pregătire practică - curriculum în dezvoltare locală (CDL), pentru clasele a X-a şi a XI-a, învăţământ profesional, inclusiv dual, pentru calificarea profesională de nivel 3 al Cadrului naţional al calificărilor: operator la roboţi industriali",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "760",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314075",
+   "tip": "ORDIN",
+   "numar": "5582",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.582 din 31 august 2026",
+   "descriere": "pentru aprobarea planului de învăţământ şi a programelor şcolare pentru calificarea profesională de nivel 5 al Cadrului naţional al calificărilor: asistent medical generalist",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "760",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314074",
+   "tip": "ORDIN",
+   "numar": "5581",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.581 din 31 august 2026",
+   "descriere": "pentru aprobarea planului de învăţământ şi a programei şcolare pentru cultura de specialitate şi pregătirea practică din aria curriculară Tehnologii, precum şi pentru stagiile de pregătire practică - curriculum în dezvoltare locală (CDL), pentru clasa a X-a învăţământ profesional, inclusiv dual, pentru calificările profesionale de nivel 3 al Cadrului naţional al calificărilor: grădinar urban",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "760",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314073",
+   "tip": "ORDIN",
+   "numar": "5090",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.090 din 25 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Tehnologic \"Ştefan Anghel\" Băileşti din judeţul Dolj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "760",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314072",
+   "tip": "ORDIN",
+   "numar": "5085",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.085 din 25 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"Dr. Victor Babeş\" Baia Mare din municipiul Baia Mare, judeţul Maramureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "760",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314071",
+   "tip": "HOTARARE",
+   "numar": "710",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 710 din 3 septembrie 2026",
+   "descriere": "privind actualizarea valorilor de inventar ale unor bunuri imobile din domeniul public al statului, aflate în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor - Direcţia Sanitar-Veterinară şi pentru Siguranţa Alimentelor Gorj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "760",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314070",
+   "tip": "HOTARARE",
+   "numar": "709",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 709 din 3 septembrie 2026",
+   "descriere": "privind actualizarea valorilor de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea Administraţiei Prezidenţiale",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "760",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314069",
+   "tip": "HOTARARE",
+   "numar": "708",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 708 din 3 septembrie 2026",
+   "descriere": "privind actualizarea valorii de inventar, ca urmare a reevaluării, a unui bun aflat în domeniul public al statului şi în administrarea Agenţiei Judeţene pentru Ocuparea Forţei de Muncă Timiş",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "760",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 2,
+   "termeni": [
+    "ocuparea fortei de munca",
+    "guvernul"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314068",
+   "tip": "HOTARARE",
+   "numar": "707",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 707 din 3 septembrie 2026",
+   "descriere": "privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Transporturilor şi Infrastructurii a unui sector de drum, cu terenul aferent, trecut în proprietatea publică a statului, precum şi încadrarea acestuia în categoria funcţională a drumurilor de interes naţional",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "760",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
+  {
+   "id": "314067",
+   "tip": "HOTARARE",
+   "numar": "706",
+   "data_act": "2026-09-03",
+   "titlu": "HOTĂRÂRE nr. 706 din 3 septembrie 2026",
+   "descriere": "privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unui bun imobil, darea acestuia în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Investiţii Rutiere - S.A., precum şi modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "760",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 4,
+   "termeni": [
+    "concediu",
+    "guvernul"
+   ],
+   "first_seen": "2026-09-09",
+   "are_text": true
+  },
+  {
+   "id": "314066",
+   "tip": "DECIZIE",
+   "numar": "12",
+   "data_act": "2026-01-15",
+   "titlu": "DECIZIA nr. 12 din 15 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 45 alin. (1) lit. i) din Legea nr. 360/2002 privind Statutul poliţistului, în redactarea anterioară modificării acestora prin Ordonanţa de urgenţă a Guvernului nr. 53/2018 pentru modificarea şi completarea Legii nr. 360/2002 privind Statutul poliţistului",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "760",
+   "data_publicare": "2026-09-08",
+   "data_vigoare": "2026-09-08",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-09",
+   "are_text": false
+  },
   {
    "id": "314065",
    "tip": "ORDIN",
@@ -4047,6 +4974,26 @@
    "scor": 1,
    "termeni": [],
    "first_seen": "2026-08-31",
+   "are_text": false
+  },
+  {
+   "id": "314016",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-08-28",
+   "titlu": "PROCEDURĂ din 28 august 2026",
+   "descriere": "de elaborare, modificare/actualizare şi aprobare a documentaţiilor de amenajare a teritoriului şi a documentaţiilor de urbanism, a formularelor utilizate, precum şi a listei avizelor necesare",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "724",
+   "data_publicare": "2026-08-28",
+   "data_vigoare": "2026-08-28",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-09",
    "are_text": false
   },
   {
