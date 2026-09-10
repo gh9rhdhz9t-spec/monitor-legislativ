@@ -1,28 +1,710 @@
 {
- "generated_at": "2026-09-10T05:09:34+00:00",
+ "generated_at": "2026-09-10T13:00:01+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 677,
- "new_this_run": 0,
+ "total": 712,
+ "new_this_run": 35,
  "pages_scanned": 6,
  "categories": {
-  "Energie și mediu": 61,
-  "Educație și cercetare": 129,
+  "Economie, IMM și comerț": 59,
+  "Sănătate": 19,
+  "Justiție și afaceri interne": 83,
+  "Cultură, culte și sport": 11,
+  "Protecție socială și pensii": 15,
+  "Fiscalitate și buget": 69,
+  "Altele": 57,
+  "Educație și cercetare": 141,
+  "Muncă și dialog social": 14,
+  "Energie și mediu": 64,
+  "Afaceri externe și UE": 10,
   "Administrație publică": 54,
-  "Justiție și afaceri interne": 77,
-  "Altele": 52,
   "Transporturi și infrastructură": 56,
-  "Fiscalitate și buget": 68,
-  "Sănătate": 18,
-  "Muncă și dialog social": 13,
   "Agricultură și dezvoltare rurală": 52,
-  "Economie, IMM și comerț": 57,
-  "Protecție socială și pensii": 14,
-  "Afaceri externe și UE": 9,
   "Apărare și securitate națională": 4,
-  "Cultură, culte și sport": 9,
   "Digitalizare și comunicații": 4
  },
  "acts": [
+  {
+   "id": "314394",
+   "tip": "REGULAMENT",
+   "numar": "7",
+   "data_act": "2026-09-03",
+   "titlu": "REGULAMENT nr. 7 din 3 septembrie 2026",
+   "descriere": "pentru completarea Regulamentului Autorităţii de Supraveghere Financiară nr. 5/2019 privind reglementarea unor dispoziţii referitoare la prestarea serviciilor şi activităţilor de investiţii conform Legii nr. 126/2018 privind pieţele de instrumente financiare",
+   "emitenti": [
+    "Autoritatea de Supraveghere Financiară"
+   ],
+   "monitor_nr": "768",
+   "data_publicare": "2026-09-10",
+   "data_vigoare": "2026-09-10",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314393",
+   "tip": "ORDIN",
+   "numar": "1246",
+   "data_act": "2026-09-03",
+   "titlu": "ORDIN nr. 1.246 din 3 septembrie 2026",
+   "descriere": "pentru aplicarea în trimestrul II 2026 a prevederilor art. 3^8 din Ordonanţa de urgenţă a Guvernului nr. 77/2011 privind stabilirea unor contribuţii pentru finanţarea unor cheltuieli în domeniul sănătăţii",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "768",
+   "data_publicare": "2026-09-10",
+   "data_vigoare": "2026-09-10",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "314392",
+   "tip": "ORDIN",
+   "numar": "858",
+   "data_act": "2026-09-04",
+   "titlu": "ORDIN nr. 858 din 4 septembrie 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei din anii 2020, 2021, 2022, 2023 şi 2024 şi de procentul de indexare a salariului minim pe economie la data de 1.01.2020, la data de 1.01.2021, la data de 1.01.2022, la data de 1.01.2023, la data de 1.10.2023, respectiv la data de 1.07.2024, conform Sentinţei civile nr. 248 din 12.11.2025, pronunţată de Curtea de Apel Iaşi, Secţia contencios administrativ şi fiscal, definitivă prin Decizia civilă nr. 3.264 din 25.06.2026, pronunţată de Înalta Curte de Casaţie şi Justiţie, Secţia de contencios administrativ şi fiscal, în Dosarul nr. 691/45/2025",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "768",
+   "data_publicare": "2026-09-10",
+   "data_vigoare": "2026-09-10",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 7,
+   "termeni": [
+    "salariul minim",
+    "salariu",
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "314391",
+   "tip": "ORDIN",
+   "numar": "2943",
+   "data_act": "2024-06-04",
+   "titlu": "ORDIN nr. 2.943 din 4 iunie 2024",
+   "descriere": "privind declasarea din Lista monumentelor istorice a imobilului clasat ca monument istoric cu denumirea Casă, situat la adresa poştală Str. Grădinarilor nr. 12 (conform Listei monumentelor istorice), sectorul 3, municipiul Bucureşti, având codul LMI B-II-m-B-18828",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "768",
+   "data_publicare": "2026-09-10",
+   "data_vigoare": "2026-09-10",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314390",
+   "tip": "DECIZIE",
+   "numar": "132",
+   "data_act": "2026-02-17",
+   "titlu": "DECIZIA nr. 132 din 17 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 23 alin. (2) din Legea nr. 303/2004 privind statutul judecătorilor şi procurorilor",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "768",
+   "data_publicare": "2026-09-10",
+   "data_vigoare": "2026-09-10",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314389",
+   "tip": "DECIZIE",
+   "numar": "728",
+   "data_act": "2025-12-09",
+   "titlu": "DECIZIA nr. 728 din 9 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 170 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "768",
+   "data_publicare": "2026-09-10",
+   "data_vigoare": "2026-09-10",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314388",
+   "tip": "DECIZIE",
+   "numar": "727",
+   "data_act": "2025-12-09",
+   "titlu": "DECIZIA nr. 727 din 9 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 9 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea şi completarea unor acte normative şi prorogarea unor termene, precum şi a Ordonanţei de urgenţă a Guvernului nr. 90/2017 , în ansamblul său",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "768",
+   "data_publicare": "2026-09-10",
+   "data_vigoare": "2026-09-10",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314387",
+   "tip": "HOTARARE",
+   "numar": "49",
+   "data_act": "2026-09-09",
+   "titlu": "HOTĂRÂRE nr. 49 din 9 septembrie 2026",
+   "descriere": "privind modificarea anexei la Hotărârea Camerei Deputaţilor nr. 111/2024 pentru aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "768",
+   "data_publicare": "2026-09-10",
+   "data_vigoare": "2026-09-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314395",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-08-04",
+   "titlu": "METODOLOGIE din 4 august 2026",
+   "descriere": "privind elaborarea/revizuirea şi aprobarea documentelor de tip reglator ale curriculumului naţional",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "765",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314386",
+   "tip": "ORDIN",
+   "numar": "1370",
+   "data_act": "2026-09-02",
+   "titlu": "ORDIN nr. 1.370 din 2 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Ordinului ministrului investiţiilor şi proiectelor europene nr. 3.996/2023 privind aprobarea Schemei de măsuri de ajutor de stat şi de minimis pentru finanţarea investiţiilor pentru dezvoltarea IMM care sprijină creşterea durabilă şi crearea de locuri de muncă în cadrul Programului Tranziţie Justă 2021-2027",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "767",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314385",
+   "tip": "DECIZIE",
+   "numar": "594",
+   "data_act": "2025-11-11",
+   "titlu": "DECIZIA nr. 594 din 11 noiembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. II din Ordonanţa Guvernului nr. 8/2008 pentru modificarea şi completarea Legii nr. 138/1999 privind salarizarea şi alte drepturi ale personalului militar din instituţiile publice de apărare naţională, ordine publică şi siguranţă naţională, precum şi acordarea unor drepturi salariale personalului civil din aceste instituţii şi pentru modificarea Ordonanţei Guvernului nr. 38/2003 privind salarizarea şi alte drepturi ale poliţiştilor şi a Ordonanţei Guvernului nr. 64/2006 privind salarizarea şi alte drepturi ale funcţionarilor publici cu statut special din sistemul administraţiei penitenciare, precum şi a dispoziţiilor art. 38 alin. (2) lit. a) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "767",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare",
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "314384",
+   "tip": "DECIZIE",
+   "numar": "593",
+   "data_act": "2025-11-11",
+   "titlu": "DECIZIA nr. 593 din 11 noiembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 38 alin. (2) şi (3) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "767",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "314383",
+   "tip": "DECRET",
+   "numar": "756",
+   "data_act": "2026-09-09",
+   "titlu": "DECRET nr. 756 din 9 septembrie 2026",
+   "descriere": "privind conferirea Ordinului Meritul Cultural",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "767",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314382",
+   "tip": "DECRET",
+   "numar": "755",
+   "data_act": "2026-09-09",
+   "titlu": "DECRET nr. 755 din 9 septembrie 2026",
+   "descriere": "privind acreditarea unui ambasador",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "767",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314381",
+   "tip": "DECRET",
+   "numar": "754",
+   "data_act": "2026-09-09",
+   "titlu": "DECRET nr. 754 din 9 septembrie 2026",
+   "descriere": "privind promulgarea Legii pentru ratificarea Acordului de împrumut (Primul împrumut pentru politici de dezvoltare în domeniul fiscal şi creştere economică) dintre România şi Bancа Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 16 aprilie 2026",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "767",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314380",
+   "tip": "ACORD",
+   "numar": "",
+   "data_act": "2026-04-16",
+   "titlu": "ACORD DE ÎMPRUMUT din 16 aprilie 2026",
+   "descriere": "(Primul împrumut pentru politici de dezvoltare în domeniul fiscal şi creştere economică) între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare",
+   "emitenti": [
+    "Act Internațional"
+   ],
+   "monitor_nr": "767",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314379",
+   "tip": "LEGE",
+   "numar": "187",
+   "data_act": "2026-09-09",
+   "titlu": "LEGE nr. 187 din 9 septembrie 2026",
+   "descriere": "pentru ratificarea Acordului de împrumut (Primul împrumut pentru politici de dezvoltare în domeniul fiscal şi creştere economică) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 16 aprilie 2026",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "767",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-12",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "314378",
+   "tip": "DECRET",
+   "numar": "753",
+   "data_act": "2026-09-09",
+   "titlu": "DECRET nr. 753 din 9 septembrie 2026",
+   "descriere": "privind promulgarea Legii pentru abrogarea unor dispoziţii din Ordonanţa de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "767",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314377",
+   "tip": "LEGE",
+   "numar": "186",
+   "data_act": "2026-09-09",
+   "titlu": "LEGE nr. 186 din 9 septembrie 2026",
+   "descriere": "pentru abrogarea unor dispoziţii din Ordonanţa de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "767",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-12",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "314376",
+   "tip": "DECRET",
+   "numar": "752",
+   "data_act": "2026-09-09",
+   "titlu": "DECRET nr. 752 din 9 septembrie 2026",
+   "descriere": "privind promulgarea Legii pentru completarea art. 56^1 din Ordonanţa de urgenţă a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice, precum şi pentru modificarea art . 5 alin. (1) din Legea nr. 292/2018 privind evaluarea impactului anumitor proiecte publice şi private asupra mediului",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "767",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314375",
+   "tip": "LEGE",
+   "numar": "185",
+   "data_act": "2026-09-09",
+   "titlu": "LEGE nr. 185 din 9 septembrie 2026",
+   "descriere": "pentru completarea art. 56^1 din Ordonanţa de urgenţă a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice, precum şi pentru modificarea art. 5 alin. (1) din Legea nr. 292/2018 privind evaluarea impactului anumitor proiecte publice şi private asupra mediului",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "767",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-12",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "314374",
+   "tip": "ORDIN",
+   "numar": "5614",
+   "data_act": "2026-09-02",
+   "titlu": "ORDIN nr. 5.614 din 2 septembrie 2026",
+   "descriere": "privind aprobarea Calendarului de organizare şi desfăşurare a examenului naţional pentru definitivare în învăţământul preuniversitar, în anul şcolar 2026-2027",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "766",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "314373",
+   "tip": "ORDIN",
+   "numar": "5523",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.523 din 31 august 2026",
+   "descriere": "pentru modificarea Ordinului ministrului educaţiei şi cercetării nr. 4.482/2025 privind înfiinţarea, organizarea şi funcţionarea Comisiei Naţionale pentru Desegregare Şcolară",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "766",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "314372",
+   "tip": "ORDIN",
+   "numar": "4717",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 4.717 din 19 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Şimand din comuna Şimand, judeţul Arad",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "766",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314371",
+   "tip": "ORDIN",
+   "numar": "4716",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 4.716 din 19 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Specială Nr. 14 din municipiul Tulcea, judeţul Tulcea",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "766",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314370",
+   "tip": "ORDIN",
+   "numar": "4679",
+   "data_act": "2026-08-18",
+   "titlu": "ORDIN nr. 4.679 din 18 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Şcoala Postliceală \"Silvicultorul\" din municipiul Oradea, judeţul Bihor",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "766",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314369",
+   "tip": "ORDIN",
+   "numar": "4361",
+   "data_act": "2026-07-07",
+   "titlu": "ORDIN nr. 4.361 din 7 iulie 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Centrul Şcolar de Educaţie Incluzivă, oraşul Breaza, judeţul Prahova",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "766",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314368",
+   "tip": "ORDIN",
+   "numar": "4316",
+   "data_act": "2026-06-30",
+   "titlu": "ORDIN nr. 4.316 din 30 iunie 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Grădiniţa cu Program Normal şi Prelungit \"Ray Kindergarten\" din municipiul Piteşti, judeţul Argeş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "766",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "314367",
+   "tip": "ORDIN",
+   "numar": "1944",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 1.944 din 31 august 2026",
+   "descriere": "privind intrarea în vigoare a unui tratat internaţional",
+   "emitenti": [
+    "Ministerul Afacerilor Externe"
+   ],
+   "monitor_nr": "766",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314366",
+   "tip": "DECIZIE",
+   "numar": "222",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 222 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a sintagmei \"documente ori declaraţii false, inexacte sau incomplete\" din cuprinsul art. 18^1 alin. (1) din Legea nr. 78/2000 pentru prevenirea, descoperirea şi sancţionarea faptelor de corupţie",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "766",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
+  {
+   "id": "314365",
+   "tip": "DECIZIE",
+   "numar": "730",
+   "data_act": "2025-12-09",
+   "titlu": "DECIZIA nr. 730 din 9 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (5^1) din Ordonanţa de urgenţă a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum şi alte măsuri în domeniul cheltuielilor publice şi ale art. 3^1 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum şi unele măsuri fiscal-bugetare, în interpretarea dată prin Decizia nr. 51 din 11 noiembrie 2019 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "766",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "309930",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-09-09",
+   "titlu": "COMUNICAT din 9 septembrie 2026",
+   "descriere": "privind interpretarea și aplicarea unitară a dispozițiilor art. 21 și art. 57 lit. a) din Legea nr. 196/2018 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari şi administrarea condominiilor",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-09-09",
+   "data_vigoare": "2026-09-09",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-10",
+   "are_text": false
+  },
   {
    "id": "314359",
    "tip": "ORDIN",
@@ -4228,6 +4910,74 @@
    ],
    "first_seen": "2026-09-02",
    "are_text": true
+  },
+  {
+   "id": "314364",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-08-31",
+   "titlu": "METODOLOGIE din 31 august 2026",
+   "descriere": "privind stabilirea şi aplicarea redevenţelor şi taxelor aferente concesionării perimetrelor eoliene offshore din sectorul românesc al Mării Negre",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "731",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "concediu",
+    "guvernul"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "314363",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-08-31",
+   "titlu": "NORME SPECIFICE din 31 august 2026",
+   "descriere": "privind procedurile de concesionare a perimetrelor eoliene offshore, precum şi a cuantumului redevenţelor şi taxelor",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "731",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "concediu",
+    "guvernul"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": true
+  },
+  {
+   "id": "314362",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-08-31",
+   "titlu": "PROCEDURĂ din 31 august 2026",
+   "descriere": "de recepţie a lucrărilor, inclusiv a celor executate pe uscat, pentru centralele electrice eoliene offshore",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "731",
+   "data_publicare": "2026-08-31",
+   "data_vigoare": "2026-08-31",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-10",
+   "are_text": false
   },
   {
    "id": "313905",
