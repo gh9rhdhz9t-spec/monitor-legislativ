@@ -1,28 +1,360 @@
 {
- "generated_at": "2026-09-11T05:04:58+00:00",
+ "generated_at": "2026-09-11T13:00:04+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 729,
- "new_this_run": 17,
+ "total": 745,
+ "new_this_run": 16,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 150,
+  "Transporturi și infrastructură": 57,
+  "Altele": 64,
+  "Fiscalitate și buget": 73,
+  "Justiție și afaceri interne": 87,
+  "Educație și cercetare": 153,
   "Administrație publică": 57,
   "Protecție socială și pensii": 16,
-  "Justiție și afaceri interne": 84,
-  "Fiscalitate și buget": 70,
-  "Altele": 58,
   "Economie, IMM și comerț": 60,
   "Sănătate": 19,
   "Cultură, culte și sport": 11,
   "Muncă și dialog social": 14,
   "Energie și mediu": 64,
   "Afaceri externe și UE": 10,
-  "Transporturi și infrastructură": 56,
   "Agricultură și dezvoltare rurală": 52,
   "Apărare și securitate națională": 4,
   "Digitalizare și comunicații": 4
  },
  "acts": [
+  {
+   "id": "314432",
+   "tip": "CIRCULARA",
+   "numar": "24",
+   "data_act": "2026-09-04",
+   "titlu": "CIRCULARĂ nr. 24 din 4 septembrie 2026",
+   "descriere": "privind lansarea în circuitul numismatic a unei bancnote aniversare pentru colecţionare cu valoare nominală de 100 lei, cu tema Eugeniu Carada, întemeietorul Băncii Naţionale a României - 190 de ani de la naştere şi a unei coli speciale formate din 4 bancnote aniversare pentru colecţionare cu valoare nominală de 100 lei, cu tema Eugeniu Carada, întemeietorul Băncii Naţionale a României - 190 de ani de la naştere",
+   "emitenti": [
+    "Banca Națională a României"
+   ],
+   "monitor_nr": "772",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314431",
+   "tip": "REZOLUTIE",
+   "numar": "2827",
+   "data_act": "2026-07-29",
+   "titlu": "REZOLUȚIA 2827(2026) din 29 iulie 2026",
+   "descriere": "adoptată de Consiliul de Securitate în cadrul celei de a 10204-a reuniuni",
+   "emitenti": [
+    "Organizația Națiunilor Unite"
+   ],
+   "monitor_nr": "772",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314430",
+   "tip": "ORDIN",
+   "numar": "1818",
+   "data_act": "2026-08-26",
+   "titlu": "ORDIN nr. 1.818 din 26 august 2026",
+   "descriere": "pentru publicarea Rezoluţiei Consiliului de Securitate al ONU 2827 (2026)",
+   "emitenti": [
+    "Ministerul Afacerilor Externe"
+   ],
+   "monitor_nr": "772",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314429",
+   "tip": "ORDIN",
+   "numar": "1075",
+   "data_act": "2026-09-09",
+   "titlu": "ORDIN nr. 1.075 din 9 septembrie 2026",
+   "descriere": "privind modificarea şi completarea Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 587/2016 pentru aprobarea modelului şi conţinutului formularelor utilizate pentru declararea impozitelor şi taxelor cu regim de stabilire prin autoimpunere sau reţinere la sursă",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "772",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314428",
+   "tip": "ORDIN",
+   "numar": "1074",
+   "data_act": "2026-09-08",
+   "titlu": "ORDIN nr. 1.074 din 8 septembrie 2026",
+   "descriere": "privind modificarea Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.699/2021 pentru aprobarea formularelor de înregistrare fiscală a contribuabililor şi a tipurilor de obligaţii fiscale care formează vectorul fiscal",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "772",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314427",
+   "tip": "DECIZIE",
+   "numar": "221",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 221 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 340 alin. (1) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "772",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314426",
+   "tip": "DECIZIE",
+   "numar": "131",
+   "data_act": "2026-02-17",
+   "titlu": "DECIZIA nr. 131 din 17 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 83 alin. (3) teza finală din Legea nr. 303/2004 privind statutul judecătorilor şi procurorilor",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "772",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314425",
+   "tip": "HOTARARE",
+   "numar": "121",
+   "data_act": "2026-09-08",
+   "titlu": "HOTĂRÂRE nr. 121 din 8 septembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului de modificare a Regulamentului (UE) 2021/782 în ceea ce priveşte protecţia călătorilor care deţin bilete unice - COM (2026) 233 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "772",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314424",
+   "tip": "HOTARARE",
+   "numar": "120",
+   "data_act": "2026-09-08",
+   "titlu": "HOTĂRÂRE nr. 120 din 8 septembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului privind emiterea biletelor de tren - COM (2026) 232 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "772",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314423",
+   "tip": "HOTARARE",
+   "numar": "119",
+   "data_act": "2026-09-08",
+   "titlu": "HOTĂRÂRE nr. 119 din 8 septembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului privind rezervarea multimodală şi de abrogare a Regulamentului (CE) nr. 80/2009 - COM (2026) 231 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "772",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314417",
+   "tip": "HOTARARE",
+   "numar": "123",
+   "data_act": "2026-08-27",
+   "titlu": "HOTĂRÂRE nr. 123 din 27 august 2026",
+   "descriere": "pentru modificarea anexei la Hotărârea Consiliului naţional al Colegiului Fizioterapeuţilor din România nr. 82/2026 privind aprobarea Metodologiei de reatestare a competenţei profesionale a fizioterapeuţilor",
+   "emitenti": [
+    "Colegiul Fizioterapeuților din România"
+   ],
+   "monitor_nr": "771",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314416",
+   "tip": "ORDIN",
+   "numar": "5188",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.188 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Romano-Catolic \"Josephus Calasantius\" din municipiul Carei, judeţul Satu Mare",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "771",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314415",
+   "tip": "ORDIN",
+   "numar": "5106",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.106 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Tehnologic Special nr. 3 din municipiul Bucureşti, sectorul 2",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "771",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314414",
+   "tip": "ORDIN",
+   "numar": "1037",
+   "data_act": "2026-09-03",
+   "titlu": "ORDIN nr. 1.037 din 3 septembrie 2026",
+   "descriere": "pentru aprobarea reglementării tehnice \"Metodologie privind elaborarea hărţilor de risc seismic, indicativ RTC 18-2026\"",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "771",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-10-11",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "314413",
+   "tip": "DECIZIE",
+   "numar": "276",
+   "data_act": "2026-03-26",
+   "titlu": "DECIZIA nr. 276 din 26 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 60 alin. (1) din Legea nr. 223/2015 privind pensiile militare de stat, în redactarea anterioară Legii nr. 282/2023 pentru modificarea şi completarea unor acte normative din domeniul pensiilor de serviciu şi a Legii nr. 227/2015 privind Codul fiscal , precum şi a Ordonanţei de urgenţă a Guvernului nr. 59/2017 privind modificarea şi completarea unor acte normative din domeniul pensiilor de serviciu şi a Ordonanţei de urgenţă a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investiţiilor publice şi a unor măsuri fiscal-bugetare, modificarea şi completarea unor acte normative şi prorogarea unor termene, în ansamblu",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "771",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
+  {
+   "id": "309931",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-09-11",
+   "titlu": "COMUNICAT din 11 septembrie 2026",
+   "descriere": "privind interpretarea și aplicarea unitară a dispozițiilor art. 21 și art. 57 alin. (1) din Legea nr. 196/2018 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari şi administrarea condominiilor",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-11",
+   "are_text": false
+  },
   {
    "id": "314412",
    "tip": "ORDIN",
