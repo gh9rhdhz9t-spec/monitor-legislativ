@@ -1,28 +1,473 @@
 {
- "generated_at": "2026-09-13T13:07:47+00:00",
+ "generated_at": "2026-09-14T05:15:22+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 745,
- "new_this_run": 0,
+ "total": 769,
+ "new_this_run": 24,
  "pages_scanned": 6,
  "categories": {
-  "Transporturi și infrastructură": 57,
+  "Sănătate": 22,
+  "Energie și mediu": 68,
+  "Economie, IMM și comerț": 62,
+  "Fiscalitate și buget": 75,
+  "Transporturi și infrastructură": 58,
+  "Administrație publică": 58,
+  "Afaceri externe și UE": 11,
+  "Educație și cercetare": 161,
+  "Cultură, culte și sport": 12,
+  "Justiție și afaceri interne": 88,
   "Altele": 64,
-  "Fiscalitate și buget": 73,
-  "Justiție și afaceri interne": 87,
-  "Educație și cercetare": 153,
-  "Administrație publică": 57,
   "Protecție socială și pensii": 16,
-  "Economie, IMM și comerț": 60,
-  "Sănătate": 19,
-  "Cultură, culte și sport": 11,
   "Muncă și dialog social": 14,
-  "Energie și mediu": 64,
-  "Afaceri externe și UE": 10,
   "Agricultură și dezvoltare rurală": 52,
   "Apărare și securitate națională": 4,
   "Digitalizare și comunicații": 4
  },
  "acts": [
+  {
+   "id": "314458",
+   "tip": "ORDIN",
+   "numar": "1287",
+   "data_act": "2026-09-08",
+   "titlu": "ORDIN nr. 1.287 din 8 septembrie 2026",
+   "descriere": "privind modificarea şi completarea anexei nr. 1 la Ordinul ministrului sănătăţii nr. 5.994/2024 pentru aprobarea preţurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deţinătorii de autorizaţie de punere pe piaţă a medicamentelor sau reprezentanţii acestora, distribuitorii angro şi furnizorii de servicii medicale şi medicamente pentru acele medicamente care fac obiectul unei relaţii contractuale cu Ministerul Sănătăţii, casele de asigurări de sănătate şi/sau direcţiile de sănătate publică judeţene şi a municipiului Bucureşti, cuprinse în Catalogul naţional al preţurilor medicamentelor autorizate de punere pe piaţă în România, a preţurilor de referinţă generice şi a preţurilor de referinţă inovative",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "774",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": true
+  },
+  {
+   "id": "314457",
+   "tip": "ORDIN",
+   "numar": "1066",
+   "data_act": "2026-09-08",
+   "titlu": "ORDIN nr. 1.066 din 8 septembrie 2026",
+   "descriere": "pentru aprobarea Ghidului solicitantului - Condiţii specifice de accesare a finanţării din Fondul pentru modernizare - Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produse din surse regenerabile de energie solară, cu capacităţi de stocare integrate, pentru autoconsum pentru entităţi publice",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "774",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314456",
+   "tip": "ORDIN",
+   "numar": "1065",
+   "data_act": "2026-09-08",
+   "titlu": "ORDIN nr. 1.065 din 8 septembrie 2026",
+   "descriere": "pentru aprobarea Ghidului solicitantului - Condiţii specifice de accesare a finanţării din Fondul pentru modernizare - Sprijinirea investiţiilor în dezvoltarea de noi capacităţi de stocare a energiei electrice produse din surse regenerabile de energie pentru entităţi publice",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "774",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314455",
+   "tip": "HOTARARE",
+   "numar": "713",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 713 din 11 septembrie 2026",
+   "descriere": "pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Consolidare, restaurare şi refuncţionalizare a imobilului fostul Palat Mihail Sturdza, situat în municipiul Iaşi, str. Cloşca nr. 9, M.I. cuprins în L.M.I. la poz. 954 cu nr. IS-II-m-B-03808, judeţul Iaşi\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "774",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314454",
+   "tip": "HOTARARE",
+   "numar": "712",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 712 din 11 septembrie 2026",
+   "descriere": "privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2026, pentru suplimentarea bugetului Ministerului Culturii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "774",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "alocatie",
+    "guvernul"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": true
+  },
+  {
+   "id": "314453",
+   "tip": "HOTARARE",
+   "numar": "711",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 711 din 11 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii de Transport cu Metroul Bucureşti \"Metrorex\" - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "774",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314452",
+   "tip": "DECIZIE",
+   "numar": "713",
+   "data_act": "2025-12-09",
+   "titlu": "DECIZIA nr. 713 din 9 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. VII din Ordonanţa de urgenţă a Guvernului nr. 102/2013 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal şi reglementarea unor măsuri financiar-fiscale",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "774",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314451",
+   "tip": "DECRET",
+   "numar": "758",
+   "data_act": "2026-09-11",
+   "titlu": "DECRET nr. 758 din 11 septembrie 2026",
+   "descriere": "privind trecerea în rezervă a unui general-locotenent cu trei stele din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "774",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314450",
+   "tip": "DECRET",
+   "numar": "757",
+   "data_act": "2026-09-11",
+   "titlu": "DECRET nr. 757 din 11 septembrie 2026",
+   "descriere": "privind schimbarea rangului Consulatului general al României la Cape Town, Republica Africa de Sud",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "774",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314449",
+   "tip": "DECIZIE",
+   "numar": "35",
+   "data_act": "2026-08-28",
+   "titlu": "DECIZIE nr. 35 din 28 august 2026",
+   "descriere": "privind organizarea de alegeri pentru o funcţie în Comisia de disciplină a Colegiului Medicilor Vaslui",
+   "emitenti": [
+    "Colegiul Medicilor din România"
+   ],
+   "monitor_nr": "773",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314448",
+   "tip": "DECIZIE",
+   "numar": "34",
+   "data_act": "2026-08-28",
+   "titlu": "DECIZIE nr. 34 din 28 august 2026",
+   "descriere": "privind organizarea de noi alegeri la nivelul organelor de conducere ale Colegiului Medicilor Buzău",
+   "emitenti": [
+    "Colegiul Medicilor din România"
+   ],
+   "monitor_nr": "773",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314447",
+   "tip": "ORDIN",
+   "numar": "5616",
+   "data_act": "2026-09-04",
+   "titlu": "ORDIN nr. 5.616 din 4 septembrie 2026",
+   "descriere": "pentru modificarea Ordinului ministrului educaţiei şi cercetării nr. 5.557/2026 privind acordarea statutului de unitate de învăţământ pilot unor unităţi de învăţământ preuniversitar",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "773",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": true
+  },
+  {
+   "id": "314446",
+   "tip": "ORDIN",
+   "numar": "5199",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.199 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Grădiniţa Sunshine din municipiul Arad, judeţul Arad",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "773",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314445",
+   "tip": "ORDIN",
+   "numar": "5177",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.177 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Nr. 3 \"Pompiliu Dan\" Zărneşti din judeţul Braşov",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "773",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314444",
+   "tip": "ORDIN",
+   "numar": "5176",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.176 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Profesională Valea Stanciului din comuna Valea Stanciului, judeţul Dolj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "773",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": true
+  },
+  {
+   "id": "314443",
+   "tip": "ORDIN",
+   "numar": "5169",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.169 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Grădiniţa Kinderlachen II din oraşul Otopeni, judeţul Ilfov",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "773",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314442",
+   "tip": "ORDIN",
+   "numar": "5167",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.167 din 27 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Nr. 1 Oraş Nucet din judeţul Bihor",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "773",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": true
+  },
+  {
+   "id": "314441",
+   "tip": "ORDIN",
+   "numar": "5137",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.137 din 27 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Grădiniţa cu Program Prelungit \"Crescendo\" din municipiul Botoşani, judeţul Botoşani",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "773",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": true
+  },
+  {
+   "id": "314440",
+   "tip": "ORDIN",
+   "numar": "5128",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.128 din 27 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Hoghilag din comuna Hoghilag, judeţul Sibiu",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "773",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": true
+  },
+  {
+   "id": "314439",
+   "tip": "ORDIN",
+   "numar": "3180",
+   "data_act": "2026-09-07",
+   "titlu": "ORDIN nr. 3.180 din 7 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea anexei la Ordinul ministrului culturii şi patrimoniului naţional nr. 2.562/2010 privind aprobarea Procedurii de acordare a autorizaţiilor pentru cercetarea arheologică",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "773",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314438",
+   "tip": "DECIZIE",
+   "numar": "140",
+   "data_act": "2026-02-17",
+   "titlu": "DECIZIA nr. 140 din 17 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 336 alin. (1) din Codul penal , în redactarea anterioară intrării în vigoare a Legii nr. 200/2023 pentru modificarea şi completarea Legii nr. 286/2009 privind Codul penal , precum şi a altor acte normative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "773",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
   {
    "id": "314432",
    "tip": "CIRCULARA",
@@ -4811,6 +5256,66 @@
     "guvernul"
    ],
    "first_seen": "2026-09-03",
+   "are_text": false
+  },
+  {
+   "id": "314422",
+   "tip": "PLAN",
+   "numar": "",
+   "data_act": "2026-08-25",
+   "titlu": "PLAN din 25 august 2026",
+   "descriere": "de măsuri pentru simplificarea şi eficientizarea procedurilor administrative privind proiectele de energie eoliană offshore",
+   "emitenti": [
+    "Autoritatea Competentă pentru Reglementarea Operațiunilor Offshore la Marea Neagră"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314421",
+   "tip": "PLAN",
+   "numar": "",
+   "data_act": "2026-08-28",
+   "titlu": "PLAN din 28 august 2026",
+   "descriere": "de măsuri pentru simplificarea şi eficientizarea procedurilor administrative privind proiectele de energie eoliană offshore",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314420",
+   "tip": "PLAN",
+   "numar": "",
+   "data_act": "2026-08-25",
+   "titlu": "PLAN din 25 august 2026",
+   "descriere": "de măsuri pentru simplificarea şi eficientizarea procedurilor administrative privind proiectele de energie eoliană offshore",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "734",
+   "data_publicare": "2026-09-01",
+   "data_vigoare": "2026-09-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
    "are_text": false
   },
   {
