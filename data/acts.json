@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-09-14T05:15:22+00:00",
+ "generated_at": "2026-09-14T13:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 769,
- "new_this_run": 24,
+ "total": 787,
+ "new_this_run": 18,
  "pages_scanned": 6,
  "categories": {
-  "Sănătate": 22,
-  "Energie și mediu": 68,
+  "Energie și mediu": 78,
+  "Administrație publică": 59,
+  "Educație și cercetare": 165,
+  "Sănătate": 23,
+  "Justiție și afaceri interne": 90,
   "Economie, IMM și comerț": 62,
   "Fiscalitate și buget": 75,
   "Transporturi și infrastructură": 58,
-  "Administrație publică": 58,
   "Afaceri externe și UE": 11,
-  "Educație și cercetare": 161,
   "Cultură, culte și sport": 12,
-  "Justiție și afaceri interne": 88,
   "Altele": 64,
   "Protecție socială și pensii": 16,
   "Muncă și dialog social": 14,
@@ -23,6 +23,377 @@
   "Digitalizare și comunicații": 4
  },
  "acts": [
+  {
+   "id": "314477",
+   "tip": "RAPORT",
+   "numar": "13160",
+   "data_act": "2026-07-31",
+   "titlu": "RAPORT nr. 13.160 din 31 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Naţiunea Română în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314476",
+   "tip": "RAPORT",
+   "numar": "13010",
+   "data_act": "2026-07-29",
+   "titlu": "RAPORT nr. 13.010 din 29 iulie 2026",
+   "descriere": "în urma verificării respectării prevederilor legale privind veniturile şi cheltuielile Partidului \"Credinţă. Respect. Echitate. Demnitate\" în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314475",
+   "tip": "RAPORT",
+   "numar": "12587",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.587 din 21 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Verticala Nouă",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314474",
+   "tip": "RAPORT",
+   "numar": "12575",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.575 din 21 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Uniunea Independentă pentru Tecuci",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314473",
+   "tip": "RAPORT",
+   "numar": "12574",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.574 din 21 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Conservator Democrat",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314472",
+   "tip": "RAPORT",
+   "numar": "12180",
+   "data_act": "2026-07-14",
+   "titlu": "RAPORT nr. 12.180 din 14 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Patrioţilor Qanon",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314471",
+   "tip": "RAPORT",
+   "numar": "11789",
+   "data_act": "2026-07-08",
+   "titlu": "RAPORT nr. 11.789 din 8 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Câmpina Curată",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314470",
+   "tip": "RAPORT",
+   "numar": "11684",
+   "data_act": "2026-07-07",
+   "titlu": "RAPORT nr. 11.684 din 7 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Hunedoara Unită",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314469",
+   "tip": "RAPORT",
+   "numar": "11666",
+   "data_act": "2026-07-07",
+   "titlu": "RAPORT nr. 11.666 din 7 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Renaşterii şi Dezvoltării Maramureşului",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314468",
+   "tip": "RAPORT",
+   "numar": "11268",
+   "data_act": "2026-07-02",
+   "titlu": "RAPORT nr. 11.268 din 2 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la partidul politic Alianţa pentru Salvarea Buzăului",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314467",
+   "tip": "RAPORT",
+   "numar": "11041",
+   "data_act": "2026-06-30",
+   "titlu": "RAPORT nr. 11.041 din 30 iunie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Identitatea Naţională 1918",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314466",
+   "tip": "ORDIN",
+   "numar": "5187",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.187 din 27 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"Liviu Suhar\" din comuna Iacobeni, judeţul Suceava",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": true
+  },
+  {
+   "id": "314465",
+   "tip": "ORDIN",
+   "numar": "5186",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.186 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Militară de Maiştri Militari şi Subofiţeri de Logistică \"Gheorghe Lazăr\" din municipiul Bucureşti, sectorul 1",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314464",
+   "tip": "ORDIN",
+   "numar": "5179",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.179 din 27 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Tehnologic Transporturi Căi Ferate Craiova din municipiul Craiova, judeţul Dolj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": true
+  },
+  {
+   "id": "314463",
+   "tip": "ORDIN",
+   "numar": "5140",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.140 din 27 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Liceul Teoretic \"Atlas\" din municipiul Bucureşti, sectorul 6",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": true
+  },
+  {
+   "id": "314462",
+   "tip": "ORDIN",
+   "numar": "920",
+   "data_act": "2026-09-10",
+   "titlu": "ORDIN nr. 920 din 10 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Normei sanitar-veterinare pentru implementarea procesului de identificare şi înregistrare a bovinelor, ovinelor, caprinelor, porcinelor, camelidelor, cervideelor şi renilor, aprobată prin Ordinul preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 208/2022",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314461",
+   "tip": "ORDIN",
+   "numar": "194",
+   "data_act": "2026-09-08",
+   "titlu": "ORDIN nr. 194 din 8 septembrie 2026",
+   "descriere": "privind abrogarea unor ordine ale inspectorului de stat şef al Inspecţiei de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune şi Instalaţiilor de Ridicat",
+   "emitenti": [
+    "Inspecția de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-14",
+   "are_text": false
+  },
+  {
+   "id": "314460",
+   "tip": "DECIZIE",
+   "numar": "732",
+   "data_act": "2025-12-09",
+   "titlu": "DECIZIA nr. 732 din 9 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor notei 2 a lit. c) de la pct. II lit. A din cap. I al anexei nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 82 din 26 noiembrie 2018 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "776",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-09-14",
+   "are_text": true
+  },
   {
    "id": "314458",
    "tip": "ORDIN",
