@@ -1,28 +1,1038 @@
 {
- "generated_at": "2026-09-15T05:00:56+00:00",
+ "generated_at": "2026-09-15T13:10:28+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 789,
- "new_this_run": 2,
+ "total": 837,
+ "new_this_run": 48,
  "pages_scanned": 6,
  "categories": {
-  "Energie și mediu": 80,
-  "Administrație publică": 59,
-  "Educație și cercetare": 165,
-  "Sănătate": 23,
-  "Justiție și afaceri interne": 90,
+  "Educație și cercetare": 201,
+  "Administrație publică": 60,
+  "Transporturi și infrastructură": 60,
+  "Protecție socială și pensii": 17,
+  "Justiție și afaceri interne": 92,
+  "Sănătate": 24,
+  "Cultură, culte și sport": 14,
+  "Muncă și dialog social": 15,
+  "Energie și mediu": 82,
   "Economie, IMM și comerț": 62,
   "Fiscalitate și buget": 75,
-  "Transporturi și infrastructură": 58,
   "Afaceri externe și UE": 11,
-  "Cultură, culte și sport": 12,
   "Altele": 64,
-  "Protecție socială și pensii": 16,
-  "Muncă și dialog social": 14,
   "Agricultură și dezvoltare rurală": 52,
   "Apărare și securitate națională": 4,
   "Digitalizare și comunicații": 4
  },
  "acts": [
+  {
+   "id": "314527",
+   "tip": "ORDIN",
+   "numar": "5346",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.346 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Teoretic Bilingv \"Ita Wegman\" din municipiul Bucureşti, sectorul 2",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "777",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314526",
+   "tip": "ORDIN",
+   "numar": "5345",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.345 din 31 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Şcoala Gimnazială \"Octofun\" din municipiul Cluj-Napoca, judeţul Cluj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "777",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314525",
+   "tip": "ORDIN",
+   "numar": "5296",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.296 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Nr. 1 Tileagd din comuna Tileagd, judeţul Bihor",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "777",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314524",
+   "tip": "ORDIN",
+   "numar": "5295",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.295 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Ortodox \"Sfântul Nicolae\" Zalău din municipiul Zalău, judeţul Sălaj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "777",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314523",
+   "tip": "ORDIN",
+   "numar": "5240",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.240 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Liceul Teoretic \"Kids Club Militari\" din satul Roşu, comuna Chiajna, judeţul Ilfov",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "777",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314522",
+   "tip": "ORDIN",
+   "numar": "5165",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.165 din 27 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Grădiniţa cu program prelungit \"Şerban Vodă\" din municipiul Bucureşti, sectorul 4",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "777",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314521",
+   "tip": "ORDIN",
+   "numar": "5138",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.138 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Grădiniţa \"Olga Gudynn International School\" din municipiul Bucureşti, sectorul 1",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "777",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314520",
+   "tip": "HOTARARE",
+   "numar": "716",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 716 din 11 septembrie 2026",
+   "descriere": "privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "777",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314519",
+   "tip": "HOTARARE",
+   "numar": "715",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 715 din 11 septembrie 2026",
+   "descriere": "privind trecerea din domeniul public al statului în domeniul privat al statului a unor bunuri aflate în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. - Sucursala Regională CF Bucureşti pentru scoaterea din funcţiune, în vederea valorificării şi, după caz, casării",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "777",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 4,
+   "termeni": [
+    "concediu",
+    "guvernul"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314518",
+   "tip": "HOTARARE",
+   "numar": "714",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 714 din 11 septembrie 2026",
+   "descriere": "privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unui bun imobil reprezentând teren în suprafaţă de 1.020 mp şi darea acestuia în administrarea Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "777",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314517",
+   "tip": "DECIZIE",
+   "numar": "181",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIA nr. 181 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 45 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "777",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314516",
+   "tip": "ORDIN",
+   "numar": "5348",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.348 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Colegiul Tehnic \"Dinicu Golescu\" din municipiul Bucureşti, sectorul 1",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "780",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314515",
+   "tip": "ORDIN",
+   "numar": "5297",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.297 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Dorneşti din comuna Dorneşti, judeţul Suceava",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "780",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314514",
+   "tip": "ORDIN",
+   "numar": "5253",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.253 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Tehnologic \"Eötvös József\" din municipiul Odorheiu Secuiesc, judeţul Harghita",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "780",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314513",
+   "tip": "ORDIN",
+   "numar": "5251",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.251 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Creşa \"Miraboo Land\" din municipiul Iaşi, judeţul Iaşi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "780",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314512",
+   "tip": "ORDIN",
+   "numar": "5244",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.244 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Şcoala Gimnazială \"Henri Coandă\" Oradea din municipiul Oradea, judeţul Bihor",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "780",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314511",
+   "tip": "ORDIN",
+   "numar": "5189",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.189 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Specială Târgovişte din municipiul Târgovişte, judeţul Dâmboviţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "780",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314510",
+   "tip": "ORDIN",
+   "numar": "5173",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.173 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Grădiniţa \"Montessori Class\" din comuna Chiajna, judeţul Ilfov",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "780",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314509",
+   "tip": "ORDIN",
+   "numar": "5168",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.168 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Creşa \"Jiului\" din municipiul Bucureşti, sectorul 1",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "780",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314508",
+   "tip": "ORDIN",
+   "numar": "5166",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.166 din 27 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Tehnologic Nr. 1 Cudalbi din comuna Cudalbi, judeţul Galaţi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "780",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314507",
+   "tip": "DECIZIE",
+   "numar": "227",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 227 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 70 alin. (4) lit. i) din Legea nr. 254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "780",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314506",
+   "tip": "DECIZIE",
+   "numar": "704",
+   "data_act": "2025-12-04",
+   "titlu": "DECIZIA nr. 704 din 4 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 170 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, astfel cum au fost interpretate prin Decizia nr. 71 din 16 octombrie 2017 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "780",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314505",
+   "tip": "ORDIN",
+   "numar": "5350",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.350 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială din comuna Laloşu, judeţul Vâlcea",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "779",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314504",
+   "tip": "ORDIN",
+   "numar": "5347",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.347 din 31 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Pedagogic \"Bod Péter\" din municipiul Târgu Secuiesc, judeţul Covasna",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "779",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314503",
+   "tip": "ORDIN",
+   "numar": "5299",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.299 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Tehnologic \"Vasile Deac\" din municipiul Vatra Dornei, judeţul Suceava",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "779",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314502",
+   "tip": "ORDIN",
+   "numar": "5298",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.298 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"Nicolae Stoleru\" Baia din comuna Baia, judeţul Suceava",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "779",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314501",
+   "tip": "ORDIN",
+   "numar": "5294",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.294 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Profesională \"Profesor Ioan Man\" din comuna Ion Roată, judeţul Ialomiţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "779",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314500",
+   "tip": "ORDIN",
+   "numar": "5255",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.255 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Şcoala Primară \"Montessori Mundi\" din municipiul Timişoara, judeţul Timiş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "779",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314499",
+   "tip": "ORDIN",
+   "numar": "5252",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.252 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Şcoala Primară \"Atlanthea\" din municipiul Bucureşti, sectorul 1",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "779",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314498",
+   "tip": "ORDIN",
+   "numar": "5250",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.250 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Profesională Fărcaşa din comuna Fărcaşa, judeţul Maramureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "779",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314497",
+   "tip": "ORDIN",
+   "numar": "5248",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.248 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Merişani din comuna Merişani, judeţul Argeş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "779",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314496",
+   "tip": "ORDIN",
+   "numar": "5246",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.246 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Colegiul Tehnic Auto \"Traian Vuia\" din municipiul Focşani, judeţul Vrancea",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "779",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314495",
+   "tip": "ORDIN",
+   "numar": "5237",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.237 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Specială Nr. 1 Giurgiu din judeţul Giurgiu",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "779",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314494",
+   "tip": "ORDIN",
+   "numar": "5236",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.236 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Grădiniţa \"MISIUNEA\" din municipiul Sighişoara, judeţul Mureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "779",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314493",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-08-31",
+   "titlu": "NORME METODOLOGICE din 31 august 2026",
+   "descriere": "pentru stabilirea degrevării de normă didactică şi a obligaţiei de predare a personalului didactic de conducere, de îndrumare şi control din învăţământul preuniversitar",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "778",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314492",
+   "tip": "ORDIN",
+   "numar": "5519",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.519 din 31 august 2026",
+   "descriere": "privind aprobarea Normelor metodologice pentru stabilirea degrevării de normă didactică şi a obligaţiei de predare a personalului didactic de conducere, de îndrumare şi control din învăţământul preuniversitar",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "778",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314491",
+   "tip": "ORDIN",
+   "numar": "5349",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.349 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Tehnologic Agricol Comuna Smeeni din judeţul Buzău",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "778",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314490",
+   "tip": "ORDIN",
+   "numar": "5260",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.260 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Şcoala Primară Equilibrum din municipiul Bucureşti, sectorul 1",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "778",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314489",
+   "tip": "ORDIN",
+   "numar": "5259",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.259 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Liceul Teoretic Naţional din municipiul Bucureşti, sectorul 1",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "778",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314488",
+   "tip": "ORDIN",
+   "numar": "5247",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.247 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Teoretic \"Gheorghe Munteanu Murgoci\" din oraşul Măcin, judeţul Tulcea",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "778",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314487",
+   "tip": "ORDIN",
+   "numar": "5245",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.245 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Nr. 311 din municipiul Bucureşti, sectorul 6",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "778",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314486",
+   "tip": "ORDIN",
+   "numar": "5175",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.175 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"Dumitru Udrescu\" din comuna Săpata, judeţul Argeş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "778",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314485",
+   "tip": "ORDIN",
+   "numar": "1267",
+   "data_act": "2026-09-04",
+   "titlu": "ORDIN nr. 1.267 din 4 septembrie 2026",
+   "descriere": "pentru modificarea anexelor nr. 1 , 2 şi 3 la Ordinul ministrului sănătăţii nr. 183/2005 privind aprobarea Regulamentului de organizare şi funcţionare, a organigramei, a componenţei Consiliului ştiinţific al Agenţiei Naţionale de Transplant, precum şi atribuţiile directorului adjunct strategie-management al Agenţiei Naţionale de Transplant",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "778",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
+  {
+   "id": "314484",
+   "tip": "ORDIN",
+   "numar": "3177",
+   "data_act": "2026-09-04",
+   "titlu": "ORDIN nr. 3.177 din 4 septembrie 2026",
+   "descriere": "privind stabilirea valorii sumei indexate care se acordă sub formă de tichete culturale pentru semestrul II al anului 2026",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "778",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314483",
+   "tip": "ORDIN",
+   "numar": "1187",
+   "data_act": "2026-09-02",
+   "titlu": "ORDIN nr. 1.187 din 2 septembrie 2026",
+   "descriere": "privind stabilirea valorii sumei indexate care se acordă sub formă de tichete culturale pentru semestrul II al anului 2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "778",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314482",
+   "tip": "DECIZIE",
+   "numar": "592",
+   "data_act": "2025-11-11",
+   "titlu": "DECIZIA nr. 592 din 11 noiembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 90 din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice şi ale art. 7 alin. (5) din Ordonanţa de urgenţă a Guvernului nr. 30/2007 privind organizarea şi funcţionarea Ministerului Internelor şi Reformei Administrative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "778",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-09-15",
+   "are_text": true
+  },
   {
    "id": "314479",
    "tip": "GHID",
@@ -433,6 +1443,46 @@
    ],
    "first_seen": "2026-09-14",
    "are_text": true
+  },
+  {
+   "id": "314481",
+   "tip": "GHID",
+   "numar": "",
+   "data_act": "2026-09-08",
+   "titlu": "GHIDUL SOLICITANTULUI din 8 septembrie 2026",
+   "descriere": "Condiţii specifice de accesare a finanţării din Fondul pentru modernizare - Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produse din surse regenerabile de energie solară, cu capacităţi de stocare integrate, pentru autoconsum pentru entităţi publice",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "774",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314480",
+   "tip": "GHID",
+   "numar": "",
+   "data_act": "2026-09-08",
+   "titlu": "GHIDUL SOLICITANTULUI din 8 septembrie 2026",
+   "descriere": "Condiţii specifice de accesare a finanţării din Fondul pentru modernizare - Sprijinirea investiţiilor în dezvoltarea de noi capacităţi de stocare a energiei electrice produse din surse regenerabile de energie pentru entităţi publice",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "774",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-09-11",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-15",
+   "are_text": false
   },
   {
    "id": "314458",
