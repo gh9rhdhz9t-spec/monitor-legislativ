@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-14T13:00:05+00:00",
+ "generated_at": "2026-09-15T05:00:56+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 787,
- "new_this_run": 18,
+ "total": 789,
+ "new_this_run": 2,
  "pages_scanned": 6,
  "categories": {
-  "Energie și mediu": 78,
+  "Energie și mediu": 80,
   "Administrație publică": 59,
   "Educație și cercetare": 165,
   "Sănătate": 23,
@@ -23,6 +23,46 @@
   "Digitalizare și comunicații": 4
  },
  "acts": [
+  {
+   "id": "314479",
+   "tip": "GHID",
+   "numar": "",
+   "data_act": "2026-09-11",
+   "titlu": "GHID DE FINANȚARE din 11 septembrie 2026",
+   "descriere": "a Programului privind instalarea sistemelor de stocare a energiei electrice produse din surse regenerabile, în vederea acumulării necesarului pentru consum propriu şi livrării surplusului energetic în reţeaua naţională",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "775",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
+  {
+   "id": "314478",
+   "tip": "ORDIN",
+   "numar": "1904",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. 1.904 din 11 septembrie 2026",
+   "descriere": "pentru aprobarea Ghidului de finanţare a Programului privind instalarea sistemelor de stocare a energiei electrice produse din surse regenerabile, în vederea acumulării necesarului pentru consum propriu şi livrării surplusului energetic în reţeaua naţională",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "775",
+   "data_publicare": "2026-09-14",
+   "data_vigoare": "2026-09-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-15",
+   "are_text": false
+  },
   {
    "id": "314477",
    "tip": "RAPORT",
