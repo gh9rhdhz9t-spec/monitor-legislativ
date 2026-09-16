@@ -1,28 +1,420 @@
 {
- "generated_at": "2026-09-15T13:10:28+00:00",
+ "generated_at": "2026-09-16T05:00:50+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 837,
- "new_this_run": 48,
+ "total": 856,
+ "new_this_run": 19,
  "pages_scanned": 6,
  "categories": {
+  "Administrație publică": 62,
+  "Economie, IMM și comerț": 63,
+  "Sănătate": 25,
+  "Justiție și afaceri interne": 100,
+  "Altele": 67,
+  "Muncă și dialog social": 16,
+  "Fiscalitate și buget": 77,
+  "Cultură, culte și sport": 15,
   "Educație și cercetare": 201,
-  "Administrație publică": 60,
   "Transporturi și infrastructură": 60,
   "Protecție socială și pensii": 17,
-  "Justiție și afaceri interne": 92,
-  "Sănătate": 24,
-  "Cultură, culte și sport": 14,
-  "Muncă și dialog social": 15,
   "Energie și mediu": 82,
-  "Economie, IMM și comerț": 62,
-  "Fiscalitate și buget": 75,
   "Afaceri externe și UE": 11,
-  "Altele": 64,
   "Agricultură și dezvoltare rurală": 52,
   "Apărare și securitate națională": 4,
   "Digitalizare și comunicații": 4
  },
  "acts": [
+  {
+   "id": "314547",
+   "tip": "HOTARARE",
+   "numar": "2",
+   "data_act": "2026-09-12",
+   "titlu": "HOTĂRÂRE nr. 2 din 12 septembrie 2026",
+   "descriere": "privind alegerea preşedintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România şi a auditorului statutar al Camerei Auditorilor Financiari din România",
+   "emitenti": [
+    "Camera Auditorilor Financiari din România"
+   ],
+   "monitor_nr": "783",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314546",
+   "tip": "ORDIN",
+   "numar": "1416",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. 1.416 din 11 septembrie 2026",
+   "descriere": "pentru modificarea Ordinului ministrului investiţiilor şi proiectelor europene nr. 5.980/2025 privind aprobarea Schemei de ajutor de minimis având ca obiectiv dezvoltarea întreprinderilor sociale prin acordarea de sprijin pentru creşterea durabilă şi crearea de locuri de muncă în cadrul Programului Tranziţie justă 2021-2027",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "783",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "intreprindere sociala"
+   ],
+   "first_seen": "2026-09-16",
+   "are_text": true
+  },
+  {
+   "id": "314545",
+   "tip": "ORDIN",
+   "numar": "1310",
+   "data_act": "2026-09-14",
+   "titlu": "ORDIN nr. 1.310 din 14 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Normelor de aplicare a prevederilor art. 703 alin. (1) şi (2) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii referitoare la medicamentele utilizate pentru rezolvarea unor nevoi speciale, aprobate prin Ordinul ministrului sănătăţii nr. 85/2013",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "783",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-09-16",
+   "are_text": true
+  },
+  {
+   "id": "314544",
+   "tip": "DECIZIE",
+   "numar": "225",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 225 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 68 alin. (1) , (5) şi (7) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "783",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314543",
+   "tip": "HOTARARE",
+   "numar": "123",
+   "data_act": "2026-09-14",
+   "titlu": "HOTĂRÂRE nr. 123 din 14 septembrie 2026",
+   "descriere": "pentru modificarea Hotărârii Senatului nr. 134/2024 privind aprobarea componenţei numerice şi nominale a comisiilor permanente ale Senatului",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "783",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314542",
+   "tip": "HOTARARE",
+   "numar": "726",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 726 din 11 septembrie 2026",
+   "descriere": "privind suplimentarea bugetului Consiliului Economic şi Social din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2026, şi pentru aprobarea normativelor şi a limitelor maxime de cheltuieli pentru organizarea la Bucureşti, în perioada 28-30 septembrie 2026, a Forumului Dialogului Social Francofon şi a Adunării Generale a Uniunii Consiliilor Economice şi Sociale şi Instituţiilor Similare Francofone (UCESIF)",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "782",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 10,
+   "termeni": [
+    "dialog social",
+    "consiliul economic si social",
+    "guvernul"
+   ],
+   "first_seen": "2026-09-16",
+   "are_text": true
+  },
+  {
+   "id": "314541",
+   "tip": "HOTARARE",
+   "numar": "122",
+   "data_act": "2026-09-14",
+   "titlu": "HOTĂRÂRE nr. 122 din 14 septembrie 2026",
+   "descriere": "privind contul de execuţie a bugetului Senatului României pe anul 2025",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "782",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314540",
+   "tip": "DECRET",
+   "numar": "767",
+   "data_act": "2026-09-15",
+   "titlu": "DECRET nr. 767 din 15 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "782",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314539",
+   "tip": "DECRET",
+   "numar": "766",
+   "data_act": "2026-09-15",
+   "titlu": "DECRET nr. 766 din 15 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "782",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314538",
+   "tip": "DECRET",
+   "numar": "765",
+   "data_act": "2026-09-15",
+   "titlu": "DECRET nr. 765 din 15 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "782",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314537",
+   "tip": "DECRET",
+   "numar": "764",
+   "data_act": "2026-09-15",
+   "titlu": "DECRET nr. 764 din 15 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "782",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314536",
+   "tip": "DECRET",
+   "numar": "763",
+   "data_act": "2026-09-15",
+   "titlu": "DECRET nr. 763 din 15 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "782",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314535",
+   "tip": "DECRET",
+   "numar": "762",
+   "data_act": "2026-09-15",
+   "titlu": "DECRET nr. 762 din 15 septembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "782",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314534",
+   "tip": "DECRET",
+   "numar": "761",
+   "data_act": "2026-09-15",
+   "titlu": "DECRET nr. 761 din 15 septembrie 2026",
+   "descriere": "privind conferirea Ordinului Virtutea Maritimă",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "782",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314533",
+   "tip": "DECRET",
+   "numar": "760",
+   "data_act": "2026-09-15",
+   "titlu": "DECRET nr. 760 din 15 septembrie 2026",
+   "descriere": "privind conferirea Ordinului Virtutea Maritimă",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "782",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314532",
+   "tip": "DECRET",
+   "numar": "759",
+   "data_act": "2026-09-15",
+   "titlu": "DECRET nr. 759 din 15 septembrie 2026",
+   "descriere": "privind conferirea Ordinului Meritul Cultural",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "782",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314531",
+   "tip": "DECIZIE",
+   "numar": "224",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 224 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (3) din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale, ale art. 8 alin. (1) din aceeaşi lege, în redactarea anterioară intrării în vigoare a Legii nr. 55/2021 privind modificarea şi completarea Legii nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale, precum şi ale art. 10 alin. (1) şi (1^1) din Legea nr. 241/2005 , în redactarea anterioară intrării în vigoare a Ordonanţei de urgenţă a Guvernului nr. 130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "781",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314530",
+   "tip": "DECIZIE",
+   "numar": "721",
+   "data_act": "2025-12-09",
+   "titlu": "DECIZIA nr. 721 din 9 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 142 lit. n) din anexa la Hotărârea Guvernului nr. 1.391/2006 pentru aprobarea Regulamentului de aplicare a Ordonanţei de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "781",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
+  {
+   "id": "314529",
+   "tip": "DECRET",
+   "numar": "768",
+   "data_act": "2026-09-15",
+   "titlu": "DECRET nr. 768 din 15 septembrie 2026",
+   "descriere": "privind trecerea în rezervă a unui general de brigadă cu o stea din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "781",
+   "data_publicare": "2026-09-15",
+   "data_vigoare": "2026-09-15",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-16",
+   "are_text": false
+  },
   {
    "id": "314527",
    "tip": "ORDIN",
