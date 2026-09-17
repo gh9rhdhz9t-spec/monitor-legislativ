@@ -1,28 +1,551 @@
 {
- "generated_at": "2026-09-16T05:00:50+00:00",
+ "generated_at": "2026-09-17T05:01:07+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 856,
- "new_this_run": 19,
+ "total": 881,
+ "new_this_run": 25,
  "pages_scanned": 6,
  "categories": {
-  "Administrație publică": 62,
+  "Educație și cercetare": 214,
+  "Protecție socială și pensii": 19,
+  "Sănătate": 26,
+  "Agricultură și dezvoltare rurală": 54,
+  "Energie și mediu": 84,
+  "Administrație publică": 64,
+  "Justiție și afaceri interne": 102,
   "Economie, IMM și comerț": 63,
-  "Sănătate": 25,
-  "Justiție și afaceri interne": 100,
-  "Altele": 67,
+  "Altele": 68,
   "Muncă și dialog social": 16,
   "Fiscalitate și buget": 77,
   "Cultură, culte și sport": 15,
-  "Educație și cercetare": 201,
   "Transporturi și infrastructură": 60,
-  "Protecție socială și pensii": 17,
-  "Energie și mediu": 82,
   "Afaceri externe și UE": 11,
-  "Agricultură și dezvoltare rurală": 52,
   "Apărare și securitate națională": 4,
   "Digitalizare și comunicații": 4
  },
  "acts": [
+  {
+   "id": "314571",
+   "tip": "ORDIN",
+   "numar": "5184",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.184 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Grădiniţa cu Program Prelungit Rodul Montessori din satul Valea Lupului, comuna Valea Lupului, judeţul Iaşi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "785",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314570",
+   "tip": "ORDIN",
+   "numar": "5183",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.183 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Şcoala Primară Montessori Transilvania din municipiul Cluj-Napoca, judeţul Cluj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "785",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314569",
+   "tip": "ORDIN",
+   "numar": "611",
+   "data_act": "2026-07-30",
+   "titlu": "ORDIN nr. 611 din 30 iulie 2026",
+   "descriere": "privind modificarea şi completarea Clasificării ocupaţiilor din România - nivel de ocupaţie (şase caractere), aprobată prin Ordinul ministrului muncii, familiei şi protecţiei sociale şi al preşedintelui Institutului Naţional de Statistică nr. 1.832/856/2011",
+   "emitenti": [
+    "Institutul Național de Statistică (și Studii Economice)"
+   ],
+   "monitor_nr": "785",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 4,
+   "termeni": [
+    "protectie sociala"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": true
+  },
+  {
+   "id": "314568",
+   "tip": "ORDIN",
+   "numar": "1003",
+   "data_act": "2026-07-23",
+   "titlu": "ORDIN nr. 1.003 din 23 iulie 2026",
+   "descriere": "privind modificarea şi completarea Clasificării ocupaţiilor din România - nivel de ocupaţie (şase caractere), aprobată prin Ordinul ministrului muncii, familiei şi protecţiei sociale şi al preşedintelui Institutului Naţional de Statistică nr. 1.832/856/2011",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "785",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 7,
+   "termeni": [
+    "protectie sociala",
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": true
+  },
+  {
+   "id": "314567",
+   "tip": "HOTARARE",
+   "numar": "723",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 723 din 11 septembrie 2026",
+   "descriere": "privind actualizarea valorii de inventar şi a adresei unui bun imobil din domeniul public al statului, aflat în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor - Direcţia Sanitar-Veterinară şi pentru Siguranţa Alimentelor Dolj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "785",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314566",
+   "tip": "HOTARARE",
+   "numar": "722",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 722 din 11 septembrie 2026",
+   "descriere": "privind actualizarea descrierii tehnice, adresei şi valorii de inventar ale bunurilor imobile cu numerele M.F. 150824 şi M.F. 152769, aflate în domeniul public al statului şi în administrarea Agenţiei Naţionale de Îmbunătăţiri Funciare din subordinea Ministerului Agriculturii şi Dezvoltării Rurale",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "785",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314565",
+   "tip": "HOTARARE",
+   "numar": "721",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 721 din 11 septembrie 2026",
+   "descriere": "privind actualizarea descrierii tehnice, adresei şi valorii de inventar ale imobilului clădire cu numărul M.F. 150847, aflat în domeniul public al statului şi în administrarea Agenţiei Naţionale de Îmbunătăţiri Funciare din subordinea Ministerului Agriculturii şi Dezvoltării Rurale",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "785",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314564",
+   "tip": "HOTARARE",
+   "numar": "720",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 720 din 11 septembrie 2026",
+   "descriere": "privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Bacău, Neamţ, Sibiu, Teleorman, Constanţa, Hunedoara, Tulcea şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "785",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314563",
+   "tip": "HOTARARE",
+   "numar": "719",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 719 din 11 septembrie 2026",
+   "descriere": "privind închirierea unor părţi din imobilul 488 aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "785",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314562",
+   "tip": "HOTARARE",
+   "numar": "718",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 718 din 11 septembrie 2026",
+   "descriere": "privind modificarea valorii de inventar a unui bun aflat în domeniul public al statului şi în administrarea Agenţiei Judeţene pentru Plăţi şi Inspecţie Socială Buzău",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "785",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314561",
+   "tip": "HOTARARE",
+   "numar": "717",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 717 din 11 septembrie 2026",
+   "descriere": "privind actualizarea valorii de inventar şi modificarea elementelor-cadru de descriere tehnică ale unui bun aflat în domeniul public al statului şi în administrarea Agenţiei Judeţene pentru Plăţi şi Inspecţie Socială Tulcea",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "785",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314560",
+   "tip": "DECIZIE",
+   "numar": "137",
+   "data_act": "2026-02-17",
+   "titlu": "DECIZIA nr. 137 din 17 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 56 alin. (6) şi (7) şi ale art. 69 alin. (2)-(6) din Legea nr. 254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, precum şi ale art. 69 alin. (1) lit. c) , d) , e) şi f) din Legea nr. 254/2013 , în redactarea anterioară intrării în vigoare a Legii nr. 200/2023 pentru modificarea şi completarea Legii nr. 286/2009 privind Codul penal , precum şi a altor acte normative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "785",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314559",
+   "tip": "ORDIN",
+   "numar": "5198",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.198 din 27 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Colegiul Tehnic \"Anghel Saligny\" din municipiul Bucureşti, sectorul 3",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "786",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": true
+  },
+  {
+   "id": "314558",
+   "tip": "ORDIN",
+   "numar": "5197",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.197 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Creşa Oradea din municipiul Oradea, judeţul Bihor",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "786",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314557",
+   "tip": "ORDIN",
+   "numar": "5191",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.191 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Tehnologic \"Constantin Brâncuşi\" din municipiul Bucureşti, sectorul 2",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "786",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314556",
+   "tip": "ORDIN",
+   "numar": "5190",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.190 din 27 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Şagu din comuna Şagu, judeţul Arad",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "786",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": true
+  },
+  {
+   "id": "314555",
+   "tip": "ORDIN",
+   "numar": "5160",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.160 din 27 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Vărgata din comuna Vărgata, judeţul Mureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "786",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": true
+  },
+  {
+   "id": "314554",
+   "tip": "ORDIN",
+   "numar": "5159",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.159 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"Regina Maria\" Mănăstirea Caşin din comuna Mănăstirea Caşin, judeţul Bacău",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "786",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314553",
+   "tip": "ORDIN",
+   "numar": "5158",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.158 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"Arhanghelii Mihail şi Gavriil\" Munteni-Buzău din judeţul Ialomiţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "786",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314552",
+   "tip": "ORDIN",
+   "numar": "5147",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.147 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Grădiniţa \"Montessori Land\" din municipiul Bucureşti, sectorul 2",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "786",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314551",
+   "tip": "ORDIN",
+   "numar": "5146",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.146 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Grădiniţa \"Dexter\" din municipiul Slobozia, judeţul Ialomiţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "786",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314550",
+   "tip": "ORDIN",
+   "numar": "4597",
+   "data_act": "2026-08-03",
+   "titlu": "ORDIN nr. 4.597 din 3 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Grădiniţa cu Program Prelungit \"Emanuel\" - Târgu Mureş din municipiul Târgu Mureş, judeţul Mureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "786",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314549",
+   "tip": "ORDIN",
+   "numar": "1902",
+   "data_act": "2026-09-10",
+   "titlu": "ORDIN nr. 1.902 din 10 septembrie 2026",
+   "descriere": "pentru aprobarea derogării în scopul cercetării ştiinţifice pentru specia de peşti Cottus poecilopus",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "786",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314548",
+   "tip": "DECIZIE",
+   "numar": "82",
+   "data_act": "2026-06-22",
+   "titlu": "DECIZIA nr. 82 din 22 iunie 2026",
+   "descriere": "referitoare la interpretarea şi aplicarea art. 406 din Codul de procedură civilă coroborat cu art. 2 alin. (2) , art. 92 alin. (1) şi art. 93 din Codul de procedură civilă şi prin raportare la art. I pct. 2 din Legea nr. 232/2025",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "784",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2026-09-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
   {
    "id": "314547",
    "tip": "HOTARARE",
@@ -1837,6 +2360,26 @@
    "are_text": true
   },
   {
+   "id": "314528",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-09-03",
+   "titlu": "METODOLOGIE din 3 septembrie 2026",
+   "descriere": "privind elaborarea hărţilor de risc seismic, indicativ RTC 18-2026",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "771",
+   "data_publicare": "2026-09-11",
+   "data_vigoare": "2026-10-11",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
    "id": "314481",
    "tip": "GHID",
    "numar": "",
@@ -2597,7 +3140,7 @@
    "numar": "1037",
    "data_act": "2026-09-03",
    "titlu": "ORDIN nr. 1.037 din 3 septembrie 2026",
-   "descriere": "pentru aprobarea reglementării tehnice \"Metodologie privind elaborarea hărţilor de risc seismic, indicativ RTC 18-2026\"",
+   "descriere": "pentru aprobarea reglementării tehnice \" Metodologie privind elaborarea hărţilor de risc seismic, indicativ RTC 18-2026\"",
    "emitenti": [
     "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
    ],
