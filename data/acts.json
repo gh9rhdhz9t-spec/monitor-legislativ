@@ -1,28 +1,1000 @@
 {
- "generated_at": "2026-09-18T05:00:23+00:00",
+ "generated_at": "2026-09-18T13:03:43+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 931,
- "new_this_run": 15,
+ "total": 978,
+ "new_this_run": 47,
  "pages_scanned": 6,
  "categories": {
-  "Energie și mediu": 90,
+  "Educație și cercetare": 259,
+  "Apărare și securitate națională": 8,
+  "Energie și mediu": 105,
+  "Justiție și afaceri interne": 109,
   "Administrație publică": 65,
-  "Educație și cercetare": 235,
   "Digitalizare și comunicații": 10,
-  "Justiție și afaceri interne": 106,
   "Transporturi și infrastructură": 63,
   "Altele": 74,
   "Protecție socială și pensii": 21,
+  "Sănătate": 27,
   "Cultură, culte și sport": 16,
-  "Sănătate": 26,
   "Agricultură și dezvoltare rurală": 54,
   "Economie, IMM și comerț": 63,
   "Muncă și dialog social": 16,
   "Fiscalitate și buget": 77,
-  "Afaceri externe și UE": 11,
-  "Apărare și securitate națională": 4
+  "Afaceri externe și UE": 11
  },
  "acts": [
+  {
+   "id": "314667",
+   "tip": "ORDIN",
+   "numar": "5566",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.566 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Profesională Band din comuna Band, judeţul Mureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": true
+  },
+  {
+   "id": "314666",
+   "tip": "ORDIN",
+   "numar": "5598",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.598 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Tehnologic de Transporturi Auto Craiova din municipiul Craiova, judeţul Dolj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314665",
+   "tip": "ORDIN",
+   "numar": "5592",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.592 din 31 august 2026",
+   "descriere": "privind acordarea acreditării Universităţii \"Alexandru Ioan Cuza\" din Iaşi pentru unitatea de învăţământ preuniversitar de stat Liceul Universităţii \"Alexandru Ioan Cuza\" din municipiul Iaşi, judeţul Iaşi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": true
+  },
+  {
+   "id": "314664",
+   "tip": "ORDIN",
+   "numar": "5591",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.591 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Şcoala Postliceală \"Henri Coandă\" din municipiul Satu Mare, judeţul Satu Mare",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314663",
+   "tip": "ORDIN",
+   "numar": "5590",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.590 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Liceul Teoretic \"Henri Coandă\" Cluj-Napoca din municipiul Cluj-Napoca, judeţul Cluj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314662",
+   "tip": "ORDIN",
+   "numar": "5588",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.588 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Liceul Teoretic \"Henri Coandă\" Bistriţa din municipiul Bistriţa, judeţul Bistriţa-Năsăud",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314661",
+   "tip": "ORDIN",
+   "numar": "5587",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.587 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Liceul Teoretic \"Henri Coandă\" Turda din municipiul Turda, judeţul Cluj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314660",
+   "tip": "ORDIN",
+   "numar": "5586",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.586 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Tehnologic Agroindustrial \"Tamási Áron\" din satul Borş, comuna Borş, judeţul Bihor",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314659",
+   "tip": "ORDIN",
+   "numar": "5584",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.584 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"Pamfil Georgian\" Gura Teghii din judeţul Buzău",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314658",
+   "tip": "ORDIN",
+   "numar": "5580",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.580 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Colegiul Tehnic \"Traian Vuia\" din municipiul Oradea, judeţul Bihor",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314657",
+   "tip": "ORDIN",
+   "numar": "5579",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.579 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Colegiul Tehnologic \"Constantin Brâncoveanu\" din oraşul Baia de Aramă, judeţul Mehedinţi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314656",
+   "tip": "ORDIN",
+   "numar": "5568",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.568 din 31 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială, comuna Ariceştii Rahtivani din judeţul Prahova",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": true
+  },
+  {
+   "id": "314655",
+   "tip": "ORDIN",
+   "numar": "5596",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.596 din 31 august 2026",
+   "descriere": "privind desfiinţarea unităţii de învăţământ preuniversitar particular Liceul \"Educaţia Viitorului\" din municipiul Constanţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "793",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": true
+  },
+  {
+   "id": "314653",
+   "tip": "ORDIN",
+   "numar": "174",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.174 din 11 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor preoţi militari din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314652",
+   "tip": "ORDIN",
+   "numar": "173",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.173 din 11 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unui subofiţer din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314651",
+   "tip": "ORDIN",
+   "numar": "172",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.172 din 11 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor subofiţeri din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314650",
+   "tip": "ORDIN",
+   "numar": "171",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.171 din 11 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unui subofiţer din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314649",
+   "tip": "ORDIN",
+   "numar": "170",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.170 din 11 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor subofiţeri din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314648",
+   "tip": "ORDIN",
+   "numar": "169",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.169 din 11 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unui maistru militar şi unor subofiţeri din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314647",
+   "tip": "ORDIN",
+   "numar": "168",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.168 din 11 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unui maistru militar şi unor subofiţeri din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314646",
+   "tip": "ORDIN",
+   "numar": "167",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.167 din 11 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor subofiţeri din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314645",
+   "tip": "ORDIN",
+   "numar": "166",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.166 din 11 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor maiştri militari şi subofiţeri din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314644",
+   "tip": "ORDIN",
+   "numar": "165",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.165 din 11 septembrie 2026",
+   "descriere": "privind conferirea semnului onorific În Serviciul Patriei unui ofiţer din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314643",
+   "tip": "ORDIN",
+   "numar": "164",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.164 din 11 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor ofiţeri din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314642",
+   "tip": "ORDIN",
+   "numar": "163",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.163 din 11 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor ofiţeri din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314641",
+   "tip": "ORDIN",
+   "numar": "162",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. M.162 din 11 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor ofiţeri din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314640",
+   "tip": "DECIZIE",
+   "numar": "420",
+   "data_act": "2026-04-30",
+   "titlu": "DECIZIA nr. 420 din 30 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. II din Ordonanţa Guvernului nr. 8/2008 pentru modificarea şi completarea Legii nr. 138/1999 privind salarizarea şi alte drepturi ale personalului militar din instituţiile publice de apărare naţională, ordine publică şi siguranţă naţională, precum şi acordarea unor drepturi salariale personalului civil din aceste instituţii şi pentru modificarea Ordonanţei Guvernului nr. 38/2003 privind salarizarea şi alte drepturi ale poliţiştilor şi a Ordonanţei Guvernului nr. 64/2006 privind salarizarea şi alte drepturi ale funcţionarilor publici cu statut special din sistemul administraţiei penitenciare şi ale art. 38 alin. (2) lit. a) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare",
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": true
+  },
+  {
+   "id": "314639",
+   "tip": "DECIZIE",
+   "numar": "220",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 220 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 33^1 din Legea nr. 303/2004 privind statutul judecătorilor şi procurorilor",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314638",
+   "tip": "DECIZIE",
+   "numar": "133",
+   "data_act": "2026-02-17",
+   "titlu": "DECIZIA nr. 133 din 17 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 498 alin. (2) din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "795",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314637",
+   "tip": "RAPORT",
+   "numar": "13926",
+   "data_act": "2026-08-06",
+   "titlu": "RAPORT nr. 13.926 din 6 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Polul Suveranist în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314636",
+   "tip": "RAPORT",
+   "numar": "13011",
+   "data_act": "2026-07-29",
+   "titlu": "RAPORT nr. 13.011 din 29 iulie 2026",
+   "descriere": "în urma verificării respectării prevederilor legale privind veniturile şi cheltuielile Partidului Naţional Român în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314635",
+   "tip": "RAPORT",
+   "numar": "12938",
+   "data_act": "2026-07-28",
+   "titlu": "RAPORT nr. 12.938 din 28 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Mişcarea Iubim România în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314634",
+   "tip": "RAPORT",
+   "numar": "12793",
+   "data_act": "2026-07-24",
+   "titlu": "RAPORT nr. 12.793 din 24 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa Naţională pentru Demnitatea României în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314633",
+   "tip": "RAPORT",
+   "numar": "12710",
+   "data_act": "2026-07-23",
+   "titlu": "RAPORT nr. 12.710 din 23 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă pentru verificarea respectării prevederilor legale privind veniturile şi cheltuielile înregistrate în activitatea curentă de Partidul Alianţa Moţilor Uniţi în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314632",
+   "tip": "RAPORT",
+   "numar": "12172",
+   "data_act": "2026-07-14",
+   "titlu": "RAPORT nr. 12.172 din 14 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă pentru verificarea respectării prevederilor legale privind veniturile şi cheltuielile înregistrate în activitatea curentă de Partidul Sebeşul Verde în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314631",
+   "tip": "ORDIN",
+   "numar": "5597",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.597 din 31 august 2026",
+   "descriere": "privind desfiinţarea unităţii de învăţământ preuniversitar particular Şcoala Gimnazială \"Spectrum\" Buzău din municipiul Buzău, judeţul Buzău",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": true
+  },
+  {
+   "id": "314630",
+   "tip": "ORDIN",
+   "numar": "5589",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.589 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Liceul Teoretic \"Henri Coandă\" Constanţa din municipiul Constanţa, judeţul Constanţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314629",
+   "tip": "ORDIN",
+   "numar": "5576",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.576 din 31 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Teoretic Murfatlar din oraşul Murfatlar, judeţul Constanţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": true
+  },
+  {
+   "id": "314628",
+   "tip": "ORDIN",
+   "numar": "5575",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.575 din 31 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Tehnologic \"Nicolaus Olahus\" din municipiul Orăştie, judeţul Hunedoara",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": true
+  },
+  {
+   "id": "314627",
+   "tip": "ORDIN",
+   "numar": "5573",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.573 din 31 august 2026",
+   "descriere": "privind desfiinţarea unităţii de învăţământ preuniversitar particular Grădiniţa cu Program Normal \"Mell\" din municipiul Bucureşti",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": true
+  },
+  {
+   "id": "314626",
+   "tip": "ORDIN",
+   "numar": "5570",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.570 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Colegiul Agricol şi de Industrie Alimentară „Vasile Adamachi“ din municipiul Iaşi, judeţul Iaşi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314625",
+   "tip": "ORDIN",
+   "numar": "5559",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.559 din 31 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Tehnologic Silvic \"Regele Mihai I\" Gurghiu din comuna Gurghiu, judeţul Mureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": true
+  },
+  {
+   "id": "314624",
+   "tip": "ORDIN",
+   "numar": "5558",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.558 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Colegiul Tehnic \"Ion Holban\" din municipiul Iaşi, judeţul Iaşi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314623",
+   "tip": "ORDIN",
+   "numar": "5535",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.535 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Tehnologic Nr. 1 Cudalbi din comuna Cudalbi, judeţul Galaţi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314622",
+   "tip": "ORDIN",
+   "numar": "5534",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.534 din 31 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Liceul Montessori Cluj din municipiul Cluj-Napoca, judeţul Cluj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": true
+  },
+  {
+   "id": "314621",
+   "tip": "ORDIN",
+   "numar": "5533",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.533 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Şcoala Primară \"Anastasya\" din comuna Corbeanca, judeţul Ilfov",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "794",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
   {
    "id": "314619",
    "tip": "RAPORT",
@@ -778,6 +1750,26 @@
     "pensii"
    ],
    "first_seen": "2026-09-17",
+   "are_text": false
+  },
+  {
+   "id": "314620",
+   "tip": "CONTRACT",
+   "numar": "CADRU",
+   "data_act": "2026-09-14",
+   "titlu": "CONTRACT-CADRU din 14 septembrie 2026",
+   "descriere": "pentru transportul ţiţeiului, gazolinei, condensatului şi etanului pentru anul 2027",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Minier, Petrolier și al Stocării geologice a dioxidului de carbon"
+   ],
+   "monitor_nr": "787",
+   "data_publicare": "2026-09-16",
+   "data_vigoare": "2027-01-01",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
    "are_text": false
   },
   {

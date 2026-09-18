@@ -1586,3 +1586,53 @@ Cele mai relevante acte din aceasta rulare:
   [8] Fiscalitate și buget — ORDIN nr. 685 din 29 mai 2026
   [8] Muncă și dialog social — DECIZIA nr. 40 din 9 martie 2026
 dist/radar-legislativ.html — 931 acte, 195 cu text integral, 2.83 MB
+To https://github.com/gh9rhdhz9t-spec/monitor-legislativ.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 525db41acc4682e76176568f3bc5a2d74561f093 but expected 1b029facc32a25662ba222e3b872d0af11dfe56b)
+error: failed to push some refs to 'https://github.com/gh9rhdhz9t-spec/monitor-legislativ.git'
+[2026-09-18 08:08:56] Push eșuat — comitul rămâne local, se trimite la rularea următoare.
+[2026-09-18 08:08:56] Gata: 15 acte noi, 931 în total. Artefactul poate fi republicat.
+[2026-09-18 08:08:56] Date noi publicate pe GitHub; rutina din cloud le va prelua.
+[2026-09-18 16:03:43] ── pornesc actualizarea ──
+  ! The read operation timed out (incercarea 1/5), reincerc in 5s
+Baza existenta: 931 acte
+→ pagina 1/6
+  · sesiune initializata (1 cookie-uri)
+  50 acte (total unic: 50)
+→ pagina 2/6
+  50 acte (total unic: 100)
+→ pagina 3/6
+  37 acte (total unic: 137)
+→ pagina 4/6
+  50 acte (total unic: 187)
+→ pagina 5/6
+  50 acte (total unic: 237)
+→ pagina 6/6
+  50 acte (total unic: 287)
+
+Text integral: 11 de descarcat (0 in coada)
+  · sesiune initializata (1 cookie-uri)
+  ✓ ORDIN 5566
+  ✓ ORDIN 5592
+  ✓ ORDIN 5568
+  ✓ ORDIN 5596
+  ✓ DECIZIE 420
+  ✓ ORDIN 5597
+  ✓ ORDIN 5576
+  ✓ ORDIN 5575
+  ✓ ORDIN 5573
+  ✓ ORDIN 5559
+  ✓ ORDIN 5534
+Text integral disponibil pentru 206 acte (0 fisiere eliminate)
+
+978 acte in baza (47 noi, 0 eliminate prin retentie)
+
+Cele mai relevante acte din aceasta rulare:
+  [8] Protecție socială și pensii — ORDIN nr. 1.277 din 14 septembrie 2026
+  [10] Muncă și dialog social — HOTĂRÂRE nr. 726 din 11 septembrie 2026
+  [9] Protecție socială și pensii — DECIZIA nr. 182 din 26 februarie 2026
+  [8] Muncă și dialog social — DECIZIA nr. 77 din 22 iunie 2026
+  [8] Protecție socială și pensii — ANEXE din 12 august 2026
+  [8] Protecție socială și pensii — ORDIN nr. 197 din 12 august 2026
+  [8] Fiscalitate și buget — ORDIN nr. 685 din 29 mai 2026
+  [8] Muncă și dialog social — DECIZIA nr. 40 din 9 martie 2026
+dist/radar-legislativ.html — 978 acte, 206 cu text integral, 2.94 MB
