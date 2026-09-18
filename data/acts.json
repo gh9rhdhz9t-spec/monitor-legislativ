@@ -1,28 +1,334 @@
 {
- "generated_at": "2026-09-17T13:00:05+00:00",
+ "generated_at": "2026-09-18T05:00:23+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 916,
- "new_this_run": 35,
+ "total": 931,
+ "new_this_run": 15,
  "pages_scanned": 6,
  "categories": {
+  "Energie și mediu": 90,
+  "Administrație publică": 65,
+  "Educație și cercetare": 235,
+  "Digitalizare și comunicații": 10,
+  "Justiție și afaceri interne": 106,
   "Transporturi și infrastructură": 63,
-  "Educație și cercetare": 234,
   "Altele": 74,
-  "Justiție și afaceri interne": 105,
   "Protecție socială și pensii": 21,
   "Cultură, culte și sport": 16,
   "Sănătate": 26,
   "Agricultură și dezvoltare rurală": 54,
-  "Energie și mediu": 84,
-  "Administrație publică": 64,
   "Economie, IMM și comerț": 63,
   "Muncă și dialog social": 16,
   "Fiscalitate și buget": 77,
   "Afaceri externe și UE": 11,
-  "Apărare și securitate națională": 4,
-  "Digitalizare și comunicații": 4
+  "Apărare și securitate națională": 4
  },
  "acts": [
+  {
+   "id": "314619",
+   "tip": "RAPORT",
+   "numar": "14953",
+   "data_act": "2026-08-21",
+   "titlu": "RAPORT nr. 14.953 din 21 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Pact pentru Galaţi",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314618",
+   "tip": "RAPORT",
+   "numar": "12593",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.593 din 21 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Unităţii Sociale din România în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314617",
+   "tip": "RAPORT",
+   "numar": "12582",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.582 din 21 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Unităţii şi Libertăţii Sociale",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314616",
+   "tip": "RAPORT",
+   "numar": "12357",
+   "data_act": "2026-07-16",
+   "titlu": "RAPORT nr. 12.357 din 16 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Republican Conservator în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314615",
+   "tip": "RAPORT",
+   "numar": "12064",
+   "data_act": "2026-07-13",
+   "titlu": "RAPORT nr. 12.064 din 13 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la partidul politic Iniţiativa Pătârlagele",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314614",
+   "tip": "RAPORT",
+   "numar": "11786",
+   "data_act": "2026-07-08",
+   "titlu": "RAPORT nr. 11.786 din 8 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul \"Mişcarea Naţională\" în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314613",
+   "tip": "HOTARARE",
+   "numar": "227",
+   "data_act": "2026-09-14",
+   "titlu": "HOTĂRÂRE nr. 227 din 14 septembrie 2026",
+   "descriere": "privind alegerea Biroului permanent al Consiliului Camerei Auditorilor Financiari din România",
+   "emitenti": [
+    "Camera Auditorilor Financiari din România"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314612",
+   "tip": "ORDIN",
+   "numar": "5562",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.562 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Profesională Focuri din judeţul Iaşi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": true
+  },
+  {
+   "id": "314611",
+   "tip": "INSTRUCTIUNI",
+   "numar": "",
+   "data_act": "2026-09-09",
+   "titlu": "INSTRUCȚIUNI din 9 septembrie 2026",
+   "descriere": "privind metodologia de raportare a informaţiilor necesare verificării respectării măsurilor de protejare a economiei şi populaţiei, instituite în perioada situaţiei de criză declarate pe piaţa ţiţeiului şi/sau a produselor petroliere, respectiv benzină şi motorină",
+   "emitenti": [
+    "Consiliul Concurenței"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314610",
+   "tip": "ORDIN",
+   "numar": "2182",
+   "data_act": "2026-09-09",
+   "titlu": "ORDIN nr. 2.182 din 9 septembrie 2026",
+   "descriere": "pentru aprobarea Instrucţiunilor privind metodologia de raportare a informaţiilor necesare verificării respectării măsurilor de protejare a economiei şi populaţiei, instituite în perioada situaţiei de criză declarate pe piaţa ţiţeiului şi/sau a produselor petroliere, respectiv benzină şi motorină",
+   "emitenti": [
+    "Consiliul Concurenței"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314609",
+   "tip": "INSTRUCTIUNI",
+   "numar": "",
+   "data_act": "2026-09-09",
+   "titlu": "INSTRUCȚIUNI din 9 septembrie 2026",
+   "descriere": "privind metodologia de raportare a informaţiilor necesare verificării respectării măsurilor de protejare a economiei şi populaţiei, instituite în perioada situaţiei de criză declarate pe piaţa ţiţeiului şi/sau a produselor petroliere, respectiv benzină şi motorină",
+   "emitenti": [
+    "Autoritatea Națională pentru Protecția Consumatorilor"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314608",
+   "tip": "ORDIN",
+   "numar": "598",
+   "data_act": "2026-09-09",
+   "titlu": "ORDIN nr. 598 din 9 septembrie 2026",
+   "descriere": "pentru aprobarea Instrucţiunilor privind metodologia de raportare a informaţiilor necesare verificării respectării măsurilor de protejare a economiei şi populaţiei, instituite în perioada situaţiei de criză declarate pe piaţa ţiţeiului şi/sau a produselor petroliere, respectiv benzină şi motorină",
+   "emitenti": [
+    "Autoritatea Națională pentru Protecția Consumatorilor"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314607",
+   "tip": "INSTRUCTIUNI",
+   "numar": "",
+   "data_act": "2026-09-16",
+   "titlu": "INSTRUCȚIUNI din 16 septembrie 2026",
+   "descriere": "privind metodologia de raportare a informaţiilor necesare verificării respectării măsurilor de protejare a economiei şi populaţiei, instituite în perioada situaţiei de criză declarate pe piaţa ţiţeiului şi/sau a produselor petroliere, respectiv benzină şi motorină",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314606",
+   "tip": "ORDIN",
+   "numar": "1229",
+   "data_act": "2026-09-16",
+   "titlu": "ORDIN nr. 1.229 din 16 septembrie 2026",
+   "descriere": "pentru aprobarea Instrucţiunilor privind metodologia de raportare a informaţiilor necesare verificării respectării măsurilor de protejare a economiei şi populaţiei, instituite în perioada situaţiei de criză declarate pe piaţa ţiţeiului şi/sau a produselor petroliere, respectiv benzină şi motorină",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
+  {
+   "id": "314605",
+   "tip": "DECIZIE",
+   "numar": "332",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIA nr. 332 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 11 alin. (1) pct. 5 din Ordonanţa de urgenţă a Guvernului nr. 78/2016 pentru organizarea şi funcţionarea Direcţiei de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism, precum şi pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "789",
+   "data_publicare": "2026-09-17",
+   "data_vigoare": "2026-09-17",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-18",
+   "are_text": false
+  },
   {
    "id": "314604",
    "tip": "CIRCULARA",
