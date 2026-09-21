@@ -1,28 +1,479 @@
 {
- "generated_at": "2026-09-21T05:22:53+00:00",
+ "generated_at": "2026-09-21T13:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 999,
- "new_this_run": 21,
+ "total": 1021,
+ "new_this_run": 22,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 262,
+  "Justiție și afaceri interne": 117,
+  "Altele": 78,
+  "Energie și mediu": 115,
+  "Educație și cercetare": 263,
+  "Digitalizare și comunicații": 13,
   "Cultură, culte și sport": 17,
   "Transporturi și infrastructură": 64,
   "Administrație publică": 66,
   "Economie, IMM și comerț": 65,
   "Afaceri externe și UE": 13,
-  "Altele": 77,
   "Fiscalitate și buget": 79,
-  "Digitalizare și comunicații": 11,
   "Protecție socială și pensii": 24,
   "Sănătate": 28,
   "Muncă și dialog social": 17,
   "Apărare și securitate națională": 8,
-  "Energie și mediu": 105,
-  "Justiție și afaceri interne": 109,
   "Agricultură și dezvoltare rurală": 54
  },
  "acts": [
+  {
+   "id": "314713",
+   "tip": "DECIZIE",
+   "numar": "333",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIE nr. 333 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 598 alin. (1) lit. d) teza finală din Codul de procedură penală şi ale art. 19 din Legea nr. 682/2002 privind protecţia martorilor, republicată, în redactarea anterioară Legii nr. 200/2023 pentru modificarea şi completarea Legii nr. 286/2009 privind Codul penal , precum şi a altor acte normative, în interpretarea dată prin Decizia nr. 4 din 13 februarie 2020 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept în materie penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "799",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314712",
+   "tip": "DECIZIE",
+   "numar": "8",
+   "data_act": "2026-01-15",
+   "titlu": "DECIZIE nr. 8 din 15 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 12 alin. (1) şi (2) din Legea nr. 176/2010 privind integritatea în exercitarea funcţiilor şi demnităţilor publice, pentru modificarea şi completarea Legii nr. 144/2007 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Integritate, precum şi pentru modificarea şi completarea altor acte normative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "799",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314711",
+   "tip": "DECRET",
+   "numar": "770",
+   "data_act": "2026-09-21",
+   "titlu": "DECRET nr. 770 din 21 septembrie 2026",
+   "descriere": "privind desemnarea candidatului la funcţia de prim-ministru",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "799",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314710",
+   "tip": "RAPORT",
+   "numar": "14632",
+   "data_act": "2026-08-18",
+   "titlu": "RAPORT nr. 14.632 din 18 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Societăţii Ieşene",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314709",
+   "tip": "RAPORT",
+   "numar": "14455",
+   "data_act": "2026-08-13",
+   "titlu": "RAPORT nr. 14.455 din 13 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Lege Educaţie Unitate în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314708",
+   "tip": "RAPORT",
+   "numar": "13911",
+   "data_act": "2026-08-06",
+   "titlu": "RAPORT nr. 13.911 din 6 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa Naţională pentru Renaştere şi Dezvoltare referitor la respectarea prevederilor legale privind veniturile şi cheltuielile înregistrate în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314707",
+   "tip": "RAPORT",
+   "numar": "13007",
+   "data_act": "2026-07-29",
+   "titlu": "RAPORT nr. 13.007 din 29 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Dreapta Liberală în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314706",
+   "tip": "RAPORT",
+   "numar": "12792",
+   "data_act": "2026-07-24",
+   "titlu": "RAPORT nr. 12.792 din 24 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Acţiunea Civică în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314705",
+   "tip": "RAPORT",
+   "numar": "12712",
+   "data_act": "2026-07-23",
+   "titlu": "RAPORT nr. 12.712 din 23 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Popular Lege şi Justiţie",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314704",
+   "tip": "RAPORT",
+   "numar": "12711",
+   "data_act": "2026-07-23",
+   "titlu": "RAPORT nr. 12.711 din 23 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Românilor din Diaspora",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314703",
+   "tip": "RAPORT",
+   "numar": "12592",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.592 din 21 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Ne Pasă de România",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314702",
+   "tip": "RAPORT",
+   "numar": "12450",
+   "data_act": "2026-07-20",
+   "titlu": "RAPORT nr. 12.450 din 20 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Uniunea Nativilor Digitali în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314701",
+   "tip": "RAPORT",
+   "numar": "11687",
+   "data_act": "2026-07-07",
+   "titlu": "RAPORT nr. 11.687 din 7 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul 200 pentru Bucureşti în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314700",
+   "tip": "ORDIN",
+   "numar": "5569",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.569 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Profesională Dagâţa din comuna Dagâţa, judeţul Iaşi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": true
+  },
+  {
+   "id": "314699",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-09-14",
+   "titlu": "NORME din 14 septembrie 2026",
+   "descriere": "de aplicabilitate a cerinţelor de securitate cibernetică pentru entităţile care fac parte dintr-un grup de întreprinderi",
+   "emitenti": [
+    "Directoratul Național de Securitate Cibernetică"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314698",
+   "tip": "DECIZIE",
+   "numar": "3",
+   "data_act": "2026-09-14",
+   "titlu": "DECIZIE nr. 3 din 14 septembrie 2026",
+   "descriere": "pentru aprobarea Normelor de aplicabilitate a cerinţelor de securitate cibernetică pentru entităţile care fac parte dintr-un grup de întreprinderi",
+   "emitenti": [
+    "Directoratul Național de Securitate Cibernetică"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314697",
+   "tip": "DECIZIE",
+   "numar": "209",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 209 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a sintagmei \"dar nu mai târziu de 2 ani\" din cuprinsul art. 46 alin. (7) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314696",
+   "tip": "DECIZIE",
+   "numar": "202",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 202 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 270 alin. (1) din Legea nr. 86/2006 privind Codul vamal al României şi ale art. 270 alin. (3) din Legea nr. 86/2006 privind Codul vamal al României , în redactarea anterioară intrării în vigoare a Ordonanţei de urgenţă a Guvernului nr. 85/2022 privind modificarea şi completarea unor acte normative din domeniul fiscal şi vamal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "798",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314695",
+   "tip": "ORDIN",
+   "numar": "926",
+   "data_act": "2026-09-15",
+   "titlu": "ORDIN nr. 926 din 15 septembrie 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei din anii 2020, 2021, 2022, 2023, 2024 şi de procentul de indexare a salariului minim pe economie la data de 1.01.2020, la data de 1.01.2021, la data de 1.01.2022, la data de 1.01.2023, la data de 1.10.2023, respectiv la data de 1.07.2024, conform Sentinţei civile nr. 353 din 16.10.2024, pronunţată de Curtea de Apel Cluj - Secţia a III-a contencios administrativ şi fiscal, definitivă prin Decizia civilă nr. 5.912 din 10.12.2025, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 370/33/2024",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "797",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "salariul minim",
+    "salariu"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": true
+  },
+  {
+   "id": "314694",
+   "tip": "ORDIN",
+   "numar": "925",
+   "data_act": "2026-09-14",
+   "titlu": "ORDIN nr. 925 din 14 septembrie 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei din anii 2021, 2022, 2023 şi 2024 şi de procentul de indexare a salariului minim pe economie la data de 1.01.2021, la data de 1.01.2022, la data de 1.01.2023, la data de 1.10.2023, respectiv la data de 1.07.2024, conform Sentinţei civile nr. 319 din 4.12.2025, pronunţată de Curtea de Apel Galaţi - Secţia contencios administrativ şi fiscal, definitivă prin Decizia civilă nr. 2.471 din 20.05.2026, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 124/44/2025",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "797",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "salariul minim",
+    "salariu"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": true
+  },
+  {
+   "id": "314693",
+   "tip": "ORDIN",
+   "numar": "924",
+   "data_act": "2026-09-14",
+   "titlu": "ORDIN nr. 924 din 14 septembrie 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei din anii 2020, 2021, 2022, 2023, 2024 şi de procentul de indexare a salariului minim pe economie la data de 1.01.2020, la data de 1.01.2021, la data de 1.01.2022, la data de 1.01.2023, la data de 1.10.2023, respectiv la data de 1.07.2024, conform Sentinţei civile nr. 608 din 11.12.2025, pronunţată de Curtea de Apel Timişoara - Secţia contencios administrativ şi fiscal, definitivă prin Decizia civilă nr. 3.263 din 25.06.2026, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 257/59/2025",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "797",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "salariul minim",
+    "salariu"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": true
+  },
+  {
+   "id": "314692",
+   "tip": "DECIZIE",
+   "numar": "194",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 194 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 142 alin. (5) şi ale art. 475 din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "797",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
   {
    "id": "314691",
    "tip": "ORDIN",
