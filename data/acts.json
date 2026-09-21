@@ -1,28 +1,485 @@
 {
- "generated_at": "2026-09-20T13:08:43+00:00",
+ "generated_at": "2026-09-21T05:22:53+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 978,
- "new_this_run": 0,
+ "total": 999,
+ "new_this_run": 21,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 259,
+  "Educație și cercetare": 262,
+  "Cultură, culte și sport": 17,
+  "Transporturi și infrastructură": 64,
+  "Administrație publică": 66,
+  "Economie, IMM și comerț": 65,
+  "Afaceri externe și UE": 13,
+  "Altele": 77,
+  "Fiscalitate și buget": 79,
+  "Digitalizare și comunicații": 11,
+  "Protecție socială și pensii": 24,
+  "Sănătate": 28,
+  "Muncă și dialog social": 17,
   "Apărare și securitate națională": 8,
   "Energie și mediu": 105,
   "Justiție și afaceri interne": 109,
-  "Administrație publică": 65,
-  "Digitalizare și comunicații": 10,
-  "Transporturi și infrastructură": 63,
-  "Altele": 74,
-  "Protecție socială și pensii": 21,
-  "Sănătate": 27,
-  "Cultură, culte și sport": 16,
-  "Agricultură și dezvoltare rurală": 54,
-  "Economie, IMM și comerț": 63,
-  "Muncă și dialog social": 16,
-  "Fiscalitate și buget": 77,
-  "Afaceri externe și UE": 11
+  "Agricultură și dezvoltare rurală": 54
  },
  "acts": [
+  {
+   "id": "314691",
+   "tip": "ORDIN",
+   "numar": "5577",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.577 din 31 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Profesională \"Areta Teodorescu\" din comuna Griviţa, judeţul Ialomiţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "796",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": true
+  },
+  {
+   "id": "314690",
+   "tip": "ORDIN",
+   "numar": "3195",
+   "data_act": "2026-09-14",
+   "titlu": "ORDIN nr. 3.195 din 14 septembrie 2026",
+   "descriere": "privind stabilirea procedurii de efectuare a plăţii sumelor prevăzute prin hotărâri judecătoreşti, devenite executorii în perioada 1 ianuarie 2026-31 decembrie 2026, având ca obiect acordarea unor drepturi de natură salarială şi acordarea de daune-interese moratorii sub forma dobânzii legale pentru plata eşalonată a sumelor prevăzute în titluri executorii având ca obiect acordarea unor drepturi salariale personalului din aparatul propriu al Ministerului Culturii şi celui din instituţiile publice aflate în subordinea/coordonarea acestuia",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "796",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 4,
+   "termeni": [
+    "salariu"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": true
+  },
+  {
+   "id": "314689",
+   "tip": "ORDIN",
+   "numar": "870",
+   "data_act": "2026-09-17",
+   "titlu": "ORDIN nr. 870 din 17 septembrie 2026",
+   "descriere": "privind modificarea Ordinului ministrului transporturilor şi infrastructurii nr. 1.649/2023 pentru stabilirea formei, modelului şi conţinutului legitimaţiilor speciale ale personalului din cadrul Ministerului Transporturilor şi Infrastructurii şi al unor instituţii aflate în subordinea acestuia, precum şi pentru stabilirea personalului împuternicit să constate, să încadreze şi să sancţioneze faptele contravenţionale produse în desfăşurarea operaţiunilor de transport feroviar şi cu metroul",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "796",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314688",
+   "tip": "DECIZIE",
+   "numar": "303",
+   "data_act": "2026-09-18",
+   "titlu": "DECIZIE nr. 303 din 18 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Cristina-Mirela Cuculas a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Autorităţii Naţionale pentru Protecţia Drepturilor Copilului şi Adopţie",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "796",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314687",
+   "tip": "HOTARARE",
+   "numar": "731",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 731 din 18 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Hotărârii Guvernului nr. 1.174/2014 privind instituirea unei scheme de ajutor de stat pentru reducerea accizei la motorina utilizată în agricultură",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "796",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314686",
+   "tip": "HOTARARE",
+   "numar": "729",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 729 din 18 septembrie 2026",
+   "descriere": "privind numirea unui consul general",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "796",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314685",
+   "tip": "HOTARARE",
+   "numar": "728",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 728 din 18 septembrie 2026",
+   "descriere": "privind aprobarea Actului adiţional nr. 3/2026 la Licenţa de concesiune nr. 439/1999 a activităţii miniere de exploatare a sării geme din perimetrul Feţele Târgului - Târgu Ocna, judeţul Bacău",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "796",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "concediu",
+    "guvernul"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": true
+  },
+  {
+   "id": "314684",
+   "tip": "HOTARARE",
+   "numar": "727",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 727 din 18 septembrie 2026",
+   "descriere": "privind revocarea şi numirea unor membri în Consiliul director al Fondului Român de Dezvoltare Socială şi pentru modificarea anexei la Hotărârea Guvernului nr. 761/2025 privind numirea membrilor Consiliului director al Fondului Român de Dezvoltare Socială",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "796",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314680",
+   "tip": "ORDIN",
+   "numar": "1914",
+   "data_act": "2026-09-15",
+   "titlu": "ORDIN nr. 1.914 din 15 septembrie 2026",
+   "descriere": "pentru aprobarea derogării în scopul cercetării ştiinţifice pentru unele specii de faună sălbatică",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "792",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314679",
+   "tip": "ORDIN",
+   "numar": "1426",
+   "data_act": "2026-09-14",
+   "titlu": "ORDIN nr. 1.426 din 14 septembrie 2026",
+   "descriere": "pentru modificarea Ordinului ministrului investiţiilor şi proiectelor europene nr. 5.775/2025 privind aprobarea Schemei de ajutor de minimis având ca obiectiv înfiinţarea întreprinderilor sociale prin acordarea de sprijin pentru creşterea durabilă şi crearea de locuri de muncă în cadrul Programului Tranziţie Justă 2021-2027",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "792",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "intreprindere sociala"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": true
+  },
+  {
+   "id": "314678",
+   "tip": "ORDIN",
+   "numar": "1087",
+   "data_act": "2026-08-19",
+   "titlu": "ORDIN nr. 1.087 din 19 august 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii de Tratament Balnear şi Recuperare a Capacităţii de Muncă \"T.B.R.C.M.\" - S.A.",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "792",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314677",
+   "tip": "ORDIN",
+   "numar": "1092",
+   "data_act": "2026-08-07",
+   "titlu": "ORDIN nr. 1.092 din 7 august 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii de Tratament Balnear şi Recuperare a Capacităţii de Muncă \"T.B.R.C.M.\" - S.A.",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "792",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": true
+  },
+  {
+   "id": "314676",
+   "tip": "ORDIN",
+   "numar": "2",
+   "data_act": "2026-09-14",
+   "titlu": "ORDIN nr. 2 din 14 septembrie 2026",
+   "descriere": "privind completarea Ordinului directorului Directoratului Naţional de Securitate Cibernetică nr. 1/2026 pentru aprobarea Măsurilor de gestionare a riscurilor de securitate cibernetică aferente reţelelor şi sistemelor informatice utilizate de entităţile esenţiale şi importante şi a Metodologiei de autoevaluare a maturităţii măsurilor de gestionare a riscurilor de securitate cibernetică şi pentru modificarea Metodologiei privind evaluarea nivelului de risc al entităţilor, aprobată prin Ordinul directorului Directoratului Naţional de Securitate Cibernetică nr. 2/2025 pentru aprobarea Criteriilor şi pragurilor de determinare a gradului de perturbare a unui serviciu şi a Metodologiei privind evaluarea nivelului de risc al entităţilor",
+   "emitenti": [
+    "Directoratul Național de Securitate Cibernetică"
+   ],
+   "monitor_nr": "792",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314675",
+   "tip": "DECIZIE",
+   "numar": "731",
+   "data_act": "2025-12-09",
+   "titlu": "DECIZIA nr. 731 din 9 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 169^2 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "792",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314674",
+   "tip": "HOTARARE",
+   "numar": "129",
+   "data_act": "2026-09-16",
+   "titlu": "HOTĂRÂRE nr. 129 din 16 septembrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Consolidarea Strategiei privind drepturile persoanelor cu handicap până în 2030 - COM (2026) 541 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "792",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314673",
+   "tip": "HOTARARE",
+   "numar": "128",
+   "data_act": "2026-09-16",
+   "titlu": "HOTĂRÂRE nr. 128 din 16 septembrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Ruperea cercului vicios al sărăciei în rândul copiilor - consolidarea Garanţiei europene pentru copii - COM (2026) 539 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "792",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 5,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": true
+  },
+  {
+   "id": "314672",
+   "tip": "HOTARARE",
+   "numar": "127",
+   "data_act": "2026-09-16",
+   "titlu": "HOTĂRÂRE nr. 127 din 16 septembrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor privind Strategia Uniunii Europene pentru combaterea sărăciei: abordarea şi prevenirea sărăciei din copilărie până la vârste înaintate - COM (2026) 538 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "792",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 5,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": true
+  },
+  {
+   "id": "314671",
+   "tip": "HOTARARE",
+   "numar": "126",
+   "data_act": "2026-09-16",
+   "titlu": "HOTĂRÂRE nr. 126 din 16 septembrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Parlamentul European, Consiliul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Un cadru de reglementare al UE mai simplu, mai clar şi mai bine aplicat - COM (2026) 380 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "792",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314670",
+   "tip": "HOTARARE",
+   "numar": "125",
+   "data_act": "2026-09-16",
+   "titlu": "HOTĂRÂRE nr. 125 din 16 septembrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Planul de acţiune privind îngrăşămintele: parteneriat pentru asigurarea disponibilităţii, accesibilităţii preţurilor şi autonomiei strategice a îngrăşămintelor autohtone în Uniunea Europeană - COM (2026) 310 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "792",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "314669",
+   "tip": "HOTARARE",
+   "numar": "124",
+   "data_act": "2026-09-16",
+   "titlu": "HOTĂRÂRE nr. 124 din 16 septembrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Parlamentul European şi Consiliu - Consolidarea rezilienţei în materie de sănătate la nivel mondial în contextul schimbărilor geopolitice - COM (2026) 197 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "792",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
+  {
+   "id": "309934",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-09-18",
+   "titlu": "COMUNICAT din 18 septembrie 2026",
+   "descriere": "privind modalitatea de calcul a creanţei constând în drepturi salariale izvorâte dintr-un titlu executoriu reprezentat de o sentinţă pronunţată în primă instanţă într-un litigiu de dreptul muncii",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-09-18",
+   "data_vigoare": "2026-09-18",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 3,
+   "termeni": [
+    "salariu"
+   ],
+   "first_seen": "2026-09-21",
+   "are_text": false
+  },
   {
    "id": "314667",
    "tip": "ORDIN",
