@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-22T05:00:32+00:00",
+ "generated_at": "2026-09-22T13:00:02+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1031,
- "new_this_run": 10,
+ "total": 1044,
+ "new_this_run": 13,
  "pages_scanned": 6,
  "categories": {
+  "Educație și cercetare": 278,
   "Economie, IMM și comerț": 67,
   "Sănătate": 29,
-  "Educație și cercetare": 265,
   "Altele": 80,
   "Transporturi și infrastructură": 67,
   "Justiție și afaceri interne": 117,
@@ -23,6 +23,292 @@
   "Agricultură și dezvoltare rurală": 54
  },
  "acts": [
+  {
+   "id": "314736",
+   "tip": "ORDIN",
+   "numar": "5279",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.279 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Şcoala Postliceală CRSSE Timişoara din comuna Şag, judeţul Timiş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": true
+  },
+  {
+   "id": "314735",
+   "tip": "ORDIN",
+   "numar": "5278",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.278 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Profesională Româno-Germană Vişeu de Sus din judeţul Maramureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": true
+  },
+  {
+   "id": "314734",
+   "tip": "ORDIN",
+   "numar": "5277",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.277 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Şcoala Gimnazială Montessori \"Atlas\" din municipiul Cluj-Napoca, judeţul Cluj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": true
+  },
+  {
+   "id": "314733",
+   "tip": "ORDIN",
+   "numar": "5275",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.275 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Nr. 1 Comuna Bunteşti din judeţul Bihor",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": true
+  },
+  {
+   "id": "314732",
+   "tip": "ORDIN",
+   "numar": "5274",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.274 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Liceul German \"Hermann Oberth\" din oraşul Voluntari, judeţul Ilfov",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": true
+  },
+  {
+   "id": "314731",
+   "tip": "ORDIN",
+   "numar": "5273",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.273 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Colegiul Naţional \"I.L. Caragiale\" din municipiul Bucureşti, sectorul 1",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": true
+  },
+  {
+   "id": "314730",
+   "tip": "ORDIN",
+   "numar": "5272",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.272 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Nr. 18 Baia Mare din municipiul Baia Mare, judeţul Maramureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
+  {
+   "id": "314729",
+   "tip": "ORDIN",
+   "numar": "5270",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.270 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Tehnologic Nr. 1 din satul Şuncuiuş, comuna Şuncuiuş, judeţul Bihor",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": true
+  },
+  {
+   "id": "314728",
+   "tip": "ORDIN",
+   "numar": "5269",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.269 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Tehnologic \"Grigore Moisil\" Deva din municipiul Deva, judeţul Hunedoara",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
+  {
+   "id": "314727",
+   "tip": "ORDIN",
+   "numar": "5268",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.268 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Tehnologic \"Iordache Zossima\" din satul Armăşeşti, comuna Armăşeşti, judeţul Ialomiţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
+  {
+   "id": "314726",
+   "tip": "ORDIN",
+   "numar": "5267",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.267 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Colegiul Tehnic \"Viceamiral Ioan Bălănescu\" din municipiul Giurgiu, judeţul Giurgiu",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": true
+  },
+  {
+   "id": "314725",
+   "tip": "ORDIN",
+   "numar": "5265",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.265 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Grădiniţa cu Program Prelungit \"Happy Hearts\" din municipiul Cluj-Napoca, judeţul Cluj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
+  {
+   "id": "314724",
+   "tip": "ORDIN",
+   "numar": "5261",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.261 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"Alexandru Ivasiuc\" Baia Mare din municipiul Baia Mare, judeţul Maramureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "802",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
   {
    "id": "314723",
    "tip": "HOTARARE",
