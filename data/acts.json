@@ -1,28 +1,248 @@
 {
- "generated_at": "2026-09-21T13:00:05+00:00",
+ "generated_at": "2026-09-22T05:00:32+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1021,
- "new_this_run": 22,
+ "total": 1031,
+ "new_this_run": 10,
  "pages_scanned": 6,
  "categories": {
+  "Economie, IMM și comerț": 67,
+  "Sănătate": 29,
+  "Educație și cercetare": 265,
+  "Altele": 80,
+  "Transporturi și infrastructură": 67,
   "Justiție și afaceri interne": 117,
-  "Altele": 78,
   "Energie și mediu": 115,
-  "Educație și cercetare": 263,
   "Digitalizare și comunicații": 13,
   "Cultură, culte și sport": 17,
-  "Transporturi și infrastructură": 64,
   "Administrație publică": 66,
-  "Economie, IMM și comerț": 65,
   "Afaceri externe și UE": 13,
   "Fiscalitate și buget": 79,
   "Protecție socială și pensii": 24,
-  "Sănătate": 28,
   "Muncă și dialog social": 17,
   "Apărare și securitate națională": 8,
   "Agricultură și dezvoltare rurală": 54
  },
  "acts": [
+  {
+   "id": "314723",
+   "tip": "HOTARARE",
+   "numar": "742",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 742 din 18 septembrie 2026",
+   "descriere": "pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Construcţie şi dotări Centru pentru Optică de Mare Putere, Str. Reactorului nr. 30, oraşul Măgurele, judeţul Ilfov\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "800",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
+  {
+   "id": "314722",
+   "tip": "HOTARARE",
+   "numar": "741",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 741 din 18 septembrie 2026",
+   "descriere": "pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Realizarea unei clădiri noi pentru secţiile Pneumologie şi Boli infecţioase la Spitalul Judeţean de Urgenţă Miercurea-Ciuc\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "800",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": true
+  },
+  {
+   "id": "314721",
+   "tip": "HOTARARE",
+   "numar": "740",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 740 din 18 septembrie 2026",
+   "descriere": "pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Construire cămin studenţesc - Universitatea Politehnică din Bucureşti, Splaiul Independenţei nr. 290, sectorul 6, Bucureşti\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "800",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
+  {
+   "id": "314720",
+   "tip": "HOTARARE",
+   "numar": "739",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 739 din 18 septembrie 2026",
+   "descriere": "privind acordarea unor ajutoare de urgenţă pentru sprijinirea persoanelor vulnerabile aflate în centre rezidenţiale ale furnizorilor privaţi de servicii sociale, în urma relocării din localitatea Dumbrava, judeţul Bihor",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "800",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
+  {
+   "id": "314719",
+   "tip": "HOTARARE",
+   "numar": "738",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 738 din 18 septembrie 2026",
+   "descriere": "privind modificarea Hotărârii Guvernului nr. 732/2025 pentru aprobarea Metodologiei-cadru de acordare a burselor şi cuantumul acestora",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "800",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
+  {
+   "id": "314718",
+   "tip": "HOTARARE",
+   "numar": "737",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 737 din 18 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "800",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
+  {
+   "id": "314717",
+   "tip": "HOTARARE",
+   "numar": "736",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 736 din 18 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Companiei Naţionale \"Administraţia Porturilor Maritime\" - S.A. Constanţa, aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "800",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
+  {
+   "id": "314716",
+   "tip": "HOTARARE",
+   "numar": "735",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 735 din 18 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Companiei Naţionale \"Administraţia Porturilor Dunării Maritime\" - S.A. Galaţi, aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "800",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
+  {
+   "id": "314715",
+   "tip": "HOTARARE",
+   "numar": "734",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 734 din 18 septembrie 2026",
+   "descriere": "pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Drum orbital - legătura A7 - Buzău (tronsoanele 2, 3 şi 4)\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "800",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
+  {
+   "id": "314714",
+   "tip": "HOTARARE",
+   "numar": "733",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 733 din 18 septembrie 2026",
+   "descriere": "pentru deschiderea Punctului internaţional de trecere a frontierei de stat şi a Biroului Vamal de Frontieră Sighetu Marmaţiei II, România - Bila Ţerkva, Ucraina, precum şi pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "801",
+   "data_publicare": "2026-09-21",
+   "data_vigoare": "2026-09-21",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-22",
+   "are_text": false
+  },
   {
    "id": "314713",
    "tip": "DECIZIE",
