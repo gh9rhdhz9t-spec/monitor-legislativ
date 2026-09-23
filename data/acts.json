@@ -1,28 +1,861 @@
 {
- "generated_at": "2026-09-23T05:00:05+00:00",
+ "generated_at": "2026-09-23T13:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1044,
- "new_this_run": 0,
+ "total": 1083,
+ "new_this_run": 39,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 278,
+  "Agricultură și dezvoltare rurală": 62,
+  "Administrație publică": 69,
+  "Sănătate": 30,
+  "Transporturi și infrastructură": 73,
+  "Justiție și afaceri interne": 120,
+  "Educație și cercetare": 292,
+  "Altele": 82,
+  "Economie socială": 1,
+  "Fiscalitate și buget": 80,
   "Economie, IMM și comerț": 67,
-  "Sănătate": 29,
-  "Altele": 80,
-  "Transporturi și infrastructură": 67,
-  "Justiție și afaceri interne": 117,
   "Energie și mediu": 115,
   "Digitalizare și comunicații": 13,
   "Cultură, culte și sport": 17,
-  "Administrație publică": 66,
   "Afaceri externe și UE": 13,
-  "Fiscalitate și buget": 79,
   "Protecție socială și pensii": 24,
   "Muncă și dialog social": 17,
-  "Apărare și securitate națională": 8,
-  "Agricultură și dezvoltare rurală": 54
+  "Apărare și securitate națională": 8
  },
  "acts": [
+  {
+   "id": "314780",
+   "tip": "ORDIN",
+   "numar": "852",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 852 din 28 august 2026",
+   "descriere": "privind modificarea şi completarea anexei la Ordinul ministrului agriculturii şi dezvoltării rurale, al ministrului dezvoltării, lucrărilor publice şi administraţiei, al viceprim-ministrului, ministrul afacerilor interne, al ministrului finanţelor, al preşedintelui Institutului Naţional de Statistică, al directorului general al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară şi al preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 51/348/59/765/285/14.633/678/2025 pentru aprobarea Normelor tehnice privind completarea registrului agricol pentru perioada 2025-2029",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "807",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314779",
+   "tip": "ORDIN",
+   "numar": "26119",
+   "data_act": "2026-07-28",
+   "titlu": "ORDIN nr. 26.119 din 28 iulie 2026",
+   "descriere": "privind modificarea şi completarea anexei la Ordinul ministrului agriculturii şi dezvoltării rurale, al ministrului dezvoltării, lucrărilor publice şi administraţiei, al viceprim-ministrului, ministrul afacerilor interne, al ministrului finanţelor, al preşedintelui Institutului Naţional de Statistică, al directorului general al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară şi al preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 51/348/59/765/285/14.633/678/2025 pentru aprobarea Normelor tehnice privind completarea registrului agricol pentru perioada 2025-2029",
+   "emitenti": [
+    "Agenția Națională de Cadastru și Publicitate Imobiliară"
+   ],
+   "monitor_nr": "807",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314778",
+   "tip": "ORDIN",
+   "numar": "702",
+   "data_act": "2026-09-09",
+   "titlu": "ORDIN nr. 702 din 9 septembrie 2026",
+   "descriere": "privind modificarea şi completarea anexei la Ordinul ministrului agriculturii şi dezvoltării rurale, al ministrului dezvoltării, lucrărilor publice şi administraţiei, al viceprim-ministrului, ministrul afacerilor interne, al ministrului finanţelor, al preşedintelui Institutului Naţional de Statistică, al directorului general al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară şi al preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 51/348/59/765/285/14.633/678/2025 pentru aprobarea Normelor tehnice privind completarea registrului agricol pentru perioada 2025-2029",
+   "emitenti": [
+    "Institutul Național de Statistică (și Studii Economice)"
+   ],
+   "monitor_nr": "807",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314777",
+   "tip": "ORDIN",
+   "numar": "1223",
+   "data_act": "2026-09-14",
+   "titlu": "ORDIN nr. 1.223 din 14 septembrie 2026",
+   "descriere": "privind modificarea şi completarea anexei la Ordinul ministrului agriculturii şi dezvoltării rurale, al ministrului dezvoltării, lucrărilor publice şi administraţiei, al viceprim-ministrului, ministrul afacerilor interne, al ministrului finanţelor, al preşedintelui Institutului Naţional de Statistică, al directorului general al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară şi al preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 51/348/59/765/285/14.633/678/2025 pentru aprobarea Normelor tehnice privind completarea registrului agricol pentru perioada 2025-2029",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "807",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314776",
+   "tip": "ORDIN",
+   "numar": "133",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 133 din 25 august 2026",
+   "descriere": "privind modificarea şi completarea anexei la Ordinul ministrului agriculturii şi dezvoltării rurale, al ministrului dezvoltării, lucrărilor publice şi administraţiei, al viceprim-ministrului, ministrul afacerilor interne, al ministrului finanţelor, al preşedintelui Institutului Naţional de Statistică, al directorului general al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară şi al preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 51/348/59/765/285/14.633/678/2025 pentru aprobarea Normelor tehnice privind completarea registrului agricol pentru perioada 2025-2029",
+   "emitenti": [
+    "Ministerul Afacerilor Interne"
+   ],
+   "monitor_nr": "807",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314775",
+   "tip": "ORDIN",
+   "numar": "927",
+   "data_act": "2026-08-14",
+   "titlu": "ORDIN nr. 927 din 14 august 2026",
+   "descriere": "privind modificarea şi completarea anexei la Ordinul ministrului agriculturii şi dezvoltării rurale, al ministrului dezvoltării, lucrărilor publice şi administraţiei, al viceprim-ministrului, ministrul afacerilor interne, al ministrului finanţelor, al preşedintelui Institutului Naţional de Statistică, al directorului general al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară şi al preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 51/348/59/765/285/14.633/678/2025 pentru aprobarea Normelor tehnice privind completarea registrului agricol pentru perioada 2025-2029",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "807",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314774",
+   "tip": "ORDIN",
+   "numar": "205",
+   "data_act": "2026-07-22",
+   "titlu": "ORDIN nr. 205 din 22 iulie 2026",
+   "descriere": "privind modificarea şi completarea anexei la Ordinul ministrului agriculturii şi dezvoltării rurale, al ministrului dezvoltării, lucrărilor publice şi administraţiei, al viceprim-ministrului, ministrul afacerilor interne, al ministrului finanţelor, al preşedintelui Institutului Naţional de Statistică, al directorului general al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară şi al preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 51/348/59/765/285/14.633/678/2025 pentru aprobarea Normelor tehnice privind completarea registrului agricol pentru perioada 2025-2029",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "807",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314773",
+   "tip": "DECIZIE",
+   "numar": "306",
+   "data_act": "2026-09-23",
+   "titlu": "DECIZIE nr. 306 din 23 septembrie 2026",
+   "descriere": "privind eliberarea doamnei Alina-Roxana Gîrbea, la cerere, din funcţia de secretar de stat la Ministerul Investiţiilor şi Proiectelor Europene",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "807",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314772",
+   "tip": "DECIZIE",
+   "numar": "305",
+   "data_act": "2026-09-23",
+   "titlu": "DECIZIE nr. 305 din 23 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Dan Vlaicu a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general adjunct al Consiliului Concurenţei",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "807",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314771",
+   "tip": "DECIZIE",
+   "numar": "304",
+   "data_act": "2026-09-23",
+   "titlu": "DECIZIE nr. 304 din 23 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Georgeta Bumbac a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Sănătăţii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "807",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314770",
+   "tip": "HOTARARE",
+   "numar": "748",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 748 din 18 septembrie 2026",
+   "descriere": "privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Acces rutier complementar descărcare A3 Azuga-Buşteni\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "807",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314769",
+   "tip": "DECIZIE",
+   "numar": "590",
+   "data_act": "2025-11-11",
+   "titlu": "DECIZIA nr. 590 din 11 noiembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 58^4 alin. (2) din Legea nr. 360/2002 privind Statutul poliţistului",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "807",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314768",
+   "tip": "ORDIN",
+   "numar": "5564",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.564 din 31 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Centrul Şcolar pentru Educaţie Incluzivă din municipiul Târgu Jiu, judeţul Gorj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "805",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": true
+  },
+  {
+   "id": "314767",
+   "tip": "ORDIN",
+   "numar": "5293",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.293 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Nr. 1 Comuna Tăuteu din judeţul Bihor",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "805",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": true
+  },
+  {
+   "id": "314766",
+   "tip": "ORDIN",
+   "numar": "5292",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.292 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Tehnologic \"Ion Mincu\" din municipiul Târgu Jiu, judeţul Gorj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "805",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": true
+  },
+  {
+   "id": "314765",
+   "tip": "ORDIN",
+   "numar": "5285",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.285 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"David Prodan\" Săliştea din comuna Săliştea, judeţul Alba",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "805",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314764",
+   "tip": "ORDIN",
+   "numar": "5284",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.284 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Şcoala Postliceală \"Henri Coandă\" Năvodari din oraşul Năvodari, judeţul Constanţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "805",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": true
+  },
+  {
+   "id": "314763",
+   "tip": "ORDIN",
+   "numar": "5283",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.283 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"Petöfi Sándor\" din comuna Coltău, judeţul Maramureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "805",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314762",
+   "tip": "ORDIN",
+   "numar": "5282",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.282 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială Nr. 1 Comuna Roşia din judeţul Bihor",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "805",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314761",
+   "tip": "ORDIN",
+   "numar": "5281",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.281 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Şcoala Postliceală Sanitară \"Carol Davila\" Balş din oraşul Balş, judeţul Olt",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "805",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": true
+  },
+  {
+   "id": "314760",
+   "tip": "ORDIN",
+   "numar": "5280",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.280 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Teologic Ortodox \"Sfântul Constantin Brâncoveanu\" Făgăraş din municipiul Făgăraş, judeţul Braşov",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "805",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": true
+  },
+  {
+   "id": "314759",
+   "tip": "HOTARARE",
+   "numar": "747",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 747 din 18 septembrie 2026",
+   "descriere": "privind suplimentarea pe anul 2026 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 799/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere situat pe amplasamentul lucrării de utilitate publică de interes naţional privind obiectivul de investiţii „Programul strategic de dezvoltare a infrastructurii aeroportuare la Aeroportul Internaţional Henri Coandă - Bucureşti“, precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 799/2019",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "805",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314758",
+   "tip": "HOTARARE",
+   "numar": "745",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 745 din 18 septembrie 2026",
+   "descriere": "privind suplimentarea pe anul 2026 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 799/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere situat pe amplasamentul lucrării de utilitate publică de interes naţional privind obiectivul de investiţii \"Programul strategic de dezvoltare a infrastructurii aeroportuare la Aeroportul Internaţional Henri Coandă - Bucureşti\", precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 799/2019",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "805",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314757",
+   "tip": "HOTARARE",
+   "numar": "732",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 732 din 18 septembrie 2026",
+   "descriere": "privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată, situate pe amplasamentul suplimentar, necesar pentru asigurarea gropilor de împrumut şi pentru relocarea utilităţilor, aprobarea listei imobilelor proprietate publică a statului, precum şi aprobarea listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Drum expres Arad-Oradea\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "805",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314753",
+   "tip": "ORDIN",
+   "numar": "261",
+   "data_act": "2026-09-04",
+   "titlu": "ORDIN nr. 261 din 4 septembrie 2026",
+   "descriere": "privind stabilirea tarifelor pentru efectuarea testelor şi controlului, certificării, înregistrării, supravegherii, monitorizării şi acreditării pentru producerea, prelucrarea şi/sau comercializarea seminţelor şi a materialului săditor, precum şi a tarifelor pentru efectuarea testelor de calitate a seminţelor şi a materialului săditor",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "804",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-27",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314752",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-09-18",
+   "titlu": "METODOLOGIE din 18 septembrie 2026",
+   "descriere": "de concurs pentru ocuparea funcţiei de director general la institutele naţionale de cercetare-dezvoltare",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "804",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314751",
+   "tip": "HOTARARE",
+   "numar": "743",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 743 din 18 septembrie 2026",
+   "descriere": "privind aprobarea Metodologiei de concurs pentru ocuparea funcţiei de director general la institutele naţionale de cercetare-dezvoltare",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "804",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314750",
+   "tip": "DECIZIE",
+   "numar": "233",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 233 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 20 din Ordonanţa de urgenţă a Guvernului nr. 59/2000 privind Statutul personalului silvic şi a dispoziţiilor art. 6 alin. (6) din Codul civil",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "804",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314749",
+   "tip": "DECIZIE",
+   "numar": "218",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 218 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 35 , art. 205 şi art. 411 alin. (2) din Codul de procedură civilă , ale art. 1 , art. 2 , art. 7 alin. (1) , art. 8 , art. 10 şi art. 18 din Legea contenciosului administrativ nr. 554/2004 , ale art. 27 , art. 173 , art. 183 şi art. 268 din Codul de procedură fiscală , ale art. 7 , art. 95 , art. 96 , art. 107 şi art. 490 din Codul fiscal , ale art. 5 , art. 129 , art. 139 şi art. 196 din Ordonanţa de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ şi ale art. 32 , art. 50 , art. 54 , art. 56 şi art. 65 din Legea nr. 350/2001 privind amenajarea teritoriului şi urbanismul",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "804",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314748",
+   "tip": "RECTIFICARE",
+   "numar": "722",
+   "data_act": "2026-09-11",
+   "titlu": "RECTIFICARE nr. 722 din 11 septembrie 2026",
+   "descriere": "referitoare la Hotărârea Guvernului nr. 722/2026",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "803",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314747",
+   "tip": "RECTIFICARE",
+   "numar": "721",
+   "data_act": "2026-09-11",
+   "titlu": "RECTIFICARE nr. 721 din 11 septembrie 2026",
+   "descriere": "referitoare la Hotărârea Guvernului nr. 721/2026",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "803",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314746",
+   "tip": "ORDIN",
+   "numar": "5249",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.249 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Profesională \"Gheorghe Şincai\" Comuna Râciu din judeţul Mureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "803",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": true
+  },
+  {
+   "id": "314745",
+   "tip": "HOTARARE",
+   "numar": "753",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 753 din 18 septembrie 2026",
+   "descriere": "privind aprobarea normativelor de cheltuieli pentru Conferinţa internaţională cu tema \"Safeguarding Elections in a Disputed Digital Era: A European Exchange on Cooperation among Electoral Authorities, Electoral Integrity, Countering Disinformation, and the Implementation of Regulation (EU) 2024/900 on the transparency and targeting of political advertising\", organizată de Autoritatea Electorală Permanentă, în perioada 28-29 octombrie 2026, la Bucureşti",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "803",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Economie socială",
+   "scor": 2,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314744",
+   "tip": "HOTARARE",
+   "numar": "752",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 752 din 18 septembrie 2026",
+   "descriere": "privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Lucrări de conservare a Lacului Roşu, judeţul Harghita\", precum şi aprobarea listei imobilelor proprietate publică a statului care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "803",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314743",
+   "tip": "HOTARARE",
+   "numar": "750",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 750 din 18 septembrie 2026",
+   "descriere": "privind actualizarea valorilor de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Neamţ",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "803",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314742",
+   "tip": "HOTARARE",
+   "numar": "749",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 749 din 18 septembrie 2026",
+   "descriere": "pentru suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.121/2020 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Deschiderea şi punerea în exploatare a Carierei Timişeni-Pinoasa, judeţul Gorj, la o capacitate de 8.000.000 tone/an lignit\", precum şi pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 1.121/2020",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "803",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314741",
+   "tip": "AMENDAMENT",
+   "numar": "",
+   "data_act": "2025-07-18",
+   "titlu": "AMENDAMENT din 18 iulie 2025",
+   "descriere": "convenit prin schimb de scrisori, semnate la Bucureşti la 18 iulie 2025 şi la 18 iunie 2026, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut (Proiect şcoli mai sigure, incluzive şi sustenabile în România) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 6 mai 2021",
+   "emitenti": [
+    "Act Internațional"
+   ],
+   "monitor_nr": "803",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314740",
+   "tip": "HOTARARE",
+   "numar": "725",
+   "data_act": "2026-09-11",
+   "titlu": "HOTĂRÂRE nr. 725 din 11 septembrie 2026",
+   "descriere": "pentru aprobarea amendamentului convenit prin schimb de scrisori, semnate la Bucureşti la 18 iulie 2025 şi la 18 iunie 2026, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut (Proiect şcoli mai sigure, incluzive şi sustenabile în România) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 6 mai 2021",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "803",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
+  {
+   "id": "314739",
+   "tip": "DECIZIE",
+   "numar": "648",
+   "data_act": "2025-11-25",
+   "titlu": "DECIZIA nr. 648 din 25 noiembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 285 alin. (2) din Legea nr. 571/2003 privind Codul fiscal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "803",
+   "data_publicare": "2026-09-22",
+   "data_vigoare": "2026-09-22",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-23",
+   "are_text": false
+  },
   {
    "id": "314736",
    "tip": "ORDIN",
