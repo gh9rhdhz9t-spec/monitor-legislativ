@@ -1,29 +1,857 @@
 {
- "generated_at": "2026-09-24T05:01:47+00:00",
+ "generated_at": "2026-09-24T13:00:26+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1083,
- "new_this_run": 0,
+ "total": 1122,
+ "new_this_run": 39,
  "pages_scanned": 6,
  "categories": {
-  "Agricultură și dezvoltare rurală": 62,
-  "Administrație publică": 69,
-  "Sănătate": 30,
-  "Transporturi și infrastructură": 73,
-  "Justiție și afaceri interne": 120,
-  "Educație și cercetare": 292,
-  "Altele": 82,
+  "Educație și cercetare": 297,
+  "Energie și mediu": 129,
+  "Administrație publică": 74,
+  "Transporturi și infrastructură": 77,
+  "Muncă și dialog social": 18,
+  "Agricultură și dezvoltare rurală": 63,
+  "Justiție și afaceri interne": 123,
+  "Economie, IMM și comerț": 69,
+  "Sănătate": 32,
+  "Altele": 84,
   "Economie socială": 1,
   "Fiscalitate și buget": 80,
-  "Economie, IMM și comerț": 67,
-  "Energie și mediu": 115,
   "Digitalizare și comunicații": 13,
   "Cultură, culte și sport": 17,
   "Afaceri externe și UE": 13,
   "Protecție socială și pensii": 24,
-  "Muncă și dialog social": 17,
   "Apărare și securitate națională": 8
  },
  "acts": [
+  {
+   "id": "314820",
+   "tip": "ORDIN",
+   "numar": "5652",
+   "data_act": "2026-09-17",
+   "titlu": "ORDIN nr. 5.652 din 17 septembrie 2026",
+   "descriere": "privind acordarea statutului de unitate de învăţământ pilot Liceului Tehnologic \"Constantin Brâncuşi\" din municipiul Sfântu Gheorghe, judeţul Covasna",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "813",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": true
+  },
+  {
+   "id": "314819",
+   "tip": "ORDIN",
+   "numar": "5641",
+   "data_act": "2026-09-15",
+   "titlu": "ORDIN nr. 5.641 din 15 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului de organizare şi funcţionare a Consiliului Naţional al Elevilor, aprobat prin Ordinul ministrului educaţiei nr. 5.428/2024",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "813",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": true
+  },
+  {
+   "id": "314818",
+   "tip": "HOTARARE",
+   "numar": "763",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 763 din 18 septembrie 2026",
+   "descriere": "privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului ale unor imobile aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Dâmboviţa, Braşov, Vrancea, Bacău, Sibiu şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "813",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314817",
+   "tip": "HOTARARE",
+   "numar": "762",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 762 din 18 septembrie 2026",
+   "descriere": "privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului ale unor imobile aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Vaslui, Vrancea şi Buzău, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "813",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314816",
+   "tip": "HOTARARE",
+   "numar": "761",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 761 din 18 septembrie 2026",
+   "descriere": "privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului ale unor imobile aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Bistriţa-Năsăud şi Argeş, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "813",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314815",
+   "tip": "HOTARARE",
+   "numar": "759",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 759 din 18 septembrie 2026",
+   "descriere": "privind modificarea codului de clasificaţie, denumirii, elementelor-cadru de descriere tehnică şi actualizarea valorii de inventar a unui bun imobil identificat cu nr. MF 38032, aflat în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Braşov, precum şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "813",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314814",
+   "tip": "HOTARARE",
+   "numar": "758",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 758 din 18 septembrie 2026",
+   "descriere": "privind modificarea codului de clasificaţie, denumirii, elementelor-cadru de descriere tehnică şi actualizarea valorii de inventar a unui bun imobil cu nr. MF 153551, aflat în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Braşov, precum şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "813",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314813",
+   "tip": "HOTARARE",
+   "numar": "757",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 757 din 18 septembrie 2026",
+   "descriere": "privind înscrierea unui bun imobil în inventarul centralizat al bunurilor din domeniul public al statului şi aflat în administrarea Direcţiei Generale Regionale a Finanţelor Publice Timişoara, modificarea codului de clasificaţie, denumirii, elementelor-cadru de descriere tehnică, actualizarea adresei poştale şi a valorii de inventar ale unui bun imobil aflat în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Timişoara, comasarea la numărul MF 27260 a numărului MF atribuit bunului imobil care se înscrie în inventarul centralizat al bunurilor din domeniul public al statului, precum şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "813",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314812",
+   "tip": "HOTARARE",
+   "numar": "754",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 754 din 18 septembrie 2026",
+   "descriere": "privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unor bunuri imobile reprezentând terenuri în suprafaţă totală de 4.206 mp şi darea acestora în administrarea Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "813",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314811",
+   "tip": "DECIZIE",
+   "numar": "589",
+   "data_act": "2025-11-11",
+   "titlu": "DECIZIA nr. 589 din 11 noiembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 30 alin. (3) din Legea-cadru nr. 330/2009 privind salarizarea unitară a personalului plătit din fonduri publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "813",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 3,
+   "termeni": [
+    "salarizare"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314810",
+   "tip": "HOTARARE",
+   "numar": "751",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 751 din 18 septembrie 2026",
+   "descriere": "privind acordarea unui sprijin financiar de urgenţă în agricultură producătorilor agricoli din sectorul vegetal, pentru suprafeţele cultivate cu porumb şi/sau floarea-soarelui afectate de seceta pedologică manifestată în anul 2025",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "812",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314809",
+   "tip": "DECIZIE",
+   "numar": "419",
+   "data_act": "2026-04-30",
+   "titlu": "DECIZIA nr. 419 din 30 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a Ordonanţei Guvernului nr. 8/2008 pentru modificarea şi completarea Legii nr. 138/1999 privind salarizarea şi alte drepturi ale personalului militar din instituţiile publice de apărare naţională, ordine publică şi siguranţă naţională, precum şi acordarea unor drepturi salariale personalului civil din aceste instituţii şi pentru modificarea Ordonanţei Guvernului nr. 38/2003 privind salarizarea şi alte drepturi ale poliţiştilor şi a Ordonanţei Guvernului nr. 64/2006 privind salarizarea şi alte drepturi ale funcţionarilor publici cu statut special din sistemul administraţiei penitenciare",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "812",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 4,
+   "termeni": [
+    "salarizare",
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": true
+  },
+  {
+   "id": "314808",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-09-17",
+   "titlu": "REGULAMENT din 17 septembrie 2026",
+   "descriere": "privind acordarea voucherelor de vacanţă în unităţile/instituţiile de învăţământ de stat din subordinea/coordonarea Ministerului Educaţiei şi Cercetării, pentru anul 2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "811",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": true
+  },
+  {
+   "id": "314807",
+   "tip": "ORDIN",
+   "numar": "5651",
+   "data_act": "2026-09-17",
+   "titlu": "ORDIN nr. 5.651 din 17 septembrie 2026",
+   "descriere": "privind aprobarea Regulamentului de acordare a voucherelor de vacanţă în unităţile/instituţiile de învăţământ de stat din subordinea/coordonarea Ministerului Educaţiei şi Cercetării, pentru anul 2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "811",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": true
+  },
+  {
+   "id": "314806",
+   "tip": "ORDIN",
+   "numar": "1089",
+   "data_act": "2026-09-15",
+   "titlu": "ORDIN nr. 1.089 din 15 septembrie 2026",
+   "descriere": "pentru completarea Ghidului solicitantului în baza schemei de ajutor de stat privind sprijinirea modernizării/reabilitării reţelei inteligente de termoficare din Fondul pentru modernizare aferent programului-cheie 5: Cogenerare de înaltă eficienţă şi modernizarea reţelelor de termoficare - Sprijin pentru modernizarea şi realizarea de centrale în cogenerare de înaltă eficienţă şi pentru modernizarea reţelelor de termoficare - Domeniul de investiţii 5.3: Sprijin pentru modernizarea şi dezvoltarea reţelei inteligente de termoficare, aprobat prin Ordinul ministrului energiei nr. 24/2024",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "811",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314805",
+   "tip": "ORDIN",
+   "numar": "1088",
+   "data_act": "2026-09-15",
+   "titlu": "ORDIN nr. 1.088 din 15 septembrie 2026",
+   "descriere": "pentru completarea Ghidului solicitantului - Condiţii specifice de accesare a finanţării din Fondul pentru modernizare - sprijinirea investiţiilor în cogenerare de înaltă eficienţă în sectorul încălzirii centralizate, aprobat prin Ordinul ministrului energiei nr. 633/2024",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "811",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314804",
+   "tip": "HOTARARE",
+   "numar": "765",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 765 din 18 septembrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Bistriţa\" al Judeţului Bistriţa-Năsăud, ca urmare a reevaluării",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "811",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314803",
+   "tip": "HOTARARE",
+   "numar": "764",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 764 din 18 septembrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Cpt. Dumitru Croitoru\" al Judeţului Sibiu, ca urmare a reevaluării",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "811",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314802",
+   "tip": "ORDIN",
+   "numar": "136",
+   "data_act": "2026-09-14",
+   "titlu": "ORDIN nr. 136 din 14 septembrie 2026",
+   "descriere": "privind aprobarea cadrului normativ al evaluatorilor de servicii de sănătate ai Autorităţii Naţionale de Management al Calităţii în Sănătate",
+   "emitenti": [
+    "Autoritatea Națională de Management al Calității în Sănătate"
+   ],
+   "monitor_nr": "810",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314801",
+   "tip": "HOTARARE",
+   "numar": "766",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 766 din 18 septembrie 2026",
+   "descriere": "privind actualizarea valorilor de inventar ale bunurilor imobile aflate în domeniul public al statului şi în administrarea Consiliului Concurenţei, precum şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "810",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314800",
+   "tip": "HOTARARE",
+   "numar": "744",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 744 din 18 septembrie 2026",
+   "descriere": "privind aprobarea declanşării procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilelor proprietate publică a statului şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, situate pe amplasamentul suplimentar care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Modernizarea liniei feroviare Caransebeş-Timişoara-Arad\", aflate pe raza unităţilor administrativ-teritoriale Caransebeş, Păltiniş, Constantin Daicoviciu şi Sacu - judeţul Caraş-Severin, Găvojdia, Dudeştii Noi, Sânandrei şi Orţişoara - judeţul Timiş, Vinga, Şagu, Arad şi Vladimirescu - judeţul Arad",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "810",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314798",
+   "tip": "DECIZIE",
+   "numar": "734",
+   "data_act": "2025-12-09",
+   "titlu": "DECIZIA nr. 734 din 9 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 20 alin. (2) şi (3) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, ale art. 1 alin. (1) şi (2) şi ale art. 2 alin. (2) din Legea nr. 226/2006 privind încadrarea unor locuri de muncă în condiţii speciale, ale anexei nr. 2 la Legea nr. 226/2006 , ale art. 30 alin. (1) lit. e) , alin. (2) şi (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, ale anexei nr. 3 la Legea nr. 263/2010 , ale art. II din Legea nr. 325/2015 pentru modificarea Legii nr. 263/2010 privind sistemul unitar de pensii publice, precum şi a dispoziţiilor art. 20 alin. (2) şi (3) din Legea nr. 19/2000 , ale art. 1 alin. (1) şi (2) şi ale art. 2 alin. (2) din Legea nr. 226/2006 , ale anexei nr. 2 la Legea nr. 226/2006 , ale art. 30 alin. (1) lit. e) din Legea nr. 263/2010 şi ale anexei nr. 3 la Legea nr. 263/2010 , în interpretarea dată prin Decizia nr. 12 din 23 mai 2016 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul competent să judece recursul în interesul legii, şi prin Decizia nr. 14 din 23 mai 2016 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "809",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 5,
+   "termeni": [
+    "pensii",
+    "asigurari sociale"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": true
+  },
+  {
+   "id": "314797",
+   "tip": "HOTARARE",
+   "numar": "56",
+   "data_act": "2026-09-23",
+   "titlu": "HOTĂRÂRE nr. 56 din 23 septembrie 2026",
+   "descriere": "privind validarea unui mandat de deputat",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "809",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314796",
+   "tip": "HOTARARE",
+   "numar": "55",
+   "data_act": "2026-09-23",
+   "titlu": "HOTĂRÂRE nr. 55 din 23 septembrie 2026",
+   "descriere": "privind vacantarea unui loc de deputat",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "809",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314795",
+   "tip": "RAPORT",
+   "numar": "15123",
+   "data_act": "2026-08-25",
+   "titlu": "RAPORT nr. 15.123 din 25 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alternativa Dreaptă",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314794",
+   "tip": "RAPORT",
+   "numar": "14301",
+   "data_act": "2026-08-11",
+   "titlu": "RAPORT nr. 14.301 din 11 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Forţa Identităţii Naţionale",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314793",
+   "tip": "RAPORT",
+   "numar": "13009",
+   "data_act": "2026-07-29",
+   "titlu": "RAPORT nr. 13.009 din 29 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Comunist Român - Secolul XXI în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314792",
+   "tip": "RAPORT",
+   "numar": "12709",
+   "data_act": "2026-07-23",
+   "titlu": "RAPORT nr. 12.709 din 23 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Oltenilor în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314791",
+   "tip": "RAPORT",
+   "numar": "12574",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.574 din 21 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Conservator Democrat",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314790",
+   "tip": "RAPORT",
+   "numar": "12575",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.575 din 21 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Uniunea Independentă pentru Tecuci",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314789",
+   "tip": "RAPORT",
+   "numar": "12168",
+   "data_act": "2026-07-14",
+   "titlu": "RAPORT nr. 12.168 din 14 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă a Partidul Naţional Vatra Românească",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314788",
+   "tip": "RAPORT",
+   "numar": "11754",
+   "data_act": "2026-07-08",
+   "titlu": "RAPORT nr. 11.754 din 8 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Diaspora şi Prietenii",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314787",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-09-22",
+   "titlu": "METODOLOGIE din 22 septembrie 2026",
+   "descriere": "de realizare a unei analize transparente a costurilor şi beneficiilor surselor de energie distribuite în vederea determinării costurilor totale ale sistemului de distribuţie aplicabile partajării energiei regenerabile în cadrul unei comunităţi de energie din surse regenerabile",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314786",
+   "tip": "ORDIN",
+   "numar": "58",
+   "data_act": "2026-09-22",
+   "titlu": "ORDIN nr. 58 din 22 septembrie 2026",
+   "descriere": "privind aprobarea Metodologiei de realizare a unei analize transparente a costurilor şi beneficiilor surselor de energie distribuite în vederea determinării costurilor totale ale sistemului de distribuţie aplicabile partajării energiei regenerabile în cadrul unei comunităţi de energie din surse regenerabile",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314785",
+   "tip": "ORDIN",
+   "numar": "139",
+   "data_act": "2026-09-22",
+   "titlu": "ORDIN nr. 139 din 22 septembrie 2026",
+   "descriere": "privind aprobarea Ediţiei a III-a a Standardelor ANMCS pentru acreditarea unităţilor sanitare în ciclul al III-lea de acreditare şi a Metodologiei de evaluare, reevaluare, acreditare, reacreditare a unităţilor sanitare şi de monitorizare a procesului de implementare a sistemului de management al calităţii serviciilor de sănătate şi siguranţei pacientului",
+   "emitenti": [
+    "Autoritatea Națională de Management al Calității în Sănătate"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314784",
+   "tip": "HOTARARE",
+   "numar": "755",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 755 din 18 septembrie 2026",
+   "descriere": "privind aprobarea actualizării adresei poştale şi a valorii de inventar ale unor bunuri imobile aparţinând domeniului public al statului şi aflate în administrarea Institutului de Fizică Atomică, care funcţionează în subordinea Autorităţii Naţionale pentru Cercetare, comasarea poziţiilor MF ale acestor bunuri imobile la poziţia cu nr. MF 164125, precum şi aprobarea închirierii unor spaţii temporar disponibile",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314783",
+   "tip": "ORDIN",
+   "numar": "882",
+   "data_act": "2026-09-21",
+   "titlu": "ORDIN nr. 882 din 21 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli modificat pe anul 2026 al Autorităţii Feroviare Române - AFER",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "806",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314782",
+   "tip": "HOTARARE",
+   "numar": "746",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 746 din 18 septembrie 2026",
+   "descriere": "privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Sistematizare intersecţie DN 1 km 66 + 500 cu breteaua de legătură DN 1B\", precum şi aprobarea listei imobilelor proprietate publică a statului care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "806",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314781",
+   "tip": "DECIZIE",
+   "numar": "193",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 193 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 131 teza finală din Codul penal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "806",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-24",
+   "are_text": false
+  },
   {
    "id": "314780",
    "tip": "ORDIN",
