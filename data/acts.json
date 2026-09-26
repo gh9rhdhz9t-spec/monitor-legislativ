@@ -1,29 +1,619 @@
 {
- "generated_at": "2026-09-24T13:00:26+00:00",
+ "generated_at": "2026-09-26T05:00:31+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1122,
- "new_this_run": 39,
+ "total": 1151,
+ "new_this_run": 29,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 297,
-  "Energie și mediu": 129,
-  "Administrație publică": 74,
+  "Muncă și dialog social": 20,
+  "Sănătate": 36,
+  "Altele": 88,
+  "Afaceri externe și UE": 14,
+  "Energie și mediu": 130,
+  "Fiscalitate și buget": 81,
+  "Economie, IMM și comerț": 70,
+  "Agricultură și dezvoltare rurală": 64,
+  "Justiție și afaceri interne": 125,
+  "Educație și cercetare": 307,
+  "Cultură, culte și sport": 18,
+  "Administrație publică": 75,
   "Transporturi și infrastructură": 77,
-  "Muncă și dialog social": 18,
-  "Agricultură și dezvoltare rurală": 63,
-  "Justiție și afaceri interne": 123,
-  "Economie, IMM și comerț": 69,
-  "Sănătate": 32,
-  "Altele": 84,
   "Economie socială": 1,
-  "Fiscalitate și buget": 80,
   "Digitalizare și comunicații": 13,
-  "Cultură, culte și sport": 17,
-  "Afaceri externe și UE": 13,
   "Protecție socială și pensii": 24,
   "Apărare și securitate națională": 8
  },
  "acts": [
+  {
+   "id": "314850",
+   "tip": "DECIZIE",
+   "numar": "876",
+   "data_act": "2026-07-16",
+   "titlu": "DECIZIA nr. 876 din 16 iulie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 62/2024 privind unele măsuri pentru soluţionarea proceselor privind salarizarea personalului plătit din fonduri publice, precum şi a proceselor privind prestaţii de asigurări sociale, în ansamblul său, precum şi a dispoziţiilor art. 1 alin. (1) şi (3) , ale art. 2 alin. (1) şi (3) şi ale art. 3 şi 4 din aceasta",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "817",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 7,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare",
+    "asigurari sociale"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": true
+  },
+  {
+   "id": "314849",
+   "tip": "HOTARARE",
+   "numar": "63",
+   "data_act": "2026-09-23",
+   "titlu": "HOTĂRÂRE nr. 63 din 23 septembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor privind un plan al UE pentru sănătatea cardiovasculară: Planul pentru sănătatea inimii - COM (2025) 1024",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "817",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": true
+  },
+  {
+   "id": "314848",
+   "tip": "HOTARARE",
+   "numar": "62",
+   "data_act": "2026-09-23",
+   "titlu": "HOTĂRÂRE nr. 62 din 23 septembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea comună către Parlamentul European şi Consiliu - Consolidarea securităţii economice a UE - JOIN (2025) 977",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "817",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314847",
+   "tip": "HOTARARE",
+   "numar": "61",
+   "data_act": "2026-09-23",
+   "titlu": "HOTĂRÂRE nr. 61 din 23 septembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Planul de acţiune RESourceEU - Accelerarea strategiei noastre privind materiile prime critice pentru a ne adapta la o nouă realitate - COM (2025) 945",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "817",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314846",
+   "tip": "HOTARARE",
+   "numar": "60",
+   "data_act": "2026-09-23",
+   "titlu": "HOTĂRÂRE nr. 60 din 23 septembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European şi Consiliu - Strategia privind o Uniune Europeană a datelor - Deblocarea potenţialului datelor în slujba IA - COM (2025) 835",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "817",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314845",
+   "tip": "HOTARARE",
+   "numar": "59",
+   "data_act": "2026-09-23",
+   "titlu": "HOTĂRÂRE nr. 59 din 23 septembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Un cadru strategic pentru o bioeconomie a UE competitivă şi durabilă - COM (2025) 960",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "817",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314844",
+   "tip": "HOTARARE",
+   "numar": "58",
+   "data_act": "2026-09-23",
+   "titlu": "HOTĂRÂRE nr. 58 din 23 septembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Foaie de parcurs privind locurile de muncă de calitate - COM (2025) 944",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "817",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314843",
+   "tip": "HOTARARE",
+   "numar": "57",
+   "data_act": "2026-09-23",
+   "titlu": "HOTĂRÂRE nr. 57 din 23 septembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Introducerea planului de prevenire, pregătire şi răspuns al Uniunii la crizele sanitare - COM (2025) 745",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "817",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": true
+  },
+  {
+   "id": "314841",
+   "tip": "ORDIN",
+   "numar": "59",
+   "data_act": "2026-09-22",
+   "titlu": "ORDIN nr. 59 din 22 septembrie 2026",
+   "descriere": "privind modificarea şi completarea Normei tehnice energetice privind determinarea consumului propriu tehnologic în reţelele electrice de interes public - NTE 013/16/00, aprobată prin Ordinul preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Energiei nr. 26/2016",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "816",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314840",
+   "tip": "HOTARARE",
+   "numar": "768",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 768 din 24 septembrie 2026",
+   "descriere": "privind repartizarea sumelor corespunzătoare cotei prevăzute la art. 7 alin. (1) lit. e) din Legea bugetului de stat pe anul 2026 nr. 43/2026 , pentru finanţarea instituţiilor publice de spectacole din subordinea autorităţilor administraţiei publice locale ale unităţilor administrativ-teritoriale din judeţe, respectiv teatre, opere şi filarmonici",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "816",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314839",
+   "tip": "HOTARARE",
+   "numar": "767",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 767 din 24 septembrie 2026",
+   "descriere": "pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii \"Sistem electronic de tarifare rutieră - Lot 2 - Obiective de control\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "816",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314838",
+   "tip": "ORDIN",
+   "numar": "277",
+   "data_act": "2026-09-24",
+   "titlu": "ORDIN nr. 277 din 24 septembrie 2026",
+   "descriere": "pentru aprobarea cantităţilor de motorină aferente perioadei 1 aprilie 2026-30 iunie 2026, determinate la plată şi nedecontate de către Agenţia de Plăţi şi Intervenţie pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "815",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314837",
+   "tip": "DECIZIE",
+   "numar": "591",
+   "data_act": "2025-11-11",
+   "titlu": "DECIZIA nr. 591 din 11 noiembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 34 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investiţiilor publice şi a unor măsuri fiscal-bugetare, modificarea şi completarea unor acte normative şi prorogarea unor termene şi ale art. 38 alin. (3) lit. h) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată de Înalta Curte de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept prin Decizia nr. 59 din 28 septembrie 2020",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "815",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": true
+  },
+  {
+   "id": "314836",
+   "tip": "ORDIN",
+   "numar": "5291",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.291 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Grădiniţa cu Program Prelungit \"Sf. Nicolae\" din oraşul Cisnădie, judeţul Sibiu",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": true
+  },
+  {
+   "id": "314835",
+   "tip": "ORDIN",
+   "numar": "5290",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.290 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Centrul de Studii \"Ştefan cel Mare şi Sfânt - Bucovina\" din municipiul Câmpulung Moldovenesc, judeţul Suceava",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314834",
+   "tip": "ORDIN",
+   "numar": "5289",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.289 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Grădiniţa cu Program Prelungit \"Bergman Nature Kindergarden\" din municipiul Bucureşti, sectorul 1",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": true
+  },
+  {
+   "id": "314833",
+   "tip": "ORDIN",
+   "numar": "5288",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.288 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Grădiniţa cu Program Prelungit \"Sfera Kinderzentrum\" din municipiul Bucureşti, sectorul 1",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": true
+  },
+  {
+   "id": "314832",
+   "tip": "ORDIN",
+   "numar": "5287",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.287 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Şcoala Gimnazială \"Little Genius\" din municipiul Bucureşti, sectorul 1",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314831",
+   "tip": "ORDIN",
+   "numar": "5286",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.286 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Grădiniţa \"Montessori Class\" din comuna Chiajna, judeţul Ilfov",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": true
+  },
+  {
+   "id": "314830",
+   "tip": "ORDIN",
+   "numar": "5276",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.276 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Şcoala Postliceală \"Med Farm Speranţa\" din oraşul Luduş, judeţul Mureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": true
+  },
+  {
+   "id": "314829",
+   "tip": "ORDIN",
+   "numar": "5264",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.264 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Şcoala Primară Montessori Transilvania din municipiul Cluj-Napoca, judeţul Cluj",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": true
+  },
+  {
+   "id": "314828",
+   "tip": "ORDIN",
+   "numar": "5263",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.263 din 28 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar particular Grădiniţa \"Max und Moritz\" din municipiul Bucureşti, sectorul 4",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": true
+  },
+  {
+   "id": "314827",
+   "tip": "ORDIN",
+   "numar": "5262",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.262 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Liceul F.E.G. Iaşi din municipiul Iaşi, judeţul Iaşi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314826",
+   "tip": "ORDIN",
+   "numar": "3216",
+   "data_act": "2026-09-21",
+   "titlu": "ORDIN nr. 3.216 din 21 septembrie 2026",
+   "descriere": "pentru modificarea anexei la Ordinul ministrului culturii nr. 2.939/2026 privind aprobarea Schemei de ajutor de minimis pentru sectorul cultural independent privind finanţarea nerambursabilă a proiectelor culturale",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314825",
+   "tip": "HOTARARE",
+   "numar": "760",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 760 din 18 septembrie 2026",
+   "descriere": "privind actualizarea valorilor de inventar şi modificarea elementelor-cadru de descriere tehnică ale unor bunuri aflate în domeniul public al statului şi în administrarea Agenţiei Judeţene pentru Ocuparea Forţei de Munca Vâlcea",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 2,
+   "termeni": [
+    "ocuparea fortei de munca",
+    "guvernul"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314824",
+   "tip": "HOTARARE",
+   "numar": "756",
+   "data_act": "2026-09-18",
+   "titlu": "HOTĂRÂRE nr. 756 din 18 septembrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului şi în administrarea Tribunalului Dolj, precum şi trecerea unei părţi din acesta din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi demolării",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "814",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "309935",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-09-24",
+   "titlu": "COMUNICAT din 24 septembrie 2026",
+   "descriere": "privind calificarea juridică a cererii de chemare în judecată după soluționarea conflictului de competență",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
   {
    "id": "314820",
    "tip": "ORDIN",
@@ -479,6 +1069,46 @@
     "guvernul"
    ],
    "first_seen": "2026-09-24",
+   "are_text": false
+  },
+  {
+   "id": "314823",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-09-22",
+   "titlu": "METODOLOGIE din 22 septembrie 2026",
+   "descriere": "de evaluare, reevaluare, acreditare, reacreditare a unităţilor sanitare şi de monitorizare a procesului de implementare a sistemului de management al calităţii serviciilor de sănătate şi siguranţei pacientului",
+   "emitenti": [
+    "Autoritatea Națională de Management al Calității în Sănătate"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-26",
+   "are_text": false
+  },
+  {
+   "id": "314822",
+   "tip": "STANDARD",
+   "numar": "",
+   "data_act": "2026-09-22",
+   "titlu": "STANDARDE ANMCS din 22 septembrie 2026",
+   "descriere": "pentru acreditarea unităţilor sanitare în ciclul al III-lea de acreditare",
+   "emitenti": [
+    "Autoritatea Națională de Management al Calității în Sănătate"
+   ],
+   "monitor_nr": "808",
+   "data_publicare": "2026-09-23",
+   "data_vigoare": "2026-09-23",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-26",
    "are_text": false
   },
   {
