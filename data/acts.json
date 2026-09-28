@@ -1,29 +1,753 @@
 {
- "generated_at": "2026-09-28T05:04:27+00:00",
+ "generated_at": "2026-09-28T13:04:21+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1151,
- "new_this_run": 0,
+ "total": 1190,
+ "new_this_run": 39,
  "pages_scanned": 6,
  "categories": {
-  "Muncă și dialog social": 20,
-  "Sănătate": 36,
-  "Altele": 88,
+  "Transporturi și infrastructură": 82,
+  "Muncă și dialog social": 23,
+  "Administrație publică": 78,
+  "Altele": 90,
+  "Justiție și afaceri interne": 128,
+  "Educație și cercetare": 310,
+  "Protecție socială și pensii": 25,
+  "Economie, IMM și comerț": 74,
+  "Fiscalitate și buget": 87,
+  "Sănătate": 43,
+  "Energie și mediu": 132,
   "Afaceri externe și UE": 14,
-  "Energie și mediu": 130,
-  "Fiscalitate și buget": 81,
-  "Economie, IMM și comerț": 70,
   "Agricultură și dezvoltare rurală": 64,
-  "Justiție și afaceri interne": 125,
-  "Educație și cercetare": 307,
   "Cultură, culte și sport": 18,
-  "Administrație publică": 75,
-  "Transporturi și infrastructură": 77,
   "Economie socială": 1,
   "Digitalizare și comunicații": 13,
-  "Protecție socială și pensii": 24,
   "Apărare și securitate națională": 8
  },
  "acts": [
+  {
+   "id": "314890",
+   "tip": "HOTARARE",
+   "numar": "771",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 771 din 24 septembrie 2026",
+   "descriere": "privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.179/2023 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Târgu Mureş - Târgu-Neamţ - secţiunea III: Leghin - Târgu-Neamţ, km 181+195 (89+000)-km 211+107 (118+912)\", aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional, precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 1.179/2023",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "822",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314889",
+   "tip": "DECIZIE",
+   "numar": "729",
+   "data_act": "2025-12-09",
+   "titlu": "DECIZIA nr. 729 din 9 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (5) teza a doua din Ordonanţa de urgenţă a Guvernului nr. 132/2020 privind măsuri de sprijin destinate salariaţilor şi angajatorilor în contextul situaţiei epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum şi pentru stimularea creşterii ocupării forţei de muncă, în redactarea anterioară intrării în vigoare a Ordonanţei de urgenţă a Guvernului nr. 44/2021 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 132/2020 privind măsuri de sprijin destinate salariaţilor şi angajatorilor în contextul situaţiei epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum şi pentru stimularea creşterii ocupării forţei de muncă, şi a sintagmei „prin poşta electronică“ din cuprinsul art. IV alin. (1) şi a dispoziţiilor alin. (4) ale aceluiaşi articol din Ordonanţa de urgenţă a Guvernului nr. 32/2020 privind modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 30/2020 pentru modificarea şi completarea unor acte normative, precum şi pentru stabilirea unor măsuri în domeniul protecţiei sociale în contextul situaţiei epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2 şi pentru stabilirea unor măsuri suplimentare de protecţie socială",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "822",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 6,
+   "termeni": [
+    "salariu",
+    "ocuparea fortei de munca",
+    "protectie sociala",
+    "angajator"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": true
+  },
+  {
+   "id": "314887",
+   "tip": "DECIZIE",
+   "numar": "314",
+   "data_act": "2026-09-25",
+   "titlu": "DECIZIE nr. 314 din 25 septembrie 2026",
+   "descriere": "privind conferirea Semnului onorific Răsplata Muncii în Serviciul Public unor funcţionari publici",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314886",
+   "tip": "DECIZIE",
+   "numar": "313",
+   "data_act": "2026-09-25",
+   "titlu": "DECIZIE nr. 313 din 25 septembrie 2026",
+   "descriere": "pentru modificarea Deciziei prim-ministrului nr. 454/2022 privind constituirea Consiliului interinstituţional pentru aprobarea Raportului evaluării naţionale a riscurilor de spălare a banilor şi finanţare a terorismului, a Planului naţional de măsuri şi a actualizărilor acestora",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314885",
+   "tip": "DECIZIE",
+   "numar": "312",
+   "data_act": "2026-09-25",
+   "titlu": "DECIZIE nr. 312 din 25 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, prin detaşare, de către domnul Adrian-Daniel Găvruţa a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general adjunct al Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "functionari publici",
+    "detasare"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314884",
+   "tip": "DECIZIE",
+   "numar": "188",
+   "data_act": "2026-03-04",
+   "titlu": "DECIZIA nr. 188 din 4 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2 lit. h) din Legea nr. 682/2002 privind protecţia martorilor",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314883",
+   "tip": "DECIZIE",
+   "numar": "311",
+   "data_act": "2026-09-25",
+   "titlu": "DECIZIE nr. 311 din 25 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Sorin Ştefan Decă a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general adjunct al Ministerului Educaţiei şi Cercetării",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314882",
+   "tip": "DECIZIE",
+   "numar": "310",
+   "data_act": "2026-09-25",
+   "titlu": "DECIZIE nr. 310 din 25 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Roxana-Gabriela Dobrin a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Autorităţii Naţionale pentru Protecţia Drepturilor Persoanelor cu Dizabilităţi",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314881",
+   "tip": "DECIZIE",
+   "numar": "309",
+   "data_act": "2026-09-25",
+   "titlu": "DECIZIE nr. 309 din 25 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Ionel Stoica a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Agenţiei Naţionale pentru Achiziţii Publice",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314880",
+   "tip": "DECIZIE",
+   "numar": "308",
+   "data_act": "2026-09-25",
+   "titlu": "DECIZIE nr. 308 din 25 septembrie 2026",
+   "descriere": "privind încetarea, la cerere, a calităţii de consilier onorific al viceprim-ministrului Oana-Clara Gheorghiu acordate doamnei Doina Popescu",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314879",
+   "tip": "DECIZIE",
+   "numar": "307",
+   "data_act": "2026-09-25",
+   "titlu": "DECIZIE nr. 307 din 25 septembrie 2026",
+   "descriere": "privind eliberarea doamnei Daniela Niţă, la cerere, din funcţia de consilier de soluţionare a contestaţiilor în domeniul achiziţiilor publice în cadrul Consiliului Naţional de Soluţionare a Contestaţiilor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314878",
+   "tip": "DECIZIE",
+   "numar": "742",
+   "data_act": "2025-12-10",
+   "titlu": "DECIZIA nr. 742 din 10 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 38 alin. (4^4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, ale anexei nr. II capitolul I punctul 2 lit. b) subpunctul b.4 numerele curente 5-7, în redactarea ulterioară intrării în vigoare a Legii nr. 64/2020 pentru modificarea şi completarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, şi ale punctului 3 subpunctul 3.2 numerele curente 9-11 din aceeaşi anexă la Legea-cadru nr. 153/2017",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": true
+  },
+  {
+   "id": "314877",
+   "tip": "DECRET",
+   "numar": "771",
+   "data_act": "2026-09-25",
+   "titlu": "DECRET nr. 771 din 25 septembrie 2026",
+   "descriere": "privind trecerea în rezervă a unui general de brigadă cu o stea din Serviciul de Telecomunicaţii Speciale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314876",
+   "tip": "DECRET",
+   "numar": "773",
+   "data_act": "2026-09-25",
+   "titlu": "DECRET nr. 773 din 25 septembrie 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea art. 101 din Legea învăţământului preuniversitar nr. 198/2023",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314875",
+   "tip": "LEGE",
+   "numar": "189",
+   "data_act": "2026-09-25",
+   "titlu": "LEGE nr. 189 din 25 septembrie 2026",
+   "descriere": "pentru modificarea art. 101 din Legea învăţământului preuniversitar nr. 198/2023",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": true
+  },
+  {
+   "id": "314874",
+   "tip": "DECRET",
+   "numar": "772",
+   "data_act": "2026-09-25",
+   "titlu": "DECRET nr. 772 din 25 septembrie 2026",
+   "descriere": "pentru promulgarea Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 49/2025 pentru modificarea şi completarea Ordonanţei Guvernului nr. 71/2001 privind organizarea şi exercitarea activităţii de consultanţă fiscală, precum şi pentru stabilirea unor măsuri",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314873",
+   "tip": "LEGE",
+   "numar": "188",
+   "data_act": "2026-09-25",
+   "titlu": "LEGE nr. 188 din 25 septembrie 2026",
+   "descriere": "privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 49/2025 pentru modificarea şi completarea Ordonanţei Guvernului nr. 71/2001 privind organizarea şi exercitarea activităţii de consultanţă fiscală, precum şi pentru stabilirea unor măsuri",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "820",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": true
+  },
+  {
+   "id": "314872",
+   "tip": "ORDIN",
+   "numar": "899",
+   "data_act": "2026-07-06",
+   "titlu": "ORDIN nr. 899 din 6 iulie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii Editura Didactică şi Pedagogică - S.A.",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "819",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": true
+  },
+  {
+   "id": "314871",
+   "tip": "ORDIN",
+   "numar": "1250",
+   "data_act": "2026-09-17",
+   "titlu": "ORDIN nr. 1.250 din 17 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii Editura Didactică şi Pedagogică - S.A.",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "819",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314870",
+   "tip": "ORDIN",
+   "numar": "3995",
+   "data_act": "2026-05-21",
+   "titlu": "ORDIN nr. 3.995 din 21 mai 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii Editura Didactică şi Pedagogică - S.A.",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "819",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314869",
+   "tip": "ORDIN",
+   "numar": "1461",
+   "data_act": "2026-09-24",
+   "titlu": "ORDIN nr. 1.461 din 24 septembrie 2026",
+   "descriere": "privind stabilirea specialităţilor deficitare pentru care se organizează rezidenţiat pe post în spitale clinice cu secţii clinice universitare, institute sau centre medicale clinice în sesiunea 15 noiembrie 2026",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "819",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": true
+  },
+  {
+   "id": "314868",
+   "tip": "ORDIN",
+   "numar": "1460",
+   "data_act": "2026-09-24",
+   "titlu": "ORDIN nr. 1.460 din 24 septembrie 2026",
+   "descriere": "privind stabilirea cuantumului taxei pentru participarea la concursul de admitere în rezidenţiat pe post şi pe loc în medicină, medicină dentară şi farmacie, sesiunea 15 noiembrie 2026",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "819",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314867",
+   "tip": "ORDIN",
+   "numar": "886",
+   "data_act": "2026-09-21",
+   "titlu": "ORDIN nr. 886 din 21 septembrie 2026",
+   "descriere": "pentru aprobarea Ghidului solicitantului privind dezvoltarea infrastructurii de reîncărcare a vehiculelor electrice pe reţeaua naţională de autostrăzi, drumuri expres şi naţionale \"e-Mobility RO\", submăsura 1",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "819",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314866",
+   "tip": "HOTARARE",
+   "numar": "777",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 777 din 24 septembrie 2026",
+   "descriere": "pentru modificarea Hotărârii Guvernului nr. 189/2025 privind organizarea şi funcţionarea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "819",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": true
+  },
+  {
+   "id": "314865",
+   "tip": "DECIZIE",
+   "numar": "192",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 192 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 68 alin. (7) şi ale art. 148 alin. (1) şi (3) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "819",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314864",
+   "tip": "DECIZIE",
+   "numar": "43",
+   "data_act": "2026-01-20",
+   "titlu": "DECIZIA nr. 43 din 20 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 226/2020 privind unele măsuri fiscal-bugetare şi pentru modificarea şi completarea unor acte normative şi prorogarea unor termene",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "819",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314863",
+   "tip": "DECRET",
+   "numar": "775",
+   "data_act": "2026-09-25",
+   "titlu": "DECRET nr. 775 din 25 septembrie 2026",
+   "descriere": "privind trecerea în rezervă a unui general-maior cu două stele din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "819",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314862",
+   "tip": "DECRET",
+   "numar": "774",
+   "data_act": "2026-09-25",
+   "titlu": "DECRET nr. 774 din 25 septembrie 2026",
+   "descriere": "privind acordarea Drapelului de luptă Departamentului pentru politica de apărare, planificare şi relaţii internaţionale din cadrul Ministerului Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "819",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314861",
+   "tip": "ORDIN",
+   "numar": "888",
+   "data_act": "2026-09-22",
+   "titlu": "ORDIN nr. 888 din 22 septembrie 2026",
+   "descriere": "pentru aprobarea categoriilor de vehicule şi a nivelului rovinietei",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "818",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314860",
+   "tip": "ORDIN",
+   "numar": "883",
+   "data_act": "2026-09-21",
+   "titlu": "ORDIN nr. 883 din 21 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli modificat pe anul 2026 al Autorităţii Navale Române",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "818",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314859",
+   "tip": "HOTARARE",
+   "numar": "770",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 770 din 24 septembrie 2026",
+   "descriere": "pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Autostrada Braşov-Făgăraş\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "818",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314858",
+   "tip": "HOTARARE",
+   "numar": "769",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 769 din 24 septembrie 2026",
+   "descriere": "pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea liniei de cale ferată Apahida-Suceava, subsecţiunea 2: Ilva Mică-Pojorâta\", lucrare de utilitate publică de interes naţional",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "818",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": true
+  },
+  {
+   "id": "314857",
+   "tip": "DECIZIE",
+   "numar": "13",
+   "data_act": "2026-01-15",
+   "titlu": "DECIZIA nr. 13 din 15 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 34 alin. (2) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "818",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314856",
+   "tip": "DECIZIE",
+   "numar": "695",
+   "data_act": "2025-12-04",
+   "titlu": "DECIZIA nr. 695 din 4 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 17 alin. (5) din capitolul VIII din anexa nr. V la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "818",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-09-28",
+   "are_text": true
+  },
   {
    "id": "314850",
    "tip": "DECIZIE",
@@ -201,6 +925,106 @@
    ],
    "first_seen": "2026-09-26",
    "are_text": true
+  },
+  {
+   "id": "314855",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-09-14",
+   "titlu": "REGULAMENT din 14 septembrie 2026",
+   "descriere": "pentru desfăşurarea activităţii comisiei de analiză a abaterilor de la conduita şi etica profesională săvârşite de evaluatorii de servicii de sănătate",
+   "emitenti": [
+    "Autoritatea Națională de Management al Calității în Sănătate"
+   ],
+   "monitor_nr": "810",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": true
+  },
+  {
+   "id": "314854",
+   "tip": "COD",
+   "numar": "COND.",
+   "data_act": "2026-09-14",
+   "titlu": "CODUL DE CONDUITĂ din 14 septembrie 2026",
+   "descriere": "a evaluatorilor de servicii de sănătate",
+   "emitenti": [
+    "Autoritatea Națională de Management al Calității în Sănătate"
+   ],
+   "monitor_nr": "810",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314853",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-09-14",
+   "titlu": "METODOLOGIE din 14 septembrie 2026",
+   "descriere": "privind managementul evaluatorilor de servicii de sănătate ai Autorităţii Naţionale de Management al Calităţii în Sănătate",
+   "emitenti": [
+    "Autoritatea Națională de Management al Calității în Sănătate"
+   ],
+   "monitor_nr": "810",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314852",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-09-14",
+   "titlu": "METODOLOGIE din 14 septembrie 2026",
+   "descriere": "privind evaluarea activităţii evaluatorilor de servicii de sănătate şi perfecţionarea acestora",
+   "emitenti": [
+    "Autoritatea Națională de Management al Calității în Sănătate"
+   ],
+   "monitor_nr": "810",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
+  },
+  {
+   "id": "314851",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-09-14",
+   "titlu": "METODOLOGIE din 14 septembrie 2026",
+   "descriere": "privind formarea evaluatorilor de servicii de sănătate specializaţi în evaluarea unităţilor sanitare",
+   "emitenti": [
+    "Autoritatea Națională de Management al Calității în Sănătate"
+   ],
+   "monitor_nr": "810",
+   "data_publicare": "2026-09-24",
+   "data_vigoare": "2026-09-24",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-28",
+   "are_text": false
   },
   {
    "id": "314841",
