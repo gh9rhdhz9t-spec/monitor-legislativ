@@ -1,29 +1,379 @@
 {
- "generated_at": "2026-09-29T05:03:31+00:00",
+ "generated_at": "2026-09-29T13:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1190,
- "new_this_run": 0,
+ "total": 1207,
+ "new_this_run": 17,
  "pages_scanned": 6,
  "categories": {
-  "Transporturi și infrastructură": 82,
+  "Justiție și afaceri interne": 132,
+  "Transporturi și infrastructură": 87,
+  "Altele": 92,
+  "Educație și cercetare": 311,
+  "Fiscalitate și buget": 88,
+  "Cultură, culte și sport": 19,
+  "Economie, IMM și comerț": 76,
+  "Economie socială": 2,
   "Muncă și dialog social": 23,
   "Administrație publică": 78,
-  "Altele": 90,
-  "Justiție și afaceri interne": 128,
-  "Educație și cercetare": 310,
   "Protecție socială și pensii": 25,
-  "Economie, IMM și comerț": 74,
-  "Fiscalitate și buget": 87,
   "Sănătate": 43,
   "Energie și mediu": 132,
   "Afaceri externe și UE": 14,
   "Agricultură și dezvoltare rurală": 64,
-  "Cultură, culte și sport": 18,
-  "Economie socială": 1,
   "Digitalizare și comunicații": 13,
   "Apărare și securitate națională": 8
  },
  "acts": [
+  {
+   "id": "314907",
+   "tip": "ORDIN",
+   "numar": "1987",
+   "data_act": "2026-09-22",
+   "titlu": "ORDIN nr. 1.987/C din 22 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului privind modul de organizare şi desfăşurare a concursurilor/examenelor de ocupare a posturilor vacante de poliţist de penitenciare şi a Procedurii privind desfăşurarea verificărilor specifice şi criteriile de apreciere a comportamentului corespunzător principiilor care guvernează profesia de poliţist de penitenciare, aprobate prin Ordinul ministrului justiţiei nr. 3.065/C/2020",
+   "emitenti": [
+    "Ministerul Justiției"
+   ],
+   "monitor_nr": "826",
+   "data_publicare": "2026-09-29",
+   "data_vigoare": "2027-02-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314906",
+   "tip": "HOTARARE",
+   "numar": "773",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 773 din 24 septembrie 2026",
+   "descriere": "privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.701/2024 privind aprobarea declanşării procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţii administrativ-teritoriale, situate pe amplasamentul suplimentar care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Electrificarea şi reabilitarea liniei de cale feratǎ Cluj-Napoca - Oradea - Episcopia Bihor\", aflate pe raza unităţii administrativ-teritoriale Cluj-Napoca, judeţul Cluj, precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 1.701/2024",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "826",
+   "data_publicare": "2026-09-29",
+   "data_vigoare": "2026-09-29",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314905",
+   "tip": "DECIZIE",
+   "numar": "983",
+   "data_act": "2026-09-15",
+   "titlu": "DECIZIE nr. 983 din 15 septembrie 2026",
+   "descriere": "privind sancţionarea cu retragerea autorizaţiei de funcţionare a companiei de brokeraj GLOBAL RISK SERVICES INSURANCE BROKER - S.R.L.",
+   "emitenti": [
+    "Autoritatea de Supraveghere Financiară"
+   ],
+   "monitor_nr": "825",
+   "data_publicare": "2026-09-29",
+   "data_vigoare": "2026-09-29",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314904",
+   "tip": "ORDIN",
+   "numar": "895",
+   "data_act": "2026-09-23",
+   "titlu": "ORDIN nr. 895 din 23 septembrie 2026",
+   "descriere": "pentru modificarea anexei la Ordinul ministrului transporturilor şi infrastructurii nr. 1.448/2023 pentru aprobarea listei proiectelor analizate, aprobate şi propuse spre implementare potrivit prevederilor art. 11^2 din Ordonanţa de urgenţă a Guvernului nr. 12/1998 privind transportul pe căile ferate române şi reorganizarea Societăţii Naţionale a Căilor Ferate Române, precum şi pentru mandatarea companiei naţionale care administrează infrastructura feroviară pentru constituirea parteneriatelor şi pentru încheierea protocoalelor de implementare a proiectelor",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "825",
+   "data_publicare": "2026-09-29",
+   "data_vigoare": "2026-09-29",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314903",
+   "tip": "HOTARARE",
+   "numar": "772",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 772 din 24 septembrie 2026",
+   "descriere": "privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 794/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, necesare pentru relocarea utilităţilor, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Centura municipiului Rădăuţi\", precum şi pentru modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 794/2020",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "825",
+   "data_publicare": "2026-09-29",
+   "data_vigoare": "2026-09-29",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314902",
+   "tip": "DECIZIE",
+   "numar": "697",
+   "data_act": "2025-12-04",
+   "titlu": "DECIZIA nr. 697 din 4 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 42^5 din Legea nr. 223/2007 privind Statutul personalului aeronautic civil navigant profesionist din aviaţia civilă din România, în interpretarea dată prin Decizia nr. 61 din 26 octombrie 2020 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "825",
+   "data_publicare": "2026-09-29",
+   "data_vigoare": "2026-09-29",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314901",
+   "tip": "RECTIFICARE",
+   "numar": "4155",
+   "data_act": "2026-06-18",
+   "titlu": "RECTIFICARE nr. 4.155 din 18 iunie 2026",
+   "descriere": "referitoare la Ordinul ministrului educaţiei şi cercetării nr. 4.155/2026 pentru aprobarea Metodologiei privind organizarea şi desfăşurarea concursului pentru ocuparea funcţiilor de director şi director adjunct din unităţile de învăţământ preuniversitar de stat",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "824",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314900",
+   "tip": "HOTARARE",
+   "numar": "23",
+   "data_act": "2026-09-28",
+   "titlu": "HOTĂRÂRE nr. 23 din 28 septembrie 2026",
+   "descriere": "privind prelungirea stării de alertă la nivelul României instituite prin Hotărârea Comitetului Naţional pentru Situaţii de Urgenţă nr. 15/2026",
+   "emitenti": [
+    "Comitetul Național pentru Situații de Urgență"
+   ],
+   "monitor_nr": "824",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314899",
+   "tip": "ORDIN",
+   "numar": "913",
+   "data_act": "2026-09-28",
+   "titlu": "ORDIN nr. 913 din 28 septembrie 2026",
+   "descriere": "privind modificarea Ordinului ministrului transporturilor nr. 1.836/2018 pentru aprobarea unor tarife aplicate de Compania Naţională de Administrare a Infrastructurii Rutiere - S.A.",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "824",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314898",
+   "tip": "DECIZIE",
+   "numar": "356",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIA nr. 356 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 22 alin. (1) din Legea cetăţeniei române nr. 21/1991 , în redactarea anterioară modificării prin Ordonanţa de urgenţă a Guvernului nr. 100/2024 privind modificarea şi completarea Legii cetăţeniei române nr. 21/1991 , precum şi pentru modificarea şi completarea altor acte normative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "824",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314897",
+   "tip": "ORDIN",
+   "numar": "1123",
+   "data_act": "2026-09-21",
+   "titlu": "ORDIN nr. 1.123 din 21 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 352/2022 pentru aprobarea Procedurii de soluţionare a deconturilor cu sume negative de taxă pe valoarea adăugată cu opţiune de rambursare",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "823",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314896",
+   "tip": "DECIZIE",
+   "numar": "336",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIA nr. 336 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 12 din Legea nr. 115/1999 privind responsabilitatea ministerială",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "823",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314895",
+   "tip": "ORDIN",
+   "numar": "3208",
+   "data_act": "2026-09-16",
+   "titlu": "ORDIN nr. 3.208 din 16 septembrie 2026",
+   "descriere": "privind schimbarea grupei valorice de clasare din B în A a monumentului istoric Biserica \"Sf. Arhangheli Mihail şi Gavriil\", amplasat în Str. 1 Decembrie 1918 nr. 4, municipiul Satu Mare, judeţul Satu Mare, şi rectificarea denumirii din Biserica \"Sf. Arhangheli Mihail şi Gavriil\" în Biserica Greco-Catolică \"Sf. Arhangheli Mihail şi Gavril\"",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "821",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314894",
+   "tip": "SCHEMA",
+   "numar": "",
+   "data_act": "2026-09-23",
+   "titlu": "SCHEMĂ DE AJUTOR DE MINIMIS din 23 septembrie 2026",
+   "descriere": "pentru evaluări iniţiale de conformitate cu Regulamentul (UE) 2024/2.847 al Parlamentului European şi al Consiliului din 23 octombrie 2024 privind cerinţele orizontale în materie de securitate cibernetică pentru produsele cu elemente digitale şi de modificare a Regulamentelor (UE) nr. 168/2013 şi (UE) 2019/1.020, precum şi a Directivei (UE) 2020/1.828 (Regulamentul privind rezilienţa cibernetică)",
+   "emitenti": [
+    "Autoritatea pentru Digitalizarea României"
+   ],
+   "monitor_nr": "821",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314893",
+   "tip": "DECIZIE",
+   "numar": "516",
+   "data_act": "2026-09-23",
+   "titlu": "DECIZIE nr. 516 din 23 septembrie 2026",
+   "descriere": "privind aprobarea Schemei de ajutor de minimis pentru evaluări iniţiale de conformitate cu Regulamentul (UE) 2024/2.847 al Parlamentului European şi al Consiliului din 23 octombrie 2024 privind cerinţele orizontale în materie de securitate cibernetică pentru produsele cu elemente digitale şi de modificare a Regulamentelor (UE) nr. 168/2013 şi (UE) 2019/1.020, precum şi a Directivei (UE) 2020/1.828 (Regulamentul privind rezilienţa cibernetică)",
+   "emitenti": [
+    "Autoritatea pentru Digitalizarea României"
+   ],
+   "monitor_nr": "821",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
+  {
+   "id": "314892",
+   "tip": "HOTARARE",
+   "numar": "776",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 776 din 24 septembrie 2026",
+   "descriere": "pentru aprobarea plăţii unor contribuţii financiare voluntare ale României necesare în vederea participării la formatele de lucru din cadrul Organizaţiei pentru Cooperare şi Dezvoltare Economică pentru anii 2025 şi 2026",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "821",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Economie socială",
+   "scor": 5,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-29",
+   "are_text": true
+  },
+  {
+   "id": "314891",
+   "tip": "HOTARARE",
+   "numar": "775",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 775 din 24 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Hotărârii Guvernului nr. 1.040/2025 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Târgu Mureş - Târgu-Neamţ - Secţiunea II: Miercurea Nirajului-Leghin\" situate pe raza localităţilor Acăţari, Miercurea Nirajului, Bereni, Măgherani, Chibed, Sărăţeni din judeţul Mureş, Praid, Joseni, Lăzarea, Ditrău, Tulgheş din judeţul Harghita şi Grinţies, Ceahlău, Poiana Teiului, Pipirig, Vânători-Neamţ din judeţul Neamţ, aprobarea listei imobilelor proprietate publică a statului, precum şi aprobarea listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "821",
+   "data_publicare": "2026-09-28",
+   "data_vigoare": "2026-09-28",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-29",
+   "are_text": false
+  },
   {
    "id": "314890",
    "tip": "HOTARARE",
