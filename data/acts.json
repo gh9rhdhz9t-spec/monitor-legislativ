@@ -1,29 +1,324 @@
 {
- "generated_at": "2026-09-30T05:00:06+00:00",
+ "generated_at": "2026-09-30T13:01:29+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1207,
- "new_this_run": 0,
+ "total": 1221,
+ "new_this_run": 14,
  "pages_scanned": 6,
  "categories": {
-  "Justiție și afaceri interne": 132,
-  "Transporturi și infrastructură": 87,
+  "Transporturi și infrastructură": 90,
+  "Economie, IMM și comerț": 78,
+  "Agricultură și dezvoltare rurală": 65,
+  "Administrație publică": 80,
+  "Energie și mediu": 134,
+  "Justiție și afaceri interne": 134,
+  "Educație și cercetare": 312,
+  "Protecție socială și pensii": 26,
   "Altele": 92,
-  "Educație și cercetare": 311,
   "Fiscalitate și buget": 88,
   "Cultură, culte și sport": 19,
-  "Economie, IMM și comerț": 76,
   "Economie socială": 2,
   "Muncă și dialog social": 23,
-  "Administrație publică": 78,
-  "Protecție socială și pensii": 25,
   "Sănătate": 43,
-  "Energie și mediu": 132,
   "Afaceri externe și UE": 14,
-  "Agricultură și dezvoltare rurală": 64,
   "Digitalizare și comunicații": 13,
   "Apărare și securitate națională": 8
  },
  "acts": [
+  {
+   "id": "314921",
+   "tip": "ORDIN",
+   "numar": "884",
+   "data_act": "2026-09-21",
+   "titlu": "ORDIN nr. 884 din 21 septembrie 2026",
+   "descriere": "privind aprobarea modelului şi conţinutului formularelor de cerere utilizate în vederea emiterii autorizaţiilor de către Ministerul Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "829",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "314920",
+   "tip": "ORDIN",
+   "numar": "1095",
+   "data_act": "2026-09-21",
+   "titlu": "ORDIN nr. 1.095 din 21 septembrie 2026",
+   "descriere": "privind aprobarea modelului şi conţinutului formularelor de cerere utilizate în vederea emiterii autorizaţiilor de către Ministerul Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "829",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "314919",
+   "tip": "AMENDAMENT",
+   "numar": "2",
+   "data_act": "2026-09-15",
+   "titlu": "AMENDAMENT nr. 2 din 15 septembrie 2026",
+   "descriere": "convenit între Guvernul României şi Banca Europeană de Investiţii, prin scrisoarea semnată la Luxemburg la 31 august 2026 şi la Bucureşti la 15 septembrie 2026, la Contractul de finanţare - Autostrada A7 România - Cofinanţare aferentă Mecanismului de redresare şi rezilienţă - dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 12 iunie 2023 şi la Luxemburg la 14 iunie 2023, la Contractul de finanţare - Autostrada A3 România - Cofinanţare aferentă Mecanismului de redresare şi rezilienţă - dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 16 noiembrie 2023 şi la Luxemburg la 20 noiembrie 2023, şi la Contractul de finanţare - Autostrada A7 România - Cofinanţare aferentă Mecanismului de redresare şi rezilienţă B - dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 1 februarie 2024 şi la Luxemburg la 5 februarie 2024",
+   "emitenti": [
+    "Act Internațional"
+   ],
+   "monitor_nr": "829",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "314918",
+   "tip": "HOTARARE",
+   "numar": "780",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 780 din 24 septembrie 2026",
+   "descriere": "pentru aprobarea amendamentului nr. 2 convenit între Guvernul României şi Banca Europeană de Investiţii, prin scrisoarea semnată la Luxemburg la 31 august 2026 şi la Bucureşti la 15 septembrie 2026, la Contractul de finanţare - Autostrada A7 România - Cofinanţare aferentă Mecanismului de redresare şi rezilienţă - dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 12 iunie 2023 şi la Luxemburg la 14 iunie 2023, la Contractul de finanţare - Autostrada A3 România - Cofinanţare aferentă Mecanismului de redresare şi rezilienţă - dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 16 noiembrie 2023 şi la Luxemburg la 20 noiembrie 2023, şi la Contractul de finanţare - Autostrada A7 România - Cofinanţare aferentă Mecanismului de redresare şi rezilienţă B - dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 1 februarie 2024 şi la Luxemburg la 5 februarie 2024",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "829",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "314917",
+   "tip": "HOTARARE",
+   "numar": "774",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 774 din 24 septembrie 2026",
+   "descriere": "privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Buzău-Focşani\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "829",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "314916",
+   "tip": "ORDIN",
+   "numar": "274",
+   "data_act": "2026-09-23",
+   "titlu": "ORDIN nr. 274 din 23 septembrie 2026",
+   "descriere": "pentru modificarea anexei nr. 1 la anexa Ordinului ministrului agriculturii şi dezvoltării rurale nr. 354/2021 pentru nominalizarea şi împuternicirea persoanelor cu atribuţii în Inspecţia clasificare carcase din cadrul direcţiilor pentru agricultură judeţene în vederea realizării activităţii de inspecţie în Sistemul naţional de clasificare a carcaselor, pentru stabilirea zonelor de control, cu judeţele arondate fiecărui inspector zonal, în care aceştia îşi desfăşoară activitatea, precum şi pentru aprobarea modului de îndeplinire a atribuţiilor de către inspectorii zonali",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "828",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2027-01-01",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "314915",
+   "tip": "HOTARARE",
+   "numar": "779",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 779 din 24 septembrie 2026",
+   "descriere": "privind înscrierea unui bun imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Direcţiei Generale Regionale a Finanţelor Publice Cluj-Napoca, modificarea datelor de identificare şi a valorii de inventar ale bunului imobil cu numărul MF 36407, situat în Oradea, judeţul Bihor, aflat în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Cluj-Napoca, comasarea la numărul MF 36407 a numărului MF atribuit bunului imobil care se înscrie în inventarul centralizat al bunurilor din domeniul public al statului şi aprobarea închirierii unei părţi din imobilul astfel rezultat, precum şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "828",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "314914",
+   "tip": "HOTARARE",
+   "numar": "778",
+   "data_act": "2026-09-24",
+   "titlu": "HOTĂRÂRE nr. 778 din 24 septembrie 2026",
+   "descriere": "privind declasificarea informaţiilor cuprinse în documente emise în perioada 1949-2002 şi aflate în fondul arhivistic şi gestiunea Consiliului Judeţean Suceava",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "828",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "314913",
+   "tip": "DECIZIE",
+   "numar": "195",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 195 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 297 alin. (1) din Codul penal , în redactarea anterioară intrării în vigoare a Legii nr. 200/2023 pentru modificarea şi completarea Legii nr. 286/2009 privind Codul penal, precum şi a altor acte normative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "828",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "314911",
+   "tip": "ORDIN",
+   "numar": "60",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 60 din 29 septembrie 2026",
+   "descriere": "privind aprobarea tarifului pentru achiziţia serviciilor de sistem pentru Compania Naţională de Transport al Energiei Electrice \"Transelectrica\" - S.A., aplicabil de la 1 octombrie 2026",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "827",
+   "data_publicare": "2026-09-29",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "314910",
+   "tip": "ORDIN",
+   "numar": "1942",
+   "data_act": "2026-09-24",
+   "titlu": "ORDIN nr. 1.942 din 24 septembrie 2026",
+   "descriere": "pentru aprobarea derogării în scopul cercetării ştiinţifice pentru unele specii de peşti",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "827",
+   "data_publicare": "2026-09-29",
+   "data_vigoare": "2026-09-29",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "314909",
+   "tip": "DECIZIE",
+   "numar": "315",
+   "data_act": "2026-09-29",
+   "titlu": "DECIZIE nr. 315 din 29 septembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Marinela Bîldea a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Inspectoratului de Stat în Construcţii - I.S.C.",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "827",
+   "data_publicare": "2026-09-29",
+   "data_vigoare": "2026-09-29",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "314908",
+   "tip": "DECIZIE",
+   "numar": "277",
+   "data_act": "2026-03-26",
+   "titlu": "DECIZIA nr. 277 din 26 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 59/2017 privind modificarea şi completarea unor acte normative din domeniul pensiilor de serviciu, în ansamblul său, şi a dispoziţiilor art. IX din aceasta , în special",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "827",
+   "data_publicare": "2026-09-29",
+   "data_vigoare": "2026-09-29",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-09-30",
+   "are_text": false
+  },
+  {
+   "id": "309936",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-09-29",
+   "titlu": "COMUNICAT din 29 septembrie 2026",
+   "descriere": "privind excepția de neconstituționalitate a dispozițiilor referitoare la concediul și indemnizația de risc maternal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-09-29",
+   "data_vigoare": "2026-09-29",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 4,
+   "termeni": [
+    "concediu",
+    "indemnizatie"
+   ],
+   "first_seen": "2026-09-30",
+   "are_text": true
+  },
   {
    "id": "314907",
    "tip": "ORDIN",
