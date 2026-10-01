@@ -1,29 +1,610 @@
 {
- "generated_at": "2026-10-01T05:04:37+00:00",
+ "generated_at": "2026-10-01T13:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1221,
- "new_this_run": 0,
+ "total": 1249,
+ "new_this_run": 28,
  "pages_scanned": 6,
  "categories": {
-  "Transporturi și infrastructură": 90,
-  "Economie, IMM și comerț": 78,
-  "Agricultură și dezvoltare rurală": 65,
+  "Economie, IMM și comerț": 82,
+  "Transporturi și infrastructură": 98,
+  "Justiție și afaceri interne": 139,
+  "Educație și cercetare": 315,
+  "Fiscalitate și buget": 91,
+  "Agricultură și dezvoltare rurală": 66,
+  "Sănătate": 44,
+  "Muncă și dialog social": 25,
+  "Altele": 93,
   "Administrație publică": 80,
   "Energie și mediu": 134,
-  "Justiție și afaceri interne": 134,
-  "Educație și cercetare": 312,
   "Protecție socială și pensii": 26,
-  "Altele": 92,
-  "Fiscalitate și buget": 88,
   "Cultură, culte și sport": 19,
   "Economie socială": 2,
-  "Muncă și dialog social": 23,
-  "Sănătate": 43,
   "Afaceri externe și UE": 14,
   "Digitalizare și comunicații": 13,
   "Apărare și securitate națională": 8
  },
  "acts": [
+  {
+   "id": "314946",
+   "tip": "ORDIN",
+   "numar": "2192",
+   "data_act": "2026-09-17",
+   "titlu": "ORDIN nr. 2.192 din 17 septembrie 2026",
+   "descriere": "pentru punerea în aplicare a Regulamentului privind concentrările economice",
+   "emitenti": [
+    "Consiliul Concurenței"
+   ],
+   "monitor_nr": "834",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "concediu"
+   ],
+   "first_seen": "2026-10-01",
+   "are_text": true
+  },
+  {
+   "id": "314945",
+   "tip": "ORDIN",
+   "numar": "1321",
+   "data_act": "2026-09-30",
+   "titlu": "ORDIN nr. 1.321 din 30 septembrie 2026",
+   "descriere": "privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei şi euro, lansate în perioada 2-9 octombrie 2026, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanţelor, ce urmează a fi listate pe piaţa reglementată administrată de Bursa de Valori Bucureşti - S.A. şi supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanţelor publice nr. 2.118/2020",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "834",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314944",
+   "tip": "ORDIN",
+   "numar": "924",
+   "data_act": "2026-09-30",
+   "titlu": "ORDIN nr. 924 din 30 septembrie 2026",
+   "descriere": "pentru modificarea anexei nr. 1 la Ordinul ministrului transporturilor nr. 1.252/2014 pentru aprobarea criteriilor minime de pregătire şi perfecţionare a personalului navigant maritim român şi a sistemului de recunoaştere a brevetelor şi a certificatelor de capacitate",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "834",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-04",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314943",
+   "tip": "DECIZIE",
+   "numar": "184",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIA nr. 184 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (2) lit. f) din Legea nr. 677/2001 pentru protecţia persoanelor cu privire la prelucrarea datelor cu caracter personal şi libera circulaţie a acestor date",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "834",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314942",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-09-30",
+   "titlu": "NORME METODOLOGICE din 30 septembrie 2026",
+   "descriere": "de aplicare a Legii nr. 226/2023 privind aplicarea unor tarife rutiere pe reţeaua de drumuri naţionale din România",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "832",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314941",
+   "tip": "ORDIN",
+   "numar": "922",
+   "data_act": "2026-09-30",
+   "titlu": "ORDIN nr. 922 din 30 septembrie 2026",
+   "descriere": "pentru aprobarea Normelor metodologice de aplicare a Legii nr. 226/2023 privind aplicarea unor tarife rutiere pe reţeaua de drumuri naţionale din România",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "832",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314940",
+   "tip": "ORDIN",
+   "numar": "5732",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 5.732 din 25 septembrie 2026",
+   "descriere": "privind aprobarea cuantumurilor burselor pentru studenţii înmatriculaţi la programe de studii universitare, organizate cu finanţare de la bugetul de stat, la forma de învăţământ cu frecvenţă, în instituţiile de învăţământ superior de stat, în anul universitar 2026-2027",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "831",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-01",
+   "are_text": true
+  },
+  {
+   "id": "314939",
+   "tip": "ORDIN",
+   "numar": "1319",
+   "data_act": "2026-09-30",
+   "titlu": "ORDIN nr. 1.319 din 30 septembrie 2026",
+   "descriere": "privind prospectele de emisiune a certificatelor de trezorerie cu discont şi a obligaţiunilor de stat de tip benchmark aferente lunii octombrie 2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "831",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314938",
+   "tip": "DECIZIE",
+   "numar": "226",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 226 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 335 alin. (6) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "831",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314937",
+   "tip": "RECTIFICARE",
+   "numar": "260",
+   "data_act": "2026-09-02",
+   "titlu": "RECTIFICARE nr. 260 din 2 septembrie 2026",
+   "descriere": "referitoare la Ordinul ministrului agriculturii şi dezvoltării rurale, interimar, nr. 260/2026",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314936",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-09-29",
+   "titlu": "REGULAMENT din 29 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului de organizare şi funcţionare a Consiliului Concurenţei, pus în aplicare prin Ordinul preşedintelui Consiliului Concurenţei nr. 1.511/2023",
+   "emitenti": [
+    "Consiliul Concurenței"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314935",
+   "tip": "ORDIN",
+   "numar": "2262",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 2.262 din 29 septembrie 2026",
+   "descriere": "pentru punerea în aplicare a Regulamentului pentru modificarea şi completarea Regulamentului de organizare şi funcţionare a Consiliului Concurenţei, pus în aplicare prin Ordinul preşedintelui Consiliului Concurenţei nr. 1.511/2023",
+   "emitenti": [
+    "Consiliul Concurenței"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314934",
+   "tip": "ORDIN",
+   "numar": "1573",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.573 din 25 septembrie 2026",
+   "descriere": "privind modificarea şi completarea anexelor nr. 1 şi 2 la Ordinul ministrului sănătăţii nr. 5.994/2024 pentru aprobarea preţurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deţinătorii de autorizaţie de punere pe piaţă a medicamentelor sau reprezentanţii acestora, distribuitorii angro şi furnizorii de servicii medicale şi medicamente pentru acele medicamente care fac obiectul unei relaţii contractuale cu Ministerul Sănătăţii, casele de asigurări de sănătate şi/sau direcţiile de sănătate publică judeţene şi a municipiului Bucureşti, cuprinse în Catalogul naţional al preţurilor medicamentelor autorizate de punere pe piaţă în România, a preţurilor de referinţă generice şi a preţurilor de referinţă inovative",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-01",
+   "are_text": true
+  },
+  {
+   "id": "314933",
+   "tip": "ORDIN",
+   "numar": "1187",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 1.187 din 27 august 2026",
+   "descriere": "privind stabilirea valorii sumei lunare indexate care se acordă sub formă de tichete de creşă pentru semestrul II al anului 2026",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-01",
+   "are_text": true
+  },
+  {
+   "id": "314932",
+   "tip": "ORDIN",
+   "numar": "1255",
+   "data_act": "2026-09-18",
+   "titlu": "ORDIN nr. 1.255 din 18 septembrie 2026",
+   "descriere": "privind stabilirea valorii sumei lunare indexate care se acordă sub formă de tichete de creşă pentru semestrul II al anului 2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314931",
+   "tip": "ORDIN",
+   "numar": "1188",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 1.188 din 27 august 2026",
+   "descriere": "pentru stabilirea valorii nominale indexate a unui tichet de masă pentru semestrul II al anului 2026",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-01",
+   "are_text": true
+  },
+  {
+   "id": "314930",
+   "tip": "ORDIN",
+   "numar": "1254",
+   "data_act": "2026-09-18",
+   "titlu": "ORDIN nr. 1.254 din 18 septembrie 2026",
+   "descriere": "pentru stabilirea valorii nominale indexate a unui tichet de masă pentru semestrul II al anului 2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314929",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-09-29",
+   "titlu": "PROCEDURĂ din 29 septembrie 2026",
+   "descriere": "de emitere a rovinietelor şi a tichetelor de rută la solicitarea Departamentului pentru Situaţii de Urgenţă din cadrul Ministerului Afacerilor Interne",
+   "emitenti": [
+    "Ministerul Afacerilor Interne"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314928",
+   "tip": "DOCUMENT",
+   "numar": "",
+   "data_act": "2026-09-29",
+   "titlu": "DOCUMENTE ŞI CONDIŢII NECESARE din 29 septembrie 2026",
+   "descriere": "pentru exceptarea de la obligaţia de plată a tarifelor prevăzute în Legea nr. 226/2023 privind aplicarea unor tarife rutiere pe reţeaua de drumuri naţionale din România",
+   "emitenti": [
+    "Ministerul Afacerilor Interne"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314927",
+   "tip": "ORDIN",
+   "numar": "147",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 147 din 29 septembrie 2026",
+   "descriere": "pentru aprobarea documentelor şi condiţiilor necesare pentru exceptarea de la obligaţia de plată a tarifelor prevăzute în Legea nr. 226/2023 privind aplicarea unor tarife rutiere pe reţeaua de drumuri naţionale din România, precum şi a procedurii de emitere a rovinietelor şi a tichetelor de rută la solicitarea Departamentului pentru Situaţii de Urgenţă din cadrul Ministerului Afacerilor Interne",
+   "emitenti": [
+    "Ministerul Afacerilor Interne"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314926",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-09-24",
+   "titlu": "PROCEDURĂ din 24 septembrie 2026",
+   "descriere": "de emitere a rovinietelor şi a tichetelor de rută la solicitarea Departamentului pentru Situaţii de Urgenţă din cadrul Ministerului Afacerilor Interne",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314925",
+   "tip": "DOCUMENT",
+   "numar": "",
+   "data_act": "2026-09-24",
+   "titlu": "DOCUMENTE ŞI CONDIŢII NECESARE din 24 septembrie 2026",
+   "descriere": "pentru exceptarea de la obligaţia de plată a tarifelor prevăzute în Legea nr. 226/2023 privind aplicarea unor tarife rutiere pe reţeaua de drumuri naţionale din România",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314924",
+   "tip": "ORDIN",
+   "numar": "902",
+   "data_act": "2026-09-24",
+   "titlu": "ORDIN nr. 902 din 24 septembrie 2026",
+   "descriere": "pentru aprobarea documentelor şi condiţiilor necesare pentru exceptarea de la obligaţia de plată a tarifelor prevăzute în Legea nr. 226/2023 privind aplicarea unor tarife rutiere pe reţeaua de drumuri naţionale din România, precum şi a procedurii de emitere a rovinietelor şi a tichetelor de rută la solicitarea Departamentului pentru Situaţii de Urgenţă din cadrul Ministerului Afacerilor Interne",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314923",
+   "tip": "DECIZIE",
+   "numar": "836",
+   "data_act": "2026-07-09",
+   "titlu": "DECIZIA nr. 836 din 9 iulie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a sintagmei \"nivelul veniturilor salariale\" din cuprinsul dispoziţiilor art. 11 alin. (4) raportate la cele ale art. 22 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-10-01",
+   "are_text": true
+  },
+  {
+   "id": "314922",
+   "tip": "DECIZIE",
+   "numar": "335",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIA nr. 335 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 342 raportat la art. 54 lit. b) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "309940",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-09-30",
+   "titlu": "COMUNICAT din 30 septembrie 2026",
+   "descriere": "privind încheierea prin care s-a anulat ca netimbrată cererea de recuzare",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "309938",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-09-30",
+   "titlu": "COMUNICAT din 30 septembrie 2026",
+   "descriere": "privind aplicarea cotei standard TVA de 19%, în loc de cota redusă TVA de 9%, începând cu data de 01.01.2023, pentru produsele alimentare în stare lichidă, pe bază de cafea, ceai sau cacao și care sunt consumate direct ca băuturi, în baza clasificării acestora fie la codul NC 2202 10 00, fie la codul NC 2202 99, în baza O.G. nr. 16/2022 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal, abrogarea unor acte normative și alte măsuri financiar-fiscale",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "309937",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-09-30",
+   "titlu": "COMUNICAT din 30 septembrie 2026",
+   "descriere": "privind condițiile de emitere și menținere a autorizației prevăzute de O.U.G. nr. 77/2009",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-09-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-01",
+   "are_text": false
+  },
   {
    "id": "314921",
    "tip": "ORDIN",
