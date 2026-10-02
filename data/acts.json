@@ -1,29 +1,586 @@
 {
- "generated_at": "2026-10-02T05:00:32+00:00",
+ "generated_at": "2026-10-02T13:00:52+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1249,
- "new_this_run": 0,
+ "total": 1276,
+ "new_this_run": 27,
  "pages_scanned": 6,
  "categories": {
-  "Economie, IMM și comerț": 82,
+  "Cultură, culte și sport": 21,
+  "Educație și cercetare": 317,
+  "Energie și mediu": 136,
+  "Altele": 94,
+  "Economie, IMM și comerț": 83,
+  "Administrație publică": 81,
+  "Justiție și afaceri interne": 156,
+  "Muncă și dialog social": 26,
   "Transporturi și infrastructură": 98,
-  "Justiție și afaceri interne": 139,
-  "Educație și cercetare": 315,
   "Fiscalitate și buget": 91,
   "Agricultură și dezvoltare rurală": 66,
   "Sănătate": 44,
-  "Muncă și dialog social": 25,
-  "Altele": 93,
-  "Administrație publică": 80,
-  "Energie și mediu": 134,
   "Protecție socială și pensii": 26,
-  "Cultură, culte și sport": 19,
   "Economie socială": 2,
   "Afaceri externe și UE": 14,
   "Digitalizare și comunicații": 13,
   "Apărare și securitate națională": 8
  },
  "acts": [
+  {
+   "id": "314974",
+   "tip": "RECTIFICARE",
+   "numar": "3216",
+   "data_act": "2026-09-21",
+   "titlu": "RECTIFICARE nr. 3.216 din 21 septembrie 2026",
+   "descriere": "referitoare la Ordinul ministrului culturii nr. 3.216/2026",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "835",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314973",
+   "tip": "ORDIN",
+   "numar": "5235",
+   "data_act": "2026-08-28",
+   "titlu": "ORDIN nr. 5.235 din 28 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar particular Şcoala Gimnazială \"Omega Nazna\" din satul Nazna, comuna Sâncraiu de Mureş, judeţul Mureş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "835",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314972",
+   "tip": "ORDIN",
+   "numar": "1324",
+   "data_act": "2026-09-30",
+   "titlu": "ORDIN nr. 1.324 din 30 septembrie 2026",
+   "descriere": "privind prospectul de emisiune a titlurilor de stat destinate populaţiei, prin intermediul unităţilor operative ale Trezoreriei Statului şi prin subunităţile poştale din reţeaua Companiei Naţionale \"Poşta Română\" - S.A. şi în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada octombrie-noiembrie 2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "835",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314971",
+   "tip": "ORDIN",
+   "numar": "563",
+   "data_act": "2026-09-28",
+   "titlu": "ORDIN nr. 563 din 28 septembrie 2026",
+   "descriere": "privind aprobarea Actului adiţional nr. 4/2026 la Licenţa de concesiune nr. 439/1999 a activităţii miniere de exploatare a sării geme din perimetrul Feţele Târgului - Târgu Ocna, judeţul Bacău",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Minier, Petrolier și al Stocării geologice a dioxidului de carbon"
+   ],
+   "monitor_nr": "835",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "concediu"
+   ],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314970",
+   "tip": "HOTARARE",
+   "numar": "788",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 788 din 1 octombrie 2026",
+   "descriere": "pentru completarea art. 5^1 din Hotărârea Guvernului nr. 656/1997 privind aprobarea Clasificării activităţilor din economia naţională - CAEN",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "835",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314969",
+   "tip": "HOTARARE",
+   "numar": "783",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 783 din 1 octombrie 2026",
+   "descriere": "pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Consolidare şi reabilitare ansamblu de clădiri ale Mănăstirii «Sfântul Ioan cel Nou de la Suceava»\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "835",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314968",
+   "tip": "HOTARARE",
+   "numar": "782",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 782 din 1 octombrie 2026",
+   "descriere": "privind punerea în aplicare a unor măsuri de siguranţă pe piaţa de energie electrică",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "835",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314967",
+   "tip": "HOTARARE",
+   "numar": "781",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 781 din 1 octombrie 2026",
+   "descriere": "privind eliberarea domnului Picoiu Adrian-Teodor din funcţia de prefect al judeţului Constanţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "835",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314966",
+   "tip": "DECIZIE",
+   "numar": "359",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIA nr. 359 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 29 alin. (1) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "835",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314965",
+   "tip": "DECIZIE",
+   "numar": "467",
+   "data_act": "2025-10-16",
+   "titlu": "DECIZIA nr. 467 din 16 octombrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (3) , ale art. 9 şi ale art. 25 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "835",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-10-02",
+   "are_text": true
+  },
+  {
+   "id": "314964",
+   "tip": "DECRET",
+   "numar": "792",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 792 din 1 octombrie 2026",
+   "descriere": "privind conferirea Ordinului Meritul Cultural",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "835",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314963",
+   "tip": "DECRET",
+   "numar": "791",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 791 din 1 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314962",
+   "tip": "DECRET",
+   "numar": "790",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 790 din 1 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314961",
+   "tip": "DECRET",
+   "numar": "789",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 789 din 1 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314960",
+   "tip": "DECRET",
+   "numar": "788",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 788 din 1 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314959",
+   "tip": "DECRET",
+   "numar": "787",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 787 din 1 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314958",
+   "tip": "DECRET",
+   "numar": "786",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 786 din 1 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314957",
+   "tip": "DECRET",
+   "numar": "785",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 785 din 1 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314956",
+   "tip": "DECRET",
+   "numar": "784",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 784 din 1 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314955",
+   "tip": "DECRET",
+   "numar": "783",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 783 din 1 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314954",
+   "tip": "DECRET",
+   "numar": "782",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 782 din 1 octombrie 2026",
+   "descriere": "privind reîncadrarea în funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314953",
+   "tip": "DECRET",
+   "numar": "781",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 781 din 1 octombrie 2026",
+   "descriere": "privind reîncadrarea în funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314952",
+   "tip": "DECRET",
+   "numar": "780",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 780 din 1 octombrie 2026",
+   "descriere": "privind reîncadrarea în funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314951",
+   "tip": "DECRET",
+   "numar": "779",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 779 din 1 octombrie 2026",
+   "descriere": "privind reîncadrarea în funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314950",
+   "tip": "DECRET",
+   "numar": "777",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 777 din 1 octombrie 2026",
+   "descriere": "privind reîncadrarea în funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314949",
+   "tip": "DECRET",
+   "numar": "778",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 778 din 1 octombrie 2026",
+   "descriere": "privind reîncadrarea în funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
+  {
+   "id": "314948",
+   "tip": "DECRET",
+   "numar": "776",
+   "data_act": "2026-10-01",
+   "titlu": "DECRET nr. 776 din 1 octombrie 2026",
+   "descriere": "privind reîncadrarea în funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "833",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-02",
+   "are_text": false
+  },
   {
    "id": "314946",
    "tip": "ORDIN",
