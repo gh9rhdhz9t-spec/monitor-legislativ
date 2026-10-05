@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-05T05:02:27+00:00",
+ "generated_at": "2026-10-05T13:00:06+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1276,
- "new_this_run": 0,
+ "total": 1303,
+ "new_this_run": 27,
  "pages_scanned": 6,
  "categories": {
+  "Sănătate": 46,
+  "Energie și mediu": 147,
+  "Transporturi și infrastructură": 104,
+  "Administrație publică": 82,
+  "Justiție și afaceri interne": 159,
+  "Educație și cercetare": 319,
+  "Economie, IMM și comerț": 85,
   "Cultură, culte și sport": 21,
-  "Educație și cercetare": 317,
-  "Energie și mediu": 136,
   "Altele": 94,
-  "Economie, IMM și comerț": 83,
-  "Administrație publică": 81,
-  "Justiție și afaceri interne": 156,
   "Muncă și dialog social": 26,
-  "Transporturi și infrastructură": 98,
   "Fiscalitate și buget": 91,
   "Agricultură și dezvoltare rurală": 66,
-  "Sănătate": 44,
   "Protecție socială și pensii": 26,
   "Economie socială": 2,
   "Afaceri externe și UE": 14,
@@ -24,6 +24,551 @@
   "Apărare și securitate națională": 8
  },
  "acts": [
+  {
+   "id": "315004",
+   "tip": "RECTIFICARE",
+   "numar": "1442",
+   "data_act": "2026-08-04",
+   "titlu": "RECTIFICARE nr. 1.442 din 4 august 2026",
+   "descriere": "referitoare la Ordinul preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 1.442/2026",
+   "emitenti": [
+    "Casa Națională de Asigurări de Sănătate"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 1,
+   "termeni": [
+    "casa nationala de asigurari de sanatate"
+   ],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "315003",
+   "tip": "RAPORT",
+   "numar": "14784",
+   "data_act": "2026-08-19",
+   "titlu": "RAPORT nr. 14.784 din 19 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Uniunea Creştin Muncitorească",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "315002",
+   "tip": "RAPORT",
+   "numar": "14533",
+   "data_act": "2026-08-17",
+   "titlu": "RAPORT nr. 14.533 din 17 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul ROEXIT",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "315001",
+   "tip": "RAPORT",
+   "numar": "14273",
+   "data_act": "2026-08-11",
+   "titlu": "RAPORT nr. 14.273 din 11 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Mişcarea Social Liberală în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "315000",
+   "tip": "RAPORT",
+   "numar": "14270",
+   "data_act": "2026-08-11",
+   "titlu": "RAPORT nr. 14.270 din 11 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Ialomiţenilor",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314999",
+   "tip": "RAPORT",
+   "numar": "13921",
+   "data_act": "2026-08-06",
+   "titlu": "RAPORT nr. 13.921 din 6 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Forţa Alternativă Română",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314998",
+   "tip": "RAPORT",
+   "numar": "13920",
+   "data_act": "2026-08-06",
+   "titlu": "RAPORT nr. 13.920 din 6 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Uniunea Naţională pentru Democraţie, Omenie, Respect",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314997",
+   "tip": "RAPORT",
+   "numar": "13008",
+   "data_act": "2026-07-29",
+   "titlu": "RAPORT nr. 13.008 din 29 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Liga Independentă Română",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314996",
+   "tip": "RAPORT",
+   "numar": "12790",
+   "data_act": "2026-07-24",
+   "titlu": "RAPORT nr. 12.790 din 24 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Fapta",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314995",
+   "tip": "RAPORT",
+   "numar": "12640",
+   "data_act": "2026-07-22",
+   "titlu": "RAPORT nr. 12.640 din 22 iulie 2026",
+   "descriere": "în urma verificării respectării prevederilor legale privind veniturile şi cheltuielile Partidului Taximetriştilor şi Transportatorilor Europeni în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314994",
+   "tip": "RAPORT",
+   "numar": "11266",
+   "data_act": "2026-07-02",
+   "titlu": "RAPORT nr. 11.266 din 2 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Dacismului Autonom Conservator în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314993",
+   "tip": "HOTARARE",
+   "numar": "795",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 795 din 1 octombrie 2026",
+   "descriere": "privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Afacerilor Interne - Inspectoratul de Poliţie al Judeţului Vaslui",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314992",
+   "tip": "HOTARARE",
+   "numar": "794",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 794 din 1 octombrie 2026",
+   "descriere": "privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului ale unor imobile aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Harghita, Constanţa, Galaţi, Argeş, Neamţ, Ilfov şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314991",
+   "tip": "HOTARARE",
+   "numar": "787",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 787 din 1 octombrie 2026",
+   "descriere": "privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Drum de legătură Bolintin-Vale - Drum radial DR2 - Autostrada A1\", precum şi aprobarea listei imobilelor proprietate publică a unităţii administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314990",
+   "tip": "DECIZIE",
+   "numar": "430",
+   "data_act": "2026-04-30",
+   "titlu": "DECIZIA nr. 430 din 30 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 178 alin. (1) lit. g) şi ale art. 181 alin. (9) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "838",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314988",
+   "tip": "RECTIFICARE",
+   "numar": "5182",
+   "data_act": "2026-08-27",
+   "titlu": "RECTIFICARE nr. 5.182 din 27 august 2026",
+   "descriere": "referitoare la Ordinul ministrului educaţiei şi cercetării nr. 5.182/2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "837",
+   "data_publicare": "2026-10-02",
+   "data_vigoare": "2026-10-02",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314987",
+   "tip": "RECTIFICARE",
+   "numar": "4272",
+   "data_act": "2026-06-29",
+   "titlu": "RECTIFICARE nr. 4.272 din 29 iunie 2026",
+   "descriere": "referitoare la Ordinul ministrului educaţiei şi cercetării nr. 4.272/2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "837",
+   "data_publicare": "2026-10-02",
+   "data_vigoare": "2026-10-02",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314986",
+   "tip": "HOTARARE",
+   "numar": "786",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 786 din 1 octombrie 2026",
+   "descriere": "privind realocarea pe anul 2026 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.116/2025 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Modernizare DN 2L Soveja-Lepşa km 60 + 145-km 76 + 277\", precum şi aprobarea listei imobilelor proprietate publică a statului şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "837",
+   "data_publicare": "2026-10-02",
+   "data_vigoare": "2026-10-02",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314985",
+   "tip": "HOTARARE",
+   "numar": "785",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 785 din 1 octombrie 2026",
+   "descriere": "privind realocarea pe anul 2026 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 958/2025 pentru suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 399/2023 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Lărgire la 4 benzi a Centurii Rutiere a Municipiului Bucureşti Sud între A2 km 23 + 600 şi A1 km 55 + 520 şi Amenajare punct de întoarcere în soluţie giratorie pe CB în zona autostrăzii A1 - Lot 2 - Lărgire la 4 benzi a Centurii Rutiere a Municipiului Bucureşti Sud între km 54 + 700 şi DN 5 km 40 + 000\", aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional, precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 399/2023",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "837",
+   "data_publicare": "2026-10-02",
+   "data_vigoare": "2026-10-02",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314984",
+   "tip": "HOTARARE",
+   "numar": "784",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 784 din 1 octombrie 2026",
+   "descriere": "privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 912/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Legătură Centură Oradea (Giraţie Calea Sântandrei) - Autostrada 3 (Biharia)\", precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 912/2019",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "837",
+   "data_publicare": "2026-10-02",
+   "data_vigoare": "2026-10-02",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314983",
+   "tip": "DECIZIE",
+   "numar": "171",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIA nr. 171 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (1) şi (4) din Legea nr. 544/2001 privind liberul acces la informaţiile de interes public",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "837",
+   "data_publicare": "2026-10-02",
+   "data_vigoare": "2026-10-02",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314982",
+   "tip": "DECIZIE",
+   "numar": "66",
+   "data_act": "2026-01-22",
+   "titlu": "DECIZIA nr. 66 din 22 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor notei 2 a lit. c) de la pct. II lit. A din cap. I al anexei nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 82 din 26 noiembrie 2018 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "837",
+   "data_publicare": "2026-10-02",
+   "data_vigoare": "2026-10-02",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-10-05",
+   "are_text": true
+  },
+  {
+   "id": "314981",
+   "tip": "HOTARARE",
+   "numar": "131",
+   "data_act": "2026-09-30",
+   "titlu": "HOTĂRÂRE nr. 131 din 30 septembrie 2026",
+   "descriere": "referitoare la Comunicarea comună către Parlamentul European şi Consiliu - Apărarea valorilor, promovarea reformelor, obţinerea de rezultate concrete: acţiunea umanitară a UE într-o ordine mondială în schimbare - JOIN (2026) 25 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "837",
+   "data_publicare": "2026-10-02",
+   "data_vigoare": "2026-10-02",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314980",
+   "tip": "HOTARARE",
+   "numar": "130",
+   "data_act": "2026-09-30",
+   "titlu": "HOTĂRÂRE nr. 130 din 30 septembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului de modificare a Regulamentului (UE) 2018/1.725 al Parlamentului European şi al Consiliului privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal de către instituţiile, organele, oficiile şi agenţiile Uniunii şi privind libera circulaţie a acestor date - COM (2026) 314 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "837",
+   "data_publicare": "2026-10-02",
+   "data_vigoare": "2026-10-02",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314979",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-09-28",
+   "titlu": "PROCEDURĂ din 28 septembrie 2026",
+   "descriere": "de implementare a schemei de ajutor de minimis prevăzute în cadrul Programului naţional multianual pentru susţinerea meşteşugurilor şi artizanatului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "836",
+   "data_publicare": "2026-10-02",
+   "data_vigoare": "2026-10-02",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
+  {
+   "id": "314978",
+   "tip": "ORDIN",
+   "numar": "1577",
+   "data_act": "2026-09-28",
+   "titlu": "ORDIN nr. 1.577 din 28 septembrie 2026",
+   "descriere": "privind aprobarea Procedurii de implementare a schemei de ajutor de minimis prevăzute în cadrul Programului naţional multianual pentru susţinerea meşteşugurilor şi artizanatului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "836",
+   "data_publicare": "2026-10-02",
+   "data_vigoare": "2026-10-02",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-05",
+   "are_text": false
+  },
   {
    "id": "314974",
    "tip": "RECTIFICARE",
@@ -663,6 +1208,28 @@
    "scor": 1,
    "termeni": [],
    "first_seen": "2026-10-01",
+   "are_text": false
+  },
+  {
+   "id": "314977",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-09-25",
+   "titlu": "ANEXĂ din 25 septembrie 2026",
+   "descriere": "privind modificarea şi completarea anexelor nr. 1 şi 2 la Ordinul ministrului sănătăţii nr. 5.994/2024 pentru aprobarea preţurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/ comercializate de către deţinătorii de autorizaţie de punere pe piaţă a medicamentelor sau reprezentanţii acestora, distribuitorii angro şi furnizorii de servicii medicale şi medicamente pentru acele medicamente care fac obiectul unei relaţii contractuale cu Ministerul Sănătăţii, casele de asigurări de sănătate şi/sau direcţiile de sănătate publică judeţene şi a municipiului Bucureşti, cuprinse în Catalogul naţional al preţurilor medicamentelor autorizate de punere pe piaţă în România, a preţurilor de referinţă generice şi a preţurilor de referinţă inovative",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "830",
+   "data_publicare": "2026-09-30",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-05",
    "are_text": false
   },
   {
