@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-06T05:03:48+00:00",
+ "generated_at": "2026-10-06T13:00:04+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1303,
- "new_this_run": 0,
+ "total": 1333,
+ "new_this_run": 30,
  "pages_scanned": 6,
  "categories": {
-  "Sănătate": 46,
-  "Energie și mediu": 147,
-  "Transporturi și infrastructură": 104,
-  "Administrație publică": 82,
-  "Justiție și afaceri interne": 159,
-  "Educație și cercetare": 319,
-  "Economie, IMM și comerț": 85,
-  "Cultură, culte și sport": 21,
-  "Altele": 94,
-  "Muncă și dialog social": 26,
-  "Fiscalitate și buget": 91,
-  "Agricultură și dezvoltare rurală": 66,
+  "Fiscalitate și buget": 92,
+  "Altele": 97,
+  "Educație și cercetare": 322,
+  "Justiție și afaceri interne": 161,
+  "Sănătate": 48,
+  "Agricultură și dezvoltare rurală": 68,
+  "Energie și mediu": 156,
+  "Cultură, culte și sport": 22,
+  "Administrație publică": 86,
+  "Muncă și dialog social": 27,
+  "Transporturi și infrastructură": 105,
+  "Economie, IMM și comerț": 86,
   "Protecție socială și pensii": 26,
   "Economie socială": 2,
   "Afaceri externe și UE": 14,
@@ -24,6 +24,617 @@
   "Apărare și securitate națională": 8
  },
  "acts": [
+  {
+   "id": "315033",
+   "tip": "DECIZIE",
+   "numar": "48",
+   "data_act": "2026-01-20",
+   "titlu": "DECIZIA nr. 48 din 20 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 101 din Legea nr. 227/2015 privind Codul fiscal , în redactarea anterioară intrării în vigoare a Ordonanţei de urgenţă a Guvernului nr. 11/2025 pentru modificarea Legii nr. 227/2015 privind Codul fiscal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "842",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315032",
+   "tip": "DECRET",
+   "numar": "794",
+   "data_act": "2026-10-06",
+   "titlu": "DECRET nr. 794 din 6 octombrie 2026",
+   "descriere": "privind desemnarea candidatului la funcţia de prim-ministru",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "842",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315031",
+   "tip": "DECIZIE",
+   "numar": "25",
+   "data_act": "2026-09-30",
+   "titlu": "DECIZIE nr. 25 din 30 septembrie 2026",
+   "descriere": "privind încetarea Licenţei de concesiune pentru exploatare nr. 20.613/2017 privind exploatarea resurselor de calcar industrial şi de construcţie din perimetrul Vârghiş, judeţul Covasna, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea ESTORAS DOLOMIT 2010 - S.R.L., aprobată prin Ordinul preşedintelui Agenţiei Naţionale pentru Resurse Minerale nr. 102/2022",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Minier, Petrolier și al Stocării geologice a dioxidului de carbon"
+   ],
+   "monitor_nr": "841",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "concediu"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315030",
+   "tip": "DECIZIE",
+   "numar": "238",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 238 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 14 teza a doua din Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum şi celor deportate în străinătate ori constituite în prizonieri",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "841",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315029",
+   "tip": "DECRET",
+   "numar": "793",
+   "data_act": "2026-10-05",
+   "titlu": "DECRET nr. 793 din 5 octombrie 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "841",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315028",
+   "tip": "LEGE",
+   "numar": "190",
+   "data_act": "2026-10-05",
+   "titlu": "LEGE nr. 190 din 5 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "841",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": true
+  },
+  {
+   "id": "315027",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-10-01",
+   "titlu": "METODOLOGIE din 1 octombrie 2026",
+   "descriere": "pentru desfăşurarea concursului de admitere în rezidenţiat pe loc şi pe post în medicină, medicină dentară şi farmacie, sesiunea 15 noiembrie 2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "840",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315026",
+   "tip": "ORDIN",
+   "numar": "5761",
+   "data_act": "2026-10-01",
+   "titlu": "ORDIN nr. 5.761 din 1 octombrie 2026",
+   "descriere": "privind aprobarea Metodologiei pentru desfăşurarea concursului de admitere în rezidenţiat pe loc şi pe post în medicină, medicină dentară şi farmacie, sesiunea 15 noiembrie 2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "840",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315025",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-09-24",
+   "titlu": "METODOLOGIE din 24 septembrie 2026",
+   "descriere": "pentru desfăşurarea concursului de admitere în rezidenţiat pe loc şi pe post în medicină, medicină dentară şi farmacie, sesiunea 15 noiembrie 2026",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "840",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315024",
+   "tip": "ORDIN",
+   "numar": "1462",
+   "data_act": "2026-09-24",
+   "titlu": "ORDIN nr. 1.462 din 24 septembrie 2026",
+   "descriere": "privind aprobarea Metodologiei pentru desfăşurarea concursului de admitere în rezidenţiat pe loc şi pe post în medicină, medicină dentară şi farmacie, sesiunea 15 noiembrie 2026",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "840",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315023",
+   "tip": "HOTARARE",
+   "numar": "801",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 801 din 1 octombrie 2026",
+   "descriere": "privind actualizarea valorilor de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea unor instituţii din subordinea Ministerului Agriculturii şi Dezvoltării Rurale",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "840",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315022",
+   "tip": "DECIZIE",
+   "numar": "314",
+   "data_act": "2026-03-31",
+   "titlu": "DECIZIA nr. 314 din 31 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 34/2008 privind organizarea şi funcţionarea Sistemului naţional unic pentru apeluri de urgenţă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "840",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315021",
+   "tip": "RAPORT",
+   "numar": "15326",
+   "data_act": "2026-08-27",
+   "titlu": "RAPORT nr. 15.326 din 27 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa Renaşterea Naţională în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315020",
+   "tip": "RAPORT",
+   "numar": "15122",
+   "data_act": "2026-08-25",
+   "titlu": "RAPORT nr. 15.122 din 25 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Democraţie Directă România",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315019",
+   "tip": "RAPORT",
+   "numar": "12658",
+   "data_act": "2026-07-22",
+   "titlu": "RAPORT nr. 12.658 din 22 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Artiştilor, Muzicienilor, Scriitorilor şi Sportivilor",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 3,
+   "termeni": [
+    "spor"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315018",
+   "tip": "RAPORT",
+   "numar": "12591",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.591 din 21 iulie 2026",
+   "descriere": "privind verificarea respectării prevederilor legale privind veniturile şi cheltuielile înregistrate de Partidul Glasul Neamului în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315017",
+   "tip": "RAPORT",
+   "numar": "12362",
+   "data_act": "2026-07-16",
+   "titlu": "RAPORT nr. 12.362 din 16 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul ACUM",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315016",
+   "tip": "RAPORT",
+   "numar": "12353",
+   "data_act": "2026-07-16",
+   "titlu": "RAPORT nr. 12.353 din 16 iulie 2026",
+   "descriere": "privind verificarea respectării prevederilor legale privind veniturile şi cheltuielile Partidului Victoria Naţională (ARCA) în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315015",
+   "tip": "RAPORT",
+   "numar": "12351",
+   "data_act": "2026-07-16",
+   "titlu": "RAPORT nr. 12.351 din 16 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Mândri că Suntem Arădeni în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315014",
+   "tip": "RAPORT",
+   "numar": "12115",
+   "data_act": "2026-09-18",
+   "titlu": "RAPORT nr. 12.115 din 18 septembrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Republican din România",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315013",
+   "tip": "RAPORT",
+   "numar": "12065",
+   "data_act": "2026-07-13",
+   "titlu": "RAPORT nr. 12.065 din 13 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alternativa de Vest în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315012",
+   "tip": "RAPORT",
+   "numar": "12063",
+   "data_act": "2026-07-13",
+   "titlu": "RAPORT nr. 12.063 din 13 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa Strada",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315011",
+   "tip": "HOTARARE",
+   "numar": "800",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 800 din 1 octombrie 2026",
+   "descriere": "privind trecerea unei suprafeţe de 24.102 mp teren cu destinaţie agricolă din domeniul public al statului în domeniul privat al statului şi în administrarea Agenţiei Domeniilor Statului, în vederea reconstituirii dreptului de proprietate",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315010",
+   "tip": "HOTARARE",
+   "numar": "799",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 799 din 1 octombrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - UM 0412 Slobozia (Inspectoratul de Jandarmi Judeţean Ialomiţa)",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315009",
+   "tip": "HOTARARE",
+   "numar": "798",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 798 din 1 octombrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - UM 0520 Timişoara (Inspectoratul de Jandarmi Judeţean Timiş)",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315008",
+   "tip": "HOTARARE",
+   "numar": "797",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 797 din 1 octombrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Centrul Multifuncţional de Pregătire Schengen, ca urmare a reevaluării, precum şi trecerea unor construcţii din componenţa unui imobil din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315007",
+   "tip": "HOTARARE",
+   "numar": "796",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 796 din 1 octombrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Barbu Catargiu\" al Judeţului Ialomiţa, ca urmare a reevaluării, actualizarea datelor de identificare ale unui imobil, precum şi trecerea unor construcţii din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi, după caz, valorificării",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315006",
+   "tip": "HOTARARE",
+   "numar": "790",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 790 din 1 octombrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unui bun aflat în domeniul public al statului şi în administrarea Agenţiei Judeţene pentru Ocuparea Forţei de Muncă Buzău",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 2,
+   "termeni": [
+    "ocuparea fortei de munca",
+    "guvernul"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
+  {
+   "id": "315005",
+   "tip": "HOTARARE",
+   "numar": "789",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 789 din 1 octombrie 2026",
+   "descriere": "privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unor bunuri imobile reprezentând terenuri în suprafaţă totală de 4.638 mp şi darea acestora în administrarea Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "839",
+   "data_publicare": "2026-10-05",
+   "data_vigoare": "2026-10-05",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": false
+  },
   {
    "id": "315004",
    "tip": "RECTIFICARE",
@@ -568,6 +1179,28 @@
    "termeni": [],
    "first_seen": "2026-10-05",
    "are_text": false
+  },
+  {
+   "id": "314976",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-09-17",
+   "titlu": "REGULAMENT din 17 septembrie 2026",
+   "descriere": "privind concentrările economice",
+   "emitenti": [
+    "Consiliul Concurenței"
+   ],
+   "monitor_nr": "834",
+   "data_publicare": "2026-10-01",
+   "data_vigoare": "2026-10-01",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "concediu"
+   ],
+   "first_seen": "2026-10-06",
+   "are_text": true
   },
   {
    "id": "314974",
