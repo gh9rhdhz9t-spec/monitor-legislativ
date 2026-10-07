@@ -1,29 +1,131 @@
 {
- "generated_at": "2026-10-07T05:11:53+00:00",
+ "generated_at": "2026-10-07T13:01:07+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1345,
- "new_this_run": 12,
+ "total": 1352,
+ "new_this_run": 7,
  "pages_scanned": 6,
  "categories": {
-  "Transporturi și infrastructură": 106,
+  "Fiscalitate și buget": 94,
+  "Economie, IMM și comerț": 87,
+  "Apărare și securitate națională": 9,
+  "Administrație publică": 90,
+  "Transporturi și infrastructură": 107,
   "Energie și mediu": 160,
   "Altele": 98,
-  "Administrație publică": 89,
-  "Justiție și afaceri interne": 164,
-  "Fiscalitate și buget": 92,
+  "Justiție și afaceri interne": 165,
   "Educație și cercetare": 322,
   "Sănătate": 48,
   "Agricultură și dezvoltare rurală": 68,
   "Cultură, culte și sport": 22,
   "Muncă și dialog social": 27,
-  "Economie, IMM și comerț": 86,
   "Protecție socială și pensii": 26,
   "Economie socială": 2,
   "Afaceri externe și UE": 14,
-  "Digitalizare și comunicații": 13,
-  "Apărare și securitate națională": 8
+  "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315048",
+   "tip": "HOTARARE",
+   "numar": "12",
+   "data_act": "2026-10-05",
+   "titlu": "HOTĂRÂRE nr. 12 din 5 octombrie 2026",
+   "descriere": "pentru modificarea Regulamentului de organizare şi funcţionare al Camerei Consultanţilor Fiscali, aprobat prin Hotărârea Consiliului superior al Camerei Consultanţilor Fiscali nr. 3/2022",
+   "emitenti": [
+    "Camera Consultanților Fiscali"
+   ],
+   "monitor_nr": "844",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "315047",
+   "tip": "HOTARARE",
+   "numar": "11",
+   "data_act": "2026-10-05",
+   "titlu": "HOTĂRÂRE nr. 11 din 5 octombrie 2026",
+   "descriere": "pentru modificarea Hotărârii Consiliului superior al Camerei Consultanţilor Fiscali nr. 14/2021 privind aprobarea cotizaţiilor, a termenelor de plată şi a obligaţiilor declarative pentru membrii Camerei Consultanţilor Fiscali",
+   "emitenti": [
+    "Camera Consultanților Fiscali"
+   ],
+   "monitor_nr": "844",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "315046",
+   "tip": "ORDIN",
+   "numar": "1518",
+   "data_act": "2026-09-30",
+   "titlu": "ORDIN nr. 1.518 din 30 septembrie 2026",
+   "descriere": "privind aprobarea Schemei de ajutor de minimis \"Sprijin acordat microîntreprinderilor, IMM-urilor şi întreprinderilor mici cu capitalizare de piaţă medie prin instrument financiar de tip garanţie combinat cu grant într-o operaţiune unică, în cadrul PoCIDIF, prioritatea 1 - Susţinerea şi promovarea unui sistem de CDI atractiv şi competitiv în RO, obiectivul specific RSO1.3 Intensificarea creşterii sustenabile şi creşterea competitivităţii IMM-urilor şi crearea de locuri de muncă în cadrul IMM-urilor, inclusiv prin investiţii productive (FEDR), acţiunea 1.5.2 - Dezvoltarea inteligentă a întreprinderilor: noi modele pentru dezvoltarea afacerilor şi retehnologizare\"",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "844",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "315045",
+   "tip": "ORDIN",
+   "numar": "190",
+   "data_act": "2026-10-02",
+   "titlu": "ORDIN nr. M.190 din 2 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Normelor privind organizarea şi funcţionarea sistemului de ierarhizare şi selecţie în vederea evoluţiei în carieră a cadrelor militare, aprobate prin Ordinul ministrului apărării naţionale nr. M.69/2015",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "844",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "315044",
+   "tip": "HOTARARE",
+   "numar": "792",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 792 din 1 octombrie 2026",
+   "descriere": "privind actualizarea datelor de identificare şi a valorii de inventar ale bunului imobil cu număr MF 121653, situat în municipiul Salonta, judeţul Bihor, aflat în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Cluj-Napoca, aprobarea înscrierii în inventarul centralizat al bunurilor din domeniul public al statului a altui bun imobil şi darea acestuia în administrarea Direcţiei Generale Regionale a Finanţelor Publice Cluj-Napoca, comasarea la numărul MF 121653 a numărului MF ce i se va atribui acestuia, precum şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "844",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
   {
    "id": "315042",
    "tip": "DECIZIE",
@@ -203,6 +305,26 @@
     "Curtea Constituțională"
    ],
    "monitor_nr": "843",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "309943",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-10-06",
+   "titlu": "COMUNICAT din 6 octombrie 2026",
+   "descriere": "privind interpretarea dispozițiilor art. 270 alin. (1) Cod procedură penală referitoare la depunerea actelor prin serviciilor poștale internaționale",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
    "data_publicare": "2026-10-06",
    "data_vigoare": "2026-10-06",
    "vigoare_text": "",
@@ -3303,6 +3425,26 @@
    ],
    "first_seen": "2026-09-28",
    "are_text": true
+  },
+  {
+   "id": "314947",
+   "tip": "GHID",
+   "numar": "",
+   "data_act": "2026-09-21",
+   "titlu": "GHIDUL SOLICITANTULUI din 21 septembrie 2026",
+   "descriere": "privind dezvoltarea infrastructurii de reîncărcare a vehiculelor electrice pe reţeaua naţională de autostrăzi, drumuri expres şi naţionale \"e-Mobility RO\", submăsura 1",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "819",
+   "data_publicare": "2026-09-25",
+   "data_vigoare": "2026-09-25",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
   },
   {
    "id": "314887",
