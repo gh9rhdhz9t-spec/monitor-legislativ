@@ -1,21 +1,21 @@
 {
- "generated_at": "2026-10-06T13:00:04+00:00",
+ "generated_at": "2026-10-07T05:11:53+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1333,
- "new_this_run": 30,
+ "total": 1345,
+ "new_this_run": 12,
  "pages_scanned": 6,
  "categories": {
+  "Transporturi și infrastructură": 106,
+  "Energie și mediu": 160,
+  "Altele": 98,
+  "Administrație publică": 89,
+  "Justiție și afaceri interne": 164,
   "Fiscalitate și buget": 92,
-  "Altele": 97,
   "Educație și cercetare": 322,
-  "Justiție și afaceri interne": 161,
   "Sănătate": 48,
   "Agricultură și dezvoltare rurală": 68,
-  "Energie și mediu": 156,
   "Cultură, culte și sport": 22,
-  "Administrație publică": 86,
   "Muncă și dialog social": 27,
-  "Transporturi și infrastructură": 105,
   "Economie, IMM și comerț": 86,
   "Protecție socială și pensii": 26,
   "Economie socială": 2,
@@ -24,6 +24,256 @@
   "Apărare și securitate națională": 8
  },
  "acts": [
+  {
+   "id": "315042",
+   "tip": "DECIZIE",
+   "numar": "1413",
+   "data_act": "2026-03-19",
+   "titlu": "DECIZIA nr. 1.413 din 19 martie 2026",
+   "descriere": "referitoare la art. I pct. 9 din Ordinul ministrului transporturilor şi infrastructurii nr. 132/2025",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "843",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "315041",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-10-05",
+   "titlu": "PROCEDURĂ din 5 octombrie 2026",
+   "descriere": "privind analiza, verificarea, validarea şi plata cererilor de decontare, precum şi alimentarea conturilor cu sumele necesare decontării compensaţiei prevăzute de Ordonanţa de urgenţă a Guvernului nr. 6/2025 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică în perioada 1 aprilie 2025-30 iunie 2025, respectiv măsurile aplicabile clienţilor finali din piaţa de gaze naturale în perioada 1 aprilie 2025-31 martie 2026, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei şi de Ordonanţa de urgenţă a Guvernului nr. 27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "843",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-07",
+   "are_text": true
+  },
+  {
+   "id": "315040",
+   "tip": "ORDIN",
+   "numar": "1449",
+   "data_act": "2026-10-05",
+   "titlu": "ORDIN nr. 1.449 din 5 octombrie 2026",
+   "descriere": "pentru aprobarea Procedurii privind analiza, verificarea, validarea şi plata cererilor de decontare, precum şi alimentarea conturilor cu sumele necesare decontării compensaţiei prevăzute de Ordonanţa de urgenţă a Guvernului nr. 6/2025 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică în perioada 1 aprilie 2025-30 iunie 2025, respectiv măsurile aplicabile clienţilor finali din piaţa de gaze naturale în perioada 1 aprilie 2025-31 martie 2026, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei şi de Ordonanţa de urgenţă a Guvernului nr. 27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "843",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-07",
+   "are_text": true
+  },
+  {
+   "id": "315039",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-10-01",
+   "titlu": "PROCEDURĂ din 1 octombrie 2026",
+   "descriere": "privind analiza, verificarea, validarea şi plata cererilor de decontare, precum şi alimentarea conturilor cu sumele necesare decontării compensaţiei prevăzute de Ordonanţa de urgenţă a Guvernului nr. 6/2025 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică în perioada 1 aprilie 2025-30 iunie 2025, respectiv măsurile aplicabile clienţilor finali din piaţa de gaze naturale în perioada 1 aprilie 2025-31 martie 2026, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei şi de Ordonanţa de urgenţă a Guvernului nr. 27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "843",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "315038",
+   "tip": "ORDIN",
+   "numar": "1205",
+   "data_act": "2026-10-01",
+   "titlu": "ORDIN nr. 1.205 din 1 octombrie 2026",
+   "descriere": "pentru aprobarea Procedurii privind analiza, verificarea, validarea şi plata cererilor de decontare, precum şi alimentarea conturilor cu sumele necesare decontării compensaţiei prevăzute de Ordonanţa de urgenţă a Guvernului nr. 6/2025 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică în perioada 1 aprilie 2025-30 iunie 2025, respectiv măsurile aplicabile clienţilor finali din piaţa de gaze naturale în perioada 1 aprilie 2025-31 martie 2026, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei şi de Ordonanţa de urgenţă a Guvernului nr. 27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "843",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "315037",
+   "tip": "ORDIN",
+   "numar": "1092",
+   "data_act": "2026-09-17",
+   "titlu": "ORDIN nr. 1.092 din 17 septembrie 2026",
+   "descriere": "pentru aprobarea reglementării tehnice \"Normativ privind proiectarea soluţiilor de îmbunătăţire a terenului de fundare şi a lucrărilor din pământ, indicativ RTC 16-2026\", precum şi a reglementării tehnice \"Instrucţiune tehnică de execuţie pentru soluţiile de îmbunătăţire a terenului de fundare, indicativ RTC 17-2026\"",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "843",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "315036",
+   "tip": "DECIZIE",
+   "numar": "316",
+   "data_act": "2026-10-06",
+   "titlu": "DECIZIE nr. 316 din 6 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Dan-Alexandru Groza a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Administraţiei Fondului pentru Mediu",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "843",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "315035",
+   "tip": "HOTARARE",
+   "numar": "791",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 791 din 1 octombrie 2026",
+   "descriere": "privind actualizarea valorilor de inventar ale unor bunuri aflate în domeniul public al statului şi comasarea numerelor de inventar aferente acestor bunuri aflate în administrarea Agenţiei Judeţene pentru Plăţi şi Inspecţie Socială Braşov",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "843",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "315034",
+   "tip": "DECIZIE",
+   "numar": "321",
+   "data_act": "2026-04-01",
+   "titlu": "DECIZIA nr. 321 din 1 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 83 alin. (1) teza finală din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "843",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "309942",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-10-06",
+   "titlu": "COMUNICAT din 6 octombrie 2026",
+   "descriere": "privind excepția de neconstituționalitate a dispozițiilor art. 159 alin. (13) din Codul de procedură penală în măsura în care prin termenul „suspiciunea” din cuprinsul acestora se înțelege „suspiciunea rezonabilă”",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "309941",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-10-06",
+   "titlu": "COMUNICAT din 6 octombrie 2026",
+   "descriere": "privind excepția de neconstituționalitate a dispozițiilor art. 34 alin. (3) din Legea nr. 188/1999 privind Statutul funcționarilor publici, în redactarea anterioară intrării în vigoare a Legii nr. 156/2018 pentru modificarea și completarea Legii nr. 188/1999 privind Statutul funcționarilor publici",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "309939",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-10-06",
+   "titlu": "COMUNICAT din 6 octombrie 2026",
+   "descriere": "privind excepția de neconstituționalitate a dispozițiilor art. 13^1 alin. (2) din Legea vânătorii și a protecției fondului cinegetic nr. 407/2006",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-10-06",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-07",
+   "are_text": false
+  },
   {
    "id": "315033",
    "tip": "DECIZIE",
