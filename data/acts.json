@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-10-08T07:02:38+00:00",
+ "generated_at": "2026-10-08T13:00:36+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1373,
- "new_this_run": 21,
+ "total": 1378,
+ "new_this_run": 5,
  "pages_scanned": 6,
  "categories": {
+  "Educație și cercetare": 323,
+  "Sănătate": 49,
+  "Altele": 105,
+  "Transporturi și infrastructură": 108,
+  "Administrație publică": 101,
   "Fiscalitate și buget": 96,
   "Apărare și securitate națională": 12,
-  "Administrație publică": 100,
-  "Altele": 104,
   "Economie, IMM și comerț": 87,
-  "Transporturi și infrastructură": 107,
   "Energie și mediu": 160,
   "Justiție și afaceri interne": 165,
-  "Educație și cercetare": 322,
-  "Sănătate": 48,
   "Agricultură și dezvoltare rurală": 68,
   "Cultură, culte și sport": 22,
   "Muncă și dialog social": 27,
@@ -24,6 +24,112 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315075",
+   "tip": "ORDIN",
+   "numar": "5537",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.537 din 31 august 2026",
+   "descriere": "pentru modificarea anexei nr. 4 la Ordinul ministrului sănătăţii publice şi al ministrului educaţiei, cercetării şi tineretului nr. 1.141/1.386/2007 privind modul de efectuare a pregătirii prin rezidenţiat în specialităţile prevăzute de Nomenclatorul specialităţilor medicale, medico-dentare şi farmaceutice pentru reţeaua de asistenţă medicală",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "846",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": true
+  },
+  {
+   "id": "315074",
+   "tip": "ORDIN",
+   "numar": "1102",
+   "data_act": "2026-08-14",
+   "titlu": "ORDIN nr. 1.102 din 14 august 2026",
+   "descriere": "pentru modificarea anexei nr. 4 la Ordinul ministrului sănătăţii publice şi al ministrului educaţiei, cercetării şi tineretului nr. 1.141/1.386/2007 privind modul de efectuare a pregătirii prin rezidenţiat în specialităţile prevăzute de Nomenclatorul specialităţilor medicale, medico-dentare şi farmaceutice pentru reţeaua de asistenţă medicală",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "846",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 5,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": true
+  },
+  {
+   "id": "315073",
+   "tip": "REZOLUTIE",
+   "numar": "575",
+   "data_act": "2025-06-26",
+   "titlu": "REZOLUŢIA MSC.575(110) din 26 iunie 2025",
+   "descriere": "referitoare la Amendamentele la Codul maritim internaţional pentru mărfuri solide în vrac (Codul IMSBC)",
+   "emitenti": [
+    "Organizația Maritimă Internațională"
+   ],
+   "monitor_nr": "846",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315072",
+   "tip": "ORDIN",
+   "numar": "935",
+   "data_act": "2026-10-05",
+   "titlu": "ORDIN nr. 935 din 5 octombrie 2026",
+   "descriere": "privind publicarea acceptării amendamentelor la Codul maritim internaţional pentru mărfuri solide în vrac (Codul IMSBC), adoptate de Organizaţia Maritimă Internaţională prin Rezoluţia MSC.575(110) a Comitetului de siguranţă maritimă din 26 iunie 2025",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "846",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315071",
+   "tip": "HOTARARE",
+   "numar": "793",
+   "data_act": "2026-10-01",
+   "titlu": "HOTĂRÂRE nr. 793 din 1 octombrie 2026",
+   "descriere": "privind aprobarea modelului steagului comunei Albeşti, judeţul Constanţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "846",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
   {
    "id": "315070",
    "tip": "ORDIN",
