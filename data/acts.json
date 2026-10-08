@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-07T13:01:07+00:00",
+ "generated_at": "2026-10-08T07:02:38+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1352,
- "new_this_run": 7,
+ "total": 1373,
+ "new_this_run": 21,
  "pages_scanned": 6,
  "categories": {
-  "Fiscalitate și buget": 94,
+  "Fiscalitate și buget": 96,
+  "Apărare și securitate națională": 12,
+  "Administrație publică": 100,
+  "Altele": 104,
   "Economie, IMM și comerț": 87,
-  "Apărare și securitate națională": 9,
-  "Administrație publică": 90,
   "Transporturi și infrastructură": 107,
   "Energie și mediu": 160,
-  "Altele": 98,
   "Justiție și afaceri interne": 165,
   "Educație și cercetare": 322,
   "Sănătate": 48,
@@ -24,6 +24,457 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315070",
+   "tip": "ORDIN",
+   "numar": "1340",
+   "data_act": "2026-10-02",
+   "titlu": "ORDIN nr. 1.340 din 2 octombrie 2026",
+   "descriere": "pentru modificarea art. 1 alin. (1) din Ordinul ministrului finanţelor nr. 3.216/2020 privind instituirea unor măsuri referitoare la transmiterea de documente în format electronic către Ministerul Finanţelor şi unităţile teritoriale ale Trezoreriei Statului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315069",
+   "tip": "ORDIN",
+   "numar": "145",
+   "data_act": "2026-09-16",
+   "titlu": "ORDIN nr. 145 din 16 septembrie 2026",
+   "descriere": "pentru modificarea Metodologiei privind elaborarea normelor şi tabelelor de înzestrare cu armament, muniţii, mijloace tehnice şi materiale necesare structurilor Ministerului Afacerilor Interne, aprobată prin Ordinul ministrului afacerilor interne nr. 28/2018",
+   "emitenti": [
+    "Ministerul Afacerilor Interne"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315068",
+   "tip": "DECIZIE",
+   "numar": "324",
+   "data_act": "2026-10-07",
+   "titlu": "DECIZIE nr. 324 din 7 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Adrian-Dumitru Ciocîrlan a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Agenţiei Naţionale de Integritate",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315067",
+   "tip": "DECIZIE",
+   "numar": "319",
+   "data_act": "2026-10-07",
+   "titlu": "DECIZIE nr. 319 din 7 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, prin detaşare, de către doamna Ionica Băicoianu a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Instituţiei Prefectului - Judeţul Ialomiţa",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici",
+    "detasare"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315066",
+   "tip": "DECIZIE",
+   "numar": "323",
+   "data_act": "2026-10-07",
+   "titlu": "DECIZIE nr. 323 din 7 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Codruţ-Ştefănel Burcea a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general adjunct al Agenţiei Naţionale a Funcţionarilor Publici",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315065",
+   "tip": "DECIZIE",
+   "numar": "322",
+   "data_act": "2026-10-07",
+   "titlu": "DECIZIE nr. 322 din 7 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Eduard Bălănescu a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Instituţiei Prefectului - Judeţul Vrancea",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315064",
+   "tip": "DECIZIE",
+   "numar": "321",
+   "data_act": "2026-10-07",
+   "titlu": "DECIZIE nr. 321 din 7 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Lia-Augustina Mureşan a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Instituţiei Prefectului - Judeţul Maramureş",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315063",
+   "tip": "DECIZIE",
+   "numar": "320",
+   "data_act": "2026-10-07",
+   "titlu": "DECIZIE nr. 320 din 7 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Ana-Maria Voevozeanu a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Instituţiei Prefectului - Judeţul Giurgiu",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315062",
+   "tip": "DECIZIE",
+   "numar": "318",
+   "data_act": "2026-10-07",
+   "titlu": "DECIZIE nr. 318 din 7 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Cristina-Florentina Oltean a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Instituţiei Prefectului - Judeţul Sălaj",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315061",
+   "tip": "DECIZIE",
+   "numar": "317",
+   "data_act": "2026-10-07",
+   "titlu": "DECIZIE nr. 317 din 7 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Constantin-Cătălin Mischie a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Instituţiei Prefectului - Judeţul Gorj",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315060",
+   "tip": "HOTARARE",
+   "numar": "64",
+   "data_act": "2026-10-07",
+   "titlu": "HOTĂRÂRE nr. 64 din 7 octombrie 2026",
+   "descriere": "privind contul de execuţie a bugetului Camerei Deputaţilor pe anul 2025",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315059",
+   "tip": "DECRET",
+   "numar": "799",
+   "data_act": "2026-10-07",
+   "titlu": "DECRET nr. 799 din 7 octombrie 2026",
+   "descriere": "privind promulgarea Legii pentru acceptarea Deciziei Consiliului (UE, Euratom) 2026/1.296, adoptată la Bruxelles la 26 mai 2026, de modificare a Actului privind alegerea membrilor Parlamentului European prin vot universal direct, anexat la Decizia 76/787/CECO, CEE, Euratom a Consiliului din 20 septembrie 1976",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315058",
+   "tip": "LEGE",
+   "numar": "195",
+   "data_act": "2026-10-07",
+   "titlu": "LEGE nr. 195 din 7 octombrie 2026",
+   "descriere": "pentru acceptarea Deciziei Consiliului (UE, Euratom) 2026/1.296, adoptată la Bruxelles la 26 mai 2026, de modificare a Actului privind alegerea membrilor Parlamentului European prin vot universal direct, anexat la Decizia 76/787/CECO, CEE, Euratom a Consiliului din 20 septembrie 1976",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-10",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": true
+  },
+  {
+   "id": "315057",
+   "tip": "DECRET",
+   "numar": "798",
+   "data_act": "2026-10-07",
+   "titlu": "DECRET nr. 798 din 7 octombrie 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea anexei la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315056",
+   "tip": "LEGE",
+   "numar": "194",
+   "data_act": "2026-10-07",
+   "titlu": "LEGE nr. 194 din 7 octombrie 2026",
+   "descriere": "pentru modificarea anexei la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": true
+  },
+  {
+   "id": "315055",
+   "tip": "DECRET",
+   "numar": "797",
+   "data_act": "2026-10-07",
+   "titlu": "DECRET nr. 797 din 7 octombrie 2026",
+   "descriere": "pentru promulgarea Legii privind protecţia împotriva cererilor vădit neîntemeiate sau a procedurilor judiciare abuzive îndreptate împotriva persoanelor implicate în acţiuni de mobilizare publică",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315054",
+   "tip": "LEGE",
+   "numar": "193",
+   "data_act": "2026-10-07",
+   "titlu": "LEGE nr. 193 din 7 octombrie 2026",
+   "descriere": "privind protecţia împotriva cererilor vădit neîntemeiate sau a procedurilor judiciare abuzive îndreptate împotriva persoanelor implicate în acţiuni de mobilizare publică",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-10",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": true
+  },
+  {
+   "id": "315053",
+   "tip": "DECRET",
+   "numar": "796",
+   "data_act": "2026-10-07",
+   "titlu": "DECRET nr. 796 din 7 octombrie 2026",
+   "descriere": "pentru promulgarea Legii privind instituirea anului 2026 ca Anul Centenar al Partidului Naţional Ţărănesc",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315052",
+   "tip": "LEGE",
+   "numar": "192",
+   "data_act": "2026-10-07",
+   "titlu": "LEGE nr. 192 din 7 octombrie 2026",
+   "descriere": "privind instituirea anului 2026 cа Anul Centenar al Partidului Naţional Ţărănesc",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": true
+  },
+  {
+   "id": "315051",
+   "tip": "DECRET",
+   "numar": "795",
+   "data_act": "2026-10-07",
+   "titlu": "DECRET nr. 795 din 7 octombrie 2026",
+   "descriere": "privind promulgarea Legii pentru instituirea anului 2026 ca Anul Grigore Constantin Moisil",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315050",
+   "tip": "LEGE",
+   "numar": "191",
+   "data_act": "2026-10-07",
+   "titlu": "LEGE nr. 191 din 7 octombrie 2026",
+   "descriere": "pentru instituirea anului 2026 ca Anul Grigore Constantin Moisil",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "845",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-08",
+   "are_text": true
+  },
   {
    "id": "315048",
    "tip": "HOTARARE",
