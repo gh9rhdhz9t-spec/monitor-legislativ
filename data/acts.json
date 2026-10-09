@@ -1,21 +1,21 @@
 {
- "generated_at": "2026-10-08T13:00:36+00:00",
+ "generated_at": "2026-10-09T05:08:46+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1378,
- "new_this_run": 5,
+ "total": 1385,
+ "new_this_run": 7,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 323,
-  "Sănătate": 49,
+  "Educație și cercetare": 324,
+  "Sănătate": 51,
+  "Transporturi și infrastructură": 109,
+  "Agricultură și dezvoltare rurală": 69,
+  "Justiție și afaceri interne": 166,
   "Altele": 105,
-  "Transporturi și infrastructură": 108,
   "Administrație publică": 101,
+  "Economie, IMM și comerț": 88,
   "Fiscalitate și buget": 96,
   "Apărare și securitate națională": 12,
-  "Economie, IMM și comerț": 87,
   "Energie și mediu": 160,
-  "Justiție și afaceri interne": 165,
-  "Agricultură și dezvoltare rurală": 68,
   "Cultură, culte și sport": 22,
   "Muncă și dialog social": 27,
   "Protecție socială și pensii": 26,
@@ -24,6 +24,132 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315081",
+   "tip": "ORDIN",
+   "numar": "5178",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.178 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Tehnologic \"Al. Ioan Cuza\" din municipiul Slobozia, judeţul Ialomiţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "847",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315080",
+   "tip": "ORDIN",
+   "numar": "1769",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 1.769 din 29 septembrie 2026",
+   "descriere": "privind modificarea şi completarea anexei nr. 2 la Ordinul ministrului sănătăţii şi al preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale şi a preţurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naţionale de sănătate şi a metodologiei de calcul al acestora",
+   "emitenti": [
+    "Casa Națională de Asigurări de Sănătate"
+   ],
+   "monitor_nr": "847",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "casa nationala de asigurari de sanatate"
+   ],
+   "first_seen": "2026-10-09",
+   "are_text": true
+  },
+  {
+   "id": "315079",
+   "tip": "ORDIN",
+   "numar": "1728",
+   "data_act": "2026-10-07",
+   "titlu": "ORDIN nr. 1.728 din 7 octombrie 2026",
+   "descriere": "privind modificarea şi completarea anexei nr. 2 la Ordinul ministrului sănătăţii şi al preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale şi a preţurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naţionale de sănătate şi a metodologiei de calcul al acestora",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "847",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-09",
+   "are_text": true
+  },
+  {
+   "id": "315078",
+   "tip": "ORDIN",
+   "numar": "959",
+   "data_act": "2026-10-08",
+   "titlu": "ORDIN nr. 959 din 8 octombrie 2026",
+   "descriere": "privind modificarea Ordinului ministrului transporturilor şi infrastructurii nr. 1.925/2025 pentru aprobarea categoriilor de vehicule şi a nivelului tarifului unitar",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "847",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315077",
+   "tip": "ORDIN",
+   "numar": "285",
+   "data_act": "2026-10-07",
+   "titlu": "ORDIN nr. 285 din 7 octombrie 2026",
+   "descriere": "pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigaţii aparţinând domeniului privat al statului, aflată în administrarea Agenţiei Naţionale de Îmbunătăţiri Funciare şi situată pe teritoriul Organizaţiei utilizatorilor de apă pentru irigaţii SPP-4 Cataloi din judeţul Tulcea, în proprietatea acestei organizaţii",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "847",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "309944",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-10-08",
+   "titlu": "COMUNICAT din 8 octombrie 2026",
+   "descriere": "privind excepția de neconstituționalitate a dispozițiilor art. 36 lit. h) din Ordonanța de urgență a Guvernului nr. 86/2006 privind organizarea activității practicienilor în insolvență",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
   {
    "id": "315075",
    "tip": "ORDIN",
@@ -128,6 +254,26 @@
     "guvernul"
    ],
    "first_seen": "2026-10-08",
+   "are_text": false
+  },
+  {
+   "id": "315076",
+   "tip": "SCHEMA",
+   "numar": "",
+   "data_act": "2026-09-30",
+   "titlu": "SCHEMĂ DE AJUTOR DE MINIMIS din 30 septembrie 2026",
+   "descriere": "Sprijin acordat microîntreprinderilor, IMM-urilor şi întreprinderilor mici cu capitalizare de piaţă medie prin instrument financiar de tip garanţie combinat cu grant într-o operaţiune unică, în cadrul PoCIDIF, Prioritatea 1 - Susţinerea şi promovarea unui sistem de CDI atractiv şi competitiv în RO, Obiectivul Specific RSO1.3 Intensificarea creşterii sustenabile şi creşterea competitivităţii IMM-urilor şi crearea de locuri de muncă în cadrul IMM-urilor, inclusiv prin investiţii productive (FEDR), Acţiunea 1.5.2 - Dezvoltarea inteligentă a întreprinderilor: noi modele pentru dezvoltarea afacerilor şi retehnologizare",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "844",
+   "data_publicare": "2026-10-07",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-09",
    "are_text": false
   },
   {
