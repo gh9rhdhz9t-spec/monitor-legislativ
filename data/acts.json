@@ -1,21 +1,21 @@
 {
- "generated_at": "2026-10-09T05:08:46+00:00",
+ "generated_at": "2026-10-09T13:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1385,
- "new_this_run": 7,
+ "total": 1410,
+ "new_this_run": 25,
  "pages_scanned": 6,
  "categories": {
+  "Energie și mediu": 181,
+  "Transporturi și infrastructură": 112,
+  "Justiție și afaceri interne": 167,
   "Educație și cercetare": 324,
   "Sănătate": 51,
-  "Transporturi și infrastructură": 109,
   "Agricultură și dezvoltare rurală": 69,
-  "Justiție și afaceri interne": 166,
   "Altele": 105,
   "Administrație publică": 101,
   "Economie, IMM și comerț": 88,
   "Fiscalitate și buget": 96,
   "Apărare și securitate națională": 12,
-  "Energie și mediu": 160,
   "Cultură, culte și sport": 22,
   "Muncă și dialog social": 27,
   "Protecție socială și pensii": 26,
@@ -24,6 +24,508 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315106",
+   "tip": "RAPORT",
+   "numar": "14783",
+   "data_act": "2026-08-19",
+   "titlu": "RAPORT nr. 14.783 din 19 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Naţionalist în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "849",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315105",
+   "tip": "RAPORT",
+   "numar": "14778",
+   "data_act": "2026-08-19",
+   "titlu": "RAPORT nr. 14.778 din 19 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Muncitoresc Creştin şi Democrat",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "849",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315104",
+   "tip": "RAPORT",
+   "numar": "14267",
+   "data_act": "2026-08-11",
+   "titlu": "RAPORT nr. 14.267 din 11 august 2026",
+   "descriere": "în urma verificării respectării prevederilor legale privind veniturile şi cheltuielile Partidului Mişcarea pentru Unitatea Românilor în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "849",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315103",
+   "tip": "RAPORT",
+   "numar": "14265",
+   "data_act": "2026-08-11",
+   "titlu": "RAPORT nr. 14.265 din 11 august 2026",
+   "descriere": "în urma verificării respectării prevederilor legale privind veniturile şi cheltuielile Partidului Noua Dreaptă în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "849",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315102",
+   "tip": "RAPORT",
+   "numar": "13913",
+   "data_act": "2026-08-06",
+   "titlu": "RAPORT nr. 13.913 din 6 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Violet - Democraţie Directă, referitor la respectarea prevederilor legale privind veniturile şi cheltuielile înregistrate în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "849",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315101",
+   "tip": "RAPORT",
+   "numar": "13093",
+   "data_act": "2026-07-30",
+   "titlu": "RAPORT nr. 13.093 din 30 iulie 2026",
+   "descriere": "privind verificarea respectării prevederilor legale privind veniturile şi cheltuielile înregistrate de Partidul Uniunea Salvaţi România în perioada 1.01.2023-31.12.2024",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "849",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315100",
+   "tip": "RAPORT",
+   "numar": "12634",
+   "data_act": "2026-07-16",
+   "titlu": "RAPORT nr. 12.634 din 16 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa Democrată a Romilor",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "849",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315099",
+   "tip": "RAPORT",
+   "numar": "12363",
+   "data_act": "2026-07-16",
+   "titlu": "RAPORT nr. 12.363 din 16 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Uniunea Naţională Creştină a Romilor din România",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "849",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315098",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-10-06",
+   "titlu": "PROCEDURĂ-CADRU din 6 octombrie 2026",
+   "descriere": "privind obligaţia furnizorilor de energie electrică şi gaze naturale de soluţionare a plângerilor clienţilor finali",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "849",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2027-01-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315097",
+   "tip": "ORDIN",
+   "numar": "61",
+   "data_act": "2026-10-06",
+   "titlu": "ORDIN nr. 61 din 6 octombrie 2026",
+   "descriere": "pentru aprobarea Procedurii-cadru privind obligaţia furnizorilor de energie electrică şi gaze naturale de soluţionare a plângerilor clienţilor finali",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "849",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2027-01-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315096",
+   "tip": "ORDIN",
+   "numar": "923",
+   "data_act": "2026-09-30",
+   "titlu": "ORDIN nr. 923 din 30 septembrie 2026",
+   "descriere": "pentru acordarea unei derogări temporare de la prevederile Ordinului ministrului transporturilor şi infrastructurii nr. 1.825/2023 privind aprobarea condiţiilor pe care trebuie să le îndeplinească subsistemul de control-comandă şi semnalizare terestre al sistemului feroviar din România",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "849",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315095",
+   "tip": "DECIZIE",
+   "numar": "429",
+   "data_act": "2026-04-30",
+   "titlu": "DECIZIA nr. 429 din 30 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 60 lit. e) din Legea nr. 272/2004 privind protecţia şi promovarea drepturilor copilului",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "849",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315094",
+   "tip": "RAPORT",
+   "numar": "14781",
+   "data_act": "2026-08-19",
+   "titlu": "RAPORT nr. 14.781 din 19 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Moşniţa Noastră în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315093",
+   "tip": "RAPORT",
+   "numar": "14362",
+   "data_act": "2026-08-12",
+   "titlu": "RAPORT nr. 14.362 din 12 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Naţional Ţărănesc Maniu Mihalache",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315092",
+   "tip": "RAPORT",
+   "numar": "13914",
+   "data_act": "2026-08-06",
+   "titlu": "RAPORT nr. 13.914 din 6 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Forul Independenţilor",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315091",
+   "tip": "RAPORT",
+   "numar": "13163",
+   "data_act": "2026-07-31",
+   "titlu": "RAPORT nr. 13.163 din 31 iulie 2026",
+   "descriere": "privind verificarea respectării prevederilor legale privind veniturile şi cheltuielile Partidului Alianţa Etocrată pentru Reformă în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315090",
+   "tip": "RAPORT",
+   "numar": "13162",
+   "data_act": "2026-07-31",
+   "titlu": "RAPORT nr. 13.162 din 31 iulie 2026",
+   "descriere": "privind verificarea respectării prevederilor legale privind veniturile şi cheltuielile Partidului Diaspora Unită cu România în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315089",
+   "tip": "RAPORT",
+   "numar": "12941",
+   "data_act": "2026-07-28",
+   "titlu": "RAPORT nr. 12.941 din 28 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Liga Acţiunii Naţionale",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315088",
+   "tip": "RAPORT",
+   "numar": "12590",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.590 din 21 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Oamenilor Liberi",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315087",
+   "tip": "RAPORT",
+   "numar": "12579",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.579 din 21 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Femeilor Românce referitor la respectarea prevederilor legale privind veniturile şi cheltuielile înregistrate în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315086",
+   "tip": "RAPORT",
+   "numar": "12577",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.577 din 21 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Uniunea Naţiunii Române",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315085",
+   "tip": "RAPORT",
+   "numar": "12331",
+   "data_act": "2026-07-16",
+   "titlu": "RAPORT nr. 12.331 din 16 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa Femeilor Creştine din România",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315084",
+   "tip": "ORDIN",
+   "numar": "960",
+   "data_act": "2026-10-08",
+   "titlu": "ORDIN nr. 960 din 8 octombrie 2026",
+   "descriere": "privind procedura de notificare prealabilă şi de exprimare a acordului Ministerului Transporturilor şi Infrastructurii, în calitate de concedent, cu privire la suspendarea, întreruperea sau restrângerea semnificativă a exploatării bunurilor proprietate publică a statului concesionate, aferente infrastructurii de transport de interes naţional",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "concediu"
+   ],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315083",
+   "tip": "ORDIN",
+   "numar": "946",
+   "data_act": "2026-10-06",
+   "titlu": "ORDIN nr. 946 din 6 octombrie 2026",
+   "descriere": "pentru modificarea anexei la Ordinul ministrului transporturilor şi infrastructurii nr. 1.022/2021 pentru aprobarea Normelor metodologice privind reconstituirea de la bugetul de stat a plăţilor efectuate din venituri proprii pentru Compania Naţională de Administrare a Infrastructurii Rutiere - S.A.",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
+  {
+   "id": "315082",
+   "tip": "ORDIN",
+   "numar": "194",
+   "data_act": "2026-10-05",
+   "titlu": "ORDIN nr. M.194 din 5 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului de organizare şi funcţionare a comisiilor pentru problemele sociale ale personalului din Ministerul Apărării Naţionale, aprobat prin Ordinul ministrului apărării naţionale nr. M.87/2014",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "848",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-09",
+   "are_text": false
+  },
   {
    "id": "315081",
    "tip": "ORDIN",
