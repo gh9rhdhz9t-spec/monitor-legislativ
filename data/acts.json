@@ -1,29 +1,404 @@
 {
- "generated_at": "2026-10-12T05:00:22+00:00",
+ "generated_at": "2026-10-12T13:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1410,
- "new_this_run": 0,
+ "total": 1428,
+ "new_this_run": 18,
  "pages_scanned": 6,
  "categories": {
-  "Energie și mediu": 181,
+  "Energie și mediu": 184,
+  "Agricultură și dezvoltare rurală": 71,
+  "Administrație publică": 103,
+  "Protecție socială și pensii": 27,
+  "Educație și cercetare": 329,
+  "Economie, IMM și comerț": 89,
+  "Altele": 107,
+  "Justiție și afaceri interne": 169,
   "Transporturi și infrastructură": 112,
-  "Justiție și afaceri interne": 167,
-  "Educație și cercetare": 324,
   "Sănătate": 51,
-  "Agricultură și dezvoltare rurală": 69,
-  "Altele": 105,
-  "Administrație publică": 101,
-  "Economie, IMM și comerț": 88,
   "Fiscalitate și buget": 96,
   "Apărare și securitate națională": 12,
   "Cultură, culte și sport": 22,
   "Muncă și dialog social": 27,
-  "Protecție socială și pensii": 26,
   "Economie socială": 2,
   "Afaceri externe și UE": 14,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315124",
+   "tip": "CRITERII",
+   "numar": "(R)",
+   "data_act": "2011-11-24",
+   "titlu": "CRITERIILE ȘI METODOLOGIA din 24 noiembrie 2011",
+   "descriere": "privind selecţia personalului în vederea participării la misiuni şi operaţii în afara teritoriului statului român",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "852",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "315123",
+   "tip": "ORDIN",
+   "numar": "",
+   "data_act": null,
+   "titlu": "ORDINUL nr. M.101 din 24 noiembrie 2011",
+   "descriere": "pentru aprobarea criteriilor şi metodologiei privind selecţia personalului în vederea participării la misiuni şi operaţii în afara teritoriului statului român",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "852",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "315121",
+   "tip": "ORDIN",
+   "numar": "288",
+   "data_act": "2026-10-09",
+   "titlu": "ORDIN nr. 288 din 9 octombrie 2026",
+   "descriere": "privind aprobarea în anul 2026 a realocării sumelor şi stabilirea condiţiilor de acordare a avansului pentru plăţile directe finanţate din FEGA, din cadrul Planului strategic PAC 2023-2027",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "851",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "315120",
+   "tip": "DECIZIE",
+   "numar": "325",
+   "data_act": "2026-10-09",
+   "titlu": "DECIZIE nr. 325 din 9 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Dana-Viorica Apostu a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Instituţiei Prefectului - Judeţul Buzău",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "851",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "315119",
+   "tip": "HOTARARE",
+   "numar": "806",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 806 din 9 octombrie 2026",
+   "descriere": "privind aprobarea scoaterii din rezervele de stat a unor cantităţi de produse şi acordarea acestora ca ajutoare umanitare interne, cu titlu gratuit, în vederea sprijinirii beneficiarilor serviciilor sociale destinate protecţiei drepturilor persoanelor cu dizabilităţi, a celor din sistemul de protecţie a copilului, a persoanelor vârstnice şi persoanelor fără adăpost",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "851",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 5,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-12",
+   "are_text": true
+  },
+  {
+   "id": "315118",
+   "tip": "HOTARARE",
+   "numar": "805",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 805 din 9 octombrie 2026",
+   "descriere": "privind aprobarea Actului adiţional nr. 10/2026 la Licenţa de concesiune nr. 758/1999 a activităţii de exploatare a calcarului industrial şi de construcţie (calcar marnos) şi loess în perimetrul Medgidia, judeţul Constanţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "851",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "concediu",
+    "guvernul"
+   ],
+   "first_seen": "2026-10-12",
+   "are_text": true
+  },
+  {
+   "id": "315117",
+   "tip": "HOTARARE",
+   "numar": "804",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 804 din 9 octombrie 2026",
+   "descriere": "pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea liniilor şi instalaţiilor din Complexul Feroviar Bucureşti\", lucrare de utilitate publică de interes naţional",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "851",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-12",
+   "are_text": true
+  },
+  {
+   "id": "315116",
+   "tip": "HOTARARE",
+   "numar": "802",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 802 din 9 octombrie 2026",
+   "descriere": "privind numirea domnului Picoiu Adrian-Teodor în funcţia de prefect al judeţului Constanţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "851",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "315115",
+   "tip": "HOTARARE",
+   "numar": "24",
+   "data_act": "2026-10-08",
+   "titlu": "HOTĂRÂRE nr. 24 din 8 octombrie 2026",
+   "descriere": "pentru stabilirea unor măsuri operative etapizate în vederea asigurării debitelor şi nivelurilor necesare Centralei Nuclearoelectrice Cernavodă în perioada stării de alertă, declarată prin Hotărârea Comitetului Naţional pentru Situaţii de Urgenţă nr. 15/2026 şi prelungită prin hotărârile Comitetului Naţional pentru Situaţii de Urgenţă nr. 21/2026 şi nr. 23/2026",
+   "emitenti": [
+    "Comitetul Național pentru Situații de Urgență"
+   ],
+   "monitor_nr": "850",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "315114",
+   "tip": "HOTARARE",
+   "numar": "151",
+   "data_act": "2026-09-26",
+   "titlu": "HOTĂRÂRE nr. 151 din 26 septembrie 2026",
+   "descriere": "privind modificarea Hotărârii Consiliului naţional al Colegiului Fizioterapeuţilor din România nr. 93/2020 pentru aprobarea taxelor de acreditare şi reacreditare a furnizorilor de educaţie medicală continuă şi a taxelor de creditare a formelor de educaţie medicală continuă",
+   "emitenti": [
+    "Colegiul Fizioterapeuților din România"
+   ],
+   "monitor_nr": "850",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "315113",
+   "tip": "HOTARARE",
+   "numar": "143",
+   "data_act": "2026-09-26",
+   "titlu": "HOTĂRÂRE nr. 143 din 26 septembrie 2026",
+   "descriere": "privind modificarea și completarea Hotărârii Consiliului naţional al Colegiului Fizioterapeuţilor din România nr. 36/2018 privind dobândirea calităţii de membru al Colegiului Fizioterapeuţilor din România şi eliberarea autorizaţiei de liberă practică pentru exercitarea profesiei de fizioterapeut",
+   "emitenti": [
+    "Colegiul Fizioterapeuților din România"
+   ],
+   "monitor_nr": "850",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "315112",
+   "tip": "ORDIN",
+   "numar": "5561",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.561 din 31 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Liceul Special \"Sfânta Maria\" din municipiul Arad, judeţul Arad",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "850",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-12",
+   "are_text": true
+  },
+  {
+   "id": "315111",
+   "tip": "ORDIN",
+   "numar": "1209",
+   "data_act": "2026-10-07",
+   "titlu": "ORDIN nr. 1.209 din 7 octombrie 2026",
+   "descriere": "pentru prorogarea unor termene şi aprobarea unei derogări de la prevederile Ordinului ministrului dezvoltării, lucrărilor publice şi administraţiei nr. 348/2026 pentru aprobarea Regulamentului privind atestarea tehnico-profesională a auditorilor energetici pentru clădiri",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "850",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "315110",
+   "tip": "ORDIN",
+   "numar": "1198",
+   "data_act": "2026-10-06",
+   "titlu": "ORDIN nr. 1.198 din 6 octombrie 2026",
+   "descriere": "privind acordarea titlului de parc industrial Societăţii A.R.I.P.I. - Ariceştii Rahtivani Industrial Parc Invest - S.R.L.",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "850",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "315109",
+   "tip": "ORDIN",
+   "numar": "575",
+   "data_act": "2026-10-02",
+   "titlu": "ORDIN nr. 575 din 2 octombrie 2026",
+   "descriere": "privind aprobarea Actului adiţional nr. 6/2026 la Licenţa de concesiune nr. 1.944/2000 a activităţii miniere de exploatare a dioritului din perimetrul Moigrad, judeţul Sălaj",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Minier, Petrolier și al Stocării geologice a dioxidului de carbon"
+   ],
+   "monitor_nr": "850",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "concediu"
+   ],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "315108",
+   "tip": "ORDIN",
+   "numar": "286",
+   "data_act": "2026-10-08",
+   "titlu": "ORDIN nr. 286 din 8 octombrie 2026",
+   "descriere": "pentru aprobarea în anul 2026 a realocării sumelor aferente intervenţiilor din sectorul apicol din cadrul Planului strategic PAC 2023-2027 şi stabilirea cuantumurilor unitare pentru intervenţiile din sectorul apicol",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "850",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "315107",
+   "tip": "DECIZIE",
+   "numar": "191",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 191 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 345 alin. (3) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "850",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
+  {
+   "id": "309945",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-10-09",
+   "titlu": "COMUNICAT din 9 octombrie 2026",
+   "descriere": "privind aplicabilitatea Deciziei nr. 30/2020 pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept în cazul în care fostul proprietar sau moştenitorii legali ori testamentari ai acestuia au înstrăinat cu titlu oneros dreptul la despăgubire unor persoane care aveau, la data înstrăinării, calitatea de succesibili ai înstrăinătorului",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-10-09",
+   "data_vigoare": "2026-10-09",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-12",
+   "are_text": false
+  },
   {
    "id": "315106",
    "tip": "RAPORT",
