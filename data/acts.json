@@ -1,29 +1,617 @@
 {
- "generated_at": "2026-10-13T05:00:05+00:00",
+ "generated_at": "2026-10-13T13:00:06+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1428,
- "new_this_run": 0,
+ "total": 1456,
+ "new_this_run": 28,
  "pages_scanned": 6,
  "categories": {
+  "Fiscalitate și buget": 101,
+  "Transporturi și infrastructură": 114,
+  "Justiție și afaceri interne": 175,
+  "Educație și cercetare": 333,
+  "Sănătate": 55,
+  "Economie, IMM și comerț": 95,
+  "Cultură, culte și sport": 23,
   "Energie și mediu": 184,
   "Agricultură și dezvoltare rurală": 71,
   "Administrație publică": 103,
   "Protecție socială și pensii": 27,
-  "Educație și cercetare": 329,
-  "Economie, IMM și comerț": 89,
   "Altele": 107,
-  "Justiție și afaceri interne": 169,
-  "Transporturi și infrastructură": 112,
-  "Sănătate": 51,
-  "Fiscalitate și buget": 96,
   "Apărare și securitate națională": 12,
-  "Cultură, culte și sport": 22,
   "Muncă și dialog social": 27,
   "Economie socială": 2,
   "Afaceri externe și UE": 14,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315153",
+   "tip": "ORDIN",
+   "numar": "1281",
+   "data_act": "2026-09-24",
+   "titlu": "ORDIN nr. 1.281 din 24 septembrie 2026",
+   "descriere": "referitor la simplificarea raportării privind durabilitatea",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "858",
+   "data_publicare": "2026-10-13",
+   "data_vigoare": "2026-10-13",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315151",
+   "tip": "ORDIN",
+   "numar": "936",
+   "data_act": "2026-10-05",
+   "titlu": "ORDIN nr. 936 din 5 octombrie 2026",
+   "descriere": "privind modificarea şi completarea Ordinului viceprim-ministrului, ministrul transporturilor şi infrastructurii, nr. 846/2023 pentru publicarea unor linii directoare necesare punerii în aplicare a anexei VI la MARPOL , adoptate de Organizaţia Maritimă Internaţională prin rezoluţii ale Comitetului pentru protecţia mediului marin, precum şi pentru abrogarea şi modificarea unor acte normative",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "858",
+   "data_publicare": "2026-10-13",
+   "data_vigoare": "2026-10-13",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315150",
+   "tip": "ORDIN",
+   "numar": "582",
+   "data_act": "2026-10-06",
+   "titlu": "ORDIN nr. 582 din 6 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Procedurii pentru acordarea înlesnirilor la plată a obligaţiilor bugetare restante datorate bugetului Autorităţii Naţionale de Reglementare în Domeniul Minier, Petrolier şi al Stocării Geologice a Dioxidului de Carbon, aprobată prin Ordinul preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Minier, Petrolier şi al Stocării Geologice a Dioxidului de Carbon nr. 25/2026",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Minier, Petrolier și al Stocării geologice a dioxidului de carbon"
+   ],
+   "monitor_nr": "856",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315149",
+   "tip": "DECIZIE",
+   "numar": "205",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 205 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 215 alin. (1) lit. c) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "856",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315148",
+   "tip": "DECRET",
+   "numar": "802",
+   "data_act": "2026-10-12",
+   "titlu": "DECRET nr. 802 din 12 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "856",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315147",
+   "tip": "DECRET",
+   "numar": "801",
+   "data_act": "2026-10-12",
+   "titlu": "DECRET nr. 801 din 12 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "856",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315146",
+   "tip": "DECRET",
+   "numar": "800",
+   "data_act": "2026-10-12",
+   "titlu": "DECRET nr. 800 din 12 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "856",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315145",
+   "tip": "ORDIN",
+   "numar": "5560",
+   "data_act": "2026-08-31",
+   "titlu": "ORDIN nr. 5.560 din 31 august 2026",
+   "descriere": "privind acordarea acreditării unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială din satul Bodeşti, comuna Bărbăteşti, judeţul Vâlcea",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "855",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": true
+  },
+  {
+   "id": "315144",
+   "tip": "ORDIN",
+   "numar": "5201",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.201 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Teoretic din oraşul Recaş, judeţul Timiş",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "855",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315143",
+   "tip": "ORDIN",
+   "numar": "1733",
+   "data_act": "2026-10-08",
+   "titlu": "ORDIN nr. 1.733 din 8 octombrie 2026",
+   "descriere": "privind completarea anexei nr. 1 la Ordinul ministrului sănătăţii nr. 5.994/2024 pentru aprobarea preţurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deţinătorii de autorizaţie de punere pe piaţă a medicamentelor sau reprezentanţii acestora, distribuitorii angro şi furnizorii de servicii medicale şi medicamente pentru acele medicamente care fac obiectul unei relaţii contractuale cu Ministerul Sănătăţii, casele de asigurări de sănătate şi/sau direcţiile de sănătate publică judeţene şi a municipiului Bucureşti, cuprinse în Catalogul naţional al preţurilor medicamentelor autorizate de punere pe piaţă în România, a preţurilor de referinţă generice şi a preţurilor de referinţă inovative",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "855",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": true
+  },
+  {
+   "id": "315142",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-09-15",
+   "titlu": "PROCEDURĂ din 15 septembrie 2026",
+   "descriere": "de aplicare a dispoziţiilor art. V din Legea nr. 239/2025 privind stabilirea unor măsuri de redresare şi eficientizare a resurselor publice şi pentru modificarea şi completarea unor acte normative, referitoare la opozabilitatea cesiunii părţilor sociale faţă de organul fiscal central şi la stabilirea cadrului de colaborare dintre Agenţia Naţională de Administrare Fiscală şi Oficiul Naţional al Registrului Comerţului",
+   "emitenti": [
+    "Ministerul Justiției"
+   ],
+   "monitor_nr": "855",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315141",
+   "tip": "ORDIN",
+   "numar": "1967",
+   "data_act": "2026-09-15",
+   "titlu": "ORDIN nr. 1.967/C din 15 septembrie 2026",
+   "descriere": "pentru aprobarea Procedurii de aplicare a dispoziţiilor art. V din Legea nr. 239/2025 privind stabilirea unor măsuri de redresare şi eficientizare a resurselor publice şi pentru modificarea şi completarea unor acte normative, referitoare la opozabilitatea cesiunii părţilor sociale faţă de organul fiscal central şi la stabilirea cadrului de colaborare dintre Agenţia Naţională de Administrare Fiscală şi Oficiul Naţional al Registrului Comerţului",
+   "emitenti": [
+    "Ministerul Justiției"
+   ],
+   "monitor_nr": "855",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315140",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-09-23",
+   "titlu": "PROCEDURĂ din 23 septembrie 2026",
+   "descriere": "de aplicare a dispoziţiilor art. V din Legea nr. 239/2025 privind stabilirea unor măsuri de redresare şi eficientizare a resurselor publice şi pentru modificarea şi completarea unor acte normative, referitoare la opozabilitatea cesiunii părţilor sociale faţă de organul fiscal central şi la stabilirea cadrului de colaborare dintre Agenţia Naţională de Administrare Fiscală şi Oficiul Naţional al Registrului Comerţului",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "855",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315139",
+   "tip": "ORDIN",
+   "numar": "1137",
+   "data_act": "2026-09-23",
+   "titlu": "ORDIN nr. 1.137 din 23 septembrie 2026",
+   "descriere": "pentru aprobarea Procedurii de aplicare a dispoziţiilor art. V din Legea nr. 239/2025 privind stabilirea unor măsuri de redresare şi eficientizare a resurselor publice şi pentru modificarea şi completarea unor acte normative, referitoare la opozabilitatea cesiunii părţilor sociale faţă de organul fiscal central şi la stabilirea cadrului de colaborare dintre Agenţia Naţională de Administrare Fiscală şi Oficiul Naţional al Registrului Comerţului",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "855",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315138",
+   "tip": "HOTARARE",
+   "numar": "809",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 809 din 9 octombrie 2026",
+   "descriere": "privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată, precum şi aprobarea listei cuprinzând imobilul proprietate publică a statului şi a listei imobilelor proprietate publică a unităţii administrativ-teritoriale, situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Varianta de ocolire Buftea\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "855",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315137",
+   "tip": "ORDIN",
+   "numar": "1732",
+   "data_act": "2026-10-08",
+   "titlu": "ORDIN nr. 1.732 din 8 octombrie 2026",
+   "descriere": "privind modificarea anexei la Ordinul ministrului sănătăţii publice nr. 1.228/2006 pentru aprobarea Normelor privind organizarea sistemului de hemovigilenţă, de asigurare a trasabilităţii, precum şi a Regulamentului privind sistemul de înregistrare şi raportare în cazul apariţiei de incidente şi reacţii adverse severe legate de colecta şi administrarea de sânge şi de componente sanguine umane",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "854",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": true
+  },
+  {
+   "id": "315136",
+   "tip": "ORDIN",
+   "numar": "153",
+   "data_act": "2026-10-07",
+   "titlu": "ORDIN nr. 153 din 7 octombrie 2026",
+   "descriere": "pentru dobândirea personalităţii juridice de către Şcoala Poliţiei de Frontieră Drobeta-Turnu Severin",
+   "emitenti": [
+    "Ministerul Afacerilor Interne"
+   ],
+   "monitor_nr": "854",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315135",
+   "tip": "HOTARARE",
+   "numar": "808",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 808 din 9 octombrie 2026",
+   "descriere": "privind repartizarea unor sume din transferuri din bugetul de stat către bugetele locale, prevăzute în bugetul Ministerului Educaţiei şi Cercetării, pentru finanţarea în anul 2026 a unor cheltuieli de capital ale unităţilor de învăţământ preuniversitar de stat",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "854",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": true
+  },
+  {
+   "id": "315134",
+   "tip": "HOTARARE",
+   "numar": "807",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 807 din 9 octombrie 2026",
+   "descriere": "pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii \"Hub de servicii MApN - Digital hub\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "854",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315133",
+   "tip": "DECIZIE",
+   "numar": "840",
+   "data_act": "2026-07-15",
+   "titlu": "DECIZIA nr. 840 din 15 iulie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 23 alin. (1) lit. f) din Legea notarilor publici şi a activităţii notariale nr. 36/1995 , în redactarea anterioară intrării în vigoare a Legii nr. 77/2012 pentru modificarea şi completarea Legii notarilor publici şi a activităţii notariale nr. 36/1995",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "854",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315132",
+   "tip": "ORDIN",
+   "numar": "1742",
+   "data_act": "2026-10-09",
+   "titlu": "ORDIN nr. 1.742 din 9 octombrie 2026",
+   "descriere": "privind modificarea Ordinului ministrului sănătăţii nr. 368/2017 pentru aprobarea Normelor privind modul de calcul şi procedura de aprobare a preţurilor maximale ale medicamentelor de uz uman",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "853",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": true
+  },
+  {
+   "id": "315131",
+   "tip": "ORDIN",
+   "numar": "1729",
+   "data_act": "2026-10-07",
+   "titlu": "ORDIN nr. 1.729 din 7 octombrie 2026",
+   "descriere": "pentru completarea Ordinului ministrului sănătăţii nr. 1.124/2026 pentru aprobarea listei unităţilor sanitare publice nominalizate să desfăşoare AP-ROBOTICĂ în condiţiile prevăzute de Ordinul ministrului sănătăţii nr. 991/2026 privind aprobarea modului de administrare, finanţare şi implementare a acţiunilor prioritare pentru asigurarea tratamentului, monitorizării şi îngrijirii pacienţilor care beneficiază de chirurgie robotică - \"AP-ROBOTICĂ\"",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "853",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": true
+  },
+  {
+   "id": "315130",
+   "tip": "ORDIN",
+   "numar": "1392",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 1.392 din 29 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea CONVERSMIN - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "853",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": true
+  },
+  {
+   "id": "315129",
+   "tip": "ORDIN",
+   "numar": "1372",
+   "data_act": "2026-10-08",
+   "titlu": "ORDIN nr. 1.372 din 8 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea CONVERSMIN - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "853",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": true
+  },
+  {
+   "id": "315128",
+   "tip": "ORDIN",
+   "numar": "1535",
+   "data_act": "2026-09-23",
+   "titlu": "ORDIN nr. 1.535 din 23 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea CONVERSMIN - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "853",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315127",
+   "tip": "ORDIN",
+   "numar": "1215",
+   "data_act": "2026-10-08",
+   "titlu": "ORDIN nr. 1.215 din 8 octombrie 2026",
+   "descriere": "privind revocarea măsurii blocării acreditivului DTF/LCI/14315 pentru suma de 1.600.331,24 USD, emis de EximBank - S.A. în beneficiul entităţii METALOINVEST TRADING AG",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "853",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315126",
+   "tip": "HOTARARE",
+   "numar": "811",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 811 din 9 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Regia Autonomă Tehnologii pentru Energia Nucleară, aflată sub autoritatea Ministerului Energiei",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "853",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
+  {
+   "id": "315125",
+   "tip": "DECIZIE",
+   "numar": "393",
+   "data_act": "2026-04-29",
+   "titlu": "DECIZIA nr. 393 din 29 aprilie 2026",
+   "descriere": "referitoare la obiecţia de neconstituţionalitate a Legii pentru completarea Legii educaţiei fizice şi sportului nr. 69/2000",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "853",
+   "data_publicare": "2026-10-12",
+   "data_vigoare": "2026-10-12",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 3,
+   "termeni": [
+    "spor"
+   ],
+   "first_seen": "2026-10-13",
+   "are_text": false
+  },
   {
    "id": "315124",
    "tip": "CRITERII",
