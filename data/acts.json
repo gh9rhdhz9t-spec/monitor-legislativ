@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-14T05:00:34+00:00",
+ "generated_at": "2026-10-14T13:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1456,
- "new_this_run": 0,
+ "total": 1487,
+ "new_this_run": 31,
  "pages_scanned": 6,
  "categories": {
-  "Fiscalitate și buget": 101,
+  "Educație și cercetare": 337,
+  "Administrație publică": 106,
+  "Protecție socială și pensii": 28,
+  "Altele": 113,
+  "Fiscalitate și buget": 102,
+  "Sănătate": 56,
+  "Energie și mediu": 194,
+  "Agricultură și dezvoltare rurală": 72,
+  "Justiție și afaceri interne": 179,
   "Transporturi și infrastructură": 114,
-  "Justiție și afaceri interne": 175,
-  "Educație și cercetare": 333,
-  "Sănătate": 55,
   "Economie, IMM și comerț": 95,
   "Cultură, culte și sport": 23,
-  "Energie și mediu": 184,
-  "Agricultură și dezvoltare rurală": 71,
-  "Administrație publică": 103,
-  "Protecție socială și pensii": 27,
-  "Altele": 107,
   "Apărare și securitate națională": 12,
   "Muncă și dialog social": 27,
   "Economie socială": 2,
@@ -24,6 +24,655 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315186",
+   "tip": "ORDIN",
+   "numar": "5773",
+   "data_act": "2026-10-06",
+   "titlu": "ORDIN nr. 5.773 din 6 octombrie 2026",
+   "descriere": "privind stabilirea condiţiilor de studii, vechime şi competenţe pentru funcţiile didactice auxiliare de informatician, analist programator şi tehnician",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "860",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315185",
+   "tip": "ORDIN",
+   "numar": "5757",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 5.757 din 29 septembrie 2026",
+   "descriere": "privind aprobarea programelor pentru susţinerea evaluării naţionale pentru absolvenţii clasei a VIII-a",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "860",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315184",
+   "tip": "HOTARARE",
+   "numar": "817",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 817 din 9 octombrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Dobrogea\" al Judeţului Constanţa, ca urmare a reevaluării, precum şi trecerea unei construcţii din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi, după caz, valorificării",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "860",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315183",
+   "tip": "HOTARARE",
+   "numar": "816",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 816 din 9 octombrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Casa de Pensii Sectorială, ca urmare a reevaluării, precum şi trecerea unor construcţii din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi, după caz, valorificării",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "860",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 2,
+   "termeni": [
+    "pensii",
+    "guvernul"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315182",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-10-09",
+   "titlu": "NORME METODOLOGICE din 9 octombrie 2026",
+   "descriere": "de aplicare a Legii nr. 27/2018 pentru aprobarea Programului geologic la nivel naţional",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "860",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315181",
+   "tip": "HOTARARE",
+   "numar": "812",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 812 din 9 octombrie 2026",
+   "descriere": "pentru aprobarea Normelor metodologice de aplicare a Legii nr. 27/2018 pentru aprobarea Programului geologic la nivel naţional",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "860",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315180",
+   "tip": "ORDIN",
+   "numar": "5758",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 5.758 din 29 septembrie 2026",
+   "descriere": "privind aprobarea programei şcolare pentru disciplina opţională \"Educaţie fizică militară\", clasele a IX-a - a XII-a, învăţământ liceal, curriculumul la decizia elevului din oferta şcolii, filiera vocaţională, profilul militar, specializarea matematică-informatică, în ofertă naţională",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "859",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": true
+  },
+  {
+   "id": "315179",
+   "tip": "ORDIN",
+   "numar": "1163",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 1.163 din 29 septembrie 2026",
+   "descriere": "pentru aprobarea Procedurii de atragere a răspunderii solidare reglementată de dispoziţiile art. 25 şi 26 din Legea nr. 207/2015 privind Codul de procedură fiscală",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "859",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315178",
+   "tip": "HOTARARE",
+   "numar": "820",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 820 din 9 octombrie 2026",
+   "descriere": "privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului, declararea acestuia ca bun de interes public naţional şi darea acestuia în administrarea Ministerului Sănătăţii, prin Institutul Naţional de Recuperare, Medicină Fizică şi Balneoclimatologie",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "859",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315177",
+   "tip": "RAPORT",
+   "numar": "15739",
+   "data_act": "2026-09-03",
+   "titlu": "RAPORT nr. 15.739 din 3 septembrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Uniunea Independentă pentru Sighişoara",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315176",
+   "tip": "RAPORT",
+   "numar": "14787",
+   "data_act": "2026-08-19",
+   "titlu": "RAPORT nr. 14.787 din 19 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Liberal Timiş în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315175",
+   "tip": "RAPORT",
+   "numar": "14451",
+   "data_act": "2026-08-13",
+   "titlu": "RAPORT nr. 14.451 din 13 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa Antreprenorilor şi Agricultorilor în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315174",
+   "tip": "RAPORT",
+   "numar": "14269",
+   "data_act": "2026-08-11",
+   "titlu": "RAPORT nr. 14.269 din 11 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Diaspora Unită",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315173",
+   "tip": "RAPORT",
+   "numar": "12939",
+   "data_act": "2026-07-20",
+   "titlu": "RAPORT nr. 12.939 din 20 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa Naţional Creştină în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315172",
+   "tip": "RAPORT",
+   "numar": "12708",
+   "data_act": "2026-07-23",
+   "titlu": "RAPORT nr. 12.708 din 23 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Diaspora Română",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315171",
+   "tip": "RAPORT",
+   "numar": "12352",
+   "data_act": "2026-09-28",
+   "titlu": "RAPORT nr. 12.352 din 28 septembrie 2026",
+   "descriere": "privind verificarea respectării prevederilor legale privind veniturile şi cheltuielile Partidului Naţional Socialist în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315170",
+   "tip": "RAPORT",
+   "numar": "11265",
+   "data_act": "2026-07-02",
+   "titlu": "RAPORT nr. 11.265 din 2 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Mişcarea pentru Comună - Mozgalom a Községéret",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315169",
+   "tip": "ORDIN",
+   "numar": "4442",
+   "data_act": "2026-07-20",
+   "titlu": "ORDIN nr. 4.442 din 20 iulie 2026",
+   "descriere": "privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2026 pentru institutele naţionale de cercetare-dezvoltare din coordonarea Autorităţii Naţionale pentru Cercetare",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315168",
+   "tip": "ORDIN",
+   "numar": "2078",
+   "data_act": "2026-10-07",
+   "titlu": "ORDIN nr. 2.078 din 7 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului privind organizarea, funcţionarea şi componenţa Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum şi criteriile de atestare pentru activitatea de exploatare forestieră, aprobat prin Ordinul ministrului apelor şi pădurilor nr. 1.106/2018",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315167",
+   "tip": "HOTARARE",
+   "numar": "819",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 819 din 9 octombrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Barbu Ştirbei\" al Judeţului Călăraşi",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315166",
+   "tip": "HOTARARE",
+   "numar": "818",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 818 din 9 octombrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Direcţia Generală de Protecţie Internă, ca urmare a reevaluării, precum şi trecerea unei construcţii din acest imobil din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315163",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-10-07",
+   "titlu": "REGULAMENT din 7 octombrie 2026",
+   "descriere": "de desfăşurare a concursului sau examenului pentru ocuparea funcţiei de inspector de integritate prin transfer, la cerere, în cadrul Agenţiei Naţionale de Integritate",
+   "emitenti": [
+    "Consiliul Național de Integritate"
+   ],
+   "monitor_nr": "857",
+   "data_publicare": "2026-10-13",
+   "data_vigoare": "2026-10-13",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315162",
+   "tip": "HOTARARE",
+   "numar": "8",
+   "data_act": "2026-10-07",
+   "titlu": "HOTĂRÂRE nr. 8 din 7 octombrie 2026",
+   "descriere": "pentru aprobarea Regulamentului de desfăşurare a concursului sau examenului pentru ocuparea funcţiei de inspector de integritate prin transfer, la cerere, în cadrul Agenţiei Naţionale de Integritate",
+   "emitenti": [
+    "Consiliul Național de Integritate"
+   ],
+   "monitor_nr": "857",
+   "data_publicare": "2026-10-13",
+   "data_vigoare": "2026-10-13",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315161",
+   "tip": "HOTARARE",
+   "numar": "824",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 824 din 9 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Hotărârii Guvernului nr. 123/2015 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a echipamentelor sub presiune",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "857",
+   "data_publicare": "2026-10-13",
+   "data_vigoare": "2026-10-13",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315160",
+   "tip": "DECRET",
+   "numar": "807",
+   "data_act": "2026-10-13",
+   "titlu": "DECRET nr. 807 din 13 octombrie 2026",
+   "descriere": "privind trecerea în rezervă a unui general-locotenent cu trei stele din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "857",
+   "data_publicare": "2026-10-13",
+   "data_vigoare": "2026-10-13",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315159",
+   "tip": "DECRET",
+   "numar": "806",
+   "data_act": "2026-10-13",
+   "titlu": "DECRET nr. 806 din 13 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "857",
+   "data_publicare": "2026-10-13",
+   "data_vigoare": "2026-10-13",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315158",
+   "tip": "DECRET",
+   "numar": "805",
+   "data_act": "2026-10-13",
+   "titlu": "DECRET nr. 805 din 13 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "857",
+   "data_publicare": "2026-10-13",
+   "data_vigoare": "2026-10-13",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315157",
+   "tip": "DECRET",
+   "numar": "804",
+   "data_act": "2026-10-13",
+   "titlu": "DECRET nr. 804 din 13 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "857",
+   "data_publicare": "2026-10-13",
+   "data_vigoare": "2026-10-13",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315156",
+   "tip": "DECRET",
+   "numar": "803",
+   "data_act": "2026-10-13",
+   "titlu": "DECRET nr. 803 din 13 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "857",
+   "data_publicare": "2026-10-13",
+   "data_vigoare": "2026-10-13",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315155",
+   "tip": "HOTARARE",
+   "numar": "132",
+   "data_act": "2026-10-12",
+   "titlu": "HOTĂRÂRE nr. 132 din 12 octombrie 2026",
+   "descriere": "pentru modificarea art. 3 din Hotărârea Senatului nr. 113/2026 privind încuviinţarea desfăşurării unei anchete parlamentare de către o comisie permanentă",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "857",
+   "data_publicare": "2026-10-13",
+   "data_vigoare": "2026-10-13",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
+  {
+   "id": "315154",
+   "tip": "DECLARATIE",
+   "numar": "2",
+   "data_act": "2026-10-12",
+   "titlu": "DECLARAŢIE nr. 2 din 12 octombrie 2026",
+   "descriere": "privind apărarea dreptului României de a-şi proteja interesele naţionale în cadrul Politicii externe şi de securitate comune a Uniunii Europene şi lipsa unui mandat politic şi parlamentar transparent al ministrului interimar al afacerilor externe, Oana-Silvia Ţoiu, în materia anulării mecanismului de vot unanim la nivelul Consiliului UE în chestiuni de politică externă şi securitate comună",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "857",
+   "data_publicare": "2026-10-13",
+   "data_vigoare": "2026-10-13",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-10-14",
+   "are_text": false
+  },
   {
    "id": "315153",
    "tip": "ORDIN",
