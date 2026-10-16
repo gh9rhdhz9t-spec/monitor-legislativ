@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-10-15T05:00:00+00:00",
+ "generated_at": "2026-10-16T05:04:12+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1487,
- "new_this_run": 0,
+ "total": 1505,
+ "new_this_run": 18,
  "pages_scanned": 6,
  "categories": {
+  "Energie și mediu": 199,
+  "Transporturi și infrastructură": 117,
+  "Sănătate": 58,
+  "Altele": 116,
+  "Justiție și afaceri interne": 182,
+  "Administrație publică": 108,
   "Educație și cercetare": 337,
-  "Administrație publică": 106,
   "Protecție socială și pensii": 28,
-  "Altele": 113,
   "Fiscalitate și buget": 102,
-  "Sănătate": 56,
-  "Energie și mediu": 194,
   "Agricultură și dezvoltare rurală": 72,
-  "Justiție și afaceri interne": 179,
-  "Transporturi și infrastructură": 114,
   "Economie, IMM și comerț": 95,
   "Cultură, culte și sport": 23,
   "Apărare și securitate națională": 12,
@@ -24,6 +24,384 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315205",
+   "tip": "ORDIN",
+   "numar": "1218",
+   "data_act": "2026-10-13",
+   "titlu": "ORDIN nr. 1.218 din 13 octombrie 2026",
+   "descriere": "pentru modificarea art. 5 din Ordinul ministrului dezvoltării, lucrărilor publice şi administraţiei nr. 1.466/2022 pentru stabilirea formatului Raportului anual cu privire la respectarea normelor de conduită de către personalul contractual din aparatul propriu al instituţiilor şi autorităţilor publice sau din instituţiile aflate în subordine, coordonare ori sub autoritate, precum şi a informaţiilor conţinute de acesta",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "864",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "personal contractual"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315204",
+   "tip": "HOTARARE",
+   "numar": "821",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 821 din 9 octombrie 2026",
+   "descriere": "privind divizarea unui număr M.F., modificarea adresei, a elementelor-cadru de descriere tehnică şi a valorilor de inventar ale unor bunuri aflate în domeniul public al statului şi în administrarea Aeroclubului României, aflate pe teritoriul judeţului Dolj, instituţie publică ce funcţionează în subordinea Ministerului Transporturilor şi Infrastructurii, precum şi modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, precum şi pentru aprobarea închirierii unor părţi ale unor bunuri din domeniul public al statului, aflate în administrarea Aeroclubului României de pe teritoriul judeţului Dolj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "864",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315203",
+   "tip": "AMENDAMENT",
+   "numar": "1",
+   "data_act": "2026-09-08",
+   "titlu": "AMENDAMENT nr. 1 din 8 septembrie 2026",
+   "descriere": "convenit între Guvernul României şi Banca Europeană de Investiţii, prin scrisoarea semnată la Luxemburg la 3 septembrie 2026 şi la Bucureşti la 8 septembrie 2026, la Contractul de finanţare (Spitalul Regional de Urgenţă Iaşi - COVID-19) dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti şi la Luxemburg la 20 aprilie 2021, la Contractul de finanţare (Spitalul Regional de Urgenţă Cluj) dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 11 noiembrie 2021 şi la Luxemburg la 15 noiembrie 2021, şi la Contractul de finanţare - Spitalul Regional de Urgenţă Craiova - dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 6 aprilie 2022 şi la Luxemburg la 11 aprilie 2022",
+   "emitenti": [
+    "Act Internațional"
+   ],
+   "monitor_nr": "864",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315202",
+   "tip": "HOTARARE",
+   "numar": "814",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 814 din 9 octombrie 2026",
+   "descriere": "pentru aprobarea amendamentului nr. 1 convenit între Guvernul României şi Banca Europeană de Investiţii, prin scrisoarea semnată la Luxemburg la 3 septembrie 2026 şi la Bucureşti la 8 septembrie 2026, la Contractul de finanţare (Spitalul Regional de Urgenţă Iaşi - COVID-19) dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti şi la Luxemburg la 20 aprilie 2021, la Contractul de finanţare (Spitalul Regional de Urgenţă Cluj) dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 11 noiembrie 2021 şi la Luxemburg la 15 noiembrie 2021, şi la Contractul de finanţare - Spitalul Regional de Urgenţă Craiova - dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 6 aprilie 2022 şi la Luxemburg la 11 aprilie 2022",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "864",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315201",
+   "tip": "HOTARARE",
+   "numar": "822",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 822 din 9 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Hotărârii Guvernului nr. 824/2015 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a recipientelor simple sub presiune",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "863",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315200",
+   "tip": "HOTARARE",
+   "numar": "810",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 810 din 9 octombrie 2026",
+   "descriere": "privind suplimentarea pe anul 2026 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 496/2017 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Legătura reţelei de metrou cu Aeroportul Internaţional Henri Coandă - Otopeni (Magistrala 6. 1 Mai - Otopeni)\", precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 496/2017",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "863",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315199",
+   "tip": "DECIZIE",
+   "numar": "346",
+   "data_act": "2025-07-01",
+   "titlu": "DECIZIA nr. 346 din 1 iulie 2025",
+   "descriere": "referitoare la obiecţia de neconstituţionalitate a dispoziţiilor art. II din Legea privind modificarea şi completarea Legii nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, precum şi pentru modificarea art. 451 din Legea nr. 134/2010 privind Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "863",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315198",
+   "tip": "RECTIFICARE",
+   "numar": "169",
+   "data_act": "2026-08-05",
+   "titlu": "RECTIFICARE nr. 169 din 5 august 2026",
+   "descriere": "referitoare la Legea nr. 169/2026 privind Codul amenajării teritoriului, urbanismului şi construcţiilor",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "862",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315197",
+   "tip": "ORDIN",
+   "numar": "64",
+   "data_act": "2026-10-13",
+   "titlu": "ORDIN nr. 64 din 13 octombrie 2026",
+   "descriere": "privind aprobarea valorilor preţurilor de referinţă pentru energia termică livrată în SACET din centrale cu unităţi de cogenerare care nu beneficiază de scheme de sprijin pentru promovarea cogenerării de înaltă eficienţă, aplicabile în perioada noiembrie-decembrie 2026 şi semestrul I al anului 2027",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "862",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-11-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315196",
+   "tip": "ORDIN",
+   "numar": "63",
+   "data_act": "2026-10-13",
+   "titlu": "ORDIN nr. 63 din 13 octombrie 2026",
+   "descriere": "privind aprobarea valorilor bonusurilor de referinţă pentru energia electrică produsă în cogenerare de înaltă eficienţă şi ale preţurilor de referinţă pentru energia termică produsă în cogenerare, aplicabile în anul 2027",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "862",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-11-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315195",
+   "tip": "ORDIN",
+   "numar": "62",
+   "data_act": "2026-10-13",
+   "titlu": "ORDIN nr. 62 din 13 octombrie 2026",
+   "descriere": "privind aprobarea preţului de referinţă al energiei electrice produse în cogenerare de înaltă eficienţă, care beneficiază de bonus",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "862",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-11-01",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315194",
+   "tip": "DECIZIE",
+   "numar": "329",
+   "data_act": "2026-10-14",
+   "titlu": "DECIZIE nr. 329 din 14 octombrie 2026",
+   "descriere": "privind acordarea autorizării pentru MADYCOR ELECTRIC - S.R.L. privind utilizarea echipamentelor de infrastructură 5G",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "862",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315193",
+   "tip": "DECIZIE",
+   "numar": "328",
+   "data_act": "2026-10-14",
+   "titlu": "DECIZIE nr. 328 din 14 octombrie 2026",
+   "descriere": "privind acordarea autorizării pentru CYBER SEPIO SYSTEMS LTD. privind utilizarea echipamentelor de infrastructură 5G",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "862",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315192",
+   "tip": "DECIZIE",
+   "numar": "327",
+   "data_act": "2026-10-14",
+   "titlu": "DECIZIE nr. 327 din 14 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Nicoleta Butunoiu a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Instituţiei Prefectului - Judeţul Galaţi",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "862",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315191",
+   "tip": "DECIZIE",
+   "numar": "326",
+   "data_act": "2026-10-14",
+   "titlu": "DECIZIE nr. 326 din 14 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Ştefania Mitiţescu a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Instituţiei Prefectului - Judeţul Constanţa",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "862",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315190",
+   "tip": "HOTARARE",
+   "numar": "823",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 823 din 9 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Hotărârii Guvernului nr. 410/2016 privind stabilirea condiţiilor pentru introducerea pe piaţă sau punerea în funcţiune a ascensoarelor şi pentru punerea la dispoziţie pe piaţă a componentelor de siguranţă pentru ascensoare",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "862",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315189",
+   "tip": "DECIZIE",
+   "numar": "237",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 237 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 862 din Codul civil",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "862",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315188",
+   "tip": "DECIZIE",
+   "numar": "235",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 235 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 783 alin. (1) teza întâi din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "862",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
   {
    "id": "315186",
    "tip": "ORDIN",
