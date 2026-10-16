@@ -1,21 +1,21 @@
 {
- "generated_at": "2026-10-16T05:04:12+00:00",
+ "generated_at": "2026-10-16T13:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1505,
- "new_this_run": 18,
+ "total": 1537,
+ "new_this_run": 32,
  "pages_scanned": 6,
  "categories": {
+  "Justiție și afaceri interne": 186,
+  "Economie, IMM și comerț": 101,
+  "Sănătate": 60,
+  "Educație și cercetare": 341,
+  "Transporturi și infrastructură": 118,
+  "Fiscalitate și buget": 108,
+  "Altele": 124,
   "Energie și mediu": 199,
-  "Transporturi și infrastructură": 117,
-  "Sănătate": 58,
-  "Altele": 116,
-  "Justiție și afaceri interne": 182,
+  "Protecție socială și pensii": 29,
   "Administrație publică": 108,
-  "Educație și cercetare": 337,
-  "Protecție socială și pensii": 28,
-  "Fiscalitate și buget": 102,
   "Agricultură și dezvoltare rurală": 72,
-  "Economie, IMM și comerț": 95,
   "Cultură, culte și sport": 23,
   "Apărare și securitate națională": 12,
   "Muncă și dialog social": 27,
@@ -24,6 +24,575 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315237",
+   "tip": "DECIZIE",
+   "numar": "9",
+   "data_act": "2026-09-21",
+   "titlu": "DECIZIA nr. 9 din 21 septembrie 2026",
+   "descriere": "referitoare la interpretarea şi aplicarea unitară a dispoziţiilor art. 193 alin. (3) raportat la art. 192 alin. (1) din Legea societăţilor nr. 31/1990, republicată , cu modificările şi completările ulterioare",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "866",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315236",
+   "tip": "ORDIN",
+   "numar": "2149",
+   "data_act": "2026-10-07",
+   "titlu": "ORDIN nr. 2.149/C din 7 octombrie 2026",
+   "descriere": "privind procedura de efectuare a plăţii sumelor prevăzute prin hotărâri judecătoreşti, stabilite în favoarea personalului din aparatul propriu al Ministerului Justiţiei şi a celui din instituţiile publice aflate în subordinea acestuia, devenite executorii în perioada 1 ianuarie 2025-31 decembrie 2026",
+   "emitenti": [
+    "Ministerul Justiției"
+   ],
+   "monitor_nr": "866",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315235",
+   "tip": "INSTRUCTIUNI",
+   "numar": "",
+   "data_act": "2026-10-14",
+   "titlu": "INSTRUCȚIUNEA TEHNICĂ din 14 octombrie 2026",
+   "descriere": "prevăzută la alin. (1) al art. 18 din Legea nr. 141/2026 privind aplicarea unor măsuri pentru accelerarea implementării investiţiilor publice în domeniul construcţiilor, în cazul proiectelor finanţate prin Programul operaţional Infrastructură mare 2014-2020 declarate nefuncţionale",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "866",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315234",
+   "tip": "ORDIN",
+   "numar": "1581",
+   "data_act": "2026-10-14",
+   "titlu": "ORDIN nr. 1.581 din 14 octombrie 2026",
+   "descriere": "pentru aprobarea Instrucţiunii tehnice prevăzute la alin. (1) al art. 18 din Legea nr. 141/2026 privind aplicarea unor măsuri pentru accelerarea implementării investiţiilor publice în domeniul construcţiilor, în cazul proiectelor finanţate prin Programul operaţional Infrastructură mare 2014-2020 declarate nefuncţionale",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "866",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315233",
+   "tip": "ORDIN",
+   "numar": "968",
+   "data_act": "2026-10-12",
+   "titlu": "ORDIN nr. 968 din 12 octombrie 2026",
+   "descriere": "privind modificarea şi completarea Normei sanitar-veterinare pentru punerea în aplicare a Regulamentului (UE) 2019/6 al Parlamentului European şi al Consiliului din 11 decembrie 2018 privind produsele medicinale veterinare şi de abrogare a Directivei 2001/82/CE, în ceea ce priveşte autorizaţiile de comercializare, aprobarea studiilor clinice şi farmacovigilenţa produselor medicinale veterinare, aprobată prin Ordinul preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 59/2022",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "866",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315232",
+   "tip": "ORDIN",
+   "numar": "5203",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.203 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Profesională Cozmeşti din comuna Cozmeşti, judeţul Iaşi",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "867",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": true
+  },
+  {
+   "id": "315231",
+   "tip": "ORDIN",
+   "numar": "1775",
+   "data_act": "2026-10-12",
+   "titlu": "ORDIN nr. 1.775 din 12 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului privind timpul de muncă, organizarea şi efectuarea gărzilor în unităţile publice din sectorul sanitar, aprobat prin Ordinul ministrului sănătăţii nr. 870/2004",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "867",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 6,
+   "termeni": [
+    "timp de munca",
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": true
+  },
+  {
+   "id": "315230",
+   "tip": "HOTARARE",
+   "numar": "813",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 813 din 9 octombrie 2026",
+   "descriere": "privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, aprobarea listei imobilelor proprietate publică a statului, precum şi aprobarea listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Braşov-Târgu Mureş-Cluj-Oradea\", secţiunea 3C Suplacu de Barcău-Borş, subsecţiunea 3C1 Suplacu de Barcău-Chiribiş km 4+200 - km 30+550",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "867",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315224",
+   "tip": "RECTIFICARE",
+   "numar": "5559",
+   "data_act": "2026-08-31",
+   "titlu": "RECTIFICARE nr. 5.559 din 31 august 2026",
+   "descriere": "referitoare la Ordinul ministrului educaţiei şi cercetării nr. 5.559/2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315223",
+   "tip": "RECTIFICARE",
+   "numar": "5235",
+   "data_act": "2026-08-28",
+   "titlu": "RECTIFICARE nr. 5.235 din 28 august 2026",
+   "descriere": "referitoare la Ordinul ministrului educaţiei şi cercetării nr. 5.235/2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315222",
+   "tip": "ORDIN",
+   "numar": "5119",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.119 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie Universităţii Naţionale de Ştiinţă şi Tehnologie Politehnica Bucureşti pentru unitatea de învăţământ preuniversitar de stat Colegiul Terţiar Nonuniversitar Slatina din municipiul Slatina, judeţul Olt",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315221",
+   "tip": "DECRET",
+   "numar": "815",
+   "data_act": "2026-10-14",
+   "titlu": "DECRET nr. 815 din 14 octombrie 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea Legii nr. 175/2026 privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul suin, în anul 2026, în contextul crizei din Orientul Mijlociu, precum şi pentru aprobarea unor măsuri de aplicare a acesteia şi a Legii nr. 176/2026 privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul bovin, în anul 2026, în contextul crizei din Orientul Mijlociu",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315220",
+   "tip": "LEGE",
+   "numar": "203",
+   "data_act": "2026-10-15",
+   "titlu": "LEGE nr. 203 din 15 octombrie 2026",
+   "descriere": "pentru modificarea Legii nr. 175/2026 privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul suin, în anul 2026, în contextul crizei din Orientul Mijlociu, precum şi pentru aprobarea unor măsuri de aplicare a acesteia şi a Legii nr. 176/2026 privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul bovin, în anul 2026, în contextul crizei din Orientul Mijlociu",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-18",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": true
+  },
+  {
+   "id": "315219",
+   "tip": "DECRET",
+   "numar": "814",
+   "data_act": "2026-10-14",
+   "titlu": "DECRET nr. 814 din 14 octombrie 2026",
+   "descriere": "privind promulgarea Legii pentru înfiinţarea şi funcţionarea conturilor de economii şi de investiţii, precum şi pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315218",
+   "tip": "LEGE",
+   "numar": "202",
+   "data_act": "2026-10-15",
+   "titlu": "LEGE nr. 202 din 15 octombrie 2026",
+   "descriere": "pentru înfiinţarea şi funcţionarea conturilor de economii şi de investiţii, precum şi pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-18",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 5,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": true
+  },
+  {
+   "id": "315217",
+   "tip": "DECRET",
+   "numar": "813",
+   "data_act": "2026-10-14",
+   "titlu": "DECRET nr. 813 din 14 octombrie 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea Legii nr. 286/2009 privind Codul penal",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315216",
+   "tip": "LEGE",
+   "numar": "201",
+   "data_act": "2026-10-15",
+   "titlu": "LEGE nr. 201 din 15 octombrie 2026",
+   "descriere": "pentru modificarea Legii nr. 286/2009 privind Codul penal",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-18",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": true
+  },
+  {
+   "id": "315215",
+   "tip": "DECRET",
+   "numar": "812",
+   "data_act": "2026-10-14",
+   "titlu": "DECRET nr. 812 din 14 octombrie 2026",
+   "descriere": "privind promulgarea Legii pentru instituirea zilei de 8 septembrie ca Ziua Naţională a Atletismului Românesc",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315214",
+   "tip": "LEGE",
+   "numar": "200",
+   "data_act": "2026-10-15",
+   "titlu": "LEGE nr. 200 din 15 octombrie 2026",
+   "descriere": "pentru instituirea zilei de 8 septembrie ca Ziua Naţională a Atletismului Românesc",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-18",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": true
+  },
+  {
+   "id": "315213",
+   "tip": "DECRET",
+   "numar": "811",
+   "data_act": "2026-10-14",
+   "titlu": "DECRET nr. 811 din 14 octombrie 2026",
+   "descriere": "privind promulgarea Legii pentru completarea art. 291 alin. (2) din Legea nr. 227/2015 privind Codul fiscal",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315212",
+   "tip": "LEGE",
+   "numar": "199",
+   "data_act": "2026-10-15",
+   "titlu": "LEGE nr. 199 din 15 octombrie 2026",
+   "descriere": "pentru completarea art. 291 alin. (2) din Legea nr. 227/2015 privind Codul fiscal",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-18",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": true
+  },
+  {
+   "id": "315211",
+   "tip": "DECRET",
+   "numar": "810",
+   "data_act": "2026-10-14",
+   "titlu": "DECRET nr. 810 din 14 octombrie 2026",
+   "descriere": "pentru promulgarea Legii privind dezvoltarea turismului balnear românesc ca domeniu strategic prioritar al economiei naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315210",
+   "tip": "LEGE",
+   "numar": "198",
+   "data_act": "2026-10-15",
+   "titlu": "LEGE nr. 198 din 15 octombrie 2026",
+   "descriere": "privind dezvoltarea turismului balnear românesc ca domeniu strategic prioritar al economiei naţionale",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-11-14",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 5,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": true
+  },
+  {
+   "id": "315209",
+   "tip": "DECRET",
+   "numar": "809",
+   "data_act": "2026-10-14",
+   "titlu": "DECRET nr. 809 din 14 octombrie 2026",
+   "descriere": "privind promulgarea Legii pentru declararea municipiului Târgovişte ca Oraş Voievodal",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315208",
+   "tip": "LEGE",
+   "numar": "197",
+   "data_act": "2026-10-15",
+   "titlu": "LEGE nr. 197 din 15 octombrie 2026",
+   "descriere": "pentru declararea municipiului Târgovişte ca Oraş Voievodal",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-18",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": true
+  },
+  {
+   "id": "315207",
+   "tip": "DECRET",
+   "numar": "808",
+   "data_act": "2026-10-14",
+   "titlu": "DECRET nr. 808 din 14 octombrie 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr. 407/2006",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315206",
+   "tip": "LEGE",
+   "numar": "196",
+   "data_act": "2026-10-15",
+   "titlu": "LEGE nr. 196 din 15 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr. 407/2006",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "865",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-11-14",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": true
+  },
   {
    "id": "315205",
    "tip": "ORDIN",
@@ -170,6 +739,68 @@
    "vigoare_text": "",
    "categorie": "Justiție și afaceri interne",
    "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "309946",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-10-15",
+   "titlu": "COMUNICAT din 15 octombrie 2026",
+   "descriere": "privind stabilirea pensiei de urmaş prin aplicarea procentului prevăzut de art. 79 alin. (2) Legea nr. 360/2023",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-10-15",
+   "data_vigoare": "2026-10-15",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315228",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-09-29",
+   "titlu": "ANEXE din 29 septembrie 2026",
+   "descriere": "referitoare la aprobarea modelului, conținutului, precum și a caracteristicilor de tipărire, modului de difuzare, utilizare și păstrare a referatului privind declanșarea procedurii de atragere a răspunderii solidare, referatului privind încetarea procedurii de atragere a răspunderii solidare, notificării privind convocarea la audiere în procedura de atragere a răspunderii solidare, notei de constatare privind neprezentarea la audiere în procedura de atragere a răspunderii solidare, procesului-verbal de audiere în procedura de atragere a răspunderii solidare, referatului privind atragerea răspunderii solidare și a deciziei de atragere a răspunderii solidare",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "859",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315227",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-09-29",
+   "titlu": "PROCEDURA din 29 septembrie 2026",
+   "descriere": "de atragere a răspunderii solidare reglementată de dispoziţiile art. 25 şi 26 din Legea nr. 207/2015 privind Codul de procedură fiscală",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "859",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
    "termeni": [],
    "first_seen": "2026-10-16",
    "are_text": false
@@ -3319,6 +3950,46 @@
     "guvernul"
    ],
    "first_seen": "2026-10-07",
+   "are_text": false
+  },
+  {
+   "id": "315165",
+   "tip": "REGLEMENTARI",
+   "numar": "",
+   "data_act": "2026-09-17",
+   "titlu": "REGLEMENTARE TEHNICĂ din 17 septembrie 2026",
+   "descriere": "Instrucţiune tehnică de execuţie pentru soluţiile de îmbunătăţire a terenului de fundare, indicativ RTC 17-2026",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "843",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315164",
+   "tip": "REGLEMENTARI",
+   "numar": "",
+   "data_act": "2026-09-17",
+   "titlu": "REGLEMENTARE TEHNICĂ din 17 septembrie 2026",
+   "descriere": "Normativ privind proiectarea soluţiilor de îmbunătăţire a terenului de fundare şi a lucrărilor din pământ, indicativ RTC 16-2026",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "843",
+   "data_publicare": "2026-10-06",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-16",
    "are_text": false
   },
   {
