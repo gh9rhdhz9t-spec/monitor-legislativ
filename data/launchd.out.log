@@ -3599,3 +3599,43 @@ Cele mai relevante acte din aceasta rulare:
   [8] Fiscalitate și buget — ORDIN nr. 685 din 29 mai 2026
   [8] Muncă și dialog social — DECIZIA nr. 40 din 9 martie 2026
 dist/radar-legislativ.html — 1200 acte, 251 cu text integral, 3.68 MB
+fatal: unable to access 'https://github.com/gh9rhdhz9t-spec/monitor-legislativ.git/': Could not resolve host: github.com
+[2026-10-17 13:25:42] Push eșuat — comitul rămâne local, se trimite la rularea următoare.
+[2026-10-17 13:25:42] Gata: 0 acte noi, 1537 în total. Artefactul poate fi republicat.
+[2026-10-17 13:25:42] Date noi publicate pe GitHub; rutina din cloud le va prelua.
+[2026-10-17 16:01:40] ── pornesc actualizarea ──
+  ! nu am putut initializa sesiunea: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 1/5), reincerc in 5s
+  ! The read operation timed out (incercarea 1/5), reincerc in 5s
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 2/5), reincerc in 10s
+  ! nu am putut initializa sesiunea: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 3/5), reincerc in 20s
+  ! <urlopen error [Errno 8] nodename nor servname provided, or not known> (incercarea 4/5), reincerc in 40s
+Baza existenta: 1537 acte
+→ pagina 1/6
+  50 acte (total unic: 50)
+→ pagina 2/6
+  · sesiune initializata (2 cookie-uri)
+  50 acte (total unic: 100)
+→ pagina 3/6
+  50 acte (total unic: 150)
+→ pagina 4/6
+  50 acte (total unic: 200)
+→ pagina 5/6
+  50 acte (total unic: 250)
+→ pagina 6/6
+  50 acte (total unic: 300)
+Text integral disponibil pentru 306 acte (0 fisiere eliminate)
+
+1537 acte in baza (0 noi, 0 eliminate prin retentie)
+
+Cele mai relevante acte din aceasta rulare:
+  [8] Protecție socială și pensii — ORDIN nr. 1.277 din 14 septembrie 2026
+  [10] Muncă și dialog social — HOTĂRÂRE nr. 726 din 11 septembrie 2026
+  [9] Protecție socială și pensii — DECIZIA nr. 182 din 26 februarie 2026
+  [8] Muncă și dialog social — DECIZIA nr. 77 din 22 iunie 2026
+  [8] Protecție socială și pensii — ANEXE din 12 august 2026
+  [8] Protecție socială și pensii — ORDIN nr. 197 din 12 august 2026
+  [8] Fiscalitate și buget — ORDIN nr. 685 din 29 mai 2026
+  [8] Muncă și dialog social — DECIZIA nr. 40 din 9 martie 2026
+dist/radar-legislativ.html — 1200 acte, 251 cu text integral, 3.68 MB
