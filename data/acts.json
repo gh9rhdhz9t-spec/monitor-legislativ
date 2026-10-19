@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-10-18T13:00:54+00:00",
+ "generated_at": "2026-10-19T05:15:27+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1537,
- "new_this_run": 0,
+ "total": 1555,
+ "new_this_run": 18,
  "pages_scanned": 6,
  "categories": {
-  "Justiție și afaceri interne": 186,
+  "Altele": 127,
+  "Transporturi și infrastructură": 120,
+  "Administrație publică": 111,
+  "Energie și mediu": 203,
+  "Educație și cercetare": 345,
+  "Fiscalitate și buget": 109,
+  "Justiție și afaceri interne": 187,
   "Economie, IMM și comerț": 101,
   "Sănătate": 60,
-  "Educație și cercetare": 341,
-  "Transporturi și infrastructură": 118,
-  "Fiscalitate și buget": 108,
-  "Altele": 124,
-  "Energie și mediu": 199,
   "Protecție socială și pensii": 29,
-  "Administrație publică": 108,
   "Agricultură și dezvoltare rurală": 72,
   "Cultură, culte și sport": 23,
   "Apărare și securitate națională": 12,
@@ -24,6 +24,387 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315256",
+   "tip": "RECTIFICARE",
+   "numar": "155",
+   "data_act": "2026-07-20",
+   "titlu": "RECTIFICARE nr. 155 din 20 iulie 2026",
+   "descriere": "referitoare la Legea nr. 155/2026",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "869",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315255",
+   "tip": "CIRCULARA",
+   "numar": "27",
+   "data_act": "2026-10-09",
+   "titlu": "CIRCULARĂ nr. 27 din 9 octombrie 2026",
+   "descriere": "privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 septembrie-23 octombrie 2026",
+   "emitenti": [
+    "Banca Națională a României"
+   ],
+   "monitor_nr": "869",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315254",
+   "tip": "CIRCULARA",
+   "numar": "26",
+   "data_act": "2026-10-09",
+   "titlu": "CIRCULARĂ nr. 26 din 9 octombrie 2026",
+   "descriere": "privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 septembrie-23 octombrie 2026",
+   "emitenti": [
+    "Banca Națională a României"
+   ],
+   "monitor_nr": "869",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315253",
+   "tip": "HOTARARE",
+   "numar": "825",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 825 din 16 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Buzas-Fekete Maria din funcţia de subprefect al judeţului Cluj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "869",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315252",
+   "tip": "HOTARARE",
+   "numar": "815",
+   "data_act": "2026-10-09",
+   "titlu": "HOTĂRÂRE nr. 815 din 9 octombrie 2026",
+   "descriere": "privind trecerea unor părţi de imobile aflate în administrarea Ministerului Apărării Naţionale, constituite din construcţii şi amenajări la terenuri, situate în judeţele Constanţa, Neamţ, Alba, Ilfov, Braşov, Gorj, Prahova, Buzău şi municipiul Bucureşti, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "869",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315251",
+   "tip": "RECTIFICARE",
+   "numar": "4308",
+   "data_act": "2026-06-30",
+   "titlu": "RECTIFICARE nr. 4.308 din 30 iunie 2026",
+   "descriere": "referitoare la Ordinul ministrului educaţiei şi cercetării nr. 4.308/2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315250",
+   "tip": "RECTIFICARE",
+   "numar": "4019",
+   "data_act": "2026-05-28",
+   "titlu": "RECTIFICARE nr. 4.019 din 28 mai 2026",
+   "descriere": "referitor la Ordinul ministrului educaţiei şi cercetării nr. 4.019/2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315249",
+   "tip": "RECTIFICARE",
+   "numar": "314",
+   "data_act": "2026-09-25",
+   "titlu": "RECTIFICARE nr. 314 din 25 septembrie 2026",
+   "descriere": "referitoare la Decizia prim-ministrului nr. 314/2026",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315248",
+   "tip": "ORDIN",
+   "numar": "5814",
+   "data_act": "2026-10-15",
+   "titlu": "ORDIN nr. 5.814 din 15 octombrie 2026",
+   "descriere": "pentru aprobarea Calendarului operaţiunilor de organizare a reţelei şcolare, pentru anul şcolar 2027-2028",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315247",
+   "tip": "ORDIN",
+   "numar": "5813",
+   "data_act": "2026-10-15",
+   "titlu": "ORDIN nr. 5.813 din 15 octombrie 2026",
+   "descriere": "pentru aprobarea Calendarului activităţilor privind reorganizarea unor unităţi de învăţământ preuniversitar, pentru anul şcolar 2027-2028",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": true
+  },
+  {
+   "id": "315246",
+   "tip": "ORDIN",
+   "numar": "1425",
+   "data_act": "2026-10-15",
+   "titlu": "ORDIN nr. 1.425 din 15 octombrie 2026",
+   "descriere": "pentru modificarea Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 352/2022 pentru aprobarea Procedurii de soluţionare a deconturilor cu sume negative de taxă pe valoarea adăugată cu opţiune de rambursare",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315245",
+   "tip": "PLAN",
+   "numar": "",
+   "data_act": "2026-10-15",
+   "titlu": "PLANUL DE MĂSURI din 15 octombrie 2026",
+   "descriere": "pentru operaţionalizarea şi consolidarea activităţii de supraveghere a pieţei în domeniul etichetării energetice",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315244",
+   "tip": "PLAN",
+   "numar": "",
+   "data_act": "2026-10-15",
+   "titlu": "PLANUL NAŢIONAL DE MONITORIZARE ŞI VERIFICARE din 15 octombrie 2026",
+   "descriere": "privind supravegherea pieţei în domeniul etichetării energetice",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315243",
+   "tip": "ORDIN",
+   "numar": "1235",
+   "data_act": "2026-10-15",
+   "titlu": "ORDIN nr. 1.235 din 15 octombrie 2026",
+   "descriere": "pentru aprobarea planului naţional de monitorizare şi verificare şi a planului de măsuri privind supravegherea pieţei în domeniul etichetării energetice",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315242",
+   "tip": "DECIZIE",
+   "numar": "331",
+   "data_act": "2026-10-16",
+   "titlu": "DECIZIE nr. 331 din 16 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Lucian Teodor Rus a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Autorităţii Naţionale pentru Protecţia Consumatorilor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315241",
+   "tip": "DECIZIE",
+   "numar": "330",
+   "data_act": "2026-10-16",
+   "titlu": "DECIZIE nr. 330 din 16 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Ciceron-Dan Caracote a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Agenţiei Naţionale pentru Sport",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici",
+    "spor"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315240",
+   "tip": "DECIZIE",
+   "numar": "360",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIA nr. 360 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 26 alin. (2) liniuţa a patra din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcţii, în redactarea anterioară modificărilor aduse prin Legea nr. 7/2020 pentru modificarea şi completarea Legii nr. 10/1995 privind calitatea în construcţii şi pentru modificarea şi completarea Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcţii, precum şi ale art. 26 alin. (6) din acelaşi act normativ",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315239",
+   "tip": "HOTARARE",
+   "numar": "65",
+   "data_act": "2026-10-14",
+   "titlu": "HOTĂRÂRE nr. 65 din 14 octombrie 2026",
+   "descriere": "privind modificarea anexei la Hotărârea Camerei Deputaţilor nr. 111/2024 pentru aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "868",
+   "data_publicare": "2026-10-16",
+   "data_vigoare": "2026-10-16",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
   {
    "id": "315237",
    "tip": "DECIZIE",
