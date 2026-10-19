@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-10-19T05:15:27+00:00",
+ "generated_at": "2026-10-19T13:05:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1555,
- "new_this_run": 18,
+ "total": 1563,
+ "new_this_run": 8,
  "pages_scanned": 6,
  "categories": {
+  "Justiție și afaceri interne": 189,
+  "Economie, IMM și comerț": 102,
+  "Sănătate": 64,
+  "Protecție socială și pensii": 30,
   "Altele": 127,
   "Transporturi și infrastructură": 120,
   "Administrație publică": 111,
   "Energie și mediu": 203,
   "Educație și cercetare": 345,
   "Fiscalitate și buget": 109,
-  "Justiție și afaceri interne": 187,
-  "Economie, IMM și comerț": 101,
-  "Sănătate": 60,
-  "Protecție socială și pensii": 29,
   "Agricultură și dezvoltare rurală": 72,
   "Cultură, culte și sport": 23,
   "Apărare și securitate națională": 12,
@@ -24,6 +24,172 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315269",
+   "tip": "HOTARARE",
+   "numar": "1961",
+   "data_act": "2026-10-15",
+   "titlu": "HOTĂRÂRE nr. 1.961 din 15 octombrie 2026",
+   "descriere": "pentru completarea Regulamentului de ordine interioară al instanţelor judecătoreşti, aprobat prin Hotărârea Secţiei pentru judecători a Consiliului Superior al Magistraturii nr. 3.243/2022",
+   "emitenti": [
+    "Consiliul Superior al Magistraturii"
+   ],
+   "monitor_nr": "870",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315268",
+   "tip": "REGULAMENT",
+   "numar": "9",
+   "data_act": "2026-10-15",
+   "titlu": "REGULAMENT nr. 9 din 15 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului Autorităţii de Supraveghere Financiară nr. 9/2014 privind autorizarea şi funcţionarea societăţilor de administrare a investiţiilor, a organismelor de plasament colectiv în valori mobiliare şi a depozitarilor organismelor de plasament colectiv în valori mobiliare",
+   "emitenti": [
+    "Autoritatea de Supraveghere Financiară"
+   ],
+   "monitor_nr": "870",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315267",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-10-09",
+   "titlu": "PROCEDURĂ din 9 octombrie 2026",
+   "descriere": "privind stabilirea cerinţelor de autorizare pentru desfăşurarea practicii de radiologie de diagnostic cu instalaţii radiologice medicale în amplasamente temporare tip container modular, precum şi a cerinţelor privind producerea şi furnizarea containerelor modulare pentru radiologia de diagnostic",
+   "emitenti": [
+    "Comisia Națională pentru Controlul Activităților Nucleare"
+   ],
+   "monitor_nr": "870",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315266",
+   "tip": "ORDIN",
+   "numar": "160",
+   "data_act": "2026-10-09",
+   "titlu": "ORDIN nr. 160 din 9 octombrie 2026",
+   "descriere": "pentru aprobarea Procedurii privind stabilirea cerinţelor de autorizare pentru desfăşurarea practicii de radiologie de diagnostic cu instalaţii radiologice medicale în amplasamente temporare tip container modular, precum şi a cerinţelor privind producerea şi furnizarea containerelor modulare pentru radiologia de diagnostic",
+   "emitenti": [
+    "Comisia Națională pentru Controlul Activităților Nucleare"
+   ],
+   "monitor_nr": "870",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315265",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-09-24",
+   "titlu": "PROCEDURĂ din 24 septembrie 2026",
+   "descriere": "privind stabilirea cerinţelor de autorizare pentru desfăşurarea practicii de radiologie de diagnostic cu instalaţii radiologice medicale în amplasamente temporare tip container modular, precum şi a cerinţelor privind producerea şi furnizarea containerelor modulare pentru radiologia de diagnostic",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "870",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315264",
+   "tip": "ORDIN",
+   "numar": "1459",
+   "data_act": "2026-09-24",
+   "titlu": "ORDIN nr. 1.459 din 24 septembrie 2026",
+   "descriere": "pentru aprobarea Procedurii privind stabilirea cerinţelor de autorizare pentru desfăşurarea practicii de radiologie de diagnostic cu instalaţii radiologice medicale în amplasamente temporare tip container modular, precum şi a cerinţelor privind producerea şi furnizarea containerelor modulare pentru radiologia de diagnostic",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "870",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315263",
+   "tip": "ORDIN",
+   "numar": "157",
+   "data_act": "2026-10-15",
+   "titlu": "ORDIN nr. 157 din 15 octombrie 2026",
+   "descriere": "privind stabilirea sistemului de management şi control la nivelul Ministerului Afacerilor Interne pentru gestionarea fondurilor alocate Programului afaceri interne şi fondului pentru relaţii bilaterale aferent programului prin Mecanismul financiar norvegian 2021-2028",
+   "emitenti": [
+    "Ministerul Afacerilor Interne"
+   ],
+   "monitor_nr": "870",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "alocatie"
+   ],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
+  {
+   "id": "315262",
+   "tip": "DECIZIE",
+   "numar": "167",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIA nr. 167 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (6) , ale art. 21 alin. (3) şi ale art. 34 din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor şi ale art. 96 alin. (1) şi alin. (2) lit. b) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "870",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-19",
+   "are_text": false
+  },
   {
    "id": "315256",
    "tip": "RECTIFICARE",
