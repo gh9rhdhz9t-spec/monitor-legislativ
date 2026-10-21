@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-10-20T05:00:22+00:00",
+ "generated_at": "2026-10-21T05:00:04+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1563,
- "new_this_run": 0,
+ "total": 1577,
+ "new_this_run": 14,
  "pages_scanned": 6,
  "categories": {
-  "Justiție și afaceri interne": 189,
-  "Economie, IMM și comerț": 102,
+  "Educație și cercetare": 349,
+  "Energie și mediu": 204,
+  "Altele": 128,
+  "Transporturi și infrastructură": 121,
+  "Fiscalitate și buget": 113,
+  "Justiție și afaceri interne": 191,
+  "Economie, IMM și comerț": 103,
   "Sănătate": 64,
   "Protecție socială și pensii": 30,
-  "Altele": 127,
-  "Transporturi și infrastructură": 120,
   "Administrație publică": 111,
-  "Energie și mediu": 203,
-  "Educație și cercetare": 345,
-  "Fiscalitate și buget": 109,
   "Agricultură și dezvoltare rurală": 72,
   "Cultură, culte și sport": 23,
   "Apărare și securitate națională": 12,
@@ -24,6 +24,282 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315281",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-10-15",
+   "titlu": "METODOLOGIE-CADRU din 15 octombrie 2026",
+   "descriere": "de organizare şi desfăşurare a evaluării naţionale pentru absolvenţii clasei a VIII-a",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "872",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315280",
+   "tip": "ORDIN",
+   "numar": "5815",
+   "data_act": "2026-10-15",
+   "titlu": "ORDIN nr. 5.815 din 15 octombrie 2026",
+   "descriere": "privind aprobarea Metodologiei-cadru de organizare şi desfăşurare a evaluării naţionale pentru absolvenţii clasei a VIII-a şi a Calendarului de desfăşurare a evaluării naţionale pentru absolvenţii clasei a VIII-a în anul şcolar 2026-2027",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "872",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315279",
+   "tip": "DECIZIE",
+   "numar": "1065",
+   "data_act": "2026-10-08",
+   "titlu": "DECIZIE nr. 1.065 din 8 octombrie 2026",
+   "descriere": "privind sancţionarea cu retragerea autorizaţiei de funcţionare a companiei de brokeraj SILVER BROKER DE ASIGURARE REASIGURARE - S.R.L.",
+   "emitenti": [
+    "Autoritatea de Supraveghere Financiară"
+   ],
+   "monitor_nr": "871",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315278",
+   "tip": "ORDIN",
+   "numar": "201",
+   "data_act": "2026-10-13",
+   "titlu": "ORDIN nr. M.201 din 13 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea anexei nr. 1 la Ordinul ministrului apărării naţionale nr. M.233/2023 privind încheierea contractelor educaţionale de către elevii/elevele din unităţile de învăţământ preuniversitar militar ale Ministerului Apărării Naţionale",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "871",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315277",
+   "tip": "DECIZIE",
+   "numar": "333",
+   "data_act": "2026-10-19",
+   "titlu": "DECIZIE nr. 333 din 19 octombrie 2026",
+   "descriere": "privind încetarea calităţii de consilier onorific al prim-ministrului, acordată domnului Vlad Dan Gheorghe",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "871",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315276",
+   "tip": "DECIZIE",
+   "numar": "332",
+   "data_act": "2026-10-19",
+   "titlu": "DECIZIE nr. 332 din 19 octombrie 2026",
+   "descriere": "privind eliberarea domnului Ionel Scrioşteanu din funcţia de secretar de stat la Ministerul Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "871",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315275",
+   "tip": "HOTARARE",
+   "numar": "837",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 837 din 16 octombrie 2026",
+   "descriere": "pentru modificarea anexei la Hotărârea Guvernului nr. 1.235/2022 privind aprobarea distribuţiei bugetului aferent reformelor şi investiţiilor finanţate prin Planul naţional de redresare şi rezilienţă al României pentru fiecare coordonator de reformă şi/sau investiţii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "871",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315274",
+   "tip": "HOTARARE",
+   "numar": "830",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 830 din 16 octombrie 2026",
+   "descriere": "privind actualizarea limitelor amenzilor contravenţionale prevăzute la art. 90 şi 91 din Legea audiovizualului nr. 504/2002",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "871",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315273",
+   "tip": "HOTARARE",
+   "numar": "829",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 829 din 16 octombrie 2026",
+   "descriere": "pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Realizare pavilion nou bloc alimentar şi sală de mese din cazarma 1369 Constanţa\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "871",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315272",
+   "tip": "HOTARARE",
+   "numar": "828",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 828 din 16 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Regiei Naţionale a Pădurilor - Romsilva, aflată sub autoritatea Ministerului Mediului, Apelor şi Pădurilor",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "871",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315271",
+   "tip": "HOTARARE",
+   "numar": "827",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 827 din 16 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Complexul Energetic Oltenia - S.A., aflată sub autoritatea Ministerului Energiei",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "871",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315270",
+   "tip": "HOTARARE",
+   "numar": "826",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 826 din 16 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Complexul Energetic Valea Jiului - S.A., aflată sub autoritatea Ministerului Energiei",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "871",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "309947",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-10-19",
+   "titlu": "COMUNICAT din 19 octombrie 2026",
+   "descriere": "privind interpretarea aplicabilității art. 5 alin. (6) din Decretul-Lege nr. 118/1990 privind acordarea drepturilor copiilor persoanelor persecutate politic, în cazul strămutării în altă localitate",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-10-19",
+   "data_vigoare": "2026-10-19",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
   {
    "id": "315269",
    "tip": "HOTARARE",
@@ -1310,6 +1586,28 @@
     "pensii"
    ],
    "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315261",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-09-29",
+   "titlu": "ANEXE din 29 septembrie 2026",
+   "descriere": "privind aprobarea programelor pentru susţinerea evaluării naţionale pentru absolvenţii clasei a VIII-a",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "860",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-21",
    "are_text": false
   },
   {
