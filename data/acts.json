@@ -1,29 +1,1762 @@
 {
- "generated_at": "2026-10-21T05:00:04+00:00",
+ "generated_at": "2026-10-21T13:02:18+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1577,
- "new_this_run": 14,
+ "total": 1665,
+ "new_this_run": 88,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 349,
-  "Energie și mediu": 204,
-  "Altele": 128,
-  "Transporturi și infrastructură": 121,
-  "Fiscalitate și buget": 113,
-  "Justiție și afaceri interne": 191,
-  "Economie, IMM și comerț": 103,
-  "Sănătate": 64,
-  "Protecție socială și pensii": 30,
-  "Administrație publică": 111,
-  "Agricultură și dezvoltare rurală": 72,
-  "Cultură, culte și sport": 23,
-  "Apărare și securitate națională": 12,
-  "Muncă și dialog social": 27,
+  "Afaceri externe și UE": 18,
+  "Energie și mediu": 211,
+  "Sănătate": 69,
+  "Economie, IMM și comerț": 111,
+  "Fiscalitate și buget": 118,
+  "Administrație publică": 141,
+  "Justiție și afaceri interne": 194,
+  "Apărare și securitate națională": 13,
+  "Altele": 140,
+  "Protecție socială și pensii": 31,
+  "Educație și cercetare": 356,
+  "Muncă și dialog social": 28,
+  "Transporturi și infrastructură": 123,
+  "Cultură, culte și sport": 24,
+  "Agricultură și dezvoltare rurală": 73,
   "Economie socială": 2,
-  "Afaceri externe și UE": 14,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315368",
+   "tip": "ACORD",
+   "numar": "",
+   "data_act": "2026-08-19",
+   "titlu": "ACORD din 19 august 2026",
+   "descriere": "dintre Guvernul României şi Cabinetul de Miniştri al Ucrainei, încheiat prin schimb de note verbale apostilate, pentru modificarea punctelor 1 , 3 şi 5 ale Acordului dintre Guvernul României şi Cabinetul de Miniştri al Ucrainei privind deschiderea unui nou punct de trecere a frontierei de stat româno-ucrainene între localităţile Sighetu-Marmaţiei (România) şi Bila Ţerkva (Ucraina), încheiat prin schimb de note verbale apostilate la Bucureşti la 18 august 2023",
+   "emitenti": [
+    "Act Internațional"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-07",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315367",
+   "tip": "ORDIN",
+   "numar": "2343",
+   "data_act": "2026-10-02",
+   "titlu": "ORDIN nr. 2.343 din 2 octombrie 2026",
+   "descriere": "privind intrarea în vigoare a unui tratat internaţional",
+   "emitenti": [
+    "Ministerul Afacerilor Externe"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315366",
+   "tip": "ORDIN",
+   "numar": "2137",
+   "data_act": "2026-10-14",
+   "titlu": "ORDIN nr. 2.137 din 14 octombrie 2026",
+   "descriere": "privind modificarea Procedurii de emitere a autorizaţiei integrate de mediu, aprobată prin Ordinul ministrului agriculturii, pădurilor, apelor şi mediului nr. 818/2003",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315365",
+   "tip": "ORDIN",
+   "numar": "1865",
+   "data_act": "2026-10-14",
+   "titlu": "ORDIN nr. 1.865 din 14 octombrie 2026",
+   "descriere": "privind modificarea şi completarea anexelor nr. 1, 2 şi 3 la Ordinul ministrului sănătăţii şi al preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 564/499/2021 pentru aprobarea protocoalelor terapeutice privind prescrierea medicamentelor aferente denumirilor comune internaţionale prevăzute în Lista cuprinzând denumirile comune internaţionale corespunzătoare medicamentelor de care beneficiază asiguraţii, cu sau fără contribuţie personală, pe bază de prescripţie medicală, în sistemul de asigurări sociale de sănătate, precum şi denumirile comune internaţionale corespunzătoare medicamentelor care se acordă în cadrul programelor naţionale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008 , şi a normelor metodologice privind implementarea acestora",
+   "emitenti": [
+    "Casa Națională de Asigurări de Sănătate"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 5,
+   "termeni": [
+    "asigurari sociale",
+    "casa nationala de asigurari de sanatate"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": true
+  },
+  {
+   "id": "315364",
+   "tip": "ORDIN",
+   "numar": "1734",
+   "data_act": "2026-10-08",
+   "titlu": "ORDIN nr. 1.734 din 8 octombrie 2026",
+   "descriere": "privind modificarea şi completarea anexelor nr. 1, 2 şi 3 la Ordinul ministrului sănătăţii şi al preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 564/499/2021 pentru aprobarea protocoalelor terapeutice privind prescrierea medicamentelor aferente denumirilor comune internaţionale prevăzute în Lista cuprinzând denumirile comune internaţionale corespunzătoare medicamentelor de care beneficiază asiguraţii, cu sau fără contribuţie personală, pe bază de prescripţie medicală, în sistemul de asigurări sociale de sănătate, precum şi denumirile comune internaţionale corespunzătoare medicamentelor care se acordă în cadrul programelor naţionale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008 , şi a normelor metodologice privind implementarea acestora",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 5,
+   "termeni": [
+    "asigurari sociale",
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": true
+  },
+  {
+   "id": "315363",
+   "tip": "ORDIN",
+   "numar": "1592",
+   "data_act": "2026-10-16",
+   "titlu": "ORDIN nr. 1.592 din 16 octombrie 2026",
+   "descriere": "pentru modificarea alin. (42) al art. 7 din anexa la Ordinul ministrului investiţiilor şi proiectelor europene nr. 2.041/2023 pentru aprobarea modelului contractului de finanţare prevăzut la art. 14 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 23/2023 privind instituirea unor măsuri de simplificare şi digitalizare pentru gestionarea fondurilor europene aferente Politicii de coeziune 2021-2027",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315362",
+   "tip": "ORDIN",
+   "numar": "1395",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 1.395 din 29 septembrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Medserv Min - S.A.",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": true
+  },
+  {
+   "id": "315361",
+   "tip": "ORDIN",
+   "numar": "1401",
+   "data_act": "2026-10-15",
+   "titlu": "ORDIN nr. 1.401 din 15 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Medserv Min - S.A.",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315360",
+   "tip": "ORDIN",
+   "numar": "1101",
+   "data_act": "2026-09-22",
+   "titlu": "ORDIN nr. 1.101 din 22 septembrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Medserv Min - S.A.",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315359",
+   "tip": "HOTARARE",
+   "numar": "838",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 838 din 16 octombrie 2026",
+   "descriere": "pentru modificarea Hotărârii Guvernului nr. 563/2014 privind organizarea şi funcţionarea Secretariatului de stat pentru recunoaşterea meritelor luptătorilor împotriva regimului comunist instaurat în România în perioada 1945-1989",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2027-01-01",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315358",
+   "tip": "DECIZIE",
+   "numar": "750",
+   "data_act": "2025-12-11",
+   "titlu": "DECIZIA nr. 750 din 11 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (5) şi ale art. 34 alin. (1) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, în interpretarea dată prin Decizia nr. 5 din 12 aprilie 2021 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru soluţionarea recursului în interesul legii",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315357",
+   "tip": "ORDIN",
+   "numar": "202",
+   "data_act": "2026-10-13",
+   "titlu": "ORDIN nr. M.202 din 13 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului serviciului la bordul navelor militare, aprobat prin Ordinul ministrului apărării naţionale nr. M.24/2022",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "880",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315356",
+   "tip": "ORD DE URGENTA",
+   "numar": "40",
+   "data_act": "2026-10-20",
+   "titlu": "ORDONANŢĂ DE URGENŢĂ nr. 40 din 20 octombrie 2026",
+   "descriere": "privind stabilirea unor măsuri la nivelul administraţiei publice centrale",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "879",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315355",
+   "tip": "DECIZIE",
+   "numar": "316",
+   "data_act": "2026-04-01",
+   "titlu": "DECIZIA nr. 316 din 1 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 453 alin. (3) din Codul de procedură penală , în redactarea anterioară Legii nr. 201/2023 pentru modificarea şi completarea Legii nr. 135/2010 privind Codul de procedură penală , precum şi pentru modificarea altor acte normative şi ale art. 457 alin. (1) cu referire la dispoziţiile art. 453 alin. (1) lit. f) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "879",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315354",
+   "tip": "DECIZIE",
+   "numar": "63",
+   "data_act": "2026-01-22",
+   "titlu": "DECIZIA nr. 63 din 22 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 101 din Legea nr. 227/2015 privind Codul fiscal , în redactarea anterioară intrării în vigoare a Ordonanţei de urgenţă a Guvernului nr. 11/2025 pentru modificarea Legii nr. 227/2015 privind Codul fiscal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "878",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315353",
+   "tip": "DECRET",
+   "numar": "819",
+   "data_act": "2026-10-20",
+   "titlu": "DECRET nr. 819 din 20 octombrie 2026",
+   "descriere": "pentru numirea în funcţie a unui consilier prezidenţial",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "878",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315352",
+   "tip": "DECIZIE",
+   "numar": "394",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 394 din 20 octombrie 2026",
+   "descriere": "pentru eliberarea, la cerere, a domnului Andrei Niculae din funcţia de vicepreşedinte, cu rang de subsecretar de stat, al Autorităţii pentru Digitalizarea României",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315351",
+   "tip": "DECIZIE",
+   "numar": "392",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 392 din 20 octombrie 2026",
+   "descriere": "privind eliberarea, la cerere, a domnului Nicolae Giugea din funcţia de preşedinte, cu rang de secretar de stat, al Casei Naţionale de Pensii Publice şi preşedinte al Consiliului de administraţie",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315350",
+   "tip": "DECIZIE",
+   "numar": "391",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 391 din 20 octombrie 2026",
+   "descriere": "privind eliberarea, la cerere, a domnului Flavius-Adrian Sirop din funcţia de vicepreşedinte, cu rang de subsecretar de stat, al Oficiului pentru Licenţă Industrială",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315349",
+   "tip": "DECIZIE",
+   "numar": "390",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 390 din 20 octombrie 2026",
+   "descriere": "privind eliberarea, la cerere, a domnului Gabriel-Bogdan Şteţco din funcţia de preşedinte, cu rang de secretar de stat, al Oficiului pentru Licenţă Industrială",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315348",
+   "tip": "DECIZIE",
+   "numar": "389",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 389 din 20 octombrie 2026",
+   "descriere": "privind încetarea, prin demisie, a calităţii de membru al Consiliului de administraţie şi a funcţiei de preşedinte, cu rang de secretar de stat, al Agenţiei Naţionale pentru Ocuparea Forţei de Muncă pentru domnul Adrian Zvîncă",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 3,
+   "termeni": [
+    "ocuparea fortei de munca"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315347",
+   "tip": "DECIZIE",
+   "numar": "388",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 388 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Helena-Omna Raicu din funcţia de preşedinte, cu rang de secretar de stat, al Autorităţii Naţionale pentru Protecţia Drepturilor Copilului şi Adopţie",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315346",
+   "tip": "DECIZIE",
+   "numar": "387",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 387 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Iulian Cosmin Mărgeloiu din funcţia de secretar de stat în cadrul Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315345",
+   "tip": "DECIZIE",
+   "numar": "386",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 386 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Silvia Monica Dinică din funcţia de secretar de stat la Ministerul Muncii, Familiei, Tineretului şi Solidarităţii Sociale",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 4,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": true
+  },
+  {
+   "id": "315344",
+   "tip": "DECIZIE",
+   "numar": "385",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 385 din 20 octombrie 2026",
+   "descriere": "privind revocarea domnului Laurenţiu-Alexandru Blaga, la cerere, din funcţia de director general, cu rang de secretar de stat, şi preşedinte al Consiliului de administraţie al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315343",
+   "tip": "DECIZIE",
+   "numar": "384",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 384 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Nini Săpunaru, la cerere, din funcţia de secretar de stat al Departamentului pentru relaţia cu Parlamentul",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315342",
+   "tip": "DECIZIE",
+   "numar": "383",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 383 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Liviu Bostan, la cerere, din funcţia de vicepreşedinte, cu rang de subsecretar de stat, al Institutului Naţional de Administraţie",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315341",
+   "tip": "DECIZIE",
+   "numar": "382",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 382 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Claudiu Constantin Năstasă, la cerere, din funcţia de vicepreşedinte al Autorităţii pentru Administrarea Activelor Statului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315340",
+   "tip": "DECIZIE",
+   "numar": "381",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 381 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Horaţiu-Lucian Cosma din funcţia de secretar de stat la Ministerul Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315339",
+   "tip": "DECIZIE",
+   "numar": "380",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 380 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Dan-Adrian Pop din funcţia de secretar de stat în cadrul Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315338",
+   "tip": "DECIZIE",
+   "numar": "379",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 379 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Marius-Andrei Miftode, la cerere, din funcţia de secretar de stat la Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315337",
+   "tip": "DECIZIE",
+   "numar": "378",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 378 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Sorin-Dan Moldovan, la cerere, din funcţia de secretar de stat şi şef al Departamentului pentru politica de apărare, planificare şi relaţii internaţionale din cadrul Ministerului Apărării Naţionale",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315336",
+   "tip": "DECIZIE",
+   "numar": "377",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 377 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Horaţiu-Remus Moldovan, la cerere, din funcţia de membru al consiliului de administraţie şi de preşedinte, cu rang de secretar de stat, al Casei Naţionale de Asigurări de Sănătate",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315335",
+   "tip": "DECIZIE",
+   "numar": "376",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 376 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Marian Daragiu, la cerere, din funcţia de subsecretar de stat la Ministerul Educaţiei şi Cercetării",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315334",
+   "tip": "DECIZIE",
+   "numar": "375",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 375 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Flavia-Ramona Boghiu, la cerere, din funcţia de secretar de stat la Ministerul Mediului, Apelor şi Pădurilor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315333",
+   "tip": "DECIZIE",
+   "numar": "374",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 374 din 20 octombrie 2026",
+   "descriere": "pentru eliberarea domnului Florin-Daniel Cocargeanu, la cerere, din funcţia de secretar de stat în cadrul Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315332",
+   "tip": "DECIZIE",
+   "numar": "373",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 373 din 20 octombrie 2026",
+   "descriere": "privind eliberarea, la cerere, a doamnei Teodora Stoian din funcţia de secretar de stat la Ministerul Justiţiei",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315331",
+   "tip": "DECIZIE",
+   "numar": "372",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 372 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Elena Tudose, la cerere, din funcţia de secretar de stat la Ministerul Mediului, Apelor şi Pădurilor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315330",
+   "tip": "DECIZIE",
+   "numar": "371",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 371 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Daniela Gianina Lazanu din funcţia de secretar de stat la Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315329",
+   "tip": "DECIZIE",
+   "numar": "370",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 370 din 20 octombrie 2026",
+   "descriere": "privind eliberarea, la cerere, a domnului Sorin Ion din funcţia de secretar de stat la Ministerul Educaţiei şi Cercetării",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315328",
+   "tip": "DECIZIE",
+   "numar": "369",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 369 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Cristian-Silviu Buşoi, la cerere, din funcţia de secretar de stat la Ministerul Energiei",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315327",
+   "tip": "DECIZIE",
+   "numar": "368",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 368 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Marin Ţole, la cerere, din funcţia de secretar de stat la Ministerul Dezvoltării, Lucrărilor Publice şi Administraţiei",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315326",
+   "tip": "DECIZIE",
+   "numar": "367",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 367 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Angelica Fădor, la cerere, din funcţia de secretar de stat la Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315325",
+   "tip": "DECIZIE",
+   "numar": "366",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 366 din 20 octombrie 2026",
+   "descriere": "privind eliberarea, la cerere, a domnului Ioan Turc din funcţia de secretar de stat la Ministerul Justiţiei",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315324",
+   "tip": "DECIZIE",
+   "numar": "365",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 365 din 20 octombrie 2026",
+   "descriere": "privind eliberarea, la cerere, a doamnei Diana-Ştefana Baciuna din funcţia de secretar de stat la Ministerul Culturii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315323",
+   "tip": "DECIZIE",
+   "numar": "364",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 364 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Stela Firu, la cerere, din funcţia de secretar de stat la Ministerul Sănătăţii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "874",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315322",
+   "tip": "ORDIN",
+   "numar": "1225",
+   "data_act": "2026-10-13",
+   "titlu": "ORDIN nr. 1.225 din 13 octombrie 2026",
+   "descriere": "privind acordarea titlului de parc industrial Societăţii Chitila Logistic Parc - S.R.L.",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "877",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315321",
+   "tip": "DECIZIE",
+   "numar": "223",
+   "data_act": "2026-03-12",
+   "titlu": "DECIZIA nr. 223 din 12 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 52 alin. (1) şi ale art. 139 alin. (1) lit. b) din Legea nr. 304/2004 privind organizarea judiciară",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "877",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315320",
+   "tip": "DECRET",
+   "numar": "818",
+   "data_act": "2026-10-20",
+   "titlu": "DECRET nr. 818 din 20 octombrie 2026",
+   "descriere": "pentru numirea Guvernului României",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "877",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315319",
+   "tip": "HOTARARE",
+   "numar": "4",
+   "data_act": "2026-10-20",
+   "titlu": "HOTĂRÂRE nr. 4 din 20 octombrie 2026",
+   "descriere": "pentru acordarea încrederii Guvernului",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "876",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315318",
+   "tip": "DECIZIE",
+   "numar": "393",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 393 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Luca-Alexandru Niculescu din funcţia de secretar de stat pentru procesul de aderare a României la OCDE, cooperare economică, ONU şi francofonie la Ministerul Afacerilor Externe",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "875",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315317",
+   "tip": "DECIZIE",
+   "numar": "64",
+   "data_act": "2026-01-22",
+   "titlu": "DECIZIA nr. 64 din 22 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 101 din Legea nr. 227/2015 privind Codul fiscal , în redactarea anterioară intrării în vigoare a Ordonanţei de urgenţă a Guvernului nr. 11/2025 pentru modificarea Legii nr. 227/2015 privind Codul fiscal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "875",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315316",
+   "tip": "DECRET",
+   "numar": "817",
+   "data_act": "2026-10-20",
+   "titlu": "DECRET nr. 817 din 20 octombrie 2026",
+   "descriere": "pentru eliberarea din funcţie a unui consilier prezidenţial",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "875",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315315",
+   "tip": "DECRET",
+   "numar": "816",
+   "data_act": "2026-10-20",
+   "titlu": "DECRET nr. 816 din 20 octombrie 2026",
+   "descriere": "privind rechemarea unui ambasador",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "875",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315314",
+   "tip": "HOTARARE",
+   "numar": "3",
+   "data_act": "2026-10-20",
+   "titlu": "HOTĂRÂRE nr. 3 din 20 octombrie 2026",
+   "descriere": "privind desemnarea unui consilier de conturi care să exercite atribuţiile preşedintelui Autorităţii de Audit",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "875",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315313",
+   "tip": "DECIZIE",
+   "numar": "363",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 363 din 20 octombrie 2026",
+   "descriere": "privind eliberarea, la cerere, a domnului Florian-Emil Dumitru din funcţia de secretar de stat la Ministerul Agriculturii şi Dezvoltării Rurale",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315312",
+   "tip": "DECIZIE",
+   "numar": "362",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 362 din 20 octombrie 2026",
+   "descriere": "privind eliberarea, la cerere, a domnului Florin-Daniel Şandru din funcţia de preşedinte executiv al Institutului de Investigare a Crimelor Comunismului şi Memoria Exilului Românesc",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315311",
+   "tip": "DECIZIE",
+   "numar": "361",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 361 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Daniel Constantin, la cerere, din funcţia de preşedinte, cu rang de secretar de stat, al Agenţiei Române pentru Investiţii şi Comerţ Exterior",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315310",
+   "tip": "DECIZIE",
+   "numar": "360",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 360 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Cristian-Gabriel Seidler din funcţia de secretar de stat în cadrul aparatului propriu de lucru al viceprim-ministrului, ministrul apărării naţionale",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315309",
+   "tip": "DECIZIE",
+   "numar": "359",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 359 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Cristian Botan, la cerere, din funcţia de consilier de stat în cadrul aparatului propriu de lucru al viceprim-ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315308",
+   "tip": "DECIZIE",
+   "numar": "358",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 358 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Ileana-Andreea Curmei-Semenescu, la cerere, din funcţia de consilier de stat în cadrul aparatului propriu de lucru al viceprim-ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315307",
+   "tip": "DECIZIE",
+   "numar": "357",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 357 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Mădălina-Georgiana Marcu, la cerere, din funcţia de secretar de stat în cadrul aparatului propriu de lucru al viceprim-ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315306",
+   "tip": "DECIZIE",
+   "numar": "356",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 356 din 20 octombrie 2026",
+   "descriere": "privind încetarea calităţii de consilier onorific al prim-ministrului, acordată domnului Ionuţ Dumitru",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315305",
+   "tip": "DECIZIE",
+   "numar": "355",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 355 din 20 octombrie 2026",
+   "descriere": "privind încetarea calităţii de consilier onorific al prim-ministrului, acordată domnului Octavian-Emanuel Popa",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315304",
+   "tip": "DECIZIE",
+   "numar": "354",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 354 din 20 octombrie 2026",
+   "descriere": "privind încetarea calităţii de consilier onorific al prim-ministrului, acordată domnului Marilen Gabriel Pirtea, în domeniile educaţiei şi cercetării",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315303",
+   "tip": "DECIZIE",
+   "numar": "353",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 353 din 20 octombrie 2026",
+   "descriere": "privind încetarea calităţii de consilier onorific al prim-ministrului, acordată domnului Sebastian-Ioan Burduja",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315302",
+   "tip": "DECIZIE",
+   "numar": "352",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 352 din 20 octombrie 2026",
+   "descriere": "privind încetarea calităţii de consilier onorific al prim-ministrului, acordată domnului Nicolae-Dragoş Garofil",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315301",
+   "tip": "DECIZIE",
+   "numar": "351",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 351 din 20 octombrie 2026",
+   "descriere": "privind încetarea calităţii de consilier onorific al prim-ministrului, acordată domnului David-Adrian Balaban-Oglan",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315300",
+   "tip": "DECIZIE",
+   "numar": "350",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 350 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Raul-Mircea Gutin din funcţia de consilier de stat în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315299",
+   "tip": "DECIZIE",
+   "numar": "349",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 349 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Oana-Alexandra Cambera din funcţia de consilier de stat în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315298",
+   "tip": "DECIZIE",
+   "numar": "348",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 348 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Andrei-Răzvan Lupu din funcţia de consilier de stat în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315297",
+   "tip": "DECIZIE",
+   "numar": "347",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 347 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Luciana Antoci din funcţia de consilier de stat în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315296",
+   "tip": "DECIZIE",
+   "numar": "346",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 346 din 20 octombrie 2026",
+   "descriere": "privind eliberarea domnului Victor Giosan din funcţia de consilier de stat în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315295",
+   "tip": "DECIZIE",
+   "numar": "345",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 345 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Cristina-Ancuţa Pocora din funcţia de consilier de stat în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315294",
+   "tip": "DECIZIE",
+   "numar": "344",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 344 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Ana-Smărăndiţa Irina din funcţia de director de cabinet al prim-ministrului, cu rang de secretar de stat, în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315293",
+   "tip": "DECIZIE",
+   "numar": "343",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 343 din 20 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Nadina-Ioana Dogioiu din funcţia de secretar de stat în cadrul Cancelariei Prim-Ministrului, purtător de cuvânt al Guvernului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315292",
+   "tip": "DECIZIE",
+   "numar": "342",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 342 din 20 octombrie 2026",
+   "descriere": "privind eliberarea, la cerere, a domnului Mihnea-Claudiu Drumea din funcţia de secretar de stat la Cancelaria Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315291",
+   "tip": "DECIZIE",
+   "numar": "341",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 341 din 20 octombrie 2026",
+   "descriere": "pentru eliberarea domnului Mihai Jurca din funcţia de şef al Cancelariei Prim-Ministrului, cu rang de ministru",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315290",
+   "tip": "DECIZIE",
+   "numar": "340",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 340 din 20 octombrie 2026",
+   "descriere": "privind acordarea autorizării pentru ENEVO CYBERSEC - S.R.L. privind utilizarea echipamentelor de infrastructură 5G",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315289",
+   "tip": "DECIZIE",
+   "numar": "339",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 339 din 20 octombrie 2026",
+   "descriere": "pentru modificarea Deciziei prim-ministrului nr. 295/2021 privind numirea membrilor Comitetului de supraveghere al Oficiului Naţional pentru Jocuri de Noroc",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315288",
+   "tip": "DECIZIE",
+   "numar": "338",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 338 din 20 octombrie 2026",
+   "descriere": "privind numirea unor membri ai Consiliului consultativ pentru dezvoltare durabilă şi pentru abrogarea numărului curent 23 din anexa la Decizia prim-ministrului nr. 227/2024 privind prelungirea mandatelor unor membri ai Consiliului consultativ pentru dezvoltare durabilă",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315287",
+   "tip": "DECIZIE",
+   "numar": "337",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 337 din 20 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Doina Monica Apostu a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general adjunct al Agenţiei Naţionale pentru Mediu şi Arii Protejate",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315286",
+   "tip": "DECIZIE",
+   "numar": "336",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 336 din 20 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Nicolae-Mădălin Enache a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Instituţiei Prefectului - Judeţul Prahova",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315285",
+   "tip": "DECIZIE",
+   "numar": "335",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 335 din 20 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Adriana-Laura Miron a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
+  {
+   "id": "315284",
+   "tip": "DECIZIE",
+   "numar": "334",
+   "data_act": "2026-10-20",
+   "titlu": "DECIZIE nr. 334 din 20 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, prin detaşare, de către domnul Teodor Dulceaţă a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general adjunct al Ministerului Mediului, Apelor şi Pădurilor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "873",
+   "data_publicare": "2026-10-20",
+   "data_vigoare": "2026-10-20",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [
+    "functionari publici",
+    "detasare"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": false
+  },
   {
    "id": "315281",
    "tip": "METODOLOGIE",
@@ -1586,6 +3319,28 @@
     "pensii"
    ],
    "first_seen": "2026-10-16",
+   "are_text": false
+  },
+  {
+   "id": "315283",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-07-20",
+   "titlu": "ANEXE din 20 iulie 2026",
+   "descriere": "privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2026 pentru institutele naţionale de cercetare-dezvoltare din coordonarea Autorităţii Naţionale pentru Cercetare",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "861",
+   "data_publicare": "2026-10-14",
+   "data_vigoare": "2026-10-14",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-21",
    "are_text": false
   },
   {
@@ -3991,6 +5746,50 @@
    "termeni": [],
    "first_seen": "2026-10-09",
    "are_text": false
+  },
+  {
+   "id": "315259",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-08-31",
+   "titlu": "ANEXE din 31 august 2026",
+   "descriere": "pentru modificarea anexei nr. 4 la Ordinul ministrului sănătăţii publice şi al ministrului educaţiei, cercetării şi tineretului nr. 1.141/1.386/2007 privind modul de efectuare a pregătirii prin rezidenţiat în specialităţile prevăzute de Nomenclatorul specialităţilor medicale, medico-dentare şi farmaceutice pentru reţeaua de asistenţă medicală",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "846",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": true
+  },
+  {
+   "id": "315258",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-08-14",
+   "titlu": "ANEXE din 14 august 2026",
+   "descriere": "pentru modificarea anexei nr. 4 la Ordinul ministrului sănătăţii publice şi al ministrului educaţiei, cercetării şi tineretului nr. 1.141/1.386/2007 privind modul de efectuare a pregătirii prin rezidenţiat în specialităţile prevăzute de Nomenclatorul specialităţilor medicale, medico-dentare şi farmaceutice pentru reţeaua de asistenţă medicală",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "846",
+   "data_publicare": "2026-10-08",
+   "data_vigoare": "2026-10-08",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-21",
+   "are_text": true
   },
   {
    "id": "315081",
