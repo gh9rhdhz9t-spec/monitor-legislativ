@@ -1,29 +1,846 @@
 {
- "generated_at": "2026-10-21T13:02:18+00:00",
+ "generated_at": "2026-10-23T05:12:32+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1665,
- "new_this_run": 88,
+ "total": 1704,
+ "new_this_run": 39,
  "pages_scanned": 6,
  "categories": {
+  "Economie, IMM și comerț": 118,
+  "Fiscalitate și buget": 126,
+  "Administrație publică": 146,
+  "Energie și mediu": 214,
+  "Justiție și afaceri interne": 198,
+  "Cultură, culte și sport": 25,
+  "Sănătate": 73,
+  "Transporturi și infrastructură": 127,
+  "Altele": 142,
+  "Educație și cercetare": 357,
   "Afaceri externe și UE": 18,
-  "Energie și mediu": 211,
-  "Sănătate": 69,
-  "Economie, IMM și comerț": 111,
-  "Fiscalitate și buget": 118,
-  "Administrație publică": 141,
-  "Justiție și afaceri interne": 194,
   "Apărare și securitate națională": 13,
-  "Altele": 140,
   "Protecție socială și pensii": 31,
-  "Educație și cercetare": 356,
   "Muncă și dialog social": 28,
-  "Transporturi și infrastructură": 123,
-  "Cultură, culte și sport": 24,
   "Agricultură și dezvoltare rurală": 73,
   "Economie socială": 2,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315657",
+   "tip": "ORDIN",
+   "numar": "1399",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 1.399 din 29 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Tohan - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315656",
+   "tip": "ORDIN",
+   "numar": "1426",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.426 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Tohan - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315655",
+   "tip": "ORDIN",
+   "numar": "1571",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.571 din 25 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Tohan - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315654",
+   "tip": "ORDIN",
+   "numar": "1416",
+   "data_act": "2026-09-30",
+   "titlu": "ORDIN nr. 1.416 din 30 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Cugir - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315653",
+   "tip": "ORDIN",
+   "numar": "1428",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.428 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Cugir - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315652",
+   "tip": "ORDIN",
+   "numar": "1562",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.562 din 25 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Cugir - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315651",
+   "tip": "ORDIN",
+   "numar": "1463",
+   "data_act": "2026-10-07",
+   "titlu": "ORDIN nr. 1.463 din 7 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Titan Power - S.A.",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315650",
+   "tip": "ORDIN",
+   "numar": "1435",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.435 din 19 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Titan Power - S.A.",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315649",
+   "tip": "ORDIN",
+   "numar": "1100",
+   "data_act": "2026-09-22",
+   "titlu": "ORDIN nr. 1.100 din 22 septembrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Titan Power - S.A.",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315648",
+   "tip": "DECIZIE",
+   "numar": "401",
+   "data_act": "2026-10-22",
+   "titlu": "DECIZIE nr. 401 din 22 octombrie 2026",
+   "descriere": "privind încetarea exercitării, cu caracter temporar, de către domnul Dantes Nicolae Bratu a funcţiei publice vacante din categoria înalţilor funcţionari publici de inspector general de stat la Inspecţia Muncii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "inspectia muncii",
+    "functionari publici",
+    "guvernul"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315647",
+   "tip": "DECIZIE",
+   "numar": "399",
+   "data_act": "2026-10-22",
+   "titlu": "DECIZIE nr. 399 din 22 octombrie 2026",
+   "descriere": "privind constatarea încetării de drept a exercitării de către doamna Rada-Cosmina Crăciun a funcţiei de consilier de stat în cadrul aparatului propriu de lucru al viceprim-ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315646",
+   "tip": "DECIZIE",
+   "numar": "400",
+   "data_act": "2026-10-22",
+   "titlu": "DECIZIE nr. 400 din 22 octombrie 2026",
+   "descriere": "privind numirea domnului Eduard Bachide în funcţia de secretar de stat şi şef al Departamentului pentru relaţia cu Parlamentul şi calitatea vieţii personalului din cadrul Ministerului Apărării Naţionale",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315645",
+   "tip": "DECIZIE",
+   "numar": "398",
+   "data_act": "2026-10-22",
+   "titlu": "DECIZIE nr. 398 din 22 octombrie 2026",
+   "descriere": "privind constatarea încetării de drept a exercitării de către doamna Monica Oancea-Szabo a funcţiei de secretar de stat în cadrul aparatului de lucru al viceprim-ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315644",
+   "tip": "DECIZIE",
+   "numar": "397",
+   "data_act": "2026-10-22",
+   "titlu": "DECIZIE nr. 397 din 22 octombrie 2026",
+   "descriere": "privind constatarea încetării de drept a exercitării de către doamna Katalin Demeter a funcţiei de consilier de stat în cadrul aparatului de lucru al viceprim-ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315643",
+   "tip": "DECIZIE",
+   "numar": "15",
+   "data_act": "2026-01-15",
+   "titlu": "DECIZIA nr. 15 din 15 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1.798 din Codul civil şi ale art. 450 alin. (1) din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315642",
+   "tip": "DECRET",
+   "numar": "820",
+   "data_act": "2026-10-22",
+   "titlu": "DECRET nr. 820 din 22 octombrie 2026",
+   "descriere": "pentru promulgarea Legii privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315641",
+   "tip": "LEGE",
+   "numar": "204",
+   "data_act": "2026-10-22",
+   "titlu": "LEGE nr. 204 din 22 octombrie 2026",
+   "descriere": "privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "886",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-25",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315640",
+   "tip": "DECIZIE",
+   "numar": "88",
+   "data_act": "2026-09-21",
+   "titlu": "DECIZIA nr. 88 din 21 septembrie 2026",
+   "descriere": "referitoare la interpretarea şi aplicarea dispoziţiilor art. 102 din Legea nr. 272/2004 privind protecţia şi promovarea drepturilor copilului, republicată, cu modificările şi completările ulterioare",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "885",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315639",
+   "tip": "ORDIN",
+   "numar": "3273",
+   "data_act": "2026-10-15",
+   "titlu": "ORDIN nr. 3.273 din 15 octombrie 2026",
+   "descriere": "privind clasarea în Lista monumentelor istorice a Bisericii \"Sf. Apostol şi Evanghelist Ioan\", amplasată în Str. Principală nr. 90, satul Poşta, comuna Frecăţei, judeţul Tulcea, corp C1, înscris în Cartea funciară nr. 43235-C1, împreună cu terenul aferent având nr. cadastral 43235, în categoria m - monument, II - arhitectură, grupa valorică B",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "885",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315638",
+   "tip": "ORDIN",
+   "numar": "1389",
+   "data_act": "2026-10-12",
+   "titlu": "ORDIN nr. 1.389 din 12 octombrie 2026",
+   "descriere": "privind aprobarea Ghidului solicitantului elaborat în baza Hotărârii Guvernului nr. 486/2026 privind stimularea investiţiilor în vederea realizării de produse cu deficit comercial din industria prelucrătoare - Revizia 1",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "885",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315637",
+   "tip": "HOTARARE",
+   "numar": "833",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 833 din 16 octombrie 2026",
+   "descriere": "privind actualizarea valorii de inventar şi a descrierii tehnice ale unor imobile aflate în domeniul public al statului şi în administrarea Institutului Naţional de Transfuzie Sanguină \"Prof. Dr. C.T. Nicolau\", prin centrele de transfuzie sanguină, instituţii subordonate Ministerului Sănătăţii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "885",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315636",
+   "tip": "HOTARARE",
+   "numar": "831",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 831 din 16 octombrie 2026",
+   "descriere": "privind modificarea codului de clasificaţie, denumirii, elementelor-cadru de descriere tehnică şi actualizarea valorii de inventar a bunului imobil cu numărul MF121118, aflat în domeniul public al statului şi în administrarea Autorităţii Vamale Române, precum şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 privind aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "885",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315635",
+   "tip": "DECIZIE",
+   "numar": "622",
+   "data_act": "2025-11-20",
+   "titlu": "DECIZIA nr. 622 din 20 noiembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 78 din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, în redactarea anterioară intrării în vigoare a Ordonanţei de urgenţă a Guvernului nr. 84/2024 pentru modificarea şi completarea unor acte normative în scopul creşterii siguranţei rutiere",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "885",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315634",
+   "tip": "ORDIN",
+   "numar": "65",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 65 din 20 octombrie 2026",
+   "descriere": "pentru aprobarea contribuţiei pentru cogenerarea de înaltă eficienţă",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "884",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-11-01",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315633",
+   "tip": "ORDIN",
+   "numar": "1829",
+   "data_act": "2026-10-16",
+   "titlu": "ORDIN nr. 1.829 din 16 octombrie 2026",
+   "descriere": "privind modificarea Ordinului ministrului sănătăţii nr. 1.162/2010 pentru aprobarea Normelor minime privind aptitudinile fizice şi mentale necesare pentru conducerea unui autovehicul",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "884",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315632",
+   "tip": "HOTARARE",
+   "numar": "835",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 835 din 16 octombrie 2026",
+   "descriere": "privind trecerea din domeniul public al statului în domeniul privat al statului şi în administrarea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. a unor bunuri aflate în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. - Sucursala Regională CF Braşov, în vederea reutilizării, respectiv scoaterii din funcţiune, casării şi valorificării, după caz",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "884",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 4,
+   "termeni": [
+    "concediu",
+    "guvernul"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315631",
+   "tip": "HOTARARE",
+   "numar": "834",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 834 din 16 octombrie 2026",
+   "descriere": "privind înscrierea unor bunuri imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea Institutului Naţional de Cercetare-Dezvoltare pentru Maşini şi Instalaţii destinate Agriculturii şi Industriei Alimentare - INMA, actualizarea denumirii, codului de clasificaţie, datelor tehnice, adresei şi valorii de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea Institutului Naţional de Cercetare-Dezvoltare pentru Maşini şi Instalaţii destinate Agriculturii şi Industriei Alimentare - INMA, transferul bunului imobil cu nr. MF 26322 şi al suprafeţei de 5.492 mp din bunul imobil cu nr. MF 26328, aflate în domeniul public al statului, din administrarea Institutului Naţional de Cercetare-Dezvoltare pentru Maşini şi Instalaţii destinate Agriculturii şi Industriei Alimentare - INMA în administrarea Ministerului Transporturilor şi Infrastructurii, în vederea realizării de către Metrorex - S.A. a lucrării de utilitate publică de interes naţional \"Legătura reţelei de metrou cu Aeroportul Internaţional Henri Coandă - Otopeni (Magistrala 6. 1 Mai-Otopeni)\", precum şi comasarea poziţiilor MF ale acestor bunuri imobile la poziţia cu nr. MF 26328",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "884",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315630",
+   "tip": "DECIZIE",
+   "numar": "87",
+   "data_act": "2026-09-21",
+   "titlu": "DECIZIA nr. 87 din 21 septembrie 2026",
+   "descriere": "referitoare la interpretarea dispoziţiilor art. 458 din Codul de procedură civilă",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "883",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315629",
+   "tip": "DECIZIE",
+   "numar": "7",
+   "data_act": "2026-10-09",
+   "titlu": "DECIZIE nr. 7/2CN din 9 octombrie 2026",
+   "descriere": "privind stabilirea cuantumului taxei de evaluare profesională în vederea recunoaşterii titlurilor de medic stomatolog specialist eliberate de un stat terţ",
+   "emitenti": [
+    "Colegiul Medicilor Stomatologi din România"
+   ],
+   "monitor_nr": "883",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315628",
+   "tip": "HOTARARE",
+   "numar": "2",
+   "data_act": "2026-10-21",
+   "titlu": "HOTĂRÂRE nr. 2 din 21 octombrie 2026",
+   "descriere": "pentru aprobarea condiţiilor de tipărire a buletinelor de vot care vor fi utilizate la referendumul local din data de 8 noiembrie 2026 din comuna Răşinari, judeţul Sibiu",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "883",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315627",
+   "tip": "ORDIN",
+   "numar": "66",
+   "data_act": "2026-10-21",
+   "titlu": "ORDIN nr. 66 din 21 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli rectificat al Autorităţii Naţionale de Reglementare în Domeniul Energiei pe anul 2026 şi a bugetului proiectelor cu finanţare din fonduri externe nerambursabile",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "883",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315626",
+   "tip": "DECIZIE",
+   "numar": "396",
+   "data_act": "2026-10-21",
+   "titlu": "DECIZIE nr. 396 din 21 octombrie 2026",
+   "descriere": "privind numirea doamnei Mihaela-Ilincuţa Ştefan-Simion în funcţia de director de cabinet al prim-ministrului, cu rang de secretar de stat, în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "883",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315625",
+   "tip": "HOTARARE",
+   "numar": "133",
+   "data_act": "2026-10-21",
+   "titlu": "HOTĂRÂRE nr. 133 din 21 octombrie 2026",
+   "descriere": "privind vacantarea unei funcţii de chestor în Biroul permanent al Senatului",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "883",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315624",
+   "tip": "ORDIN",
+   "numar": "5809",
+   "data_act": "2026-10-14",
+   "titlu": "ORDIN nr. 5.809 din 14 octombrie 2026",
+   "descriere": "pentru modificarea Ordinului ministrului educaţiei şi cercetării nr. 4.616/2026 privind aprobarea programelor şcolare asociate disciplinelor prevăzute în planurile-cadru pentru învăţământul liceal special",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "882",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315623",
+   "tip": "ORDIN",
+   "numar": "1649",
+   "data_act": "2026-09-11",
+   "titlu": "ORDIN nr. 1.649 din 11 septembrie 2026",
+   "descriere": "pentru modificarea şi completarea Normelor tehnice de realizare a programelor naţionale de sănătate curative, aprobate prin Ordinul preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 180/2022",
+   "emitenti": [
+    "Casa Națională de Asigurări de Sănătate"
+   ],
+   "monitor_nr": "882",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "casa nationala de asigurari de sanatate"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315622",
+   "tip": "ORDIN",
+   "numar": "1025",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 1.025 din 20 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli modificat pe anul 2026 al Centrului Român pentru Pregătirea şi Perfecţionarea Personalului din Transporturi Navale - CERONAV",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "882",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315621",
+   "tip": "ORDIN",
+   "numar": "1024",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 1.024 din 20 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli modificat pe anul 2026 al Autorităţii de Investigaţii şi Analiză pentru Siguranţa Aviaţiei Civile (AIAS)",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "882",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315620",
+   "tip": "DECIZIE",
+   "numar": "395",
+   "data_act": "2026-10-21",
+   "titlu": "DECIZIE nr. 395 din 21 octombrie 2026",
+   "descriere": "privind unele măsuri pentru exercitarea funcţiei de secretar general al Guvernului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "882",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "309948",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-10-21",
+   "titlu": "COMUNICAT din 21 octombrie 2026",
+   "descriere": "dispozițiile art. I pct. 2 și pct. 3 [cu referire la sintagma „sau acesta a săvârșit o faptă cu violență” din cuprinsul art. 86 alin. (1)] din Legea pentru modificarea și completarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
   {
    "id": "315368",
    "tip": "ACORD",
