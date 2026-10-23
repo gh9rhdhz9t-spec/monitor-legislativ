@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-23T05:12:32+00:00",
+ "generated_at": "2026-10-23T13:00:03+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1704,
- "new_this_run": 39,
+ "total": 1739,
+ "new_this_run": 35,
  "pages_scanned": 6,
  "categories": {
-  "Economie, IMM și comerț": 118,
-  "Fiscalitate și buget": 126,
+  "Economie, IMM și comerț": 146,
+  "Fiscalitate și buget": 128,
+  "Altele": 143,
+  "Apărare și securitate națională": 14,
+  "Sănătate": 74,
+  "Afaceri externe și UE": 19,
+  "Justiție și afaceri interne": 199,
   "Administrație publică": 146,
   "Energie și mediu": 214,
-  "Justiție și afaceri interne": 198,
   "Cultură, culte și sport": 25,
-  "Sănătate": 73,
   "Transporturi și infrastructură": 127,
-  "Altele": 142,
   "Educație și cercetare": 357,
-  "Afaceri externe și UE": 18,
-  "Apărare și securitate națională": 13,
   "Protecție socială și pensii": 31,
   "Muncă și dialog social": 28,
   "Agricultură și dezvoltare rurală": 73,
@@ -24,6 +24,750 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315692",
+   "tip": "ORDIN",
+   "numar": "1431",
+   "data_act": "2026-10-01",
+   "titlu": "ORDIN nr. 1.431 din 1 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Automecanica Moreni - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315691",
+   "tip": "ORDIN",
+   "numar": "1433",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.433 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Automecanica Moreni - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315690",
+   "tip": "ORDIN",
+   "numar": "1567",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.567 din 25 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Automecanica Moreni - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315689",
+   "tip": "ORDIN",
+   "numar": "1434",
+   "data_act": "2026-10-01",
+   "titlu": "ORDIN nr. 1.434 din 1 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Electromecanica Ploieşti - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315688",
+   "tip": "ORDIN",
+   "numar": "1430",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.430 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Electromecanica Ploieşti - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315687",
+   "tip": "ORDIN",
+   "numar": "1561",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.561 din 25 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Electromecanica Ploieşti - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315686",
+   "tip": "ORDIN",
+   "numar": "1394",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 1.394 din 29 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Bucureşti - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315685",
+   "tip": "ORDIN",
+   "numar": "1438",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.438 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Bucureşti - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315684",
+   "tip": "ORDIN",
+   "numar": "1560",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.560 din 25 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Bucureşti - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315683",
+   "tip": "ORDIN",
+   "numar": "1430",
+   "data_act": "2026-10-01",
+   "titlu": "ORDIN nr. 1.430 din 1 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Metrom - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315682",
+   "tip": "ORDIN",
+   "numar": "1432",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.432 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Metrom - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315681",
+   "tip": "ORDIN",
+   "numar": "1555",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.555 din 25 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Metrom - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315680",
+   "tip": "ORDIN",
+   "numar": "1396",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 1.396 din 29 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Institutul de Cercetări Metalurgice \"ICEM\" - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315679",
+   "tip": "ORDIN",
+   "numar": "1439",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.439 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Institutul de Cercetări Metalurgice \"ICEM\" - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315678",
+   "tip": "ORDIN",
+   "numar": "1536",
+   "data_act": "2026-09-23",
+   "titlu": "ORDIN nr. 1.536 din 23 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Institutul de Cercetări Metalurgice \"ICEM\" - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "887",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315677",
+   "tip": "ORDIN",
+   "numar": "1393",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 1.393 din 29 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Mija - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315676",
+   "tip": "ORDIN",
+   "numar": "1427",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.427 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Mija - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315675",
+   "tip": "ORDIN",
+   "numar": "1573",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.573 din 25 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Mija - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315674",
+   "tip": "ORDIN",
+   "numar": "1433",
+   "data_act": "2026-10-01",
+   "titlu": "ORDIN nr. 1.433 din 1 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Fabrica de Arme Cugir - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315673",
+   "tip": "ORDIN",
+   "numar": "1434",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.434 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Fabrica de Arme Cugir - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315672",
+   "tip": "ORDIN",
+   "numar": "1572",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.572 din 25 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Fabrica de Arme Cugir - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315671",
+   "tip": "ORDIN",
+   "numar": "1398",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 1.398 din 29 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315670",
+   "tip": "ORDIN",
+   "numar": "1437",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.437 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315669",
+   "tip": "ORDIN",
+   "numar": "1570",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.570 din 25 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315668",
+   "tip": "ORDIN",
+   "numar": "1432",
+   "data_act": "2026-10-01",
+   "titlu": "ORDIN nr. 1.432 din 1 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315667",
+   "tip": "ORDIN",
+   "numar": "1431",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.431 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315666",
+   "tip": "ORDIN",
+   "numar": "1569",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.569 din 25 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315665",
+   "tip": "ORDIN",
+   "numar": "1429",
+   "data_act": "2026-10-01",
+   "titlu": "ORDIN nr. 1.429 din 1 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Arsenal Reşiţa - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315664",
+   "tip": "ORDIN",
+   "numar": "1429",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.429 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Arsenal Reşiţa - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": true
+  },
+  {
+   "id": "315663",
+   "tip": "ORDIN",
+   "numar": "1568",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.568 din 25 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Arsenal Reşiţa - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "888",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315662",
+   "tip": "HOTARARE",
+   "numar": "8",
+   "data_act": "2026-10-14",
+   "titlu": "HOTĂRÂRE nr. 8 din 14 octombrie 2026",
+   "descriere": "pentru modificarea Statutului Academiei Române",
+   "emitenti": [
+    "Academia Română"
+   ],
+   "monitor_nr": "889",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315661",
+   "tip": "ORDIN",
+   "numar": "205",
+   "data_act": "2026-10-16",
+   "titlu": "ORDIN nr. M.205 din 16 octombrie 2026",
+   "descriere": "pentru aprobarea Regulamentului privind descrierea, compunerea şi portul uniformelor militare ale personalului Armatei României",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "889",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315660",
+   "tip": "HOTARARE",
+   "numar": "840",
+   "data_act": "2026-10-23",
+   "titlu": "HOTĂRÂRE nr. 840 din 23 octombrie 2026",
+   "descriere": "privind acceptarea de către statul român a donaţiei unor bunuri mobile, în vederea realizării vaccinării împotriva infecţiei cu virusul pestei micilor rumegătoare şi a variolei ovine şi caprine, şi darea acestor bunuri în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "889",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315659",
+   "tip": "HOTARARE",
+   "numar": "839",
+   "data_act": "2026-10-23",
+   "titlu": "HOTĂRÂRE nr. 839 din 23 octombrie 2026",
+   "descriere": "privind rechemarea unui consul general",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "889",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315658",
+   "tip": "DECIZIE",
+   "numar": "357",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIA nr. 357 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 84 alin. (3^2)-(3^4) din Legea educaţiei naţionale nr. 1/2011",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "889",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-23",
+   "are_text": false
+  },
   {
    "id": "315657",
    "tip": "ORDIN",
