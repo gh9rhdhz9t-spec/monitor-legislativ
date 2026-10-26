@@ -1,29 +1,280 @@
 {
- "generated_at": "2026-10-26T06:06:28+00:00",
+ "generated_at": "2026-10-26T14:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1759,
- "new_this_run": 20,
+ "total": 1773,
+ "new_this_run": 14,
  "pages_scanned": 6,
  "categories": {
-  "Sănătate": 76,
+  "Sănătate": 80,
+  "Educație și cercetare": 361,
+  "Cultură, culte și sport": 28,
+  "Justiție și afaceri interne": 202,
+  "Energie și mediu": 217,
   "Fiscalitate și buget": 130,
   "Economie socială": 3,
   "Administrație publică": 153,
   "Protecție socială și pensii": 32,
-  "Justiție și afaceri interne": 200,
   "Altele": 144,
   "Economie, IMM și comerț": 149,
-  "Energie și mediu": 216,
   "Apărare și securitate națională": 14,
   "Afaceri externe și UE": 19,
-  "Cultură, culte și sport": 25,
   "Transporturi și infrastructură": 127,
-  "Educație și cercetare": 357,
   "Muncă și dialog social": 28,
   "Agricultură și dezvoltare rurală": 73,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315727",
+   "tip": "DECIZIE",
+   "numar": "10",
+   "data_act": "2026-10-09",
+   "titlu": "DECIZIE nr. 10/2CN din 9 octombrie 2026",
+   "descriere": "privind stabilirea cuantumului taxelor pentru activităţile de educaţie medicală continuă",
+   "emitenti": [
+    "Colegiul Medicilor Stomatologi din România"
+   ],
+   "monitor_nr": "894",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315726",
+   "tip": "DECIZIE",
+   "numar": "9",
+   "data_act": "2026-10-09",
+   "titlu": "DECIZIE nr. 9/2CN din 9 octombrie 2026",
+   "descriere": "privind reglementarea sistemului de educaţie medicală continuă pentru medicii stomatologi",
+   "emitenti": [
+    "Colegiul Medicilor Stomatologi din România"
+   ],
+   "monitor_nr": "894",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315725",
+   "tip": "ORDIN",
+   "numar": "5808",
+   "data_act": "2026-10-14",
+   "titlu": "ORDIN nr. 5.808 din 14 octombrie 2026",
+   "descriere": "privind aprobarea unor programe şcolare pentru discipline opţionale incluse în oferta naţională a curriculumului la decizia elevului din oferta şcolii (CDEOŞ)",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "894",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315724",
+   "tip": "ORDIN",
+   "numar": "5079",
+   "data_act": "2026-08-25",
+   "titlu": "ORDIN nr. 5.079 din 25 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie Universităţii de Medicină şi Farmacie \"Iuliu Haţieganu\" Cluj-Napoca din judeţul Cluj, pentru unitatea de învăţământ preuniversitar \"EduPedi Cluj - Şcoala din spital\"",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "894",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315723",
+   "tip": "ORDIN",
+   "numar": "3240",
+   "data_act": "2026-10-06",
+   "titlu": "ORDIN nr. 3.240 din 6 octombrie 2026",
+   "descriere": "pentru reacreditarea Muzeului Ianca, cu sediul în oraşul Ianca, judeţul Brăila",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "894",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315722",
+   "tip": "ORDIN",
+   "numar": "3239",
+   "data_act": "2026-10-06",
+   "titlu": "ORDIN nr. 3.239 din 6 octombrie 2026",
+   "descriere": "pentru reacreditarea Muzeului Naţional Secuiesc, cu sediul în municipiul Sfântu Gheorghe, judeţul Covasna",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "894",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315721",
+   "tip": "ORDIN",
+   "numar": "3238",
+   "data_act": "2026-10-06",
+   "titlu": "ORDIN nr. 3.238 din 6 octombrie 2026",
+   "descriere": "pentru reacreditarea Muzeului Naţional al Marinei Române, cu sediul în municipiul Constanţa, judeţul Constanţa",
+   "emitenti": [
+    "Ministerul Culturii"
+   ],
+   "monitor_nr": "894",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315720",
+   "tip": "DECIZIE",
+   "numar": "416",
+   "data_act": "2026-04-30",
+   "titlu": "DECIZIA nr. 416 din 30 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor cuprinse în anexa nr. VIII cap. II lit. A secţiunea II pct. 6 subpct. 6.2 lit. a) pct. 1 la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice şi ale art. 38 alin. (3) , (4) şi (6) din acelaşi act normativ, în interpretarea dată prin Decizia nr. 27 din 26 octombrie 2020 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru soluţionarea recursului în interesul legii, precum şi a dispoziţiilor art. 23 şi ale art. 38 alin. (1) şi alin. (2) lit. a) din Legea-cadru nr. 153/2017",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "894",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": true
+  },
+  {
+   "id": "315719",
+   "tip": "ORDIN",
+   "numar": "5831",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 5.831 din 19 octombrie 2026",
+   "descriere": "pentru aprobarea Calendarului de desfăşurare a repartizării şi admiterii în învăţământul liceal pentru anul şcolar 2027-2028",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "893",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": true
+  },
+  {
+   "id": "315718",
+   "tip": "ORDIN",
+   "numar": "5796",
+   "data_act": "2026-10-12",
+   "titlu": "ORDIN nr. 5.796 din 12 octombrie 2026",
+   "descriere": "pentru modificarea Ordinului ministrului educaţiei nr. 5.835/2021 privind menţinerea acreditării Universităţii din Craiova în vederea organizării programelor de studii universitare de doctorat",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "893",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": true
+  },
+  {
+   "id": "315717",
+   "tip": "ORDIN",
+   "numar": "2167",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 2.167 din 19 octombrie 2026",
+   "descriere": "privind aprobarea listelor cu unităţile administrativ-teritoriale întocmite în urma încadrării în regimuri de gestionare a ariilor din zonele şi aglomerările prevăzute în anexa nr. 2 la Legea nr. 104/2011 privind calitatea aerului înconjurător",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "893",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315716",
+   "tip": "ORDIN",
+   "numar": "162",
+   "data_act": "2026-10-16",
+   "titlu": "ORDIN nr. 162 din 16 octombrie 2026",
+   "descriere": "pentru aprobarea Normelor de securitate nucleară privind protecţia instalaţiilor nucleare împotriva incendiilor şi exploziilor",
+   "emitenti": [
+    "Comisia Națională pentru Controlul Activităților Nucleare"
+   ],
+   "monitor_nr": "893",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
   {
    "id": "315715",
    "tip": "ORDIN",
@@ -1750,6 +2001,52 @@
    ],
    "first_seen": "2026-10-23",
    "are_text": false
+  },
+  {
+   "id": "315694",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-10-14",
+   "titlu": "ANEXĂ din 14 octombrie 2026",
+   "descriere": "privind modificarea şi completarea anexelor nr. 1 , 2 şi 3 la Ordinul ministrului sănătăţii şi al preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 564/499/2021 pentru aprobarea protocoalelor terapeutice privind prescrierea medicamentelor aferente denumirilor comune internaţionale prevăzute în Lista cuprinzând denumirile comune internaţionale corespunzătoare medicamentelor de care beneficiază asiguraţii, cu sau fără contribuţie personală, pe bază de prescripţie medicală, în sistemul de asigurări sociale de sănătate, precum şi denumirile comune internaţionale corespunzătoare medicamentelor care se acordă în cadrul programelor naţionale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008 , şi a normelor metodologice privind implementarea acestora",
+   "emitenti": [
+    "Casa Națională de Asigurări de Sănătate"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 5,
+   "termeni": [
+    "asigurari sociale",
+    "casa nationala de asigurari de sanatate"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": true
+  },
+  {
+   "id": "315693",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-10-08",
+   "titlu": "ANEXĂ din 8 octombrie 2026",
+   "descriere": "privind modificarea şi completarea anexelor nr. 1 , 2 şi 3 la Ordinul ministrului sănătăţii şi al preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 564/499/2021 pentru aprobarea protocoalelor terapeutice privind prescrierea medicamentelor aferente denumirilor comune internaţionale prevăzute în Lista cuprinzând denumirile comune internaţionale corespunzătoare medicamentelor de care beneficiază asiguraţii, cu sau fără contribuţie personală, pe bază de prescripţie medicală, în sistemul de asigurări sociale de sănătate, precum şi denumirile comune internaţionale corespunzătoare medicamentelor care se acordă în cadrul programelor naţionale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008 , şi a normelor metodologice privind implementarea acestora",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "881",
+   "data_publicare": "2026-10-21",
+   "data_vigoare": "2026-10-21",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 5,
+   "termeni": [
+    "asigurari sociale",
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": true
   },
   {
    "id": "315630",
