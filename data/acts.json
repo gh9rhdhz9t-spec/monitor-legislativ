@@ -1,29 +1,441 @@
 {
- "generated_at": "2026-10-25T06:08:56+00:00",
+ "generated_at": "2026-10-26T06:06:28+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1739,
- "new_this_run": 0,
+ "total": 1759,
+ "new_this_run": 20,
  "pages_scanned": 6,
  "categories": {
-  "Economie, IMM și comerț": 146,
-  "Fiscalitate și buget": 128,
-  "Altele": 143,
+  "Sănătate": 76,
+  "Fiscalitate și buget": 130,
+  "Economie socială": 3,
+  "Administrație publică": 153,
+  "Protecție socială și pensii": 32,
+  "Justiție și afaceri interne": 200,
+  "Altele": 144,
+  "Economie, IMM și comerț": 149,
+  "Energie și mediu": 216,
   "Apărare și securitate națională": 14,
-  "Sănătate": 74,
   "Afaceri externe și UE": 19,
-  "Justiție și afaceri interne": 199,
-  "Administrație publică": 146,
-  "Energie și mediu": 214,
   "Cultură, culte și sport": 25,
   "Transporturi și infrastructură": 127,
   "Educație și cercetare": 357,
-  "Protecție socială și pensii": 31,
   "Muncă și dialog social": 28,
   "Agricultură și dezvoltare rurală": 73,
-  "Economie socială": 2,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315715",
+   "tip": "ORDIN",
+   "numar": "1848",
+   "data_act": "2026-10-16",
+   "titlu": "ORDIN nr. 1.848 din 16 octombrie 2026",
+   "descriere": "pentru modificarea Normelor tehnice de realizare a programelor naţionale de sănătate publică, aprobate prin Ordinul ministrului sănătăţii nr. 964/2022",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "891",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": true
+  },
+  {
+   "id": "315714",
+   "tip": "ORDIN",
+   "numar": "1467",
+   "data_act": "2026-10-23",
+   "titlu": "ORDIN nr. 1.467 din 23 octombrie 2026",
+   "descriere": "pentru modificarea Ordinului ministrului finanţelor nr. 1.319/2026 privind prospectele de emisiune a certificatelor de trezorerie cu discont şi a obligaţiunilor de stat de tip benchmark aferente lunii octombrie 2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "891",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315713",
+   "tip": "ORDIN",
+   "numar": "1334",
+   "data_act": "2026-10-21",
+   "titlu": "ORDIN nr. 1.334 din 21 octombrie 2026",
+   "descriere": "privind constituirea Grupului de lucru pentru gestionarea măsurii START Reforma Administrativă: asociere şi comasare voluntară",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "891",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie socială",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315712",
+   "tip": "ORDIN",
+   "numar": "1227",
+   "data_act": "2026-10-09",
+   "titlu": "ORDIN nr. 1.227 din 9 octombrie 2026",
+   "descriere": "privind modificarea şi completarea Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 63/2017 privind aprobarea modelelor unor formulare utilizate în domeniul colectării creanţelor fiscale, precum şi pentru modificarea Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 3.454/2016 pentru aprobarea Procedurii de executare silită în cazul debitorilor care au de încasat sume certe, lichide şi exigibile de la autorităţi sau instituţii publice",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "891",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315711",
+   "tip": "DECIZIE",
+   "numar": "410",
+   "data_act": "2026-10-23",
+   "titlu": "DECIZIE nr. 410 din 23 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Luminiţa Popescu, la cerere, din funcţia de secretar de stat al Agenţiei Naţionale pentru Egalitatea de Şanse între Femei şi Bărbaţi",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "891",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315710",
+   "tip": "DECIZIE",
+   "numar": "409",
+   "data_act": "2026-10-23",
+   "titlu": "DECIZIE nr. 409 din 23 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Ana Rădulescu din funcţia de preşedinte, cu rang de secretar de stat, al Autorităţii Naţionale pentru Protecţia Drepturilor Persoanelor cu Dizabilităţi",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "891",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315709",
+   "tip": "DECIZIE",
+   "numar": "408",
+   "data_act": "2026-10-23",
+   "titlu": "DECIZIE nr. 408 din 23 octombrie 2026",
+   "descriere": "privind numirea domnului Jean Dănuţ Cărbunaru în funcţia de secretar de stat în cadrul Cancelariei Prim-Ministrului, purtător de cuvânt al Guvernului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "891",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315708",
+   "tip": "DECIZIE",
+   "numar": "14",
+   "data_act": "2026-01-15",
+   "titlu": "DECIZIA nr. 14 din 15 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 72 din Legea nr. 76/2012 pentru punerea în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă , precum şi ale art. 488 şi ale art. 634 din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "891",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315707",
+   "tip": "DECRET",
+   "numar": "822",
+   "data_act": "2026-10-23",
+   "titlu": "DECRET nr. 822 din 23 octombrie 2026",
+   "descriere": "privind acordarea calităţii de consilier onorific al Preşedintelui României doamnei Olivia-Diana Morar",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "891",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315706",
+   "tip": "DECRET",
+   "numar": "821",
+   "data_act": "2026-10-23",
+   "titlu": "DECRET nr. 821 din 23 octombrie 2026",
+   "descriere": "privind trecerea în rezervă a unui general de brigadă cu o stea din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "891",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315705",
+   "tip": "ORDIN",
+   "numar": "1397",
+   "data_act": "2026-09-29",
+   "titlu": "ORDIN nr. 1.397 din 29 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina de Produse Speciale Dragomireşti - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "890",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": true
+  },
+  {
+   "id": "315704",
+   "tip": "ORDIN",
+   "numar": "1440",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.440 din 19 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina de Produse Speciale Dragomireşti - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "890",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": true
+  },
+  {
+   "id": "315703",
+   "tip": "ORDIN",
+   "numar": "1563",
+   "data_act": "2026-09-25",
+   "titlu": "ORDIN nr. 1.563 din 25 septembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Uzina de Produse Speciale Dragomireşti - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "890",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315702",
+   "tip": "DECIZIE",
+   "numar": "407",
+   "data_act": "2026-10-23",
+   "titlu": "DECIZIE nr. 407 din 23 octombrie 2026",
+   "descriere": "privind numirea domnului Alexandru Avram în funcţia de consilier de stat în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "890",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315701",
+   "tip": "DECIZIE",
+   "numar": "406",
+   "data_act": "2026-10-23",
+   "titlu": "DECIZIE nr. 406 din 23 octombrie 2026",
+   "descriere": "privind încetarea exercitării, cu caracter temporar, la cerere, de către domnul Alexandru Avram a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Mediului, Apelor şi Pădurilor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "890",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315700",
+   "tip": "DECIZIE",
+   "numar": "405",
+   "data_act": "2026-10-23",
+   "titlu": "DECIZIE nr. 405 din 23 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Mariana Cristea a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general adjunct al Ministerului Investiţiilor şi Proiectelor Europene",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "890",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315699",
+   "tip": "DECIZIE",
+   "numar": "404",
+   "data_act": "2026-10-23",
+   "titlu": "DECIZIE nr. 404 din 23 octombrie 2026",
+   "descriere": "pentru exercitarea atribuţiilor preşedintelui Casei Naţionale de Asigurări de Sănătate",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "890",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315698",
+   "tip": "DECIZIE",
+   "numar": "403",
+   "data_act": "2026-10-23",
+   "titlu": "DECIZIE nr. 403 din 23 octombrie 2026",
+   "descriere": "privind unele măsuri pentru exercitarea funcţiei de secretar de stat al Departamentului pentru relaţia cu Parlamentul",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "890",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315697",
+   "tip": "DECIZIE",
+   "numar": "402",
+   "data_act": "2026-10-23",
+   "titlu": "DECIZIE nr. 402 din 23 octombrie 2026",
+   "descriere": "privind numirea domnului Mihnea-Claudiu Drumea în funcţia de secretar de stat în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "890",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315696",
+   "tip": "DECIZIE",
+   "numar": "837",
+   "data_act": "2026-07-15",
+   "titlu": "DECIZIA nr. 837 din 15 iulie 2026",
+   "descriere": "referitoare la obiecţia de neconstituţionalitate a Legii privind aprobarea Ordonanţei Guvernului nr. 16/2025 pentru transpunerea art. 17 alin. (15) din Directiva (UE) 2024/1.275 a Parlamentului European şi a Consiliului din 24 aprilie 2024 privind performanţa energetică a clădirilor şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 18/2009 privind creşterea performanţei energetice a blocurilor de locuinţe",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "890",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-26",
+   "are_text": false
+  },
   {
    "id": "315692",
    "tip": "ORDIN",
