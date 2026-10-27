@@ -1,29 +1,590 @@
 {
- "generated_at": "2026-10-27T06:02:27+00:00",
+ "generated_at": "2026-10-27T14:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1773,
- "new_this_run": 0,
+ "total": 1800,
+ "new_this_run": 27,
  "pages_scanned": 6,
  "categories": {
-  "Sănătate": 80,
-  "Educație și cercetare": 361,
+  "Administrație publică": 156,
+  "Educație și cercetare": 365,
+  "Sănătate": 81,
+  "Justiție și afaceri interne": 207,
+  "Altele": 147,
+  "Energie și mediu": 226,
+  "Fiscalitate și buget": 131,
+  "Agricultură și dezvoltare rurală": 74,
   "Cultură, culte și sport": 28,
-  "Justiție și afaceri interne": 202,
-  "Energie și mediu": 217,
-  "Fiscalitate și buget": 130,
   "Economie socială": 3,
-  "Administrație publică": 153,
   "Protecție socială și pensii": 32,
-  "Altele": 144,
   "Economie, IMM și comerț": 149,
   "Apărare și securitate națională": 14,
   "Afaceri externe și UE": 19,
   "Transporturi și infrastructură": 127,
   "Muncă și dialog social": 28,
-  "Agricultură și dezvoltare rurală": 73,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315755",
+   "tip": "CUANTUM",
+   "numar": "TOTAL",
+   "data_act": "2026-10-27",
+   "titlu": "CUANTUM TOTAL din 27 octombrie 2026",
+   "descriere": "publicat în temeiul Legii nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+   "emitenti": [
+    "Partide Politice"
+   ],
+   "monitor_nr": "897",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315754",
+   "tip": "ORDIN",
+   "numar": "5825",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 5.825 din 19 octombrie 2026",
+   "descriere": "privind acordarea burselor \"Eugen Ionescu\" în anul universitar 2026-2027",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "897",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315753",
+   "tip": "ORDIN",
+   "numar": "2450",
+   "data_act": "2026-10-13",
+   "titlu": "ORDIN nr. 2.450 din 13 octombrie 2026",
+   "descriere": "privind acordarea burselor \"Eugen Ionescu\" în anul universitar 2026-2027",
+   "emitenti": [
+    "Ministerul Afacerilor Externe"
+   ],
+   "monitor_nr": "897",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315752",
+   "tip": "ORDIN",
+   "numar": "1849",
+   "data_act": "2026-10-16",
+   "titlu": "ORDIN nr. 1.849 din 16 octombrie 2026",
+   "descriere": "pentru modificarea Normelor metodologice privind înfiinţarea, organizarea şi funcţionarea cabinetelor şi unităţilor medicale mobile şi a caravanelor medicale, aprobate prin Ordinul ministrului sănătăţii nr. 606/2018",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "897",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-27",
+   "are_text": true
+  },
+  {
+   "id": "315751",
+   "tip": "ORDIN",
+   "numar": "962",
+   "data_act": "2026-10-09",
+   "titlu": "ORDIN nr. 962 din 9 octombrie 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei pentru perioada 1.01.2025-20.11.2025, conform Sentinţei civile nr. 240 din 11.11.2025, pronunţată de Curtea de Apel Iaşi - Secţia contencios administrativ şi fiscal, definitivă prin Decizia civilă nr. 2.601 din 21.05.2026, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 596/45/2025",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "897",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315750",
+   "tip": "ORDIN",
+   "numar": "961",
+   "data_act": "2026-10-09",
+   "titlu": "ORDIN nr. 961 din 9 octombrie 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei din anii 2022, 2023 şi 2024 şi de procentul de indexare a salariului minim pe economie la data de 1.01.2022, la data de 1.01.2023, la data de 1.10.2023, respectiv la data de 1.07.2024, actualizate cu dobânda legală de la scadenţă până la achitare, conform Sentinţei civile nr. 240 din 11.11.2025, pronunţată de Curtea de Apel Iaşi - Secţia contencios administrativ şi fiscal, definitivă prin Decizia civilă nr. 2.601 din 21.05.2026, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 596/45/2025",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "897",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "salariul minim",
+    "salariu"
+   ],
+   "first_seen": "2026-10-27",
+   "are_text": true
+  },
+  {
+   "id": "315749",
+   "tip": "DECIZIE",
+   "numar": "30",
+   "data_act": "2026-01-20",
+   "titlu": "DECIZIA nr. 30 din 20 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 96 alin. (1) şi alin. (2) lit. b) , ale art. 100 alin. (3) , ale art. 101 alin. (3) , ale art. 102 alin. (3) şi ale art. 109 alin. (9) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, coroborate cu prevederile art. 5 alin. (5) , ale art. 21 alin. (3) şi ale art. 34 alin. (1) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, în interpretarea dată prin Decizia nr. 5 din 12 aprilie 2021 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru soluţionarea recursului în interesul legii",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "897",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315748",
+   "tip": "RECTIFICARE",
+   "numar": "5251",
+   "data_act": "2026-08-28",
+   "titlu": "RECTIFICARE nr. 5.251 din 28 august 2026",
+   "descriere": "referitoare la Ordinul ministrului educaţiei şi cercetării nr. 5.251/2026",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315747",
+   "tip": "RECTIFICARE",
+   "numar": "849",
+   "data_act": "2025-10-09",
+   "titlu": "RECTIFICARE nr. 849 din 9 octombrie 2025",
+   "descriere": "referitoare la Hotărârea Guvernului nr. 849/2025",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315746",
+   "tip": "RAPORT",
+   "numar": "18072",
+   "data_act": "2026-10-07",
+   "titlu": "RAPORT nr. 18.072 din 7 octombrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa Lege şi Ordine",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315745",
+   "tip": "RAPORT",
+   "numar": "16200",
+   "data_act": "2026-09-10",
+   "titlu": "RAPORT nr. 16.200 din 10 septembrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Maramureşenilor",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315744",
+   "tip": "RAPORT",
+   "numar": "15324",
+   "data_act": "2026-08-27",
+   "titlu": "RAPORT nr. 15.324 din 27 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Independenţii Comunei Moşniţa în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315743",
+   "tip": "RAPORT",
+   "numar": "14367",
+   "data_act": "2026-10-09",
+   "titlu": "RAPORT nr. 14.367 din 9 octombrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa România Modernă",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315742",
+   "tip": "RAPORT",
+   "numar": "13910",
+   "data_act": "2026-08-06",
+   "titlu": "RAPORT nr. 13.910 din 6 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Comuniştii (Anti-Marxişti)",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315741",
+   "tip": "RAPORT",
+   "numar": "12713",
+   "data_act": "2026-07-23",
+   "titlu": "RAPORT nr. 12.713 din 23 iulie 2026",
+   "descriere": "în urma verificării respectării prevederilor legale privind veniturile şi cheltuielile Partidului Eco Democrat în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315740",
+   "tip": "RAPORT",
+   "numar": "12356",
+   "data_act": "2026-07-16",
+   "titlu": "RAPORT nr. 12.356 din 16 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Social Democrat Independent în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315739",
+   "tip": "RAPORT",
+   "numar": "12355",
+   "data_act": "2026-07-16",
+   "titlu": "RAPORT nr. 12.355 din 16 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul România Unită în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315738",
+   "tip": "RAPORT",
+   "numar": "11749",
+   "data_act": "2026-07-08",
+   "titlu": "RAPORT nr. 11.749 din 8 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Naţional Democrat în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315737",
+   "tip": "HOTARARE",
+   "numar": "68",
+   "data_act": "2026-10-26",
+   "titlu": "HOTĂRÂRE nr. 68 din 26 octombrie 2026",
+   "descriere": "privind modificarea anexei la Hotărârea Camerei Deputaţilor nr. 111/2024 pentru aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315736",
+   "tip": "HOTARARE",
+   "numar": "67",
+   "data_act": "2026-10-26",
+   "titlu": "HOTĂRÂRE nr. 67 din 26 octombrie 2026",
+   "descriere": "privind alegerea unui vicepreşedinte al Camerei Deputaţilor",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315735",
+   "tip": "HOTARARE",
+   "numar": "66",
+   "data_act": "2026-10-26",
+   "titlu": "HOTĂRÂRE nr. 66 din 26 octombrie 2026",
+   "descriere": "privind vacantarea funcţiei de vicepreşedinte al Camerei Deputaţilor",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "896",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315734",
+   "tip": "DECIZIE",
+   "numar": "411",
+   "data_act": "2026-10-26",
+   "titlu": "DECIZIE nr. 411 din 26 octombrie 2026",
+   "descriere": "pentru numirea domnului Oleg Ungureanu în funcţia de şef al Cancelariei Prim-Ministrului, cu rang de ministru",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "895",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315733",
+   "tip": "DECIZIE",
+   "numar": "275",
+   "data_act": "2026-03-26",
+   "titlu": "DECIZIA nr. 275 din 26 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 59/2017 privind modificarea şi completarea unor acte normative din domeniul pensiilor de serviciu, în ansamblul său, a dispoziţiilor art. VII din această ordonanţă de urgenţă şi ale art. 84 din Ordonanţa de urgenţă a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investiţiilor publice şi a unor măsuri fiscal-bugetare, modificarea şi completarea unor acte normative şi prorogarea unor termene",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "895",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315732",
+   "tip": "DECIZIE",
+   "numar": "90",
+   "data_act": "2026-09-21",
+   "titlu": "DECIZIA nr. 90 din 21 septembrie 2026",
+   "descriere": "referitoare la aplicarea art. 22 alin. (5) lit. b) din Legea nr. 132/2017",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "892",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315731",
+   "tip": "ORDIN",
+   "numar": "5832",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 5.832 din 19 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Metodologiei privind criteriile şi procedurile de evaluare şi certificare a evaluatorilor de competenţe profesionale, a evaluatorilor de evaluatori şi a evaluatorilor externi, aprobată prin Ordinul ministrului educaţiei nr. 7.432/2024",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "892",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-27",
+   "are_text": true
+  },
+  {
+   "id": "315730",
+   "tip": "ORDIN",
+   "numar": "294",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 294 din 20 octombrie 2026",
+   "descriere": "pentru modificarea anexelor nr. 9a-9g la anexa Ordinului ministrului agriculturii şi dezvoltării rurale nr. 304/2021 privind aprobarea termenelor şi modelelor de cereri de autorizare pentru activitatea de clasificare a carcaselor şi a documentelor necesare obţinerii autorizaţiei de clasificare a carcaselor, modelului formularului-tip pentru autorizaţia de clasificare, pe specii, precum şi a modelului Registrului de evidenţă a autorizaţiilor de clasificare a carcaselor",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "892",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315729",
+   "tip": "DECIZIE",
+   "numar": "479",
+   "data_act": "2026-05-19",
+   "titlu": "DECIZIA nr. 479 din 19 mai 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 29 alin. (5) teza a doua din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "892",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-27",
+   "are_text": false
+  },
   {
    "id": "315727",
    "tip": "DECIZIE",
