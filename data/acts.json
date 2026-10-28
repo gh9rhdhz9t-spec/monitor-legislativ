@@ -1,29 +1,433 @@
 {
- "generated_at": "2026-10-28T06:00:05+00:00",
+ "generated_at": "2026-10-28T14:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1800,
- "new_this_run": 0,
+ "total": 1821,
+ "new_this_run": 21,
  "pages_scanned": 6,
  "categories": {
+  "Justiție și afaceri interne": 216,
+  "Energie și mediu": 235,
+  "Educație și cercetare": 367,
   "Administrație publică": 156,
-  "Educație și cercetare": 365,
   "Sănătate": 81,
-  "Justiție și afaceri interne": 207,
   "Altele": 147,
-  "Energie și mediu": 226,
   "Fiscalitate și buget": 131,
   "Agricultură și dezvoltare rurală": 74,
   "Cultură, culte și sport": 28,
+  "Apărare și securitate națională": 15,
   "Economie socială": 3,
   "Protecție socială și pensii": 32,
   "Economie, IMM și comerț": 149,
-  "Apărare și securitate națională": 14,
   "Afaceri externe și UE": 19,
   "Transporturi și infrastructură": 127,
   "Muncă și dialog social": 28,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315776",
+   "tip": "DECIZIE",
+   "numar": "334",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIE nr. 334 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 22 alin. (4) lit. b) din Legea nr. 187/2012 pentru punerea în aplicare a Legii nr. 286/2009 privind Codul penal , raportate la dispoziţiile art. 129 alin. (2) lit. d) din Codul penal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "900",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315775",
+   "tip": "DECIZIE",
+   "numar": "185",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIE nr. 185 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7 din Legea nr. 455/2001 privind semnătura electronică",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "900",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315774",
+   "tip": "HOTARARE",
+   "numar": "20",
+   "data_act": "2026-10-13",
+   "titlu": "HOTĂRÂRE nr. 20 din 13 octombrie 2026",
+   "descriere": "pentru modificarea Regulamentului de organizare şi funcţionare a Curţii Constituţionale, aprobat prin Hotărârea Plenului Curţii Constituţionale nr. 5/2025",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "900",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315773",
+   "tip": "RAPORT",
+   "numar": "15626",
+   "data_act": "2026-10-01",
+   "titlu": "RAPORT nr. 15.626 din 1 octombrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa Creştinilor Europeni",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315772",
+   "tip": "RAPORT",
+   "numar": "14959",
+   "data_act": "2026-08-21",
+   "titlu": "RAPORT nr. 14.959 din 21 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul SENS",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315771",
+   "tip": "RAPORT",
+   "numar": "13923",
+   "data_act": "2026-08-06",
+   "titlu": "RAPORT nr. 13.923 din 6 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul \"Uniunea Geto-Dacilor\"",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315770",
+   "tip": "RAPORT",
+   "numar": "12655",
+   "data_act": "2026-07-22",
+   "titlu": "RAPORT nr. 12.655 din 22 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Liga Populară în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315769",
+   "tip": "RAPORT",
+   "numar": "12643",
+   "data_act": "2026-10-01",
+   "titlu": "RAPORT nr. 12.643 din 1 octombrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Brăila Nouă",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315768",
+   "tip": "RAPORT",
+   "numar": "12334",
+   "data_act": "2026-10-08",
+   "titlu": "RAPORT nr. 12.334 din 8 octombrie 2026",
+   "descriere": "în urma verificării respectării prevederilor legale privind veniturile şi cheltuielile înregistrate de Partidul pentru Patrie, Militari şi Poliţişti în Rezervă şi Retragere (PPMPRR) în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315767",
+   "tip": "RAPORT",
+   "numar": "12067",
+   "data_act": "2026-07-13",
+   "titlu": "RAPORT nr. 12.067 din 13 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Moderat",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315766",
+   "tip": "RAPORT",
+   "numar": "11580",
+   "data_act": "2026-07-06",
+   "titlu": "RAPORT nr. 11.580 din 6 iulie 2026",
+   "descriere": "privind verificarea legalităţii veniturilor şi cheltuielilor înregistrate de Partidul Alianţa pentru Unirea Românilor în perioada 1.07.2023-31.12.2024",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315765",
+   "tip": "RAPORT",
+   "numar": "11297",
+   "data_act": "2026-07-02",
+   "titlu": "RAPORT nr. 11.297 din 2 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă pentru verificarea respectării prevederilor legale privind veniturile şi cheltuielile înregistrate în activitatea curentă de Partidul Poporului Demn şi Drept în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315764",
+   "tip": "RAPORT",
+   "numar": "10930",
+   "data_act": "2026-06-29",
+   "titlu": "RAPORT nr. 10.930 din 29 iunie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Uniunea Independentă pentru Dezvoltarea Albeştiului",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315763",
+   "tip": "DECIZIE",
+   "numar": "199",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIE nr. 199 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 178 alin. 2 din Codul penal din 1969 şi ale art. 192 alin. (2) din Codul penal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315762",
+   "tip": "DECIZIE",
+   "numar": "99",
+   "data_act": "2026-02-05",
+   "titlu": "DECIZIE nr. 99 din 5 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 87 pct. 4) şi ale art. 88 alin. (1) lit. b) din Legea apelor nr. 107/1996",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315761",
+   "tip": "DECIZIE",
+   "numar": "749",
+   "data_act": "2025-12-11",
+   "titlu": "DECIZIA nr. 749 din 11 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 53 alin. (1) din Legea nr. 101/2016 privind remediile şi căile de atac în materie de atribuire a contractelor de achiziţie publică, a contractelor sectoriale şi a contractelor de concesiune de lucrări şi concesiune de servicii, precum şi pentru organizarea şi funcţionarea Consiliului Naţional de Soluţionare a Contestaţiilor, în redactarea anterioară intrării în vigoare a Legii nr. 208/2022 pentru modificarea şi completarea Legii nr. 98/2016 privind achiziţiile publice, Legii nr. 99/2016 privind achiziţiile sectoriale, Legii nr. 100/2016 privind concesiunile de lucrări şi concesiunile de servicii, precum şi a Legii nr. 101/2016 privind remediile şi căile de atac în materie de atribuire a contractelor de achiziţie publică, a contractelor sectoriale şi a contractelor de concesiune de lucrări şi concesiune de servicii, precum şi pentru organizarea şi funcţionarea Consiliului Naţional de Soluţionare a Contestaţiilor, ale art. 53 alin. (1^1) din Legea nr. 101/2016 , în redactarea anterioară intrării în vigoare a Ordonanţei de urgenţă a Guvernului nr. 26/2022 pentru modificarea şi completarea unor acte normative în domeniul investiţiilor publice, ale art. 55 alin. (3) din Legea nr. 101/2016 , în redactarea anterioară intrării în vigoare a Legii nr. 75/2023 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 26/2022 pentru modificarea şi completarea unor acte normative în domeniul investiţiilor publice, precum şi cele ale art. 444 din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "899",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [
+    "concediu"
+   ],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315760",
+   "tip": "ORDIN",
+   "numar": "5840",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 5.840 din 20 octombrie 2026",
+   "descriere": "privind reorganizarea Şcolii Doctorale din cadrul Universităţii \"Constantin Brâncuşi\" din Târgu Jiu",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "898",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315759",
+   "tip": "ORDIN",
+   "numar": "2175",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 2.175 din 20 octombrie 2026",
+   "descriere": "pentru aprobarea derogării în scopul cercetării ştiinţifice pentru unele specii de peşti",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "898",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315758",
+   "tip": "DECIZIE",
+   "numar": "29",
+   "data_act": "2026-01-20",
+   "titlu": "DECIZIA nr. 29 din 20 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. (3) şi ale art. 32 alin. (1) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcţii",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "898",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315757",
+   "tip": "DECIZIE",
+   "numar": "715",
+   "data_act": "2025-12-09",
+   "titlu": "DECIZIA nr. 715 din 9 decembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 , ale art. 8 alin. (1) şi ale art. 14 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă, precum şi a ordonanţei de urgenţă, în ansamblul său",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "898",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-28",
+   "are_text": false
+  },
   {
    "id": "315755",
    "tip": "CUANTUM",
@@ -834,6 +1238,26 @@
    "scor": 2,
    "termeni": [],
    "first_seen": "2026-10-26",
+   "are_text": false
+  },
+  {
+   "id": "315756",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-10-16",
+   "titlu": "REGULAMENT din 16 octombrie 2026",
+   "descriere": "privind descrierea, compunerea şi portul uniformelor militare ale personalului Armatei României",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "889",
+   "data_publicare": "2026-10-23",
+   "data_vigoare": "2026-10-23",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-28",
    "are_text": false
   },
   {
