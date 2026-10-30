@@ -1,29 +1,362 @@
 {
- "generated_at": "2026-10-29T06:00:05+00:00",
+ "generated_at": "2026-10-30T06:06:06+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1821,
- "new_this_run": 0,
+ "total": 1837,
+ "new_this_run": 16,
  "pages_scanned": 6,
  "categories": {
+  "Altele": 148,
+  "Muncă și dialog social": 29,
+  "Energie și mediu": 245,
+  "Protecție socială și pensii": 35,
+  "Administrație publică": 157,
   "Justiție și afaceri interne": 216,
-  "Energie și mediu": 235,
   "Educație și cercetare": 367,
-  "Administrație publică": 156,
   "Sănătate": 81,
-  "Altele": 147,
   "Fiscalitate și buget": 131,
   "Agricultură și dezvoltare rurală": 74,
   "Cultură, culte și sport": 28,
   "Apărare și securitate națională": 15,
   "Economie socială": 3,
-  "Protecție socială și pensii": 32,
   "Economie, IMM și comerț": 149,
   "Afaceri externe și UE": 19,
   "Transporturi și infrastructură": 127,
-  "Muncă și dialog social": 28,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315792",
+   "tip": "HOTARARE",
+   "numar": "25",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 25 din 28 octombrie 2026",
+   "descriere": "privind prelungirea stării de alertă la nivelul României instituite prin Hotărârea Comitetului Naţional pentru Situaţii de Urgenţă nr. 15/2026 şi prelungite prin hotărârile Comitetului Naţional pentru Situaţii de Urgenţă nr. 21/2026 şi nr. 23/2026",
+   "emitenti": [
+    "Comitetul Național pentru Situații de Urgență"
+   ],
+   "monitor_nr": "902",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315791",
+   "tip": "DECIZIE",
+   "numar": "89",
+   "data_act": "2026-09-21",
+   "titlu": "DECIZIA nr. 89 din 21 septembrie 2026",
+   "descriere": "referitoare la interpretarea dispoziţiilor art. 85^1 din Legea nr. 76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă, cu modificările şi completările ulterioare",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "902",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 5,
+   "termeni": [
+    "somaj",
+    "ocuparea fortei de munca"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": true
+  },
+  {
+   "id": "315790",
+   "tip": "DECRET",
+   "numar": "823",
+   "data_act": "2026-10-28",
+   "titlu": "DECRET nr. 823 din 28 octombrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea, la trecerea în rezervă, unui colonel din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "902",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315789",
+   "tip": "RAPORT",
+   "numar": "16192",
+   "data_act": "2026-09-10",
+   "titlu": "RAPORT nr. 16.192 din 10 septembrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Libertăţii referitor la respectarea prevederilor legale privind veniturile şi cheltuielile înregistrate în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315788",
+   "tip": "RAPORT",
+   "numar": "15128",
+   "data_act": "2026-08-25",
+   "titlu": "RAPORT nr. 15.128 din 25 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul PUNCT referitor la respectarea prevederilor legale privind veniturile şi cheltuielile înregistrate în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315787",
+   "tip": "RAPORT",
+   "numar": "15118",
+   "data_act": "2026-08-25",
+   "titlu": "RAPORT nr. 15.118 din 25 august 2026",
+   "descriere": "privind verificarea respectării prevederilor legale referitoare la veniturile şi cheltuielile înregistrate în anul 2025 de Partidul Forţa Naţională",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315786",
+   "tip": "RAPORT",
+   "numar": "14535",
+   "data_act": "2026-08-17",
+   "titlu": "RAPORT nr. 14.535 din 17 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa pentru Patrie",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315785",
+   "tip": "RAPORT",
+   "numar": "14268",
+   "data_act": "2026-08-11",
+   "titlu": "RAPORT nr. 14.268 din 11 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Ader la Democraţie, Educaţie şi Reconstrucţie",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315784",
+   "tip": "RAPORT",
+   "numar": "13912",
+   "data_act": "2026-08-06",
+   "titlu": "RAPORT nr. 13.912 din 6 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Vadimist Român",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315783",
+   "tip": "RAPORT",
+   "numar": "13164",
+   "data_act": "2026-07-31",
+   "titlu": "RAPORT nr. 13.164 din 31 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Popular din România",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315782",
+   "tip": "RAPORT",
+   "numar": "12943",
+   "data_act": "2026-07-28",
+   "titlu": "RAPORT nr. 12.943 din 28 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Naţional Agrar în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315781",
+   "tip": "RAPORT",
+   "numar": "12942",
+   "data_act": "2026-07-28",
+   "titlu": "RAPORT nr. 12.942 din 28 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Creştin Social-Liberal Român în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315780",
+   "tip": "RAPORT",
+   "numar": "12706",
+   "data_act": "2026-07-23",
+   "titlu": "RAPORT nr. 12.706 din 23 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Forţa Pensionarilor",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315779",
+   "tip": "DECIZIE",
+   "numar": "414",
+   "data_act": "2026-10-28",
+   "titlu": "DECIZIE nr. 414 din 28 octombrie 2026",
+   "descriere": "privind încetarea, la cerere, a exercitării, cu caracter temporar, prin detaşare, de către doamna Marilena-Nicoleta Balabuti a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Investiţiilor şi Proiectelor Europene",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici",
+    "detasare"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315778",
+   "tip": "DECIZIE",
+   "numar": "413",
+   "data_act": "2026-10-28",
+   "titlu": "DECIZIE nr. 413 din 28 octombrie 2026",
+   "descriere": "privind numirea doamnei Vasilica-Valentina Robu în funcţia de preşedinte, cu rang de secretar de stat, al Casei Naţionale de Pensii Publice şi preşedinte al Consiliului de administraţie",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315777",
+   "tip": "DECIZIE",
+   "numar": "412",
+   "data_act": "2026-10-28",
+   "titlu": "DECIZIE nr. 412 din 28 octombrie 2026",
+   "descriere": "privind încetarea exercitării, cu caracter temporar, de către doamna Vasilica-Valentina Robu a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Casei Naţionale de Pensii Publice",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "901",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 2,
+   "termeni": [
+    "pensii",
+    "functionari publici"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
   {
    "id": "315776",
    "tip": "DECIZIE",
