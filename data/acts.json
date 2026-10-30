@@ -1,29 +1,405 @@
 {
- "generated_at": "2026-10-30T06:06:06+00:00",
+ "generated_at": "2026-10-30T14:00:01+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1837,
- "new_this_run": 16,
+ "total": 1858,
+ "new_this_run": 21,
  "pages_scanned": 6,
  "categories": {
-  "Altele": 148,
+  "Sănătate": 85,
+  "Economie, IMM și comerț": 152,
+  "Justiție și afaceri interne": 223,
+  "Administrație publică": 158,
+  "Altele": 153,
+  "Energie și mediu": 246,
   "Muncă și dialog social": 29,
-  "Energie și mediu": 245,
   "Protecție socială și pensii": 35,
-  "Administrație publică": 157,
-  "Justiție și afaceri interne": 216,
   "Educație și cercetare": 367,
-  "Sănătate": 81,
   "Fiscalitate și buget": 131,
   "Agricultură și dezvoltare rurală": 74,
   "Cultură, culte și sport": 28,
   "Apărare și securitate națională": 15,
   "Economie socială": 3,
-  "Economie, IMM și comerț": 149,
   "Afaceri externe și UE": 19,
   "Transporturi și infrastructură": 127,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315834",
+   "tip": "HOTARARE",
+   "numar": "37",
+   "data_act": "2026-10-23",
+   "titlu": "HOTĂRÂRE nr. 37 din 23 octombrie 2026",
+   "descriere": "pentru completarea Hotărârii Consiliului naţional al Ordinului Asistenţilor Medicali Generalişti, Moaşelor şi Asistenţilor Medicali din România nr. 4/2020 pentru aprobarea structurii şi a informaţiilor din Registrul naţional unic al asistenţilor medicali generalişti, moaşelor şi asistenţilor medicali din România",
+   "emitenti": [
+    "Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România"
+   ],
+   "monitor_nr": "906",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315833",
+   "tip": "HOTARARE",
+   "numar": "35",
+   "data_act": "2026-10-23",
+   "titlu": "HOTĂRÂRE nr. 35 din 23 octombrie 2026",
+   "descriere": "privind suspendarea aplicării Hotărârii Consiliului naţional al Ordinului Asistenţilor Medicali Generalişti, Moaşelor şi Asistenţilor Medicali din România nr. 28/2026 pentru modificarea anexelor nr. 3 şi 4 la Statutul Ordinului Asistenţilor Medicali Generalişti, Moaşelor şi Asistenţilor Medicali din România, adoptat prin Hotărârea Adunării generale naţionale a Ordinului Asistenţilor Medicali Generalişti, Moaşelor şi Asistenţilor Medicali din România nr. 1/2009",
+   "emitenti": [
+    "Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România"
+   ],
+   "monitor_nr": "906",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315832",
+   "tip": "ORDIN",
+   "numar": "1773",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 1.773 din 27 octombrie 2026",
+   "descriere": "privind modificarea şi completarea procedurii de implementare a \"Programului pentru consolidarea IMM-urilor prin acces îmbunătăţit la finanţare - SME Eco-Tech\", finanţat din cea de-a doua contribuţie elveţiană, în cadrul Programului de cooperare elveţiano-român (PCER), aprobată prin Ordinul ministrului economiei, digitalizării, antreprenoriatului şi turismului nr. 1.392/2025",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "906",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 5,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": true
+  },
+  {
+   "id": "315831",
+   "tip": "ORDIN",
+   "numar": "984",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 984 din 20 octombrie 2026",
+   "descriere": "pentru modificarea anexei nr. 1 la Ordinul preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 35/2016 privind aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, precum şi a normelor metodologice de aplicare a Programului de supraveghere şi control în domeniul siguranţei alimentelor",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "906",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315830",
+   "tip": "ORDIN",
+   "numar": "832",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 832 din 19 octombrie 2026",
+   "descriere": "privind pragurile valorice Intrastat pentru colectarea informaţiilor statistice de comerţ intra-UE cu bunuri în anul 2027",
+   "emitenti": [
+    "Institutul Național de Statistică (și Studii Economice)"
+   ],
+   "monitor_nr": "906",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2027-02-01",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315829",
+   "tip": "DECIZIE",
+   "numar": "337",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIA nr. 337 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 102 alin. (1) , ale art. 103 alin. (2) , precum şi ale art. 104 alin. (7) şi (8) din Legea nr. 254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "906",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315828",
+   "tip": "DECIZIE",
+   "numar": "331",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIA nr. 331 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 378 alin. (3) din Codul penal , precum şi a sintagmei \"săvârşirea faptei\" cuprinse în dispoziţiile art. 296 alin. (1) şi (2) din Codul de procedură penală , în interpretarea dată prin Decizia nr. 2 din 20 ianuarie 2020 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept în materie penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "906",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315826",
+   "tip": "DECIZIE",
+   "numar": "415",
+   "data_act": "2026-10-29",
+   "titlu": "DECIZIE nr. 415 din 29 octombrie 2026",
+   "descriere": "privind numirea domnului Gabriel-Ciprian Ene în funcţia de secretar general al Guvernului, cu rang de ministru",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "905",
+   "data_publicare": "2026-10-29",
+   "data_vigoare": "2026-10-29",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315825",
+   "tip": "DECIZIE",
+   "numar": "75",
+   "data_act": "2026-01-27",
+   "titlu": "DECIZIA nr. 75 din 27 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 73 pct. 23 teza a doua din Ordonanţa Guvernului nr. 99/2000 privind comercializarea produselor şi serviciilor de piaţă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "905",
+   "data_publicare": "2026-10-29",
+   "data_vigoare": "2026-10-29",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315824",
+   "tip": "DECIZIE",
+   "numar": "16",
+   "data_act": "2026-10-28",
+   "titlu": "DECIZIE nr. 16 din 28 octombrie 2026",
+   "descriere": "privind aprobarea tarifelor pentru publicarea actelor în Monitorul Oficial al României, părţile I-VII",
+   "emitenti": [
+    "Biroul Permanent al Camerei Deputaților"
+   ],
+   "monitor_nr": "905",
+   "data_publicare": "2026-10-29",
+   "data_vigoare": "2026-10-29",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315823",
+   "tip": "ORDIN",
+   "numar": "992",
+   "data_act": "2026-10-26",
+   "titlu": "ORDIN nr. 992 din 26 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea anexei nr. 1 la Ordinul preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 35/2016 privind aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, precum şi a normelor metodologice de aplicare a Programului de supraveghere şi control în domeniul siguranţei alimentelor",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "904",
+   "data_publicare": "2026-10-29",
+   "data_vigoare": "2026-10-29",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315822",
+   "tip": "HOTARARE",
+   "numar": "75",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 75 din 28 octombrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului privind rezervarea multimodală şi de abrogare a Regulamentului (CE) nr. 80/2009 - COM (2026) 231, la propunerea de Regulament al Parlamentului European şi al Consiliului privind emiterea biletelor de tren - COM (2026) 232 şi la propunerea de Regulament al Parlamentului European şi al Consiliului de modificare a Regulamentului (UE) 2021/782 în ceea ce priveşte protecţia călătorilor care deţin bilete unice - COM (2026) 233",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "904",
+   "data_publicare": "2026-10-29",
+   "data_vigoare": "2026-10-29",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315821",
+   "tip": "HOTARARE",
+   "numar": "74",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 74 din 28 octombrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - ProtectEU: Agenda privind prevenirea şi combaterea terorismului - COM (2026) 101",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "904",
+   "data_publicare": "2026-10-29",
+   "data_vigoare": "2026-10-29",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315820",
+   "tip": "HOTARARE",
+   "numar": "73",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 73 din 28 octombrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Plan de acţiune împotriva hărţuirii cibernetice \"Un mediu online mai sigur - împreună suntem mai puternici\" - COM (2026) 71",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "904",
+   "data_publicare": "2026-10-29",
+   "data_vigoare": "2026-10-29",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315819",
+   "tip": "HOTARARE",
+   "numar": "72",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 72 din 28 octombrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European şi Consiliu - Strategia europeană de gestionare a azilului şi a migraţiei - COM (2026) 45",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "904",
+   "data_publicare": "2026-10-29",
+   "data_vigoare": "2026-10-29",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315818",
+   "tip": "HOTARARE",
+   "numar": "71",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 71 din 28 octombrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Comunicare privind regiunile estice ale UE care se învecinează cu Rusia, Belarus şi Ucraina - Regiuni puternice pentru o Europă sigură - COM (2026) 82",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "904",
+   "data_publicare": "2026-10-29",
+   "data_vigoare": "2026-10-29",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315817",
+   "tip": "HOTARARE",
+   "numar": "70",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 70 din 28 octombrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European şi Consiliu privind strategia UE referitoare la politica în domeniul vizelor - COM (2026) 43",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "904",
+   "data_publicare": "2026-10-29",
+   "data_vigoare": "2026-10-29",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "315816",
+   "tip": "HOTARARE",
+   "numar": "69",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 69 din 28 octombrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Uniunea egalităţii: Strategia de combatere a rasismului pentru perioada 2026-2030 - COM (2026) 12",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "904",
+   "data_publicare": "2026-10-29",
+   "data_vigoare": "2026-10-29",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
   {
    "id": "315792",
    "tip": "HOTARARE",
@@ -354,6 +730,26 @@
     "pensii",
     "functionari publici"
    ],
+   "first_seen": "2026-10-30",
+   "are_text": false
+  },
+  {
+   "id": "309950",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-10-29",
+   "titlu": "COMUNICAT din 28 octombrie 2026",
+   "descriere": "privind natura termenelor de 6 luni şi, respectiv, de 1 an prevăzute de art. 250^2 din Codul de procedură penală",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-10-28",
+   "data_vigoare": "2026-10-28",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
    "first_seen": "2026-10-30",
    "are_text": false
   },
@@ -906,6 +1302,26 @@
    "scor": 1,
    "termeni": [],
    "first_seen": "2026-10-27",
+   "are_text": false
+  },
+  {
+   "id": "315813",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-10-16",
+   "titlu": "NORMĂ din 16 octombrie 2026",
+   "descriere": "de securitate nucleară privind protecţia instalaţiilor nucleare împotriva incendiilor şi exploziilor",
+   "emitenti": [
+    "Comisia Națională pentru Controlul Activităților Nucleare"
+   ],
+   "monitor_nr": "893",
+   "data_publicare": "2026-10-26",
+   "data_vigoare": "2026-10-26",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-30",
    "are_text": false
   },
   {
@@ -2747,6 +3163,28 @@
    "scor": 2,
    "termeni": [],
    "first_seen": "2026-10-23",
+   "are_text": false
+  },
+  {
+   "id": "315794",
+   "tip": "GHID",
+   "numar": "",
+   "data_act": "2026-10-12",
+   "titlu": "GHIDUL SOLICITANTULUI din 12 octombrie 2026",
+   "descriere": "elaborat în baza Hotărârii Guvernului nr. 486/2026 privind stimularea investiţiilor în vederea realizării de produse cu deficit comercial din industria prelucrătoare - Revizia 1",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "885",
+   "data_publicare": "2026-10-22",
+   "data_vigoare": "2026-10-22",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-10-30",
    "are_text": false
   },
   {
