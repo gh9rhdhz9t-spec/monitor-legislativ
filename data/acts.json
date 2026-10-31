@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-10-31T06:07:21+00:00",
+ "generated_at": "2026-10-31T14:00:01+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1858,
- "new_this_run": 0,
+ "total": 1865,
+ "new_this_run": 7,
  "pages_scanned": 6,
  "categories": {
-  "Sănătate": 85,
+  "Fiscalitate și buget": 133,
+  "Altele": 157,
+  "Sănătate": 86,
   "Economie, IMM și comerț": 152,
   "Justiție și afaceri interne": 223,
   "Administrație publică": 158,
-  "Altele": 153,
   "Energie și mediu": 246,
   "Muncă și dialog social": 29,
   "Protecție socială și pensii": 35,
   "Educație și cercetare": 367,
-  "Fiscalitate și buget": 131,
   "Agricultură și dezvoltare rurală": 74,
   "Cultură, culte și sport": 28,
   "Apărare și securitate națională": 15,
@@ -24,6 +24,155 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315888",
+   "tip": "ORD DE URGENTA",
+   "numar": "42",
+   "data_act": "2026-10-30",
+   "titlu": "ORDONANŢĂ DE URGENŢĂ nr. 42 din 30 octombrie 2026",
+   "descriere": "pentru rectificarea bugetului asigurărilor sociale de stat pe anul 2026",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "asigurari sociale",
+    "guvernul"
+   ],
+   "first_seen": "2026-10-31",
+   "are_text": false
+  },
+  {
+   "id": "315879",
+   "tip": "ORD DE URGENTA",
+   "numar": "41",
+   "data_act": "2026-10-30",
+   "titlu": "ORDONANŢĂ DE URGENŢĂ nr. 41 din 30 octombrie 2026",
+   "descriere": "cu privire la rectificarea bugetului de stat pe anul 2026",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "911",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-10-31",
+   "are_text": false
+  },
+  {
+   "id": "315848",
+   "tip": "HOTARARE",
+   "numar": "141",
+   "data_act": "2026-10-22",
+   "titlu": "HOTĂRÂRE nr. 141 din 22 octombrie 2026",
+   "descriere": "pentru modificarea Regulamentului Institutului Naţional al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 92/2023",
+   "emitenti": [
+    "Consiliul Superior al Magistraturii"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-31",
+   "are_text": false
+  },
+  {
+   "id": "315845",
+   "tip": "ORDIN",
+   "numar": "106",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 106 din 27 octombrie 2026",
+   "descriere": "privind modificarea şi completarea Ordinului ministrului sănătăţii nr. 5.994/2024 pentru aprobarea preţurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deţinătorii de autorizaţie de punere pe piaţă a medicamentelor sau reprezentanţii acestora, distribuitorii angro şi furnizorii de servicii medicale şi medicamente pentru acele medicamente care fac obiectul unei relaţii contractuale cu Ministerul Sănătăţii, casele de asigurări de sănătate şi/sau direcţiile de sănătate publică judeţene şi a municipiului Bucureşti, cuprinse în Catalogul naţional al preţurilor medicamentelor autorizate de punere pe piaţă în România, a preţurilor de referinţă generice şi a preţurilor de referinţă inovative",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-11-01",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-10-31",
+   "are_text": true
+  },
+  {
+   "id": "315844",
+   "tip": "DECIZIE",
+   "numar": "417",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 417 din 30 octombrie 2026",
+   "descriere": "pentru modificarea anexei la Decizia prim-ministrului nr. 229/2013 privind stabilirea componenţei Comisiei Naţionale pentru Compensarea Imobilelor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-10-31",
+   "are_text": false
+  },
+  {
+   "id": "315836",
+   "tip": "DECRET",
+   "numar": "824",
+   "data_act": "2026-10-30",
+   "titlu": "DECRET nr. 824 din 30 octombrie 2026",
+   "descriere": "privind promulgarea Legii pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-10-31",
+   "are_text": false
+  },
+  {
+   "id": "315835",
+   "tip": "LEGE",
+   "numar": "205",
+   "data_act": "2026-10-30",
+   "titlu": "LEGE nr. 205 din 30 octombrie 2026",
+   "descriere": "pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-11-02",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-10-31",
+   "are_text": true
+  },
   {
    "id": "315834",
    "tip": "HOTARARE",
