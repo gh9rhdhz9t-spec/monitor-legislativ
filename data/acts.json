@@ -1,18 +1,19 @@
 {
- "generated_at": "2026-11-02T06:04:49+00:00",
+ "generated_at": "2026-11-02T14:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1891,
- "new_this_run": 26,
+ "total": 2007,
+ "new_this_run": 116,
  "pages_scanned": 6,
  "categories": {
-  "Fiscalitate și buget": 141,
-  "Transporturi și infrastructură": 131,
-  "Administrație publică": 165,
-  "Economie, IMM și comerț": 153,
-  "Justiție și afaceri interne": 227,
-  "Energie și mediu": 247,
-  "Educație și cercetare": 368,
-  "Altele": 157,
+  "Administrație publică": 264,
+  "Economie, IMM și comerț": 155,
+  "Justiție și afaceri interne": 231,
+  "Fiscalitate și buget": 142,
+  "Educație și cercetare": 372,
+  "Transporturi și infrastructură": 132,
+  "Energie și mediu": 248,
+  "Altele": 160,
+  "Afaceri externe și UE": 20,
   "Sănătate": 86,
   "Muncă și dialog social": 29,
   "Protecție socială și pensii": 35,
@@ -20,10 +21,187 @@
   "Cultură, culte și sport": 28,
   "Apărare și securitate națională": 15,
   "Economie socială": 3,
-  "Afaceri externe și UE": 19,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315981",
+   "tip": "DECIZIE",
+   "numar": "431",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 431 din 30 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, prin detaşare, de către doamna Mona-Mihaela Dumitru a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "916",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici",
+    "detasare"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315980",
+   "tip": "DECIZIE",
+   "numar": "430",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 430 din 30 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Darius-Georgel Vodă a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "916",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315979",
+   "tip": "DECIZIE",
+   "numar": "429",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 429 din 30 octombrie 2026",
+   "descriere": "privind încetarea exercitării, cu caracter temporar, prin detaşare, de către domnul Darius-Georgel Vodă a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Agenţiei Naţionale a Funcţionarilor Publici",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "916",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici",
+    "detasare"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315978",
+   "tip": "DECIZIE",
+   "numar": "428",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 428 din 30 octombrie 2026",
+   "descriere": "privind încetarea, la cerere, a exercitării, cu caracter temporar, de către doamna Adriana-Laura Miron a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "916",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315977",
+   "tip": "DECIZIE",
+   "numar": "427",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 427 din 30 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Marius-Iulian Carabulea a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Investiţiilor şi Proiectelor Europene",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "916",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315976",
+   "tip": "DECIZIE",
+   "numar": "426",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 426 din 30 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Gabriela-Andreea Nica a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Muncii, Familiei, Tineretului şi Solidarităţii Sociale",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "916",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "ministerul muncii",
+    "functionari publici"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315975",
+   "tip": "DECIZIE",
+   "numar": "425",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 425 din 30 octombrie 2026",
+   "descriere": "privind încetarea exercitării, cu caracter temporar, de către domnul Eduard Corjescu a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Muncii, Familiei, Tineretului şi Solidarităţii Sociale",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "916",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "ministerul muncii",
+    "functionari publici"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315974",
+   "tip": "DECIZIE",
+   "numar": "481",
+   "data_act": "2026-05-19",
+   "titlu": "DECIZIA nr. 481 din 19 mai 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 148 alin. (3) , (7) şi (10) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "916",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
   {
    "id": "315973",
    "tip": "ORD DE URGENTA",
@@ -69,6 +247,29 @@
    "are_text": false
   },
   {
+   "id": "315971",
+   "tip": "HOTARARE",
+   "numar": "947",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 947 din 30 octombrie 2026",
+   "descriere": "privind aprobarea Actului adiţional nr. 6/2026 la Licenţa de concesiune nr. 3.496/2002 a activităţii miniere de exploatare a lignitului din perimetrul Roşia de Jiu, judeţul Gorj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "914",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "concediu",
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": true
+  },
+  {
    "id": "315970",
    "tip": "HOTARARE",
    "numar": "946",
@@ -83,6 +284,28 @@
    "data_vigoare": "2026-10-30",
    "vigoare_text": "",
    "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315969",
+   "tip": "HOTARARE",
+   "numar": "945",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 945 din 30 octombrie 2026",
+   "descriere": "pentru aprobarea unor măsuri necesare pentru asigurarea funcţionării în condiţii de siguranţă şi securitate a Sistemului electroenergetic naţional în perioada 1 noiembrie 2026-31 martie 2027",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "914",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
    "scor": 3,
    "termeni": [
     "guvernul"
@@ -113,12 +336,138 @@
    "are_text": false
   },
   {
+   "id": "315967",
+   "tip": "DECIZIE",
+   "numar": "618",
+   "data_act": "2025-11-20",
+   "titlu": "DECIZIA nr. 618 din 20 noiembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 651 alin. (4) şi ale art. 718 din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "914",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315966",
+   "tip": "DECIZIE",
+   "numar": "424",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 424 din 30 octombrie 2026",
+   "descriere": "pentru numirea preşedintelui şi a patru membri ai Consiliului de administraţie al Institutului European din România",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "913",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315965",
+   "tip": "DECIZIE",
+   "numar": "423",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 423 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Ciprian-Nicolae Văcaru în funcţia de secretar de stat în cadrul Ministerului Muncii, Familiei, Tineretului şi Solidarităţii Sociale",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "913",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 4,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": true
+  },
+  {
    "id": "315964",
    "tip": "DECIZIE",
    "numar": "422",
    "data_act": "2026-10-30",
    "titlu": "DECIZIE nr. 422 din 30 octombrie 2026",
    "descriere": "privind numirea domnului Radu Codruţ Ştefănescu în funcţia de director general, cu rang de secretar de stat, şi preşedinte al Consiliului de administraţie al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară şi pentru modificarea art. 1 din Decizia prim-ministrului nr. 215/2026 privind numirea membrilor Consiliului de administraţie al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "913",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315963",
+   "tip": "DECIZIE",
+   "numar": "421",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 421 din 30 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Ilie Bălăşan a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general adjunct al Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "913",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315962",
+   "tip": "DECIZIE",
+   "numar": "420",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 420 din 30 octombrie 2026",
+   "descriere": "privind încetarea exercitării, cu caracter temporar, de către doamna Mariana Ioniţă, la cerere, a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "913",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315961",
+   "tip": "DECIZIE",
+   "numar": "419",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 419 din 30 octombrie 2026",
+   "descriere": "privind eliberarea, la cerere, a domnului Aurel-Cătălin Giulescu din funcţia de preşedinte, cu rang de secretar de stat, al Autorităţii pentru Digitalizarea României",
    "emitenti": [
     "Prim-Ministrul"
    ],
@@ -192,6 +541,1324 @@
    "vigoare_text": "",
    "categorie": "Transporturi și infrastructură",
    "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315957",
+   "tip": "DECIZIE",
+   "numar": "623",
+   "data_act": "2025-11-20",
+   "titlu": "DECIZIA nr. 623 din 20 noiembrie 2025",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 30 alin. (1) prima teză din Ordonanţa de urgenţă a Guvernului nr. 80/2013 privind taxele judiciare de timbru",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "913",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315956",
+   "tip": "HOTARARE",
+   "numar": "930",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 930 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Vulc Cornel-Cristian în funcţia de subprefect al judeţului Mureş",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315955",
+   "tip": "HOTARARE",
+   "numar": "929",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 929 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Cîmpeanu Alexandru în funcţia de subprefect al judeţului Mureş",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315954",
+   "tip": "HOTARARE",
+   "numar": "928",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 928 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Széll Lörincz în funcţia de subprefect al judeţului Hunedoara",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315953",
+   "tip": "HOTARARE",
+   "numar": "927",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 927 din 30 octombrie 2026",
+   "descriere": "privind numirea doamnei Prodan Isabela în funcţia de subprefect al judeţului Harghita",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315952",
+   "tip": "HOTARARE",
+   "numar": "926",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 926 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Dimen Zsombor-Gabriel în funcţia de subprefect al judeţului Harghita",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315951",
+   "tip": "HOTARARE",
+   "numar": "925",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 925 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Constantin Ionuţ-Constantin în funcţia de subprefect al judeţului Dâmboviţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315950",
+   "tip": "HOTARARE",
+   "numar": "924",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 924 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Pistol Marian în funcţia de subprefect al judeţului Covasna",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315949",
+   "tip": "HOTARARE",
+   "numar": "923",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 923 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Cucu Sebastian în funcţia de subprefect al judeţului Covasna",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315948",
+   "tip": "HOTARARE",
+   "numar": "922",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 922 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Tulpan Olimpiu Adrian în funcţia de subprefect al judeţului Bacău",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315947",
+   "tip": "HOTARARE",
+   "numar": "921",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 921 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Oprea Mihai în funcţia de prefect al judeţului Vâlcea",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315946",
+   "tip": "HOTARARE",
+   "numar": "920",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 920 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Popica Eduard-Andrei în funcţia de prefect al judeţului Vaslui",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315945",
+   "tip": "HOTARARE",
+   "numar": "919",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 919 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Moscu Doru în funcţia de prefect al judeţului Tulcea",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315944",
+   "tip": "HOTARARE",
+   "numar": "918",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 918 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Pau Radu-Adrian în funcţia de prefect al judeţului Timiş",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315943",
+   "tip": "HOTARARE",
+   "numar": "917",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 917 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Rababoc Benone în funcţia de prefect al judeţului Teleorman",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315942",
+   "tip": "HOTARARE",
+   "numar": "916",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 916 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Andronachi Traian în funcţia de prefect al judeţului Suceava",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315941",
+   "tip": "HOTARARE",
+   "numar": "915",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 915 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Giubega Gheorghe-Florian în funcţia de prefect al judeţului Sibiu",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315940",
+   "tip": "HOTARARE",
+   "numar": "914",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 914 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Pura Dorin-Alexandru în funcţia de prefect al judeţului Sălaj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315939",
+   "tip": "HOTARARE",
+   "numar": "913",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 913 din 30 octombrie 2026",
+   "descriere": "privind numirea doamnei Bozianu Nicoleta-Cătălina în funcţia de prefect al judeţului Prahova",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315938",
+   "tip": "HOTARARE",
+   "numar": "912",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 912 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Albotă Emil-Florin în funcţia de prefect al judeţului Olt",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315937",
+   "tip": "HOTARARE",
+   "numar": "911",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 911 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Grigorean Vlad în funcţia de prefect al judeţului Neamţ",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315936",
+   "tip": "HOTARARE",
+   "numar": "910",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 910 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Isuf Constantin-Alin în funcţia de prefect al judeţului Mehedinţi",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315935",
+   "tip": "HOTARARE",
+   "numar": "909",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 909 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Sălăjeanu Florian-Valeriu în funcţia de prefect al judeţului Maramureş",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315934",
+   "tip": "HOTARARE",
+   "numar": "908",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 908 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Marin Constantin în funcţia de prefect al judeţului Ialomiţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315933",
+   "tip": "HOTARARE",
+   "numar": "907",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 907 din 30 octombrie 2026",
+   "descriere": "privind numirea doamnei Ştefănie Maria în funcţia de prefect al judeţului Hunedoara",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315932",
+   "tip": "HOTARARE",
+   "numar": "906",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 906 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Predescu Şerban în funcţia de prefect al judeţului Gorj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315931",
+   "tip": "HOTARARE",
+   "numar": "905",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 905 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Durle Dumitru-Cosmin în funcţia de prefect al judeţului Dolj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315930",
+   "tip": "HOTARARE",
+   "numar": "904",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 904 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Tănase Marian în funcţia de prefect al judeţului Dâmboviţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315929",
+   "tip": "HOTARARE",
+   "numar": "903",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 903 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Făgădău Decebal în funcţia de prefect al judeţului Constanţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315928",
+   "tip": "HOTARARE",
+   "numar": "902",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 902 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Cordoş Alexandru în funcţia de prefect al judeţului Cluj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315927",
+   "tip": "HOTARARE",
+   "numar": "901",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 901 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Dragomir Ioan în funcţia de prefect al judeţului Caraş-Severin",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "910",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315926",
+   "tip": "HOTARARE",
+   "numar": "900",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 900 din 30 octombrie 2026",
+   "descriere": "privind numirea doamnei Sbîrnea Liliana în funcţia de prefect al judeţului Buzău",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315925",
+   "tip": "HOTARARE",
+   "numar": "899",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 899 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Timofei Iulian în funcţia de prefect al judeţului Brăila",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315924",
+   "tip": "HOTARARE",
+   "numar": "898",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 898 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Şlincu Dan-Constantin în funcţia de prefect al judeţului Botoşani",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315923",
+   "tip": "HOTARARE",
+   "numar": "897",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 897 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Cioarba Teofil-Iulian în funcţia de prefect al judeţului Bistriţa-Năsăud",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315922",
+   "tip": "HOTARARE",
+   "numar": "896",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 896 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Pavel Emilian în funcţia de prefect al judeţului Bihor",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315921",
+   "tip": "HOTARARE",
+   "numar": "895",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 895 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Ivancea Valentin în funcţia de prefect al judeţului Bacău",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315920",
+   "tip": "HOTARARE",
+   "numar": "894",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 894 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Sulincean Marius-Mircea în funcţia de prefect al judeţului Arad",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315919",
+   "tip": "HOTARARE",
+   "numar": "893",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 893 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Mureşan Corneliu în funcţia de prefect al judeţului Alba",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315918",
+   "tip": "HOTARARE",
+   "numar": "892",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 892 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Stănculescu Victor-George din funcţia de subprefect al judeţului Vâlcea",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315917",
+   "tip": "HOTARARE",
+   "numar": "891",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 891 din 30 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Oneţ Liliana din funcţia de subprefect al judeţului Timiş",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315916",
+   "tip": "HOTARARE",
+   "numar": "890",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 890 din 30 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Albu Andra-Maria din funcţia de subprefect al judeţului Sibiu",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315915",
+   "tip": "HOTARARE",
+   "numar": "889",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 889 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Beseni Cristian-Valer din funcţia de subprefect al judeţului Satu Mare",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315914",
+   "tip": "HOTARARE",
+   "numar": "888",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 888 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Soare Marius din funcţia de subprefect al judeţului Prahova",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315913",
+   "tip": "HOTARARE",
+   "numar": "887",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 887 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Moise Lucian din funcţia de subprefect al judeţului Prahova",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315912",
+   "tip": "HOTARARE",
+   "numar": "886",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 886 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Mihai Adrian din funcţia de subprefect al judeţului Olt",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315911",
+   "tip": "HOTARARE",
+   "numar": "885",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 885 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Jugan Iulian din funcţia de subprefect al judeţului Neamţ",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315910",
+   "tip": "HOTARARE",
+   "numar": "884",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 884 din 30 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Petruţ Margareta-Ildiko din funcţia de subprefect al judeţului Maramureş",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315909",
+   "tip": "HOTARARE",
+   "numar": "883",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 883 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Stamate Cristian din funcţia de subprefect al judeţului Ilfov",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315908",
+   "tip": "HOTARARE",
+   "numar": "882",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 882 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Bucşă Iulian-Florin din funcţia de subprefect al judeţului Iaşi",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315907",
+   "tip": "HOTARARE",
+   "numar": "881",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 881 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Ţepeluş Marius din funcţia de subprefect al judeţului Harghita",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315906",
+   "tip": "HOTARARE",
+   "numar": "880",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 880 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Burjan-Andrei Bogdan-Sebastian din funcţia de subprefect al judeţului Harghita",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315905",
+   "tip": "HOTARARE",
+   "numar": "879",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 879 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Alexandru Ionuţ-Ciprian din funcţia de subprefect al judeţului Giurgiu",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315904",
+   "tip": "HOTARARE",
+   "numar": "878",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 878 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Celmare Marius-Constantin din funcţia de subprefect al judeţului Galaţi",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315903",
+   "tip": "HOTARARE",
+   "numar": "877",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 877 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Rădoi Teodor-Viorel din funcţia de subprefect al judeţului Dâmboviţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315902",
+   "tip": "HOTARARE",
+   "numar": "876",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 876 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Dulanyi-Balogh Szilárd din funcţia de subprefect al judeţului Covasna",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315901",
+   "tip": "HOTARARE",
+   "numar": "875",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 875 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Paris Dumitru din funcţia de subprefect al judeţului Constanţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315900",
+   "tip": "HOTARARE",
+   "numar": "874",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 874 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Udrea Flaviu-Dacian din funcţia de subprefect al judeţului Cluj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315899",
+   "tip": "HOTARARE",
+   "numar": "873",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 873 din 30 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Olariu Daniela din funcţia de subprefect al judeţului Braşov",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315898",
+   "tip": "HOTARARE",
+   "numar": "872",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 872 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Nistor Andrei din funcţia de prefect al municipiului Bucureşti",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
    "termeni": [
     "guvernul"
    ],
@@ -375,6 +2042,28 @@
    "are_text": false
   },
   {
+   "id": "315889",
+   "tip": "HOTARARE",
+   "numar": "871",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 871 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Macovei Liviu-George din funcţia de prefect al judeţului Vrancea",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "909",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
    "id": "315887",
    "tip": "DECRET",
    "numar": "828",
@@ -543,6 +2232,666 @@
    "are_text": false
   },
   {
+   "id": "315878",
+   "tip": "HOTARARE",
+   "numar": "870",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 870 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Şerban Andrei din funcţia de prefect al judeţului Vaslui",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315877",
+   "tip": "HOTARARE",
+   "numar": "869",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 869 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Terente Eugen din funcţia de prefect al judeţului Tulcea",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315876",
+   "tip": "HOTARARE",
+   "numar": "868",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 868 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Finta Paul din funcţia de prefect al judeţului Timiş",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315875",
+   "tip": "HOTARARE",
+   "numar": "867",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 867 din 30 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Mitran-Piticu-Niculae Valentina-Veronica din funcţia de prefect al judeţului Teleorman",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315874",
+   "tip": "HOTARARE",
+   "numar": "866",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 866 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Păstrăv Bogdan-George din funcţia de prefect al judeţului Suceava",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315873",
+   "tip": "HOTARARE",
+   "numar": "865",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 865 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Creţu Mircea-Dorin din funcţia de prefect al judeţului Sibiu",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315872",
+   "tip": "HOTARARE",
+   "numar": "864",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 864 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Bîrsan Cristian-Claudiu din funcţia de prefect al judeţului Sălaj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315871",
+   "tip": "HOTARARE",
+   "numar": "863",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 863 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Nicodim Daniel din funcţia de prefect al judeţului Prahova",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315870",
+   "tip": "HOTARARE",
+   "numar": "862",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 862 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Nicolae Ştefan din funcţia de prefect al judeţului Olt",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315869",
+   "tip": "HOTARARE",
+   "numar": "861",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 861 din 30 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Apostol Maria din funcţia de prefect al judeţului Neamţ",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315868",
+   "tip": "HOTARARE",
+   "numar": "860",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 860 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Pavel Cristinel din funcţia de prefect al judeţului Mehedinţi",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315867",
+   "tip": "HOTARARE",
+   "numar": "859",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 859 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Stauder Rudolf din funcţia de prefect al judeţului Maramureş",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315866",
+   "tip": "HOTARARE",
+   "numar": "858",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 858 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Dolachi-Pelin Constantin din funcţia de prefect al judeţului Iaşi",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315865",
+   "tip": "HOTARARE",
+   "numar": "857",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 857 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Tănăsescu Mihai-Andrei din funcţia de prefect al judeţului Ialomiţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315864",
+   "tip": "HOTARARE",
+   "numar": "856",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 856 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Széll Lörincz din funcţia de prefect al judeţului Hunedoara",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315863",
+   "tip": "HOTARARE",
+   "numar": "855",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 855 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Răducan-Morega Corneliu din funcţia de prefect al judeţului Gorj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315862",
+   "tip": "HOTARARE",
+   "numar": "854",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 854 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Călinoiu Eugen-Costel din funcţia de prefect al judeţului Dolj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315861",
+   "tip": "HOTARARE",
+   "numar": "853",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 853 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Calomfirescu Marius din funcţia de prefect al judeţului Dâmboviţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315860",
+   "tip": "HOTARARE",
+   "numar": "852",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 852 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Picoiu Adrian-Teodor din funcţia de prefect al judeţului Constanţa",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315859",
+   "tip": "HOTARARE",
+   "numar": "851",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 851 din 30 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Forna Maria din funcţia de prefect al judeţului Cluj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315858",
+   "tip": "HOTARARE",
+   "numar": "850",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 850 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Gâfu Cristian din funcţia de prefect al judeţului Caraş-Severin",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315857",
+   "tip": "HOTARARE",
+   "numar": "849",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 849 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Dimian Leonard din funcţia de prefect al judeţului Buzău",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315856",
+   "tip": "HOTARARE",
+   "numar": "848",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 848 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Dobrescu Florin-Sergiu din funcţia de prefect al judeţului Brăila",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315855",
+   "tip": "HOTARARE",
+   "numar": "847",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 847 din 30 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Curelariu Raluca-Ştefania din funcţia de prefect al judeţului Botoşani",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315854",
+   "tip": "HOTARARE",
+   "numar": "846",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 846 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Dolha Nechita-Stelian din funcţia de prefect al judeţului Bistriţa-Năsăud",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315853",
+   "tip": "HOTARARE",
+   "numar": "845",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 845 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Dragoş Marcel-Daniel din funcţia de prefect al judeţului Bihor",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315852",
+   "tip": "HOTARARE",
+   "numar": "844",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 844 din 30 octombrie 2026",
+   "descriere": "privind eliberarea doamnei Negru Andreea din funcţia de prefect al judeţului Bacău",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315851",
+   "tip": "HOTARARE",
+   "numar": "843",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 843 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Nedelcu Darius-Sebastian din funcţia de prefect al judeţului Argeş",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315850",
+   "tip": "HOTARARE",
+   "numar": "842",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 842 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Paşca Mihai din funcţia de prefect al judeţului Arad",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315849",
+   "tip": "HOTARARE",
+   "numar": "841",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 841 din 30 octombrie 2026",
+   "descriere": "privind eliberarea domnului Albu Nicolae din funcţia de prefect al judeţului Alba",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "908",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
    "id": "315847",
    "tip": "ORDIN",
    "numar": "1490",
@@ -565,6 +2914,117 @@
    "are_text": false
   },
   {
+   "id": "315846",
+   "tip": "ORDIN",
+   "numar": "616",
+   "data_act": "2026-10-23",
+   "titlu": "ORDIN nr. 616 din 23 octombrie 2026",
+   "descriere": "privind aprobarea unor licenţe de concesiune pentru explorare, acordate în urma concursului public de oferte - Runda 103/2025",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Minier, Petrolier și al Stocării geologice a dioxidului de carbon"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "concediu"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315843",
+   "tip": "DECIZIE",
+   "numar": "416",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 416 din 30 octombrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, prin detaşare, de către domnul Florea Damian a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general adjunct al Ministerului Culturii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici",
+    "detasare"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315842",
+   "tip": "HOTARARE",
+   "numar": "139",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 139 din 28 octombrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Banca Centrală Europeană, Comitetul Economic şi Social European şi Comitetul Regiunilor - Competitivitatea sectorului bancar şi piaţa unică în sectorul bancar - COM (2026) 615 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315841",
+   "tip": "HOTARARE",
+   "numar": "138",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 138 din 28 octombrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Parlamentul European şi Consiliu - Evaluare în temeiul articolului 4 din Decizia de punere în aplicare (UE) 2025/2.323 a Comisiei - COM (2026) 387 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315840",
+   "tip": "HOTARARE",
+   "numar": "137",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 137 din 28 octombrie 2026",
+   "descriere": "referitoare la propunerea de Directivă a Parlamentului European şi a Consiliului privind ordinul european de anchetă în materie penală şi ordinul european de participare de la distanţă (reformare) - COM (2026) 313 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
    "id": "315839",
    "tip": "HOTARARE",
    "numar": "136",
@@ -579,6 +3039,52 @@
    "data_vigoare": "2026-10-30",
    "vigoare_text": "",
    "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315838",
+   "tip": "HOTARARE",
+   "numar": "135",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 135 din 28 octombrie 2026",
+   "descriere": "referitoare la Semestrul european 2026 - Pachetul de primăvară - Comunicare a Comisiei către Parlamentul European, Consiliu, Banca Centrală Europeană, Comitetul Economic şi Social European, Comitetul Regiunilor şi Banca Europeană de Investiţii - Semestrul european 2026 - Pachetul de primăvară - COM (2026) 200 final, Recomandare de recomandare a Consiliului privind politicile economice, sociale, de ocupare a forţei de muncă, structurale şi bugetare ale României - COM (2026) 223 final, Propunere de Decizie a Consiliului privind orientările pentru politicile de ocupare a forţei de muncă ale statelor membre - COM (2026) 510 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 6,
+   "termeni": [
+    "economie sociala",
+    "forta de munca",
+    "senatul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": true
+  },
+  {
+   "id": "315837",
+   "tip": "HOTARARE",
+   "numar": "134",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 134 din 28 octombrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei privind iniţiativa cetăţenească europeană intitulată \"Interzicerea practicilor de conversie în Uniunea Europeană\" - C (2026) 3333 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
    "scor": 3,
    "termeni": [
     "senatul"
@@ -1784,6 +4290,48 @@
     "concediu"
    ],
    "first_seen": "2026-10-28",
+   "are_text": false
+  },
+  {
+   "id": "315815",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-10-19",
+   "titlu": "ANEXĂ din 19 octombrie 2026",
+   "descriere": "privind acordarea burselor \"Eugen Ionescu\" în anul universitar 2026-2027",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "897",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315814",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-10-13",
+   "titlu": "ANEXĂ din 13 octombrie 2026",
+   "descriere": "privind acordarea burselor \"Eugen Ionescu\" în anul universitar 2026-2027",
+   "emitenti": [
+    "Ministerul Afacerilor Externe"
+   ],
+   "monitor_nr": "897",
+   "data_publicare": "2026-10-27",
+   "data_vigoare": "2026-10-27",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-02",
    "are_text": false
   },
   {
