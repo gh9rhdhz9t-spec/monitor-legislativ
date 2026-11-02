@@ -1,29 +1,591 @@
 {
- "generated_at": "2026-11-01T14:00:06+00:00",
+ "generated_at": "2026-11-02T06:04:49+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 1865,
- "new_this_run": 0,
+ "total": 1891,
+ "new_this_run": 26,
  "pages_scanned": 6,
  "categories": {
-  "Fiscalitate și buget": 133,
+  "Fiscalitate și buget": 141,
+  "Transporturi și infrastructură": 131,
+  "Administrație publică": 165,
+  "Economie, IMM și comerț": 153,
+  "Justiție și afaceri interne": 227,
+  "Energie și mediu": 247,
+  "Educație și cercetare": 368,
   "Altele": 157,
   "Sănătate": 86,
-  "Economie, IMM și comerț": 152,
-  "Justiție și afaceri interne": 223,
-  "Administrație publică": 158,
-  "Energie și mediu": 246,
   "Muncă și dialog social": 29,
   "Protecție socială și pensii": 35,
-  "Educație și cercetare": 367,
   "Agricultură și dezvoltare rurală": 74,
   "Cultură, culte și sport": 28,
   "Apărare și securitate națională": 15,
   "Economie socială": 3,
   "Afaceri externe și UE": 19,
-  "Transporturi și infrastructură": 127,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315973",
+   "tip": "ORD DE URGENTA",
+   "numar": "43",
+   "data_act": "2026-10-30",
+   "titlu": "ORDONANŢĂ DE URGENŢĂ nr. 43 din 30 octombrie 2026",
+   "descriere": "privind acordarea sprijinului pentru asigurarea energiei termice în sezonul rece 2026-2027, unele măsuri fiscal-bugetare, precum şi pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "915",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315972",
+   "tip": "HOTARARE",
+   "numar": "948",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 948 din 30 octombrie 2026",
+   "descriere": "privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2026 al Regiei Autonome \"Rasirom\", aflată sub autoritatea Serviciului Român de Informaţii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "914",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315970",
+   "tip": "HOTARARE",
+   "numar": "946",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 946 din 30 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii Naţionale de Transport Feroviar de Marfă \"C.F.R. MARFĂ\" - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "914",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315968",
+   "tip": "HOTARARE",
+   "numar": "942",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 942 din 30 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", regie autonomă de interes naţional aflată sub autoritatea Secretariatului General al Guvernului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "914",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315964",
+   "tip": "DECIZIE",
+   "numar": "422",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 422 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Radu Codruţ Ştefănescu în funcţia de director general, cu rang de secretar de stat, şi preşedinte al Consiliului de administraţie al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară şi pentru modificarea art. 1 din Decizia prim-ministrului nr. 215/2026 privind numirea membrilor Consiliului de administraţie al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "913",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315960",
+   "tip": "HOTARARE",
+   "numar": "944",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 944 din 30 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Compania Naţională pentru Controlul Cazanelor, Instalaţiilor de Ridicat şi Recipientelor sub Presiune - S.A., aflată sub autoritatea Ministerului Energiei",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "913",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315959",
+   "tip": "HOTARARE",
+   "numar": "943",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 943 din 30 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Electrocentrale Bucureşti - S.A., aflată sub autoritatea Ministerului Energiei",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "913",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315958",
+   "tip": "HOTARARE",
+   "numar": "941",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 941 din 30 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2026 al Societăţii Naţionale \"Aeroportul Internaţional Timişoara - Traian Vuia\" - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "913",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315897",
+   "tip": "HOTARARE",
+   "numar": "936",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 936 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Şuhan Valeriu-Nicolae în funcţia de subprefect al municipiului Bucureşti",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315896",
+   "tip": "HOTARARE",
+   "numar": "935",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 935 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Spătaru Cristian-Eugen în funcţia de subprefect al judeţului Vrancea",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315895",
+   "tip": "HOTARARE",
+   "numar": "934",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 934 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Iancu Mihai-Radu în funcţia de subprefect al judeţului Satu Mare",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315894",
+   "tip": "HOTARARE",
+   "numar": "933",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 933 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Bercea Vasile în funcţia de subprefect al judeţului Satu Mare",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315893",
+   "tip": "HOTARARE",
+   "numar": "932",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 932 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Tănase Mircea-Adi în funcţia de subprefect al judeţului Prahova",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315892",
+   "tip": "HOTARARE",
+   "numar": "931",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 931 din 30 octombrie 2026",
+   "descriere": "privind numirea domnului Lungu Robert-Paul-Dimitrios în funcţia de subprefect al judeţului Prahova",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315891",
+   "tip": "ORDIN",
+   "numar": "1062",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 1.062 din 30 octombrie 2026",
+   "descriere": "pentru abrogarea Ordinului ministrului transporturilor şi infrastructurii, interimar, nr. 960/2026 privind procedura de notificare prealabilă şi de exprimare a acordului Ministerului Transporturilor şi Infrastructurii, în calitate de concedent, cu privire la suspendarea, întreruperea sau restrângerea semnificativă a exploatării bunurilor proprietate publică a statului concesionate, aferente infrastructurii de transport de interes naţional",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "concediu"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315890",
+   "tip": "DECIZIE",
+   "numar": "418",
+   "data_act": "2026-10-30",
+   "titlu": "DECIZIE nr. 418 din 30 octombrie 2026",
+   "descriere": "privind reluarea activităţii de către domnul Sorin Popa în funcţia publică de consilier de soluţionare a contestaţiilor în domeniul achiziţiilor publice în cadrul Consiliului Naţional de Soluţionare a Contestaţiilor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "functie publica"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315887",
+   "tip": "DECRET",
+   "numar": "828",
+   "data_act": "2026-10-30",
+   "titlu": "DECRET nr. 828 din 30 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315886",
+   "tip": "DECRET",
+   "numar": "827",
+   "data_act": "2026-10-30",
+   "titlu": "DECRET nr. 827 din 30 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315885",
+   "tip": "DECRET",
+   "numar": "826",
+   "data_act": "2026-10-30",
+   "titlu": "DECRET nr. 826 din 30 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315884",
+   "tip": "DECRET",
+   "numar": "825",
+   "data_act": "2026-10-30",
+   "titlu": "DECRET nr. 825 din 30 octombrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "912",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315883",
+   "tip": "HOTARARE",
+   "numar": "940",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 940 din 30 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Regiei Autonome \"Autoritatea Aeronautică Civilă Română\", aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "911",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315882",
+   "tip": "HOTARARE",
+   "numar": "939",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 939 din 30 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Administraţiei Naţionale de Meteorologie, care funcţionează sub autoritatea Ministerului Mediului, Apelor şi Pădurilor",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "911",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315881",
+   "tip": "HOTARARE",
+   "numar": "938",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 938 din 30 octombrie 2026",
+   "descriere": "pentru prelungirea perioadei de aplicare a prevederilor Hotărârii Guvernului nr. 782/2026 privind punerea în aplicare a unor măsuri de siguranţă pe piaţa de energie electrică",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "911",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315880",
+   "tip": "HOTARARE",
+   "numar": "937",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 937 din 30 octombrie 2026",
+   "descriere": "privind prelungirea situaţiei de criză pe piaţa ţiţeiului şi/sau a produselor petroliere, respectiv benzină şi motorină, instituită prin Legea nr. 162/2026 privind declararea situaţiei de criză pe piaţa ţiţeiului şi/sau a produselor petroliere, reducerea temporară a nivelului accizei la motorină, instituirea contribuţiei de solidaritate, precum şi pentru stabilirea unor măsuri de protecţie a economiei, populaţiei şi de funcţionare a pieţei energiei",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "911",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315847",
+   "tip": "ORDIN",
+   "numar": "1490",
+   "data_act": "2026-10-29",
+   "titlu": "ORDIN nr. 1.490 din 29 octombrie 2026",
+   "descriere": "privind prospectele de emisiune a certificatelor de trezorerie cu discont şi a obligaţiunilor de stat de tip benchmark aferente lunii noiembrie 2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
+  {
+   "id": "315839",
+   "tip": "HOTARARE",
+   "numar": "136",
+   "data_act": "2026-10-28",
+   "titlu": "HOTĂRÂRE nr. 136 din 28 octombrie 2026",
+   "descriere": "referitoare la propunerea de Directivă a Consiliului de modificare a Directivelor 2003/49/CE, 2009/133/CE, 2011/96/UE, (UE) 2016/1.164, (UE) 2017/1.852 şi (UE) 2025/50 în ceea ce priveşte simplificarea cadrului Uniunii privind impozitarea directă şi sprijinirea creşterii economice şi a competitivităţii UE - COM (2026) 560 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-10-30",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-02",
+   "are_text": false
+  },
   {
    "id": "315888",
    "tip": "ORD DE URGENTA",
