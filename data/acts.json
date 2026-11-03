@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-11-03T06:09:45+00:00",
+ "generated_at": "2026-11-03T14:00:03+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2017,
- "new_this_run": 10,
+ "total": 2029,
+ "new_this_run": 12,
  "pages_scanned": 6,
  "categories": {
+  "Fiscalitate și buget": 153,
+  "Justiție și afaceri interne": 237,
   "Energie și mediu": 249,
-  "Fiscalitate și buget": 146,
   "Administrație publică": 265,
   "Agricultură și dezvoltare rurală": 75,
   "Protecție socială și pensii": 36,
-  "Justiție și afaceri interne": 233,
+  "Sănătate": 87,
   "Economie, IMM și comerț": 155,
   "Educație și cercetare": 372,
   "Transporturi și infrastructură": 132,
   "Altele": 160,
   "Afaceri externe și UE": 20,
-  "Sănătate": 86,
   "Muncă și dialog social": 29,
   "Cultură, culte și sport": 28,
   "Apărare și securitate națională": 15,
@@ -24,6 +24,240 @@
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "316002",
+   "tip": "ORDIN",
+   "numar": "1485",
+   "data_act": "2026-10-29",
+   "titlu": "ORDIN nr. 1.485 din 29 octombrie 2026",
+   "descriere": "privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2026 ale unităţilor cu personalitate juridică ale Regiei Naţionale a Pădurilor - Romsilva prevăzute în anexa nr. 2 pct. 1-22 şi 24 din Hotărârea Guvernului nr. 123/2026 privind aprobarea măsurilor de organizare şi funcţionare, precum şi de reorganizare ale Regiei Naţionale a Pădurilor - Romsilva",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "921",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "316001",
+   "tip": "ORDIN",
+   "numar": "1595",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 1.595 din 27 octombrie 2026",
+   "descriere": "privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2026 ale unităţilor cu personalitate juridică ale Regiei Naţionale a Pădurilor - Romsilva prevăzute în anexa nr. 2 pct. 1-22 şi 24 din Hotărârea Guvernului nr. 123/2026 privind aprobarea măsurilor de organizare şi funcţionare, precum şi de reorganizare ale Regiei Naţionale a Pădurilor - Romsilva",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "921",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-11-03",
+   "are_text": true
+  },
+  {
+   "id": "316000",
+   "tip": "ORDIN",
+   "numar": "2198",
+   "data_act": "2026-10-23",
+   "titlu": "ORDIN nr. 2.198 din 23 octombrie 2026",
+   "descriere": "privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2026 ale unităţilor cu personalitate juridică ale Regiei Naţionale a Pădurilor - Romsilva prevăzute în anexa nr. 2 pct. 1-22 şi 24 din Hotărârea Guvernului nr. 123/2026 privind aprobarea măsurilor de organizare şi funcţionare, precum şi de reorganizare ale Regiei Naţionale a Pădurilor - Romsilva",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "921",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "315999",
+   "tip": "ORDIN",
+   "numar": "1484",
+   "data_act": "2026-10-29",
+   "titlu": "ORDIN nr. 1.484 din 29 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Direcţiei de creştere, exploatare şi ameliorare a cabalinelor, unitate cu personalitate juridică a Regiei Naţionale a Pădurilor - Romsilva prevăzută în anexa nr. 2 pct. 23 din Hotărârea Guvernului nr. 123/2026 privind aprobarea măsurilor de organizare şi funcţionare, precum şi de reorganizare ale Regiei Naţionale a Pădurilor - Romsilva",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "920",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "315998",
+   "tip": "ORDIN",
+   "numar": "1596",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 1.596 din 27 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Direcţiei de creştere, exploatare şi ameliorare a cabalinelor, unitate cu personalitate juridică a Regiei Naţionale a Pădurilor - Romsilva prevăzută în anexa nr. 2 pct. 23 din Hotărârea Guvernului nr. 123/2026 privind aprobarea măsurilor de organizare şi funcţionare, precum şi de reorganizare ale Regiei Naţionale a Pădurilor - Romsilva",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "920",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-11-03",
+   "are_text": true
+  },
+  {
+   "id": "315997",
+   "tip": "ORDIN",
+   "numar": "2197",
+   "data_act": "2026-10-23",
+   "titlu": "ORDIN nr. 2.197 din 23 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Direcţiei de creştere, exploatare şi ameliorare a cabalinelor, unitate cu personalitate juridică a Regiei Naţionale a Pădurilor - Romsilva prevăzută în anexa nr. 2 pct. 23 din Hotărârea Guvernului nr. 123/2026 privind aprobarea măsurilor de organizare şi funcţionare, precum şi de reorganizare ale Regiei Naţionale a Pădurilor - Romsilva",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "920",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "315996",
+   "tip": "ORDIN",
+   "numar": "1511",
+   "data_act": "2026-11-02",
+   "titlu": "ORDIN nr. 1.511 din 2 noiembrie 2026",
+   "descriere": "pentru modificarea anexei nr. 1 la Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 6.942/2024 pentru aprobarea Procedurii privind stingerea unor creanţe fiscale prin trecerea în proprietatea publică a statului a unor bunuri imobile şi a unor formulare utilizate în aplicarea procedurii, precum şi pentru modificarea şi completarea Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 63/2017 privind aprobarea modelelor unor formulare utilizate în domeniul colectării creanţelor fiscale, precum şi pentru modificarea Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 3.454/2016 pentru aprobarea Procedurii de executare silită în cazul debitorilor care au de încasat sume certe, lichide şi exigibile de la autorităţi sau instituţii publice",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "920",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "315995",
+   "tip": "ORDIN",
+   "numar": "982",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 982 din 20 octombrie 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei din anii 2020, 2021, 2022, 2023 şi 2024 şi de procentul de indexare a salariului minim pe economie la data de 1.01.2020, la data de 1.01.2021, la data de 1.01.2022, la data de 1.01.2023, la data de 1.10.2023, respectiv la data de 1.07.2024, conform Sentinţei civile nr. 55 din 4.03.2025, pronunţată de Curtea de Apel Iaşi - Secţia de contencios administrativ şi fiscal, definitivă prin Decizia civilă nr. 3.021 din 11.06.2026, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 750/45/2024",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "920",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "salariul minim",
+    "salariu"
+   ],
+   "first_seen": "2026-11-03",
+   "are_text": true
+  },
+  {
+   "id": "315994",
+   "tip": "ORDIN",
+   "numar": "981",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 981 din 20 octombrie 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei din anii 2020, 2021, 2022, 2023 şi 2024 şi de procentul de indexare a salariului minim pe economie la data de 1.01.2020, la data de 1.01.2021, la data de 1.01.2022, la data de 1.01.2023, la data de 1.10.2023, respectiv la data de 1.07.2024, conform Sentinţei civile nr. 176 din 10.11.2025, pronunţată de Curtea de Apel Braşov - Secţia contencios administrativ şi fiscal, definitivă prin Decizia civilă nr. 3.126 din 22.06.2026, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 348/64/2025",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "920",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "salariul minim",
+    "salariu"
+   ],
+   "first_seen": "2026-11-03",
+   "are_text": true
+  },
+  {
+   "id": "315993",
+   "tip": "DECIZIE",
+   "numar": "186",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIA nr. 186 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor pct. 12 teza finală din anexa nr. 1 din Legea nr. 46/2008 - Codul silvic",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "920",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "315992",
+   "tip": "DECIZIE",
+   "numar": "97",
+   "data_act": "2026-02-05",
+   "titlu": "DECIZIA nr. 97 din 5 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 27 din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "920",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
   {
    "id": "315991",
    "tip": "ORDIN",
@@ -234,6 +468,28 @@
    "categorie": "Justiție și afaceri interne",
    "scor": 2,
    "termeni": [],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "316003",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-10-27",
+   "titlu": "ANEXĂ din 27 octombrie 2026",
+   "descriere": "privind modificarea şi completarea Ordinului ministrului sănătăţii nr. 5.994/2024 pentru aprobarea preţurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deţinătorii de autorizaţie de punere pe piaţă a medicamentelor sau reprezentanţii acestora, distribuitorii angro şi furnizorii de servicii medicale şi medicamente pentru acele medicamente care fac obiectul unei relaţii contractuale cu Ministerul Sănătăţii, casele de asigurări de sănătate şi/sau direcţiile de sănătate publică judeţene şi a municipiului Bucureşti, cuprinse în Catalogul naţional al preţurilor medicamentelor autorizate de punere pe piaţă în România, a preţurilor de referinţă generice şi a preţurilor de referinţă inovative",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "907",
+   "data_publicare": "2026-10-30",
+   "data_vigoare": "2026-11-01",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
    "first_seen": "2026-11-03",
    "are_text": false
   },
