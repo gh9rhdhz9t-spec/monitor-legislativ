@@ -1,29 +1,242 @@
 {
- "generated_at": "2026-11-02T14:00:05+00:00",
+ "generated_at": "2026-11-03T06:09:45+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2007,
- "new_this_run": 116,
+ "total": 2017,
+ "new_this_run": 10,
  "pages_scanned": 6,
  "categories": {
-  "Administrație publică": 264,
+  "Energie și mediu": 249,
+  "Fiscalitate și buget": 146,
+  "Administrație publică": 265,
+  "Agricultură și dezvoltare rurală": 75,
+  "Protecție socială și pensii": 36,
+  "Justiție și afaceri interne": 233,
   "Economie, IMM și comerț": 155,
-  "Justiție și afaceri interne": 231,
-  "Fiscalitate și buget": 142,
   "Educație și cercetare": 372,
   "Transporturi și infrastructură": 132,
-  "Energie și mediu": 248,
   "Altele": 160,
   "Afaceri externe și UE": 20,
   "Sănătate": 86,
   "Muncă și dialog social": 29,
-  "Protecție socială și pensii": 35,
-  "Agricultură și dezvoltare rurală": 74,
   "Cultură, culte și sport": 28,
   "Apărare și securitate națională": 15,
   "Economie socială": 3,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "315991",
+   "tip": "ORDIN",
+   "numar": "1503",
+   "data_act": "2026-11-02",
+   "titlu": "ORDIN nr. 1.503 din 2 noiembrie 2026",
+   "descriere": "privind aprobarea contractării de către Ministerul Finanţelor a unor împrumuturi pe pieţele externe de capital în sumă totală de până la 5 miliarde euro, prin lansarea a trei serii noi de obligaţiuni denominate în euro cu maturitatea de 4 ani, 8 ani şi 12 ani, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" şi desemnarea administratorilor tranzacţiei",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "919",
+   "data_publicare": "2026-11-02",
+   "data_vigoare": "2026-11-02",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "315990",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-10-20",
+   "titlu": "PROCEDURĂ din 20 octombrie 2026",
+   "descriere": "privind stabilirea din oficiu a contribuţiei de asigurări sociale şi a contribuţiei de asigurări sociale de sănătate datorate de persoanele fizice, precum şi a modelului şi conţinutului unor formulare",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "919",
+   "data_publicare": "2026-11-02",
+   "data_vigoare": "2026-11-02",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "asigurari sociale"
+   ],
+   "first_seen": "2026-11-03",
+   "are_text": true
+  },
+  {
+   "id": "315989",
+   "tip": "ORDIN",
+   "numar": "1457",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 1.457 din 20 octombrie 2026",
+   "descriere": "pentru aprobarea Procedurii privind stabilirea din oficiu a contribuţiei de asigurări sociale şi a contribuţiei de asigurări sociale de sănătate datorate de persoanele fizice, precum şi a modelului şi conţinutului unor formulare",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "919",
+   "data_publicare": "2026-11-02",
+   "data_vigoare": "2026-11-02",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "asigurari sociale"
+   ],
+   "first_seen": "2026-11-03",
+   "are_text": true
+  },
+  {
+   "id": "315988",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-10-20",
+   "titlu": "PROCEDURĂ din 20 octombrie 2026",
+   "descriere": "privind stabilirea din oficiu a impozitului special pe bunurile imobile şi mobile de valoare mare",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "918",
+   "data_publicare": "2026-11-02",
+   "data_vigoare": "2026-11-02",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "315987",
+   "tip": "ORDIN",
+   "numar": "1444",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 1.444 din 20 octombrie 2026",
+   "descriere": "pentru aprobarea Procedurii privind stabilirea din oficiu a impozitului special pe bunurile imobile şi mobile de valoare mare, precum şi a modelului şi conţinutului unor formulare",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "918",
+   "data_publicare": "2026-11-02",
+   "data_vigoare": "2026-11-02",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "315986",
+   "tip": "HOTARARE",
+   "numar": "951",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 951 din 30 octombrie 2026",
+   "descriere": "pentru completarea Hotărârii Guvernului nr. 1.074/2021 privind stabilirea sistemului de garanţie-returnare pentru ambalaje primare nereutilizabile",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "918",
+   "data_publicare": "2026-11-02",
+   "data_vigoare": "2026-11-02",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "315985",
+   "tip": "HOTARARE",
+   "numar": "950",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 950 din 30 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Hotărârii Guvernului nr. 751/2026 privind acordarea unui sprijin financiar de urgenţă în agricultură producătorilor agricoli din sectorul vegetal, pentru suprafeţele cultivate cu porumb şi/sau floarea-soarelui afectate de seceta pedologică manifestată în anul 2025",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "918",
+   "data_publicare": "2026-11-02",
+   "data_vigoare": "2026-11-02",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "315984",
+   "tip": "HOTARARE",
+   "numar": "949",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 949 din 30 octombrie 2026",
+   "descriere": "privind aprobarea normativelor de cheltuieli pentru acţiuni de protocol necesare pentru desfăşurarea activităţilor de susţinere a candidaturii României pentru un nou mandat la Consiliul Uniunii Internaţionale a Telecomunicaţiilor, în cadrul Conferinţei Plenipotenţiarilor Uniunii Internaţionale a Telecomunicaţiilor (PP-26), precum şi stabilirea unei derogări de la prevederile referitoare la indemnizaţia corespunzătoare de cazare din anexa la Hotărârea Guvernului nr. 518/1995 privind unele drepturi şi obligaţii ale personalului român trimis în străinătate pentru îndeplinirea unor misiuni cu caracter temporar",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "918",
+   "data_publicare": "2026-11-02",
+   "data_vigoare": "2026-11-02",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 2,
+   "termeni": [
+    "indemnizatie",
+    "guvernul"
+   ],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "315983",
+   "tip": "DECIZIE",
+   "numar": "196",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 196 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 305 alin. (2) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "918",
+   "data_publicare": "2026-11-02",
+   "data_vigoare": "2026-11-02",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
+  {
+   "id": "315982",
+   "tip": "ORDIN",
+   "numar": "330",
+   "data_act": "2026-10-16",
+   "titlu": "ORDIN nr. 330 din 16 octombrie 2026",
+   "descriere": "pentru aprobarea Normelor de consum carburanţi pentru autovehiculele sistemului administraţiei penitenciare",
+   "emitenti": [
+    "Administrația Națională a Penitenciarelor"
+   ],
+   "monitor_nr": "917",
+   "data_publicare": "2026-11-02",
+   "data_vigoare": "2026-11-02",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-03",
+   "are_text": false
+  },
   {
    "id": "315981",
    "tip": "DECIZIE",
