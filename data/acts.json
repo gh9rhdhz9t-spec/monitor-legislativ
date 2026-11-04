@@ -1,29 +1,445 @@
 {
- "generated_at": "2026-11-04T06:01:29+00:00",
+ "generated_at": "2026-11-04T14:00:29+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2029,
- "new_this_run": 0,
+ "total": 2049,
+ "new_this_run": 20,
  "pages_scanned": 6,
  "categories": {
-  "Fiscalitate și buget": 153,
-  "Justiție și afaceri interne": 237,
-  "Energie și mediu": 249,
+  "Educație și cercetare": 373,
+  "Justiție și afaceri interne": 241,
+  "Sănătate": 88,
+  "Fiscalitate și buget": 158,
+  "Altele": 161,
+  "Economie socială": 6,
+  "Energie și mediu": 250,
+  "Transporturi și infrastructură": 134,
+  "Economie, IMM și comerț": 157,
   "Administrație publică": 265,
   "Agricultură și dezvoltare rurală": 75,
   "Protecție socială și pensii": 36,
-  "Sănătate": 87,
-  "Economie, IMM și comerț": 155,
-  "Educație și cercetare": 372,
-  "Transporturi și infrastructură": 132,
-  "Altele": 160,
   "Afaceri externe și UE": 20,
   "Muncă și dialog social": 29,
   "Cultură, culte și sport": 28,
   "Apărare și securitate națională": 15,
-  "Economie socială": 3,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "316026",
+   "tip": "ORDIN",
+   "numar": "5821",
+   "data_act": "2026-10-16",
+   "titlu": "ORDIN nr. 5.821 din 16 octombrie 2026",
+   "descriere": "pentru modificarea anexei la Ordinul ministrului educaţiei şi cercetării, interimar, nr. 3.206/2026 pentru aprobarea Standardului de pregătire profesională (SPP) pentru calificarea profesională de nivel 5 al Cadrului naţional al calificărilor, asistent medical generalist, pentru care se asigură pregătirea prin învăţământul postliceal",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "924",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-04",
+   "are_text": true
+  },
+  {
+   "id": "316025",
+   "tip": "ORDIN",
+   "numar": "983",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 983 din 20 octombrie 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei din anii 2020, 2021, 2022, 2023 şi 2024 şi de procentul de indexare a salariului minim pe economie la data de 1.01.2020, la data de 1.01.2021, la data de 1.01.2022, la data de 1.01.2023, la data de 1.10.2023, respectiv la data de 1.07.2024, conform Sentinţei civile nr. 89 din 10.04.2025, pronunţată de Curtea de Apel Iaşi - Secţia de contencios administrativ şi fiscal, definitivă prin Decizia civilă nr. 1.611 din 25.03.2026, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 835/45/2024",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "924",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "salariul minim",
+    "salariu"
+   ],
+   "first_seen": "2026-11-04",
+   "are_text": true
+  },
+  {
+   "id": "316024",
+   "tip": "ORDIN",
+   "numar": "341",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 341 din 27 octombrie 2026",
+   "descriere": "privind modificarea şi completarea Procedurii de lucru pentru acordarea recompenselor pe baza Sistemului de creditare a participării la activităţi şi programe educative, de asistenţă psihologică şi asistenţă socială, activităţi lucrative, precum şi la prevenirea situaţiilor de risc, aprobată prin Decizia directorului general al Administraţiei Naţionale a Penitenciarelor nr. 443/2016",
+   "emitenti": [
+    "Administrația Națională a Penitenciarelor"
+   ],
+   "monitor_nr": "924",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "asistenta sociala",
+    "lucratori"
+   ],
+   "first_seen": "2026-11-04",
+   "are_text": true
+  },
+  {
+   "id": "316023",
+   "tip": "ORDIN",
+   "numar": "157",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 157 din 30 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Ordinului ministrului sănătăţii nr. 2.396/2023 privind înfiinţarea, organizarea şi funcţionarea comisiilor de specialitate ale Ministerului Sănătăţii",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "924",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-11-04",
+   "are_text": true
+  },
+  {
+   "id": "316022",
+   "tip": "DECIZIE",
+   "numar": "44",
+   "data_act": "2026-01-20",
+   "titlu": "DECIZIA nr. 44 din 20 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 226/2020 privind unele măsuri fiscal-bugetare şi pentru modificarea şi completarea unor acte normative şi prorogarea unor termene, ale art. I alin. (1) şi ale art. VI alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi pentru modificarea şi completarea unor acte normative, precum şi a celor două acte normative, în integralitatea lor",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "924",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316019",
+   "tip": "REGULAMENT",
+   "numar": "3",
+   "data_act": "2026-10-22",
+   "titlu": "REGULAMENT nr. 3 din 22 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului Băncii Naţionale a României nr. 17/2012 privind unele condiţii de creditare",
+   "emitenti": [
+    "Banca Națională a României"
+   ],
+   "monitor_nr": "923",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316018",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-11-02",
+   "titlu": "PROCEDURĂ din 2 noiembrie 2026",
+   "descriere": "pentru anularea obligaţiilor fiscale ce pot face obiectul anulării prevăzute de Legea nr. 177/2026 privind anularea unor obligaţii fiscale, precum şi modalitatea de restituire a acestora",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "923",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316017",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-11-02",
+   "titlu": "PROCEDURĂ din 2 noiembrie 2026",
+   "descriere": "privind identificarea contribuabililor şi a sumelor reprezentând TVA care fac obiectul anulării prevăzute de Legea nr. 177/2026 privind anularea unor obligaţii fiscale",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "923",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316016",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-11-02",
+   "titlu": "PROCEDURĂ din 2 noiembrie 2026",
+   "descriere": "privind întocmirea şi transmiterea de către organul de inspecţie fiscală a listei cu obligaţiile fiscale ce pot face obiectul anulării prevăzute la articolul unic alin. (3) din Legea nr. 177/2026 privind anularea unor obligaţii fiscale, datorate de cooperativele agricole constituite în baza Legii cooperaţiei agricole nr. 566/2004",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "923",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Economie socială",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316015",
+   "tip": "PROCEDURA",
+   "numar": "",
+   "data_act": "2026-11-02",
+   "titlu": "PROCEDURĂ din 2 noiembrie 2026",
+   "descriere": "privind întocmirea şi transmiterea de către organul de inspecţie fiscală/antifraudă fiscală a listei cu obligaţiile fiscale ce pot face obiectul anulării prevăzute la articolul unic alin. (1) , (2) şi (7) din Legea nr. 177/2026 privind anularea unor obligaţii fiscale, reprezentând taxa pe valoarea adăugată, stabilite de organul fiscal prin decizie de impunere emisă şi comunicată contribuabilului în aplicarea art. 11 alin. (6) sau alin. (8) , după caz, ca urmare a anulării înregistrării în scopuri de TVA conform art. 316 alin. (11) lit. a) , d) şi e) din Legea nr. 227/2015 privind Codul fiscal , precum şi în cazul în care anularea înregistrării în scopuri TVA s-a realizat în aplicarea art. 153 alin. (9) lit. a) , b) , d) şi e) din Legea nr. 571/2003 privind Codul fiscal , în forma în vigoare la data anulării înregistrării în scopuri de TVA",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "923",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316014",
+   "tip": "ORDIN",
+   "numar": "1512",
+   "data_act": "2026-11-02",
+   "titlu": "ORDIN nr. 1.512 din 2 noiembrie 2026",
+   "descriere": "privind aprobarea Procedurii pentru anularea obligaţiilor fiscale ce pot face obiectul anulării prevăzute de Legea nr. 177/2026 privind anularea unor obligaţii fiscale, precum şi modalităţile de restituire a acestora",
+   "emitenti": [
+    "Agenția Națională de Administrare Fiscală"
+   ],
+   "monitor_nr": "923",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316013",
+   "tip": "DECIZIE",
+   "numar": "326",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIA nr. 326 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 34 alin. (2) , în redactarea anterioară intrării în vigoare a Ordonanţei de urgenţă a Guvernului nr. 142/2024 pentru modificarea şi completarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia, şi ale art. 48 alin. (3) din Ordonanţa Guvernului nr. 39/2005 privind cinematografia",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "923",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316012",
+   "tip": "DECIZIE",
+   "numar": "91",
+   "data_act": "2026-09-21",
+   "titlu": "DECIZIA nr. 91 din 21 septembrie 2026",
+   "descriere": "referitoare la art. 56 alin. (5) din Legea nr. 350/2001 şi art. 28 alin. (2) din normele metodologice de aplicare a Legii nr. 350/2001 , aprobate prin Ordinul nr. 233/2016",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "922",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316011",
+   "tip": "ORDIN",
+   "numar": "1277",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 1.277 din 27 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Normelor metodologice privind aspectele procedurale pentru acordarea ajutorului de stat, a modelului de decont privind costurile care urmează să fie acordate de la bugetul de stat, monitorizarea, evaluarea şi controlul utilizării ajutorului de stat acordat Societăţii Complexul Energetic \"Valea Jiului\" - S.A. potrivit Ordonanţei de urgenţă a Guvernului nr. 13/2025 privind instituirea cadrului legal pentru acordarea unui ajutor de stat Complexului Energetic \"Valea Jiului\" - S.A. pentru închiderea şi punerea în siguranţă a minelor de huilă necompetitive Lonea, Lupeni, Livezeni şi Vulcan, aprobate prin Ordinul ministrului energiei nr. 371/2025",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "922",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316010",
+   "tip": "DECRET",
+   "numar": "831",
+   "data_act": "2026-11-03",
+   "titlu": "DECRET nr. 831 din 3 noiembrie 2026",
+   "descriere": "privind promulgarea Legii pentru completarea Ordonanţei Guvernului nr. 26/2000 cu privire la asociaţii şi fundaţii",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "922",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Economie socială",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316009",
+   "tip": "LEGE",
+   "numar": "208",
+   "data_act": "2026-11-03",
+   "titlu": "LEGE nr. 208 din 3 noiembrie 2026",
+   "descriere": "pentru completarea Ordonanţei Guvernului nr. 26/2000 cu privire la asociaţii şi fundaţii",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "922",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Economie socială",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-04",
+   "are_text": true
+  },
+  {
+   "id": "316008",
+   "tip": "DECRET",
+   "numar": "830",
+   "data_act": "2026-11-03",
+   "titlu": "DECRET nr. 830 din 3 noiembrie 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "922",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316007",
+   "tip": "LEGE",
+   "numar": "207",
+   "data_act": "2026-11-03",
+   "titlu": "LEGE nr. 207 din 3 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "922",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-04",
+   "are_text": true
+  },
+  {
+   "id": "316006",
+   "tip": "DECRET",
+   "numar": "829",
+   "data_act": "2026-11-03",
+   "titlu": "DECRET nr. 829 din 3 noiembrie 2026",
+   "descriere": "privind promulgarea Legii pentru instituirea zilei de 19 noiembrie ca Ziua Naţională a Antreprenoriatului Feminin",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "922",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-03",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-04",
+   "are_text": false
+  },
+  {
+   "id": "316005",
+   "tip": "LEGE",
+   "numar": "206",
+   "data_act": "2026-11-03",
+   "titlu": "LEGE nr. 206 din 3 noiembrie 2026",
+   "descriere": "pentru instituirea zilei de 19 noiembrie ca Ziua Naţională a Antreprenoriatului Feminin",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "922",
+   "data_publicare": "2026-11-03",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 5,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-04",
+   "are_text": true
+  },
   {
    "id": "316002",
    "tip": "ORDIN",
