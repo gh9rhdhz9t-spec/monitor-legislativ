@@ -1,29 +1,318 @@
 {
- "generated_at": "2026-11-04T14:00:29+00:00",
+ "generated_at": "2026-11-05T06:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2049,
- "new_this_run": 20,
+ "total": 2063,
+ "new_this_run": 14,
  "pages_scanned": 6,
  "categories": {
+  "Administrație publică": 273,
+  "Cultură, culte și sport": 29,
+  "Economie, IMM și comerț": 158,
+  "Transporturi și infrastructură": 136,
+  "Altele": 162,
+  "Justiție și afaceri interne": 242,
   "Educație și cercetare": 373,
-  "Justiție și afaceri interne": 241,
   "Sănătate": 88,
   "Fiscalitate și buget": 158,
-  "Altele": 161,
   "Economie socială": 6,
   "Energie și mediu": 250,
-  "Transporturi și infrastructură": 134,
-  "Economie, IMM și comerț": 157,
-  "Administrație publică": 265,
   "Agricultură și dezvoltare rurală": 75,
   "Protecție socială și pensii": 36,
   "Afaceri externe și UE": 20,
   "Muncă și dialog social": 29,
-  "Cultură, culte și sport": 28,
   "Apărare și securitate națională": 15,
   "Digitalizare și comunicații": 13
  },
  "acts": [
+  {
+   "id": "316040",
+   "tip": "DECIZIE",
+   "numar": "443",
+   "data_act": "2026-11-04",
+   "titlu": "DECIZIE nr. 443 din 4 noiembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, prin detaşare, de către domnul Constantin Saragea a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Energiei",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici",
+    "detasare"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316039",
+   "tip": "DECIZIE",
+   "numar": "442",
+   "data_act": "2026-11-04",
+   "titlu": "DECIZIE nr. 442 din 4 noiembrie 2026",
+   "descriere": "privind eliberarea, la cerere, a domnului Cosmin Gabriel Tabără Amânar din funcţia de vicepreşedinte, cu rang de subsecretar de stat, al Agenţiei Naţionale pentru Sport",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 3,
+   "termeni": [
+    "spor"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316038",
+   "tip": "DECIZIE",
+   "numar": "441",
+   "data_act": "2026-11-04",
+   "titlu": "DECIZIE nr. 441 din 4 noiembrie 2026",
+   "descriere": "privind numirea doamnei Cristina Breşug în funcţia de secretar de stat în cadrul Ministerului Investiţiilor şi Proiectelor Europene",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316037",
+   "tip": "DECIZIE",
+   "numar": "440",
+   "data_act": "2026-11-04",
+   "titlu": "DECIZIE nr. 440 din 4 noiembrie 2026",
+   "descriere": "pentru numirea domnului Laurenţiu-Viorel Gîdei în funcţia de secretar de stat în cadrul Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316036",
+   "tip": "DECIZIE",
+   "numar": "439",
+   "data_act": "2026-11-04",
+   "titlu": "DECIZIE nr. 439 din 4 noiembrie 2026",
+   "descriere": "pentru numirea domnului Pavel-Casian Niţulescu în funcţia de secretar de stat în cadrul Ministerului Energiei",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316035",
+   "tip": "DECIZIE",
+   "numar": "438",
+   "data_act": "2026-11-04",
+   "titlu": "DECIZIE nr. 438 din 4 noiembrie 2026",
+   "descriere": "privind numirea domnului Vlad-Ştefan Niculae în funcţia de secretar de stat în cadrul Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316034",
+   "tip": "DECIZIE",
+   "numar": "437",
+   "data_act": "2026-11-04",
+   "titlu": "DECIZIE nr. 437 din 4 noiembrie 2026",
+   "descriere": "privind numirea domnului Aurel-Dragoş Drăghescu în funcţia de secretar de stat în cadrul Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316033",
+   "tip": "DECIZIE",
+   "numar": "436",
+   "data_act": "2026-11-04",
+   "titlu": "DECIZIE nr. 436 din 4 noiembrie 2026",
+   "descriere": "pentru numirea domnului Silviu-Nicu Macovei în funcţia de secretar de stat în cadrul Ministerului Afacerilor Interne",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316032",
+   "tip": "DECIZIE",
+   "numar": "435",
+   "data_act": "2026-11-04",
+   "titlu": "DECIZIE nr. 435 din 4 noiembrie 2026",
+   "descriere": "privind numirea doamnei Gheorghiţa-Daniela Barbu în funcţia de secretar de stat în cadrul Ministerului Muncii, Familiei, Tineretului şi Solidarităţii Sociale",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 4,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": true
+  },
+  {
+   "id": "316031",
+   "tip": "DECIZIE",
+   "numar": "434",
+   "data_act": "2026-11-04",
+   "titlu": "DECIZIE nr. 434 din 4 noiembrie 2026",
+   "descriere": "pentru numirea domnului Ionuţ-Cristian Săvoiu în funcţia de secretar de stat în cadrul Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316030",
+   "tip": "DECIZIE",
+   "numar": "433",
+   "data_act": "2026-11-04",
+   "titlu": "DECIZIE nr. 433 din 4 noiembrie 2026",
+   "descriere": "privind numirea domnului Ioan-Cristian Şologon în funcţia de secretar de stat în cadrul Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316029",
+   "tip": "DECIZIE",
+   "numar": "432",
+   "data_act": "2026-11-04",
+   "titlu": "DECIZIE nr. 432 din 4 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea Deciziei prim-ministrului nr. 453/2025 privind constituirea, organizarea şi atribuţiile Comitetului interministerial pentru protejarea intereselor statului la S.C. Liberty Galaţi - S.A. şi la S.C. Liberty Tubular Products Galaţi - S.A.",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316028",
+   "tip": "HOTARARE",
+   "numar": "832",
+   "data_act": "2026-10-16",
+   "titlu": "HOTĂRÂRE nr. 832 din 16 octombrie 2026",
+   "descriere": "privind actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului şi în administrarea Tribunalului Olt, precum şi trecerea unei părţi din acesta din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi demolării",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316027",
+   "tip": "DECIZIE",
+   "numar": "325",
+   "data_act": "2026-04-16",
+   "titlu": "DECIZIA nr. 325 din 16 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 4 , ale art. 24 lit. c) , ale art. 25 alin. (1) şi ale art. 34 lit. a) şi b) din Legea nr. 188/2000 privind executorii judecătoreşti",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "925",
+   "data_publicare": "2026-11-04",
+   "data_vigoare": "2026-11-04",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
   {
    "id": "316026",
    "tip": "ORDIN",
