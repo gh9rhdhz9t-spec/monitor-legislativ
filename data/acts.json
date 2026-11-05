@@ -1,29 +1,565 @@
 {
- "generated_at": "2026-11-05T06:00:05+00:00",
+ "generated_at": "2026-11-05T14:00:01+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2063,
- "new_this_run": 14,
+ "total": 2088,
+ "new_this_run": 25,
  "pages_scanned": 6,
  "categories": {
+  "Fiscalitate și buget": 167,
+  "Sănătate": 90,
+  "Altele": 166,
+  "Educație și cercetare": 375,
+  "Economie, IMM și comerț": 164,
+  "Digitalizare și comunicații": 15,
   "Administrație publică": 273,
   "Cultură, culte și sport": 29,
-  "Economie, IMM și comerț": 158,
   "Transporturi și infrastructură": 136,
-  "Altele": 162,
   "Justiție și afaceri interne": 242,
-  "Educație și cercetare": 373,
-  "Sănătate": 88,
-  "Fiscalitate și buget": 158,
   "Economie socială": 6,
   "Energie și mediu": 250,
   "Agricultură și dezvoltare rurală": 75,
   "Protecție socială și pensii": 36,
   "Afaceri externe și UE": 20,
   "Muncă și dialog social": 29,
-  "Apărare și securitate națională": 15,
-  "Digitalizare și comunicații": 13
+  "Apărare și securitate națională": 15
  },
  "acts": [
+  {
+   "id": "316065",
+   "tip": "ORDIN",
+   "numar": "1624",
+   "data_act": "2026-10-29",
+   "titlu": "ORDIN nr. 1.624 din 29 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea de Administrare a Participaţiilor în Energie - S.A.",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": true
+  },
+  {
+   "id": "316064",
+   "tip": "ORDIN",
+   "numar": "1498",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 1.498 din 30 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea de Administrare a Participaţiilor în Energie - S.A.",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316063",
+   "tip": "ORDIN",
+   "numar": "1274",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 1.274 din 27 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea de Administrare a Participaţiilor în Energie - S.A.",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316062",
+   "tip": "ORDIN",
+   "numar": "1625",
+   "data_act": "2026-10-29",
+   "titlu": "ORDIN nr. 1.625 din 29 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Midia Green Energy - S.A.",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": true
+  },
+  {
+   "id": "316061",
+   "tip": "ORDIN",
+   "numar": "1499",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 1.499 din 30 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Midia Green Energy - S.A.",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316060",
+   "tip": "ORDIN",
+   "numar": "1273",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 1.273 din 27 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Midia Green Energy - S.A.",
+   "emitenti": [
+    "Ministerul Energiei"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316059",
+   "tip": "ORDIN",
+   "numar": "1940",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 1.940 din 30 octombrie 2026",
+   "descriere": "privind modificarea şi completarea anexei nr. 2 la Ordinul ministrului sănătăţii şi al preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale şi a preţurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naţionale de sănătate şi a metodologiei de calcul al acestora",
+   "emitenti": [
+    "Casa Națională de Asigurări de Sănătate"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "casa nationala de asigurari de sanatate"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": true
+  },
+  {
+   "id": "316058",
+   "tip": "ORDIN",
+   "numar": "211",
+   "data_act": "2026-11-03",
+   "titlu": "ORDIN nr. 211 din 3 noiembrie 2026",
+   "descriere": "privind modificarea şi completarea anexei nr. 2 la Ordinul ministrului sănătăţii şi al preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale şi a preţurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naţionale de sănătate şi a metodologiei de calcul al acestora",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": true
+  },
+  {
+   "id": "316057",
+   "tip": "HOTARARE",
+   "numar": "144",
+   "data_act": "2026-11-02",
+   "titlu": "HOTĂRÂRE nr. 144 din 2 noiembrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Consiliu - Un pachet financiar pentru negocierile de aderare cu Muntenegru - COM (2026) 334 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316056",
+   "tip": "HOTARARE",
+   "numar": "143",
+   "data_act": "2026-11-02",
+   "titlu": "HOTĂRÂRE nr. 143 din 2 noiembrie 2026",
+   "descriere": "referitoare la Planul de acţiune pentru rezilienţa, autonomia strategică şi durabilitatea sistemului UE în materie de proteine - COM (2026) 355 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316055",
+   "tip": "HOTARARE",
+   "numar": "142",
+   "data_act": "2026-11-02",
+   "titlu": "HOTĂRÂRE nr. 142 din 2 noiembrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Strategia UE privind creşterea animalelor - COM (2026) 576 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316054",
+   "tip": "HOTARARE",
+   "numar": "141",
+   "data_act": "2026-11-02",
+   "titlu": "HOTĂRÂRE nr. 141 din 2 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului privind un cadru de măsuri pentru consolidarea ecosistemului semiconductorilor din Uniune şi de abrogare a Regulamentului (UE) 2023/1.781 (Regulamentul privind cipurile 2.0) - COM (2026) 504 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316053",
+   "tip": "HOTARARE",
+   "numar": "140",
+   "data_act": "2026-11-02",
+   "titlu": "HOTĂRÂRE nr. 140 din 2 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului privind procedura de autorizare a sistemelor care furnizează servicii mobile prin satelit utilizând banda de frecvenţe armonizată de 2 GHz şi de abrogare a Deciziei nr. 626/2008/CE - COM (2026) 311 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "927",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316052",
+   "tip": "ORDIN",
+   "numar": "5823",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 5.823 din 19 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Procesului de autorizare/acreditare a centrelor de evaluare a competenţelor profesionale obţinute în contexte de învăţare nonformală şi informală, aprobat prin Ordinul ministrului educaţiei şi cercetării nr. 6.390/2025",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2027-01-01",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": true
+  },
+  {
+   "id": "316051",
+   "tip": "ORDIN",
+   "numar": "1615",
+   "data_act": "2026-10-28",
+   "titlu": "ORDIN nr. 1.615 din 28 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Pirochim Victoria - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": true
+  },
+  {
+   "id": "316050",
+   "tip": "ORDIN",
+   "numar": "1496",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 1.496 din 30 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Pirochim Victoria - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": true
+  },
+  {
+   "id": "316049",
+   "tip": "ORDIN",
+   "numar": "1771",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 1.771 din 27 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Pirochim Victoria - S.A. - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316048",
+   "tip": "ORDIN",
+   "numar": "1612",
+   "data_act": "2026-10-28",
+   "titlu": "ORDIN nr. 1.612 din 28 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Fabrica de Pulberi - S.A. Făgăraş - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": true
+  },
+  {
+   "id": "316047",
+   "tip": "ORDIN",
+   "numar": "1491",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 1.491 din 30 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Fabrica de Pulberi - S.A. Făgăraş - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": true
+  },
+  {
+   "id": "316046",
+   "tip": "ORDIN",
+   "numar": "1761",
+   "data_act": "2026-10-23",
+   "titlu": "ORDIN nr. 1.761 din 23 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Fabrica de Pulberi - S.A. Făgăraş - filiala Companiei Naţionale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316045",
+   "tip": "ORDIN",
+   "numar": "1112",
+   "data_act": "2026-08-12",
+   "titlu": "ORDIN nr. 1.112 din 12 august 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii \"ROFERSPED\" - S.A.",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": true
+  },
+  {
+   "id": "316044",
+   "tip": "ORDIN",
+   "numar": "1436",
+   "data_act": "2026-10-19",
+   "titlu": "ORDIN nr. 1.436 din 19 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii \"ROFERSPED\" - S.A.",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316043",
+   "tip": "ORDIN",
+   "numar": "743",
+   "data_act": "2026-08-04",
+   "titlu": "ORDIN nr. 743 din 4 august 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii \"ROFERSPED\" - S.A.",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316042",
+   "tip": "ORDIN",
+   "numar": "416",
+   "data_act": "2026-10-01",
+   "titlu": "ORDIN nr. 416 din 1 octombrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor maiştri militari, subofiţeri şi gradaţi profesionişti din Serviciul Român de Informaţii",
+   "emitenti": [
+    "Serviciul Român de Informații"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
+  {
+   "id": "316041",
+   "tip": "ORDIN",
+   "numar": "415",
+   "data_act": "2026-10-01",
+   "titlu": "ORDIN nr. 415 din 1 octombrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor ofiţeri din Serviciul Român de Informaţii",
+   "emitenti": [
+    "Serviciul Român de Informații"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-05",
+   "are_text": false
+  },
   {
    "id": "316040",
    "tip": "DECIZIE",
