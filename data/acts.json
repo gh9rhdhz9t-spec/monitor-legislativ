@@ -1,29 +1,351 @@
 {
- "generated_at": "2026-11-05T14:00:01+00:00",
+ "generated_at": "2026-11-06T14:00:03+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2088,
- "new_this_run": 25,
+ "total": 2103,
+ "new_this_run": 15,
  "pages_scanned": 6,
  "categories": {
-  "Fiscalitate și buget": 167,
+  "Fiscalitate și buget": 171,
+  "Educație și cercetare": 378,
+  "Energie și mediu": 251,
+  "Transporturi și infrastructură": 140,
+  "Altele": 167,
+  "Economie, IMM și comerț": 165,
+  "Agricultură și dezvoltare rurală": 76,
   "Sănătate": 90,
-  "Altele": 166,
-  "Educație și cercetare": 375,
-  "Economie, IMM și comerț": 164,
   "Digitalizare și comunicații": 15,
   "Administrație publică": 273,
   "Cultură, culte și sport": 29,
-  "Transporturi și infrastructură": 136,
   "Justiție și afaceri interne": 242,
   "Economie socială": 6,
-  "Energie și mediu": 250,
-  "Agricultură și dezvoltare rurală": 75,
   "Protecție socială și pensii": 36,
   "Afaceri externe și UE": 20,
   "Muncă și dialog social": 29,
   "Apărare și securitate națională": 15
  },
  "acts": [
+  {
+   "id": "316090",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-11-05",
+   "titlu": "NORME METODOLOGICE din 5 noiembrie 2026",
+   "descriere": "de repartizare a sumelor potrivit prevederilor art. 17 alin. (8 )-( 12) din Ordonanţa de urgenţă a Guvernului nr. 41/2026 cu privire la rectificarea bugetului de stat pe anul 2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "931",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
+  {
+   "id": "316089",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-11-05",
+   "titlu": "NORME METODOLOGICE din 5 noiembrie 2026",
+   "descriere": "de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăţilor restante şi a obligaţiilor fiscale prevăzute la art. 17 alin. (1) lit. a) şi d) din Ordonanţa de urgenţă a Guvernului nr. 41/2026 cu privire la rectificarea bugetului de stat pe anul 2026 ale instituţiilor publice finanţate parţial din bugetul local şi spitalelor publice din reţeaua autorităţilor administraţiei publice locale, raportate potrivit legii, pentru destinaţiile prevăzute la art. 17 alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 41/2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "931",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "alocatie",
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
+  {
+   "id": "316088",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-11-05",
+   "titlu": "NORME METODOLOGICE din 5 noiembrie 2026",
+   "descriere": "de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăţilor restante, a sumelor certe şi exigibile rezultate din deconturile justificative şi a obligaţiilor fiscale prevăzute la art. 17 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 41/2026 cu privire la rectificarea bugetului de stat pe anul 2026 ale unităţilor/subdiviziunilor administrativ-teritoriale şi instituţiilor publice finanţate integral din bugetul local pe destinaţiile prevăzute la art. 17 alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 41/2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "931",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "alocatie",
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
+  {
+   "id": "316087",
+   "tip": "ORDIN",
+   "numar": "1527",
+   "data_act": "2026-11-05",
+   "titlu": "ORDIN nr. 1.527 din 5 noiembrie 2026",
+   "descriere": "pentru punerea în aplicare a prevederilor art. 17 alin. (3 )-( 19) din Ordonanţa de urgenţă a Guvernului nr. 41/2026 cu privire la rectificarea bugetului de stat pe anul 2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "931",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
+  {
+   "id": "316085",
+   "tip": "ORDIN",
+   "numar": "5174",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.174 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Şcoala Gimnazială \"Anton Pann\" din municipiul Brăila, judeţul Brăila",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "930",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
+  {
+   "id": "316084",
+   "tip": "ORDIN",
+   "numar": "5139",
+   "data_act": "2026-08-27",
+   "titlu": "ORDIN nr. 5.139 din 27 august 2026",
+   "descriere": "privind acordarea autorizaţiei de funcţionare provizorie unităţii de învăţământ preuniversitar de stat Liceul Tehnologic de Transporturi Auto Târgovişte din judeţul Dâmboviţa",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "930",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
+  {
+   "id": "316083",
+   "tip": "ORDIN",
+   "numar": "1528",
+   "data_act": "2026-11-05",
+   "titlu": "ORDIN nr. 1.528 din 5 noiembrie 2026",
+   "descriere": "privind prospectul de emisiune a titlurilor de stat destinate populaţiei, prin intermediul unităţilor operative ale Trezoreriei Statului şi prin subunităţile poştale din reţeaua Companiei Naţionale \"Poşta Română\" - S.A. şi în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada noiembrie-decembrie 2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "930",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
+  {
+   "id": "316082",
+   "tip": "ORDIN",
+   "numar": "1613",
+   "data_act": "2026-10-28",
+   "titlu": "ORDIN nr. 1.613 din 28 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii de Reparaţii Locomotive \"C.F.R. - S.C.R.L. Braşov\" - S.A., filiala Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A.",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "930",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 5,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-11-06",
+   "are_text": true
+  },
+  {
+   "id": "316081",
+   "tip": "ORDIN",
+   "numar": "1495",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 1.495 din 30 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii de Reparaţii Locomotive \"C.F.R. - S.C.R.L. Braşov\" - S.A., filiala Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A.",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "930",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
+  {
+   "id": "316080",
+   "tip": "ORDIN",
+   "numar": "1046",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 1.046 din 27 octombrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Societăţii de Reparaţii Locomotive \"C.F.R. - S.C.R.L. Braşov\" - S.A., filiala Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A.",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "930",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
+  {
+   "id": "316079",
+   "tip": "ORDIN",
+   "numar": "116",
+   "data_act": "2026-11-02",
+   "titlu": "ORDIN nr. 116 din 2 noiembrie 2026",
+   "descriere": "privind aprobarea Listei interzise pentru anul 2027",
+   "emitenti": [
+    "Agenția Națională Antidoping"
+   ],
+   "monitor_nr": "930",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2027-01-01",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
+  {
+   "id": "316086",
+   "tip": "ANEXA",
+   "numar": "",
+   "data_act": "2026-10-19",
+   "titlu": "ANEXE din 19 octombrie 2026",
+   "descriere": "pentru modificarea şi completarea Procesului de autorizare/acreditare a centrelor de evaluare a competenţelor profesionale obţinute în contexte de învăţare nonformală şi informală, aprobat prin Ordinul ministrului educației și cercetării nr. 6.390/2025",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "926",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2027-01-01",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-06",
+   "are_text": true
+  },
+  {
+   "id": "316074",
+   "tip": "ORDIN",
+   "numar": "1111",
+   "data_act": "2026-11-05",
+   "titlu": "ORDIN nr. 1.111 din 5 noiembrie 2026",
+   "descriere": "pentru completarea Ordinului ministrului transporturilor şi infrastructurii nr. 2.504/2024 privind realizarea şi implementarea Registrului naţional de evidenţă a reviziilor şi reparaţiilor la vehiculele feroviare",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "929",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
+  {
+   "id": "316070",
+   "tip": "HOTARARE",
+   "numar": "200",
+   "data_act": "2026-10-30",
+   "titlu": "HOTĂRÂRE nr. 200 din 30 octombrie 2026",
+   "descriere": "pentru aprobarea Normei N3.3.3 \"Asigurarea creditelor la export pe termen mediu şi lung şi a investiţiilor româneşti de capital în străinătate, în numele şi în contul statului\" (ediţia IX/0)",
+   "emitenti": [
+    "Comitetul Interministerial de Finanțări, Garanții și Asigurări"
+   ],
+   "monitor_nr": "928",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
+  {
+   "id": "316067",
+   "tip": "ORDIN",
+   "numar": "301",
+   "data_act": "2026-10-28",
+   "titlu": "ORDIN nr. 301 din 28 octombrie 2026",
+   "descriere": "privind modificarea şi completarea Ordinului ministrului agriculturii şi dezvoltării rurale şi al preşedintelui Agenţiei Naţionale pentru Achiziţii Publice nr. 346/1.718/2023 pentru aprobarea criteriilor de calificare privind capacitatea ofertanţilor, a factorilor de evaluare şi a caietului de sarcini aferente atribuirii acordului-cadru/contractului de achiziţie publică de produse - fructe, legume, lapte şi produse lactate şi produse de panificaţie în cadrul Programului pentru şcoli al României",
+   "emitenti": [
+    "Ministerul Agriculturii și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "928",
+   "data_publicare": "2026-11-05",
+   "data_vigoare": "2026-11-05",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-06",
+   "are_text": false
+  },
   {
    "id": "316065",
    "tip": "ORDIN",
