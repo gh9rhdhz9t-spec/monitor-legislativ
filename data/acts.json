@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-11-09T06:05:37+00:00",
+ "generated_at": "2026-11-09T14:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2118,
- "new_this_run": 15,
+ "total": 2126,
+ "new_this_run": 8,
  "pages_scanned": 6,
  "categories": {
-  "Educație și cercetare": 379,
+  "Educație și cercetare": 380,
+  "Energie și mediu": 255,
+  "Economie, IMM și comerț": 168,
+  "Justiție și afaceri interne": 245,
   "Altele": 171,
   "Transporturi și infrastructură": 141,
   "Economie socială": 7,
   "Administrație publică": 276,
-  "Economie, IMM și comerț": 167,
-  "Justiție și afaceri interne": 243,
   "Cultură, culte și sport": 31,
   "Fiscalitate și buget": 171,
-  "Energie și mediu": 251,
   "Agricultură și dezvoltare rurală": 76,
   "Sănătate": 90,
   "Digitalizare și comunicații": 15,
@@ -24,6 +24,169 @@
   "Apărare și securitate națională": 15
  },
  "acts": [
+  {
+   "id": "316116",
+   "tip": "ORDIN",
+   "numar": "2224",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 2.224 din 30 octombrie 2026",
+   "descriere": "privind aprobarea derogării în scopul cercetării ştiinţifice pentru specia de mamifere mici Sicista subtilis (şoarecele săritor de stepă)",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "933",
+   "data_publicare": "2026-11-09",
+   "data_vigoare": "2026-11-09",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316115",
+   "tip": "ORDIN",
+   "numar": "2222",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 2.222 din 30 octombrie 2026",
+   "descriere": "pentru aprobarea relocării unui cuib de lăstun de casă (Delichon urbicum) de pe raza localităţii Brad, judeţul Hunedoara",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "933",
+   "data_publicare": "2026-11-09",
+   "data_vigoare": "2026-11-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316114",
+   "tip": "ORDIN",
+   "numar": "2221",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 2.221 din 30 octombrie 2026",
+   "descriere": "pentru aprobarea relocării unui cuib de barză (Ciconia ciconia) de pe raza localităţii Mogoşoaia, judeţul Ilfov",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "933",
+   "data_publicare": "2026-11-09",
+   "data_vigoare": "2026-11-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316113",
+   "tip": "ORDIN",
+   "numar": "2220",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 2.220 din 30 octombrie 2026",
+   "descriere": "pentru aprobarea relocării unui cuib de barză (Ciconia ciconia) de pe raza localităţii Sfântu Gheorghe, judeţul Covasna",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "933",
+   "data_publicare": "2026-11-09",
+   "data_vigoare": "2026-11-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316112",
+   "tip": "ORDIN",
+   "numar": "2219",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 2.219 din 30 octombrie 2026",
+   "descriere": "pentru aprobarea relocării unui cuib de barză (Ciconia ciconia) de pe raza localităţii Dej, judeţul Cluj",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "933",
+   "data_publicare": "2026-11-09",
+   "data_vigoare": "2026-11-09",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316111",
+   "tip": "ORDIN",
+   "numar": "1373",
+   "data_act": "2026-11-03",
+   "titlu": "ORDIN nr. 1.373 din 3 noiembrie 2026",
+   "descriere": "pentru modificarea Ordinului ministrului administraţiei şi internelor nr. 110/2004 privind acordarea titlului de parc industrial Societăţii Comerciale \"Parc Industrial Mureş\" - S.A.",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "933",
+   "data_publicare": "2026-11-09",
+   "data_vigoare": "2026-11-09",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316110",
+   "tip": "DECIZIE",
+   "numar": "176",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIA nr. 176 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 38 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 24 din 15 noiembrie 2021 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru soluţionarea recursului în interesul legii",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "933",
+   "data_publicare": "2026-11-09",
+   "data_vigoare": "2026-11-09",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-11-09",
+   "are_text": true
+  },
+  {
+   "id": "316109",
+   "tip": "DECIZIE",
+   "numar": "68",
+   "data_act": "2026-01-27",
+   "titlu": "DECIZIA nr. 68 din 27 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (1) , (6) şi (7) , ale art. 21 alin. (1) şi (3) , ale art. 26 alin. (1) , ale art. 28 şi 47 din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "933",
+   "data_publicare": "2026-11-09",
+   "data_vigoare": "2026-11-09",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
   {
    "id": "316106",
    "tip": "ORDIN",
