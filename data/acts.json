@@ -1,29 +1,337 @@
 {
- "generated_at": "2026-11-08T06:04:07+00:00",
+ "generated_at": "2026-11-09T06:05:37+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2103,
- "new_this_run": 0,
+ "total": 2118,
+ "new_this_run": 15,
  "pages_scanned": 6,
  "categories": {
+  "Educație și cercetare": 379,
+  "Altele": 171,
+  "Transporturi și infrastructură": 141,
+  "Economie socială": 7,
+  "Administrație publică": 276,
+  "Economie, IMM și comerț": 167,
+  "Justiție și afaceri interne": 243,
+  "Cultură, culte și sport": 31,
   "Fiscalitate și buget": 171,
-  "Educație și cercetare": 378,
   "Energie și mediu": 251,
-  "Transporturi și infrastructură": 140,
-  "Altele": 167,
-  "Economie, IMM și comerț": 165,
   "Agricultură și dezvoltare rurală": 76,
   "Sănătate": 90,
   "Digitalizare și comunicații": 15,
-  "Administrație publică": 273,
-  "Cultură, culte și sport": 29,
-  "Justiție și afaceri interne": 242,
-  "Economie socială": 6,
   "Protecție socială și pensii": 36,
   "Afaceri externe și UE": 20,
   "Muncă și dialog social": 29,
   "Apărare și securitate națională": 15
  },
  "acts": [
+  {
+   "id": "316106",
+   "tip": "ORDIN",
+   "numar": "5923",
+   "data_act": "2026-11-04",
+   "titlu": "ORDIN nr. 5.923 din 4 noiembrie 2026",
+   "descriere": "pentru completarea Regulamentului intern de organizare şi funcţionare a Autorităţii Naţionale pentru Cercetare, aprobat prin Ordinul ministrului educaţiei şi cercetării nr. 4.038/2025",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-09",
+   "are_text": true
+  },
+  {
+   "id": "316105",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-10-15",
+   "titlu": "NORME TEHNICE din 15 octombrie 2026",
+   "descriere": "privind acordarea statutului de expeditor şi/sau destinatar agreat în cadrul regimului de tranzit unional/comun",
+   "emitenti": [
+    "Autoritatea Vamală Română"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316104",
+   "tip": "ORDIN",
+   "numar": "2579",
+   "data_act": "2026-10-15",
+   "titlu": "ORDIN nr. 2.579 din 15 octombrie 2026",
+   "descriere": "pentru aprobarea Normelor tehnice privind acordarea statutului de expeditor şi/sau destinatar agreat în cadrul regimului de tranzit unional/comun",
+   "emitenti": [
+    "Autoritatea Vamală Română"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316103",
+   "tip": "DECIZIE",
+   "numar": "448",
+   "data_act": "2026-11-06",
+   "titlu": "DECIZIE nr. 448 din 6 noiembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către domnul Marius Toader a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Ministerului Transporturilor şi Infrastructurii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316102",
+   "tip": "INSTRUCTIUNI",
+   "numar": "",
+   "data_act": "2026-11-05",
+   "titlu": "INSTRUCȚIUNI din 5 noiembrie 2026",
+   "descriere": "de aplicare a prevederilor art. 301 din Legea nr. 169/2026 privind Codul amenajării teritoriului, urbanismului şi construcţiilor în privinţa lucrărilor de închidere a balcoanelor",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316101",
+   "tip": "ORDIN",
+   "numar": "1389",
+   "data_act": "2026-11-05",
+   "titlu": "ORDIN nr. 1.389 din 5 noiembrie 2026",
+   "descriere": "privind aprobarea Instrucţiunilor de aplicare a prevederilor art. 301 din Legea nr. 169/2026 privind Codul amenajării teritoriului, urbanismului şi construcţiilor în privinţa lucrărilor de închidere a balcoanelor",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316100",
+   "tip": "ORDIN",
+   "numar": "1387",
+   "data_act": "2026-11-05",
+   "titlu": "ORDIN nr. 1.387 din 5 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea Ordinului ministrului dezvoltării, lucrărilor publice şi administraţiei nr. 1.334/2026 privind constituirea Grupului de lucru pentru gestionarea măsurii START Reforma Administrativă: asociere şi comasare voluntară",
+   "emitenti": [
+    "Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Economie socială",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316099",
+   "tip": "DECIZIE",
+   "numar": "447",
+   "data_act": "2026-11-06",
+   "titlu": "DECIZIE nr. 447 din 6 noiembrie 2026",
+   "descriere": "privind numirea domnului Adrian Dan în funcţia de consilier de stat în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316098",
+   "tip": "DECIZIE",
+   "numar": "446",
+   "data_act": "2026-11-06",
+   "titlu": "DECIZIE nr. 446 din 6 noiembrie 2026",
+   "descriere": "privind numirea domnului Emil Pantelimon în funcţia de subsecretar de stat în cadrul Ministerului Culturii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316097",
+   "tip": "DECIZIE",
+   "numar": "445",
+   "data_act": "2026-11-06",
+   "titlu": "DECIZIE nr. 445 din 6 noiembrie 2026",
+   "descriere": "privind eliberarea domnului Mădălin-Ştefan Voicu din funcţia de subsecretar de stat în cadrul Ministerului Culturii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316096",
+   "tip": "DECIZIE",
+   "numar": "444",
+   "data_act": "2026-11-06",
+   "titlu": "DECIZIE nr. 444 din 6 noiembrie 2026",
+   "descriere": "privind încetarea exercitării, cu caracter temporar, de către doamna Constanţa-Valuşca Teişan a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general adjunct al Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316095",
+   "tip": "HOTARARE",
+   "numar": "952",
+   "data_act": "2026-11-05",
+   "titlu": "HOTĂRÂRE nr. 952 din 5 noiembrie 2026",
+   "descriere": "pentru completarea art. 4 din Hotărârea Guvernului nr. 1.204/2022 privind constituirea, organizarea şi funcţionarea Băncii de Investiţii şi Dezvoltare - S.A.",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316094",
+   "tip": "DECIZIE",
+   "numar": "204",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 204 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) şi ale art. 4 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 78/2016 pentru organizarea şi funcţionarea Direcţiei de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism, precum şi pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316093",
+   "tip": "DECRET",
+   "numar": "833",
+   "data_act": "2026-11-06",
+   "titlu": "DECRET nr. 833 din 6 noiembrie 2026",
+   "descriere": "privind conferirea Ordinului Meritul Cultural",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
+  {
+   "id": "316092",
+   "tip": "DECRET",
+   "numar": "832",
+   "data_act": "2026-11-06",
+   "titlu": "DECRET nr. 832 din 6 noiembrie 2026",
+   "descriere": "privind conferirea Ordinului Meritul Cultural",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "932",
+   "data_publicare": "2026-11-06",
+   "data_vigoare": "2026-11-06",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-09",
+   "are_text": false
+  },
   {
    "id": "316090",
    "tip": "NORMA",
