@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-09T14:00:05+00:00",
+ "generated_at": "2026-11-11T06:00:45+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2126,
- "new_this_run": 8,
+ "total": 2136,
+ "new_this_run": 10,
  "pages_scanned": 6,
  "categories": {
+  "Altele": 180,
+  "Energie și mediu": 256,
   "Educație și cercetare": 380,
-  "Energie și mediu": 255,
   "Economie, IMM și comerț": 168,
   "Justiție și afaceri interne": 245,
-  "Altele": 171,
   "Transporturi și infrastructură": 141,
   "Economie socială": 7,
   "Administrație publică": 276,
@@ -24,6 +24,222 @@
   "Apărare și securitate națională": 15
  },
  "acts": [
+  {
+   "id": "316143",
+   "tip": "ORDIN",
+   "numar": "641",
+   "data_act": "2026-11-03",
+   "titlu": "ORDIN nr. 641 din 3 noiembrie 2026",
+   "descriere": "pentru completarea Instrucţiunilor tehnice privind modul de evidenţă, raportare, calcul şi plată a taxei pe activitatea minieră şi a redevenţei miniere, aprobate prin Ordinul preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Minier, Petrolier şi al Stocării Geologice a Dioxidului de Carbon nr. 241/2025",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Minier, Petrolier și al Stocării geologice a dioxidului de carbon"
+   ],
+   "monitor_nr": "937",
+   "data_publicare": "2026-11-10",
+   "data_vigoare": "2026-11-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-11",
+   "are_text": false
+  },
+  {
+   "id": "316142",
+   "tip": "DECIZIE",
+   "numar": "454",
+   "data_act": "2026-11-10",
+   "titlu": "DECIZIE nr. 454 din 10 noiembrie 2026",
+   "descriere": "privind numirea domnului Cosmin-Răzvan Butuza în funcţia de secretar de stat în cadrul Ministerului Mediului, Apelor şi Pădurilor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "937",
+   "data_publicare": "2026-11-10",
+   "data_vigoare": "2026-11-10",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-11",
+   "are_text": false
+  },
+  {
+   "id": "316141",
+   "tip": "HOTARARE",
+   "numar": "16",
+   "data_act": "2026-11-10",
+   "titlu": "HOTĂRÂRE nr. 16 din 10 noiembrie 2026",
+   "descriere": "pentru numirea preşedintelui Consiliului de administraţie al Societăţii Române de Radiodifuziune",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "937",
+   "data_publicare": "2026-11-10",
+   "data_vigoare": "2026-11-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-11",
+   "are_text": false
+  },
+  {
+   "id": "316140",
+   "tip": "HOTARARE",
+   "numar": "15",
+   "data_act": "2026-11-10",
+   "titlu": "HOTĂRÂRE nr. 15 din 10 noiembrie 2026",
+   "descriere": "pentru numirea preşedintelui Consiliului de administraţie al Societăţii Române de Televiziune",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "937",
+   "data_publicare": "2026-11-10",
+   "data_vigoare": "2026-11-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-11",
+   "are_text": false
+  },
+  {
+   "id": "316139",
+   "tip": "HOTARARE",
+   "numar": "14",
+   "data_act": "2026-11-10",
+   "titlu": "HOTĂRÂRE nr. 14 din 10 noiembrie 2026",
+   "descriere": "privind desemnarea membrilor Consiliului de administraţie al Societăţii Române de Radiodifuziune, propuşi de către grupurile parlamentare reunite ale celor două Camere ale Parlamentului",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "937",
+   "data_publicare": "2026-11-10",
+   "data_vigoare": "2026-11-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-11",
+   "are_text": false
+  },
+  {
+   "id": "316138",
+   "tip": "HOTARARE",
+   "numar": "13",
+   "data_act": "2026-11-10",
+   "titlu": "HOTĂRÂRE nr. 13 din 10 noiembrie 2026",
+   "descriere": "privind desemnarea membrilor Consiliului de administraţie al Societăţii Române de Televiziune, propuşi de către grupurile parlamentare reunite ale celor două Camere ale Parlamentului",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "937",
+   "data_publicare": "2026-11-10",
+   "data_vigoare": "2026-11-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-11",
+   "are_text": false
+  },
+  {
+   "id": "316137",
+   "tip": "HOTARARE",
+   "numar": "10",
+   "data_act": "2026-11-10",
+   "titlu": "HOTĂRÂRE nr. 10 din 10 noiembrie 2026",
+   "descriere": "privind desemnarea unui consilier de conturi care să exercite atribuţiile de preşedinte al Curţii de Conturi",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "937",
+   "data_publicare": "2026-11-10",
+   "data_vigoare": "2026-11-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-11",
+   "are_text": false
+  },
+  {
+   "id": "316136",
+   "tip": "HOTARARE",
+   "numar": "6",
+   "data_act": "2026-11-10",
+   "titlu": "HOTĂRÂRE nr. 6 din 10 noiembrie 2026",
+   "descriere": "pentru modificarea anexei la Hotărârea Parlamentului României nr. 31/2025 privind constituirea Comisiei speciale comune a Camerei Deputaţilor şi Senatului în domeniul legislaţiei privind prevenirea, combaterea şi sancţionarea violenţei domestice - \"România fără violenţă domestică\"",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "937",
+   "data_publicare": "2026-11-10",
+   "data_vigoare": "2026-11-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-11",
+   "are_text": false
+  },
+  {
+   "id": "316135",
+   "tip": "HOTARARE",
+   "numar": "5",
+   "data_act": "2026-11-10",
+   "titlu": "HOTĂRÂRE nr. 5 din 10 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea Hotărârii Parlamentului României nr. 5/2025 privind constituirea Comisiei speciale comune a Camerei Deputaţilor şi Senatului pentru combaterea traficului de persoane",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "937",
+   "data_publicare": "2026-11-10",
+   "data_vigoare": "2026-11-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-11",
+   "are_text": false
+  },
+  {
+   "id": "316134",
+   "tip": "HOTARARE",
+   "numar": "145",
+   "data_act": "2026-11-09",
+   "titlu": "HOTĂRÂRE nr. 145 din 9 noiembrie 2026",
+   "descriere": "pentru modificarea Hotărârii Senatului nr. 134/2024 privind aprobarea componenţei numerice şi nominale a comisiilor permanente ale Senatului",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "937",
+   "data_publicare": "2026-11-10",
+   "data_vigoare": "2026-11-10",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-11",
+   "are_text": false
+  },
   {
    "id": "316116",
    "tip": "ORDIN",

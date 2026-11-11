@@ -5244,3 +5244,83 @@ Cele mai relevante acte din aceasta rulare:
   [8] Fiscalitate și buget — ORDIN nr. 685 din 29 mai 2026
   [8] Muncă și dialog social — DECIZIA nr. 40 din 9 martie 2026
 dist/radar-legislativ.html — 1200 acte, 194 cu text integral, 3.77 MB
+[2026-11-09 16:01:37] Gata: 8 acte noi, 2126 în total. Artefactul poate fi republicat.
+[2026-11-09 16:01:37] Date noi publicate pe GitHub; rutina din cloud le va prelua.
+[2026-11-10 08:00:17] ── pornesc actualizarea ──
+  ! HTTP Error 500: Internal Server Error (incercarea 1/5), reincerc in 5s
+  ! HTTP Error 500: Internal Server Error (incercarea 2/5), reincerc in 10s
+  ! HTTP Error 500: Internal Server Error (incercarea 3/5), reincerc in 20s
+  ! HTTP Error 500: Internal Server Error (incercarea 4/5), reincerc in 40s
+  ! HTTP Error 500: Internal Server Error (incercarea 5/5), reincerc in 60s
+Baza existenta: 2126 acte
+→ pagina 1/6
+  · sesiune initializata (1 cookie-uri)
+  · sesiune initializata (1 cookie-uri)
+Traceback (most recent call last):
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 633, in <module>
+    main()
+    ~~~~^^
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 558, in main
+    acts = scrape()
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 474, in scrape
+    chunks = split_items(fetch(url))
+                         ~~~~~^^^^^
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 189, in fetch
+    raise RuntimeError("Nu am putut descarca %s: %s" % (url, last))
+RuntimeError: Nu am putut descarca https://legislatie.just.ro/Public/RezultateCautare?page=1&rezultatePerPagina=5: HTTP Error 500: Internal Server Error
+[2026-11-10 08:20:39] EȘEC: colectarea nu s-a încheiat cu bine; nu public nimic.
+[2026-11-10 08:20:39] Colectarea a eșuat (cod 1).
+[2026-11-10 16:00:06] ── pornesc actualizarea ──
+  ! HTTP Error 500: Internal Server Error (incercarea 1/5), reincerc in 5s
+  ! HTTP Error 500: Internal Server Error (incercarea 2/5), reincerc in 10s
+  ! HTTP Error 500: Internal Server Error (incercarea 3/5), reincerc in 20s
+  ! HTTP Error 500: Internal Server Error (incercarea 4/5), reincerc in 40s
+  ! HTTP Error 500: Internal Server Error (incercarea 5/5), reincerc in 60s
+Baza existenta: 2126 acte
+→ pagina 1/6
+  · sesiune initializata (1 cookie-uri)
+  · sesiune initializata (1 cookie-uri)
+Traceback (most recent call last):
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 633, in <module>
+    main()
+    ~~~~^^
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 558, in main
+    acts = scrape()
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 474, in scrape
+    chunks = split_items(fetch(url))
+                         ~~~~~^^^^^
+  File "/Users/radustochita/monitor-legislativ/scripts/scrape.py", line 189, in fetch
+    raise RuntimeError("Nu am putut descarca %s: %s" % (url, last))
+RuntimeError: Nu am putut descarca https://legislatie.just.ro/Public/RezultateCautare?page=1&rezultatePerPagina=5: HTTP Error 500: Internal Server Error
+[2026-11-10 16:02:34] EȘEC: colectarea nu s-a încheiat cu bine; nu public nimic.
+[2026-11-10 16:02:34] Colectarea a eșuat (cod 1).
+[2026-11-11 08:00:44] ── pornesc actualizarea ──
+  ! The read operation timed out (incercarea 1/5), reincerc in 5s
+Baza existenta: 2126 acte
+→ pagina 1/6
+  · sesiune initializata (1 cookie-uri)
+  50 acte (total unic: 50)
+→ pagina 2/6
+  50 acte (total unic: 100)
+→ pagina 3/6
+  50 acte (total unic: 150)
+→ pagina 4/6
+  50 acte (total unic: 200)
+→ pagina 5/6
+  50 acte (total unic: 250)
+→ pagina 6/6
+  50 acte (total unic: 300)
+Text integral disponibil pentru 389 acte (0 fisiere eliminate)
+
+2136 acte in baza (10 noi, 0 eliminate prin retentie)
+
+Cele mai relevante acte din aceasta rulare:
+  [8] Protecție socială și pensii — ORDIN nr. 1.277 din 14 septembrie 2026
+  [10] Muncă și dialog social — HOTĂRÂRE nr. 726 din 11 septembrie 2026
+  [9] Protecție socială și pensii — DECIZIA nr. 182 din 26 februarie 2026
+  [8] Muncă și dialog social — DECIZIA nr. 77 din 22 iunie 2026
+  [8] Protecție socială și pensii — ANEXE din 12 august 2026
+  [8] Protecție socială și pensii — ORDIN nr. 197 din 12 august 2026
+  [8] Fiscalitate și buget — ORDIN nr. 685 din 29 mai 2026
+  [8] Muncă și dialog social — DECIZIA nr. 40 din 9 martie 2026
+dist/radar-legislativ.html — 1200 acte, 193 cu text integral, 3.76 MB
