@@ -1,29 +1,131 @@
 {
- "generated_at": "2026-11-12T06:14:29+00:00",
+ "generated_at": "2026-11-12T14:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2163,
- "new_this_run": 27,
+ "total": 2169,
+ "new_this_run": 6,
  "pages_scanned": 6,
  "categories": {
+  "Transporturi și infrastructură": 142,
+  "Sănătate": 92,
+  "Justiție și afaceri interne": 257,
   "Fiscalitate și buget": 176,
   "Administrație publică": 278,
   "Muncă și dialog social": 30,
-  "Justiție și afaceri interne": 255,
   "Economie socială": 8,
   "Altele": 186,
   "Apărare și securitate națională": 16,
   "Economie, IMM și comerț": 169,
-  "Energie și mediu": 256,
+  "Energie și mediu": 257,
   "Educație și cercetare": 380,
-  "Transporturi și infrastructură": 141,
   "Cultură, culte și sport": 31,
   "Agricultură și dezvoltare rurală": 76,
-  "Sănătate": 90,
   "Digitalizare și comunicații": 15,
   "Protecție socială și pensii": 36,
   "Afaceri externe și UE": 20
  },
  "acts": [
+  {
+   "id": "316175",
+   "tip": "ORDIN",
+   "numar": "1081",
+   "data_act": "2026-11-05",
+   "titlu": "ORDIN nr. 1.081 din 5 noiembrie 2026",
+   "descriere": "pentru modificarea Ordinului ministrului transporturilor şi infrastructurii, interimar, nr. 609/2026 pentru aprobarea Reglementării aeronautice civile române RACR-LPAN AUN \"Licenţierea personalului aeronautic civil navigant - aeronave ultrauşoare nemotorizate\", ediţia 2/2026, şi pentru modificarea Ordinului ministrului transporturilor, construcţiilor şi turismului nr. 630/2007 privind modul de reglementare a domeniului aeronauticii civile cu aeronave ultrauşoare din România",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "943",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316174",
+   "tip": "ORDIN",
+   "numar": "980",
+   "data_act": "2026-10-20",
+   "titlu": "ORDIN nr. 980 din 20 octombrie 2026",
+   "descriere": "pentru modificarea Normei sanitar-veterinare privind procedura de înregistrare/autorizare sanitar-veterinară a unităţilor din domeniul subproduselor de origine animală şi produselor derivate care nu sunt destinate consumului uman, aprobată prin Ordinul preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 79/2019 , şi a anexei nr. 3 la Ordinul preşedintelui Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar şi pentru siguranţa alimentelor",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "943",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316173",
+   "tip": "ORDIN",
+   "numar": "102",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 102 din 27 octombrie 2026",
+   "descriere": "pentru completarea anexei la Ordinul ministrului sănătăţii nr. 607/2019 privind aprobarea listei vaccinurilor achiziţionate în cadrul programelor naţionale de sănătate pentru care nu se datorează contribuţii trimestriale calculate conform Ordonanţei de urgenţă a Guvernului nr. 77/2011 privind stabilirea unor contribuţii pentru finanţarea unor cheltuieli în domeniul sănătăţii",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "943",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": true
+  },
+  {
+   "id": "316172",
+   "tip": "DECIZIE",
+   "numar": "197",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 197 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 11 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 43/2002 privind Direcţia Naţională Anticorupţie, raportat la art. 97 alin. (2) lit. e) şi art. 172 alin. (12) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "943",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316171",
+   "tip": "DECIZIE",
+   "numar": "98",
+   "data_act": "2026-02-05",
+   "titlu": "DECIZIA nr. 98 din 5 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 265 din Codul de procedură fiscală , a Ordonanţei Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor şi a Ordonanţei Guvernului nr. 55/2002 privind regimul juridic al sancţiunii prestării unei activităţi în folosul comunităţii",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "943",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
   {
    "id": "316170",
    "tip": "NORMA",
@@ -590,6 +692,26 @@
    "data_vigoare": "2026-11-11",
    "vigoare_text": "",
    "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "309953",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-11-10",
+   "titlu": "COMUNICAT din 10 noiembrie 2026",
+   "descriere": "privind concursul de infracțiuni și concursul aparent de norme în cazul faptelor de comunicare publică a mesajelor de ură și de contestare sau minimalizare a Holocaustului",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-11-10",
+   "data_vigoare": "2026-11-10",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
    "scor": 1,
    "termeni": [],
    "first_seen": "2026-11-12",
