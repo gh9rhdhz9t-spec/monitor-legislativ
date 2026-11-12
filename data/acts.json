@@ -1,29 +1,600 @@
 {
- "generated_at": "2026-11-11T06:00:45+00:00",
+ "generated_at": "2026-11-12T06:14:29+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2136,
- "new_this_run": 10,
+ "total": 2163,
+ "new_this_run": 27,
  "pages_scanned": 6,
  "categories": {
-  "Altele": 180,
+  "Fiscalitate și buget": 176,
+  "Administrație publică": 278,
+  "Muncă și dialog social": 30,
+  "Justiție și afaceri interne": 255,
+  "Economie socială": 8,
+  "Altele": 186,
+  "Apărare și securitate națională": 16,
+  "Economie, IMM și comerț": 169,
   "Energie și mediu": 256,
   "Educație și cercetare": 380,
-  "Economie, IMM și comerț": 168,
-  "Justiție și afaceri interne": 245,
   "Transporturi și infrastructură": 141,
-  "Economie socială": 7,
-  "Administrație publică": 276,
   "Cultură, culte și sport": 31,
-  "Fiscalitate și buget": 171,
   "Agricultură și dezvoltare rurală": 76,
   "Sănătate": 90,
   "Digitalizare și comunicații": 15,
   "Protecție socială și pensii": 36,
-  "Afaceri externe și UE": 20,
-  "Muncă și dialog social": 29,
-  "Apărare și securitate națională": 15
+  "Afaceri externe și UE": 20
  },
  "acts": [
+  {
+   "id": "316170",
+   "tip": "NORMA",
+   "numar": "",
+   "data_act": "2026-11-11",
+   "titlu": "NORME METODOLOGICE din 11 noiembrie 2026",
+   "descriere": "privind mecanismul de acordare şi derulare a împrumuturilor acordate unităţilor administrativ-teritoriale prevăzut la art. II din Ordonanţa de urgenţă a Guvernului nr. 43/2026 privind acordarea sprijinului pentru asigurarea energiei termice în sezonul rece 2026-2027, unele măsuri fiscal-bugetare, precum şi pentru modificarea şi completarea unor acte normative, documentele în baza cărora se acordă împrumutul şi cele care stau la baza obţinerii avizului Comisiei de autorizare a împrumuturilor locale, precum şi modul de reflectare a sumelor respective în bugetele instituţiilor publice locale",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "942",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316169",
+   "tip": "ORDIN",
+   "numar": "1540",
+   "data_act": "2026-11-11",
+   "titlu": "ORDIN nr. 1.540 din 11 noiembrie 2026",
+   "descriere": "pentru aprobarea Normelor metodologice privind mecanismul de acordare şi derulare a împrumuturilor acordate unităţilor administrativ-teritoriale prevăzut la art. II din Ordonanţa de urgenţă a Guvernului nr. 43/2026 privind acordarea sprijinului pentru asigurarea energiei termice în sezonul rece 2026-2027, unele măsuri fiscal-bugetare, precum şi pentru modificarea şi completarea unor acte normative, documentele în baza cărora se acordă împrumutul şi cele care stau la baza obţinerii avizului Comisiei de autorizare a împrumuturilor locale, precum şi modul de reflectare a sumelor respective în bugetele instituţiilor publice locale",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "942",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316168",
+   "tip": "DECIZIE",
+   "numar": "456",
+   "data_act": "2026-11-11",
+   "titlu": "DECIZIE nr. 456 din 11 noiembrie 2026",
+   "descriere": "privind numirea doamnei Andreea-Cerasela Cimpoca în funcţia de secretar de stat al Agenţiei Naţionale pentru Egalitatea de Şanse între Femei şi Bărbaţi",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "942",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316167",
+   "tip": "ORDIN",
+   "numar": "1714",
+   "data_act": "2026-11-11",
+   "titlu": "ORDIN nr. 1.714 din 11 noiembrie 2026",
+   "descriere": "pentru aprobarea Listei ocupaţiilor deficitare prevăzute la art. 1 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 32/2026 privind accesul străinilor pe piaţa muncii din România, precum şi pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "941",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 6,
+   "termeni": [
+    "piata muncii",
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": true
+  },
+  {
+   "id": "316166",
+   "tip": "DECIZIE",
+   "numar": "396",
+   "data_act": "2026-04-30",
+   "titlu": "DECIZIA nr. 396 din 30 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 426 lit. a) şi lit. d) teza întâi din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "941",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316165",
+   "tip": "DECRET",
+   "numar": "849",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 849 din 11 noiembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "941",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316164",
+   "tip": "DECRET",
+   "numar": "848",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 848 din 11 noiembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui procuror",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "941",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316163",
+   "tip": "DECRET",
+   "numar": "847",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 847 din 11 noiembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "941",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316162",
+   "tip": "DECRET",
+   "numar": "846",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 846 din 11 noiembrie 2026",
+   "descriere": "privind eliberarea din funcţie a unui judecător",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "941",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316161",
+   "tip": "HOTARARE",
+   "numar": "12",
+   "data_act": "2026-11-10",
+   "titlu": "HOTĂRÂRE nr. 12 din 10 noiembrie 2026",
+   "descriere": "pentru modificarea Hotărârii Parlamentului României nr. 2/2025 privind alegerea membrilor şi a biroului Comisiei comune permanente a Camerei Deputaţilor şi Senatului pentru exercitarea controlului parlamentar asupra activităţii Serviciului Român de Informaţii",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "941",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316160",
+   "tip": "HOTARARE",
+   "numar": "11",
+   "data_act": "2026-11-10",
+   "titlu": "HOTĂRÂRE nr. 11 din 10 noiembrie 2026",
+   "descriere": "pentru modificarea anexei la Hotărârea Parlamentului României nr. 9/2025 privind aprobarea componenţei nominale şi a conducerii Delegaţiei permanente a Parlamentului României la Adunarea Parlamentară a Cooperării Economice a Mării Negre",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "941",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Economie socială",
+   "scor": 5,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": true
+  },
+  {
+   "id": "316159",
+   "tip": "HOTARARE",
+   "numar": "9",
+   "data_act": "2026-11-10",
+   "titlu": "HOTĂRÂRE nr. 9 din 10 noiembrie 2026",
+   "descriere": "pentru modificarea anexei la Hotărârea Parlamentului României nr. 15/2025 privind aprobarea componenţei nominale şi a conducerii Comitetului director al Grupului Român al Uniunii Interparlamentare",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "941",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316158",
+   "tip": "HOTARARE",
+   "numar": "8",
+   "data_act": "2026-11-10",
+   "titlu": "HOTĂRÂRE nr. 8 din 10 noiembrie 2026",
+   "descriere": "pentru modificarea anexei la Hotărârea Parlamentului României nr. 8/2025 privind aprobarea componenţei nominale şi a conducerii Delegaţiei permanente a Parlamentului României la Adunarea Parlamentară a Consiliului Europei",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "941",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316157",
+   "tip": "HOTARARE",
+   "numar": "7",
+   "data_act": "2026-11-10",
+   "titlu": "HOTĂRÂRE nr. 7 din 10 noiembrie 2026",
+   "descriere": "pentru modificarea anexei la Hotărârea Parlamentului României nr. 12/2025 privind aprobarea componenţei nominale şi a conducerii Delegaţiei permanente a Parlamentului României la Adunarea Parlamentară a NATO",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "941",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 3,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316156",
+   "tip": "DECRET",
+   "numar": "836",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 836 din 11 noiembrie 2026",
+   "descriere": "privind conferirea Ordinului Naţional Steaua României",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "940",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316155",
+   "tip": "RAPORT",
+   "numar": "",
+   "data_act": "2026-11-09",
+   "titlu": "RAPORT din 9 noiembrie 2026",
+   "descriere": "privind ancheta parlamentară referitoare la circumstanţele deplasării judecătorului Cristian Deliorga, din cadrul Curţii Constituţionale a României, în data de 8 iulie 2026, pe ruta Bucureşti-Mykonos",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "940",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316154",
+   "tip": "HOTARARE",
+   "numar": "147",
+   "data_act": "2026-11-09",
+   "titlu": "HOTĂRÂRE nr. 147 din 9 noiembrie 2026",
+   "descriere": "privind aprobarea Raportului Comisiei pentru constituţionalitate privind ancheta parlamentară referitoare la circumstanţele deplasării judecătorului Cristian Deliorga, din cadrul Curţii Constituţionale a României, în data de 8 iulie 2026, pe ruta Bucureşti-Mykonos",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "940",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316153",
+   "tip": "RAPORT",
+   "numar": "",
+   "data_act": "2026-11-09",
+   "titlu": "RAPORT din 9 noiembrie 2026",
+   "descriere": "privind ancheta parlamentară referitoare la împrejurările în care a avut loc întâlnirea dintre prim-ministrul interimar al Guvernului României, domnul Ilie Bolojan, şi preşedintele Curţii Constituţionale a României, doamna judecător Elena-Simina Tănăsescu, în ziua de 14 august 2026",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "940",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316152",
+   "tip": "HOTARARE",
+   "numar": "146",
+   "data_act": "2026-11-09",
+   "titlu": "HOTĂRÂRE nr. 146 din 9 noiembrie 2026",
+   "descriere": "privind aprobarea Raportului Comisiei pentru constituţionalitate privind ancheta parlamentară referitoare la împrejurările în care a avut loc întâlnirea dintre prim-ministrul interimar al Guvernului României, domnul Ilie Bolojan, şi preşedintele Curţii Constituţionale a României, doamna judecător Elena-Simina Tănăsescu, în ziua de 14 august 2026",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "940",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316151",
+   "tip": "ORDIN",
+   "numar": "1515",
+   "data_act": "2026-11-03",
+   "titlu": "ORDIN nr. 1.515 din 3 noiembrie 2026",
+   "descriere": "privind modificarea şi completarea Normelor metodologice pentru înregistrarea şi raportarea datoriei publice, aprobate prin Ordinul ministrului economiei şi finanţelor nr. 1.059/2008",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "939",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316150",
+   "tip": "DECIZIE",
+   "numar": "455",
+   "data_act": "2026-11-11",
+   "titlu": "DECIZIE nr. 455 din 11 noiembrie 2026",
+   "descriere": "pentru modificarea anexei la Decizia prim-ministrului nr. 524/2025 privind atribuţiile, funcţionarea şi componenţa nominală ale Grupului de lucru interinstituţional pentru accesarea şi implementarea instrumentului de finanţare SAFE",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "939",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316149",
+   "tip": "ORDIN",
+   "numar": "1611",
+   "data_act": "2026-10-28",
+   "titlu": "ORDIN nr. 1.611 din 28 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Centrul Naţional de Învăţământ Turistic \"CNIT\" - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+   ],
+   "monitor_nr": "938",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 6,
+   "termeni": [
+    "ministerul muncii"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": true
+  },
+  {
+   "id": "316148",
+   "tip": "ORDIN",
+   "numar": "1497",
+   "data_act": "2026-10-30",
+   "titlu": "ORDIN nr. 1.497 din 30 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Centrul Naţional de Învăţământ Turistic \"CNIT\" - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "938",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-12",
+   "are_text": true
+  },
+  {
+   "id": "316147",
+   "tip": "ORDIN",
+   "numar": "1762",
+   "data_act": "2026-10-23",
+   "titlu": "ORDIN nr. 1.762 din 23 octombrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli pe anul 2026 pentru Societatea Centrul Naţional de Învăţământ Turistic \"CNIT\" - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului"
+   ],
+   "monitor_nr": "938",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": true
+  },
+  {
+   "id": "316146",
+   "tip": "ORDIN",
+   "numar": "30",
+   "data_act": "2026-10-29",
+   "titlu": "ORDIN nr. 30 din 29 octombrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor subofiţeri din Serviciul de Protecţie şi Pază",
+   "emitenti": [
+    "Serviciul de Protecție și Pază"
+   ],
+   "monitor_nr": "938",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-12-01",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316145",
+   "tip": "ORDIN",
+   "numar": "29",
+   "data_act": "2026-10-29",
+   "titlu": "ORDIN nr. 29 din 29 octombrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor ofiţeri din Serviciul de Protecţie şi Pază",
+   "emitenti": [
+    "Serviciul de Protecție și Pază"
+   ],
+   "monitor_nr": "938",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-12-01",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
+  {
+   "id": "316144",
+   "tip": "DECIZIE",
+   "numar": "270",
+   "data_act": "2026-03-19",
+   "titlu": "DECIZIA nr. 270 din 19 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 249 din Codul de procedură penală , în redactarea anterioară modificărilor şi completărilor aduse acestora prin articolul unic pct. 1 , 2 şi 3 din Legea nr. 70/2025 pentru modificarea şi completarea Legii nr. 135/2010 privind Codul de procedură penală , ale art. 250^2 , ale art. 268 alin. (2) şi ale art. 425^1 alin. (7) pct. 2 lit. b) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "938",
+   "data_publicare": "2026-11-11",
+   "data_vigoare": "2026-11-11",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-12",
+   "are_text": false
+  },
   {
    "id": "316143",
    "tip": "ORDIN",
