@@ -1,29 +1,1157 @@
 {
- "generated_at": "2026-11-13T06:00:24+00:00",
+ "generated_at": "2026-11-13T14:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2169,
- "new_this_run": 0,
+ "total": 2221,
+ "new_this_run": 52,
  "pages_scanned": 6,
  "categories": {
-  "Transporturi și infrastructură": 142,
-  "Sănătate": 92,
-  "Justiție și afaceri interne": 257,
-  "Fiscalitate și buget": 176,
-  "Administrație publică": 278,
+  "Altele": 193,
+  "Economie, IMM și comerț": 178,
+  "Sănătate": 97,
+  "Transporturi și infrastructură": 143,
+  "Justiție și afaceri interne": 262,
+  "Digitalizare și comunicații": 16,
+  "Energie și mediu": 258,
+  "Protecție socială și pensii": 42,
+  "Fiscalitate și buget": 181,
+  "Afaceri externe și UE": 21,
+  "Administrație publică": 289,
   "Muncă și dialog social": 30,
   "Economie socială": 8,
-  "Altele": 186,
   "Apărare și securitate națională": 16,
-  "Economie, IMM și comerț": 169,
-  "Energie și mediu": 257,
   "Educație și cercetare": 380,
   "Cultură, culte și sport": 31,
-  "Agricultură și dezvoltare rurală": 76,
-  "Digitalizare și comunicații": 15,
-  "Protecție socială și pensii": 36,
-  "Afaceri externe și UE": 20
+  "Agricultură și dezvoltare rurală": 76
  },
  "acts": [
+  {
+   "id": "316229",
+   "tip": "HOTARARE",
+   "numar": "970",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 970 din 12 noiembrie 2026",
+   "descriere": "privind acordarea statutului de instituţie de spectacole de importanţă naţională Teatrului Evreiesc de Stat",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "948",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316228",
+   "tip": "HOTARARE",
+   "numar": "969",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 969 din 12 noiembrie 2026",
+   "descriere": "pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Construire stadion, municipiul Târgovişte, judeţul Dâmboviţa\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "948",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316227",
+   "tip": "HOTARARE",
+   "numar": "968",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 968 din 12 noiembrie 2026",
+   "descriere": "pentru modificarea art. 2 lit. d) din Hotărârea Guvernului nr. 768/2021 pentru desemnarea operatorilor medicali şi a unităţilor sanitare colaboratoare pentru elicopterele aflate în administrarea Inspectoratului General de Aviaţie din subordinea Ministerului Afacerilor Interne",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "948",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316226",
+   "tip": "DECRET",
+   "numar": "839",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 839 din 11 noiembrie 2026",
+   "descriere": "pentru promulgarea Legii privind instituirea unei scheme de ajutor de stat pentru producătorii agricoli de căpşune",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "948",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316225",
+   "tip": "LEGE",
+   "numar": "211",
+   "data_act": "2026-11-12",
+   "titlu": "LEGE nr. 211 din 12 noiembrie 2026",
+   "descriere": "privind instituirea unei scheme de ajutor de stat pentru producătorii agricoli de căpşune",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "948",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316224",
+   "tip": "DECRET",
+   "numar": "837",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 837 din 11 noiembrie 2026",
+   "descriere": "pentru promulgarea Legii privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul suin în contextul evoluţiei pestei porcine africane",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "948",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316223",
+   "tip": "LEGE",
+   "numar": "209",
+   "data_act": "2026-11-12",
+   "titlu": "LEGE nr. 209 din 12 noiembrie 2026",
+   "descriere": "privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul suin în contextul evoluţiei pestei porcine africane",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "948",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316222",
+   "tip": "CIRCULARA",
+   "numar": "28",
+   "data_act": "2026-11-04",
+   "titlu": "CIRCULARĂ nr. 28 din 4 noiembrie 2026",
+   "descriere": "privind lansarea în circuitul numismatic a unor monede din aur, argint şi alamă pentru colecţionare şi punerea în circulaţie a unei monede din alamă, cu tema Constantin Brâncuşi - 150 de ani de la naştere",
+   "emitenti": [
+    "Banca Națională a României"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316221",
+   "tip": "ORDIN",
+   "numar": "1017",
+   "data_act": "2026-11-06",
+   "titlu": "ORDIN nr. 1.017 din 6 noiembrie 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei din anul 2024 şi de procentul de indexare a salariului minim pe economie la data de 1.01.2024, respectiv la data de 1.07.2024, conform Sentinţei civile nr. 258 din 24.11.2025, pronunţată de Curtea de Apel Iaşi - Secţia de contencios administrativ şi fiscal, definitivă prin Decizia civilă nr. 2.602 din 21.05.2026, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 651/45/2025",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "salariul minim",
+    "salariu"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316220",
+   "tip": "DECIZIE",
+   "numar": "179",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIA nr. 179 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor notei 2 a lit. c) din pct. II lit. A cap. I din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 82 din 26 noiembrie 2018 , pronunţată de Înalta Curte de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316219",
+   "tip": "HOTARARE",
+   "numar": "153",
+   "data_act": "2026-11-09",
+   "titlu": "HOTĂRÂRE nr. 153 din 9 noiembrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei privind iniţiativa cetăţenească europeană (ICE) intitulată \"Stop Destroying Videogames\" (\"Stop distrugerii jocurilor video!\") - C (2026) 4110 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316218",
+   "tip": "HOTARARE",
+   "numar": "152",
+   "data_act": "2026-11-09",
+   "titlu": "HOTĂRÂRE nr. 152 din 9 noiembrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Planul de acţiune privind securitatea cibernetică şi inteligenţa artificială - COM (2026) 577 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316217",
+   "tip": "HOTARARE",
+   "numar": "151",
+   "data_act": "2026-11-09",
+   "titlu": "HOTĂRÂRE nr. 151 din 9 noiembrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor privind Pilonul european al drepturilor sociale - COM (2026) 650 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316216",
+   "tip": "HOTARARE",
+   "numar": "150",
+   "data_act": "2026-11-09",
+   "titlu": "HOTĂRÂRE nr. 150 din 9 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului de modificare a Regulamentului (UE) 2017/1.369 şi a Regulamentului (UE) 2020/740 în ceea ce priveşte simplificarea şi o mai bună utilizare a opţiunilor digitale pentru etichetarea energetică şi etichetarea pneurilor - COM (2026) 565 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316215",
+   "tip": "HOTARARE",
+   "numar": "149",
+   "data_act": "2026-11-09",
+   "titlu": "HOTĂRÂRE nr. 149 din 9 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului de modificare a Regulamentelor (UE) 2015/757 şi (UE) 2023/1.805 pentru a simplifica şi a raţionaliza monitorizarea, raportarea şi verificarea şi pentru alinierea la revizuirile schemei UE de comercializare a certificatelor de emisii - COM (2026) 620 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316214",
+   "tip": "HOTARARE",
+   "numar": "148",
+   "data_act": "2026-11-09",
+   "titlu": "HOTĂRÂRE nr. 148 din 9 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului de modificare a Directivei 2003/87/CE în ceea ce priveşte valorile de referinţă revizuite pentru căldura şi combustibilul de referinţă pentru perioada 2026-2030 - COM (2026) 619 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316213",
+   "tip": "DECRET",
+   "numar": "845",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 845 din 11 noiembrie 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea Legii asistenţei sociale nr. 292/2011",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 4,
+   "termeni": [
+    "asistenta sociala"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316212",
+   "tip": "LEGE",
+   "numar": "217",
+   "data_act": "2026-11-12",
+   "titlu": "LEGE nr. 217 din 12 noiembrie 2026",
+   "descriere": "pentru modificarea Legii asistenţei sociale nr. 292/2011",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 6,
+   "termeni": [
+    "asistenta sociala",
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316211",
+   "tip": "DECRET",
+   "numar": "844",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 844 din 11 noiembrie 2026",
+   "descriere": "privind promulgarea Legii pentru prorogarea termenului prevăzut la art. 7 alin. (1^1) din Ordonanţa de urgenţă a Guvernului nr. 95/2021 pentru aprobarea Programului naţional de investiţii \"Anghel Saligny\"",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316210",
+   "tip": "LEGE",
+   "numar": "216",
+   "data_act": "2026-11-12",
+   "titlu": "LEGE nr. 216 din 12 noiembrie 2026",
+   "descriere": "pentru prorogarea termenului prevăzut la art. 7 alin. (1^1) din Ordonanţa de urgenţă a Guvernului nr. 95/2021 pentru aprobarea Programului naţional de investiţii \"Anghel Saligny\"",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316209",
+   "tip": "DECRET",
+   "numar": "842",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 842 din 11 noiembrie 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea şi completarea Legii drepturilor pacientului nr. 46/2003",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316208",
+   "tip": "LEGE",
+   "numar": "214",
+   "data_act": "2026-11-12",
+   "titlu": "LEGE nr. 214 din 12 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea Legii drepturilor pacientului nr. 46/2003",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "947",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316207",
+   "tip": "DECIZIE",
+   "numar": "459",
+   "data_act": "2026-11-13",
+   "titlu": "DECIZIE nr. 459 din 13 noiembrie 2026",
+   "descriere": "pentru modificarea anexei la Decizia prim-ministrului nr. 350/2022 privind constituirea Comisiei pentru examinarea investiţiilor străine directe CEISD",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "949",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316206",
+   "tip": "DECIZIE",
+   "numar": "269",
+   "data_act": "2026-03-19",
+   "titlu": "DECIZIA nr. 269 din 19 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 250^1 alin. (1) din Codul de procedură penală , în redactarea anterioară modificării acestora prin art. I pct. 5 din Legea nr. 70/2025 pentru modificarea şi completarea Legii nr. 135/2010 privind Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "949",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316205",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-11-10",
+   "titlu": "METODOLOGIE din 10 noiembrie 2026",
+   "descriere": "privind regulile de comercializare, facturare, decontare şi alocare valorică multi-loc aplicabile prosumatorilor",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "946",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "alocatie"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316204",
+   "tip": "ORDIN",
+   "numar": "67",
+   "data_act": "2026-11-10",
+   "titlu": "ORDIN nr. 67 din 10 noiembrie 2026",
+   "descriere": "pentru aprobarea Metodologiei privind regulile de comercializare, facturare, decontare şi alocare valorică multi-loc aplicabile prosumatorilor",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "946",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "alocatie"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316203",
+   "tip": "DECIZIE",
+   "numar": "70",
+   "data_act": "2026-01-27",
+   "titlu": "DECIZIA nr. 70 din 27 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 26 din Ordonanţa de urgenţă a Guvernului nr. 27/2006 privind salarizarea şi alte drepturi ale judecătorilor, procurorilor şi altor categorii de personal din sistemul justiţiei",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "946",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [
+    "salarizare"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316200",
+   "tip": "RECTIFICARE",
+   "numar": "1528",
+   "data_act": "2026-11-05",
+   "titlu": "RECTIFICARE nr. 1.528 din 5 noiembrie 2026",
+   "descriere": "referitoare la Ordinul ministrului finanţelor nr. 1.528/2026",
+   "emitenti": [
+    "Ministerul Finanțelor"
+   ],
+   "monitor_nr": "945",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [
+    "ministerul finantelor"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316199",
+   "tip": "HOTARARE",
+   "numar": "966",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 966 din 12 noiembrie 2026",
+   "descriere": "privind numirea unui consul general",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "945",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316198",
+   "tip": "HOTARARE",
+   "numar": "965",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 965 din 12 noiembrie 2026",
+   "descriere": "privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2026, pentru municipiul Râmnicu Vâlcea, judeţul Vâlcea",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "945",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "alocatie",
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316197",
+   "tip": "HOTARARE",
+   "numar": "964",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 964 din 12 noiembrie 2026",
+   "descriere": "privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2026, pentru judeţul Alba şi pentru municipiul Alba Iulia, judeţul Alba",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "945",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "alocatie",
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316196",
+   "tip": "DECRET",
+   "numar": "843",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 843 din 11 noiembrie 2026",
+   "descriere": "pentru promulgarea Legii privind stabilirea unor măsuri pentru derularea Programului naţional de dezvoltare locală",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "945",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316195",
+   "tip": "LEGE",
+   "numar": "215",
+   "data_act": "2026-11-12",
+   "titlu": "LEGE nr. 215 din 12 noiembrie 2026",
+   "descriere": "privind stabilirea unor măsuri pentru derularea Programului naţional de dezvoltare locală",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "945",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-15",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316194",
+   "tip": "DECRET",
+   "numar": "841",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 841 din 11 noiembrie 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea art. 8 alin. (5) din Legea nr. 227/2015 privind Codul fiscal",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "945",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316193",
+   "tip": "LEGE",
+   "numar": "213",
+   "data_act": "2026-11-12",
+   "titlu": "LEGE nr. 213 din 12 noiembrie 2026",
+   "descriere": "pentru modificarea art. 8 alin. (5) din Legea nr. 227/2015 privind Codul fiscal",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "945",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2027-01-01",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316192",
+   "tip": "DECRET",
+   "numar": "840",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 840 din 11 noiembrie 2026",
+   "descriere": "privind promulgarea Legii pentru modificarea şi completarea Legii nr. 118/2002 pentru instituirea indemnizaţiei de merit",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "945",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "indemnizatie"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316191",
+   "tip": "LEGE",
+   "numar": "212",
+   "data_act": "2026-11-12",
+   "titlu": "LEGE nr. 212 din 12 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea Legii nr. 118/2002 pentru instituirea indemnizaţiei de merit",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "945",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-15",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 5,
+   "termeni": [
+    "indemnizatie",
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316190",
+   "tip": "DECRET",
+   "numar": "838",
+   "data_act": "2026-11-11",
+   "titlu": "DECRET nr. 838 din 11 noiembrie 2026",
+   "descriere": "privind promulgarea Legii pentru completarea Legii drepturilor pacientului nr. 46/2003",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "945",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316189",
+   "tip": "LEGE",
+   "numar": "210",
+   "data_act": "2026-11-12",
+   "titlu": "LEGE nr. 210 din 12 noiembrie 2026",
+   "descriere": "pentru completarea Legii drepturilor pacientului nr. 46/2003",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "945",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-15",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": true
+  },
+  {
+   "id": "316188",
+   "tip": "HOTARARE",
+   "numar": "963",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 963 din 12 noiembrie 2026",
+   "descriere": "privind numirea doamnei Opriş Vanessa în funcţia de subprefect al judeţului Timiş",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316187",
+   "tip": "HOTARARE",
+   "numar": "962",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 962 din 12 noiembrie 2026",
+   "descriere": "privind numirea domnului Andoni Dragoş-Nicolae în funcţia de subprefect al judeţului Neamţ",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316186",
+   "tip": "HOTARARE",
+   "numar": "961",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 961 din 12 noiembrie 2026",
+   "descriere": "privind numirea domnului Bolintineanu Ionuţ-Alexandru în funcţia de subprefect al judeţului Ilfov",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316185",
+   "tip": "HOTARARE",
+   "numar": "960",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 960 din 12 noiembrie 2026",
+   "descriere": "privind numirea domnului Udvuleanu Dragoş-Ionuţ în funcţia de subprefect al judeţului Giurgiu",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316184",
+   "tip": "HOTARARE",
+   "numar": "959",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 959 din 12 noiembrie 2026",
+   "descriere": "privind numirea doamnei Stamatescu Claudia-Raluca în funcţia de subprefect al judeţului Dolj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316183",
+   "tip": "HOTARARE",
+   "numar": "958",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 958 din 12 noiembrie 2026",
+   "descriere": "privind numirea doamnei Ailincuţei Lauriana în funcţia de prefect al judeţului Vrancea",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316182",
+   "tip": "HOTARARE",
+   "numar": "957",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 957 din 12 noiembrie 2026",
+   "descriere": "privind numirea domnului Gavril Claudiu-Sorin în funcţia de prefect al judeţului Galaţi",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316181",
+   "tip": "HOTARARE",
+   "numar": "956",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 956 din 12 noiembrie 2026",
+   "descriere": "privind numirea domnului Mija Lucian-Victor în funcţia de prefect al judeţului Braşov",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316180",
+   "tip": "HOTARARE",
+   "numar": "955",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 955 din 12 noiembrie 2026",
+   "descriere": "privind eliberarea domnului Predescu Lucian-Dragoş din funcţia de subprefect al judeţului Argeş",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316179",
+   "tip": "HOTARARE",
+   "numar": "954",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 954 din 12 noiembrie 2026",
+   "descriere": "privind eliberarea domnului Toderaşc George din funcţia de prefect al judeţului Galaţi",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316178",
+   "tip": "HOTARARE",
+   "numar": "953",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 953 din 12 noiembrie 2026",
+   "descriere": "privind eliberarea domnului Văsii Mihai-Cătălin din funcţia de prefect al judeţului Braşov",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316177",
+   "tip": "ORD DE URGENTA",
+   "numar": "44",
+   "data_act": "2026-11-12",
+   "titlu": "ORDONANŢĂ DE URGENŢĂ nr. 44 din 12 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
+  {
+   "id": "316176",
+   "tip": "DECIZIE",
+   "numar": "268",
+   "data_act": "2026-03-19",
+   "titlu": "DECIZIA nr. 268 din 19 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 78 şi 79 din Legea nr. 254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "944",
+   "data_publicare": "2026-11-12",
+   "data_vigoare": "2026-11-12",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-13",
+   "are_text": false
+  },
   {
    "id": "316175",
    "tip": "ORDIN",
