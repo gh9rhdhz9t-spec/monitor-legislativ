@@ -1,29 +1,357 @@
 {
- "generated_at": "2026-11-16T06:00:05+00:00",
+ "generated_at": "2026-11-16T14:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2221,
- "new_this_run": 0,
+ "total": 2237,
+ "new_this_run": 16,
  "pages_scanned": 6,
  "categories": {
+  "Educație și cercetare": 381,
+  "Justiție și afaceri interne": 268,
+  "Agricultură și dezvoltare rurală": 77,
+  "Sănătate": 98,
+  "Fiscalitate și buget": 184,
+  "Transporturi și infrastructură": 144,
+  "Administrație publică": 292,
   "Altele": 193,
   "Economie, IMM și comerț": 178,
-  "Sănătate": 97,
-  "Transporturi și infrastructură": 143,
-  "Justiție și afaceri interne": 262,
   "Digitalizare și comunicații": 16,
   "Energie și mediu": 258,
   "Protecție socială și pensii": 42,
-  "Fiscalitate și buget": 181,
   "Afaceri externe și UE": 21,
-  "Administrație publică": 289,
   "Muncă și dialog social": 30,
   "Economie socială": 8,
   "Apărare și securitate națională": 16,
-  "Educație și cercetare": 380,
-  "Cultură, culte și sport": 31,
-  "Agricultură și dezvoltare rurală": 76
+  "Cultură, culte și sport": 31
  },
  "acts": [
+  {
+   "id": "316245",
+   "tip": "ORDIN",
+   "numar": "6066",
+   "data_act": "2026-11-13",
+   "titlu": "ORDIN nr. 6.066 din 13 noiembrie 2026",
+   "descriere": "pentru modificarea anexei la Ordinul ministrului educaţiei nr. 6.463/2023 privind aprobarea Criteriilor generale de acordare a burselor şi a altor forme de sprijin financiar de la bugetul de stat pentru studenţii şi cursanţii din învăţământul superior de stat, învăţământ cu frecvenţă",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "951",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-16",
+   "are_text": true
+  },
+  {
+   "id": "316244",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-11-06",
+   "titlu": "REGULAMENT din 6 noiembrie 2026",
+   "descriere": "de organizare şi desfăşurare a concursului pentru ocuparea posturilor vacante sau temporar vacante corespunzătoare funcţiilor de execuţie de specialitate criminalistică din cadrul Institutului Naţional de Expertize Criminalistice şi laboratoarelor de expertize criminalistice",
+   "emitenti": [
+    "Ministerul Justiției"
+   ],
+   "monitor_nr": "951",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "316243",
+   "tip": "ORDIN",
+   "numar": "2322",
+   "data_act": "2026-11-06",
+   "titlu": "ORDIN nr. 2.322/C din 6 noiembrie 2026",
+   "descriere": "pentru aprobarea Regulamentului de organizare şi desfăşurare a concursului pentru ocuparea posturilor vacante sau temporar vacante corespunzătoare funcţiilor de execuţie de specialitate criminalistică din cadrul Institutului Naţional de Expertize Criminalistice şi laboratoarelor de expertize criminalistice",
+   "emitenti": [
+    "Ministerul Justiției"
+   ],
+   "monitor_nr": "951",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "316242",
+   "tip": "ORDIN",
+   "numar": "308",
+   "data_act": "2026-11-10",
+   "titlu": "ORDIN nr. 308 din 10 noiembrie 2026",
+   "descriere": "privind stabilirea normei anuale de venit pentru punctul gastronomic local, precum şi a coeficienţilor de corecţie ai acesteia, pentru anul 2027",
+   "emitenti": [
+    "Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale"
+   ],
+   "monitor_nr": "951",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Agricultură și dezvoltare rurală",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "316241",
+   "tip": "ORDIN",
+   "numar": "270",
+   "data_act": "2026-11-12",
+   "titlu": "ORDIN nr. 270 din 12 noiembrie 2026",
+   "descriere": "privind modificarea şi completarea anexei nr. 1 la Ordinul ministrului sănătăţii nr. 5.994/2024 pentru aprobarea preţurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deţinătorii de autorizaţie de punere pe piaţă a medicamentelor sau reprezentanţii acestora, distribuitorii angro şi furnizorii de servicii medicale şi medicamente pentru acele medicamente care fac obiectul unei relaţii contractuale cu Ministerul Sănătăţii, casele de asigurări de sănătate şi/sau direcţiile de sănătate publică judeţene şi a municipiului Bucureşti, cuprinse în Catalogul naţional al preţurilor medicamentelor autorizate de punere pe piaţă în România, a preţurilor de referinţă generice şi a preţurilor de referinţă inovative",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "951",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-11-16",
+   "are_text": true
+  },
+  {
+   "id": "316240",
+   "tip": "DECIZIE",
+   "numar": "401",
+   "data_act": "2026-04-30",
+   "titlu": "DECIZIA nr. 401 din 30 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 103 alin. (3) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "951",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "316238",
+   "tip": "DECIZIE",
+   "numar": "93",
+   "data_act": "2026-10-12",
+   "titlu": "DECIZIA nr. 93 din 12 octombrie 2026",
+   "descriere": "referitoare la interpretarea şi aplicarea dispoziţiilor art. 1.042 alin. (2) şi ale art. 1.043 din Codul de procedură civilă",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "952",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "316237",
+   "tip": "DECIZIE",
+   "numar": "478",
+   "data_act": "2026-05-19",
+   "titlu": "DECIZIA nr. 478 din 19 mai 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 200 alin. (3) teza întâi , alin. (4) , (5) şi (7) din Codul de procedură civilă şi ale art. 39 alin. (1) şi alin. (2) teza întâi din Ordonanţa de urgenţă a Guvernului nr. 80/2013 privind taxele judiciare de timbru",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "952",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "316236",
+   "tip": "DECIZIE",
+   "numar": "45",
+   "data_act": "2026-01-20",
+   "titlu": "DECIZIA nr. 45 din 20 ianuarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 226/2020 privind unele măsuri fiscal-bugetare şi pentru modificarea şi completarea unor acte normative şi prorogarea unor termene",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "952",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "316235",
+   "tip": "ORDIN",
+   "numar": "1121",
+   "data_act": "2026-11-10",
+   "titlu": "ORDIN nr. 1.121 din 10 noiembrie 2026",
+   "descriere": "privind aprobarea planurilor de acţiune aferente hărţilor strategice de zgomot elaborate pentru drumurile principale din administrarea Companiei Naţionale de Administrare a Infrastructurii Rutiere - S.A.",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "950",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "316234",
+   "tip": "DECIZIE",
+   "numar": "461",
+   "data_act": "2026-11-13",
+   "titlu": "DECIZIE nr. 461 din 13 noiembrie 2026",
+   "descriere": "privind desemnarea domnului Mihnea-Claudiu Drumea, secretar de stat în cadrul Cancelariei Prim-Ministrului, în funcţia de preşedinte al Comitetului interministerial pentru coordonarea politicilor şi acţiunilor aferente produselor din tutun şi produselor conexe",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "950",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "316233",
+   "tip": "DECIZIE",
+   "numar": "460",
+   "data_act": "2026-11-13",
+   "titlu": "DECIZIE nr. 460 din 13 noiembrie 2026",
+   "descriere": "privind transferul în interesul serviciului al domnului Dragoş-Ionuţ Bănescu din funcţia publică de secretar general al Agenţiei Naţionale de Administrare Fiscală în funcţia publică de secretar general al Ministerului Afacerilor Interne",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "950",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 3,
+   "termeni": [
+    "functie publica"
+   ],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "316232",
+   "tip": "DECIZIE",
+   "numar": "458",
+   "data_act": "2026-11-13",
+   "titlu": "DECIZIE nr. 458 din 13 noiembrie 2026",
+   "descriere": "privind numirea doamnei Oana-Veronica Cristea în funcţia de consilier de stat în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "950",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "316231",
+   "tip": "DECIZIE",
+   "numar": "457",
+   "data_act": "2026-11-13",
+   "titlu": "DECIZIE nr. 457 din 13 noiembrie 2026",
+   "descriere": "privind numirea doamnei Anca Coliţă în funcţia de consilier de stat în cadrul Cancelariei Prim-Ministrului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "950",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "316230",
+   "tip": "HOTARARE",
+   "numar": "972",
+   "data_act": "2026-11-12",
+   "titlu": "HOTĂRÂRE nr. 972 din 12 noiembrie 2026",
+   "descriere": "pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2026 al Fondului pentru mediu şi al Administraţiei Fondului pentru Mediu",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "950",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
+  {
+   "id": "309954",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-11-13",
+   "titlu": "COMUNICAT din 13 noiembrie 2026",
+   "descriere": "privind modalitatea de interpretare a art. 43^1 din Legea 165/2013",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-11-13",
+   "data_vigoare": "2026-11-13",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-16",
+   "are_text": false
+  },
   {
    "id": "316229",
    "tip": "HOTARARE",
