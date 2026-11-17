@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-17T06:03:44+00:00",
+ "generated_at": "2026-11-17T14:02:03+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2255,
- "new_this_run": 18,
+ "total": 2257,
+ "new_this_run": 2,
  "pages_scanned": 6,
  "categories": {
+  "Justiție și afaceri interne": 273,
   "Altele": 201,
-  "Muncă și dialog social": 31,
+  "Muncă și dialog social": 32,
   "Administrație publică": 295,
   "Protecție socială și pensii": 43,
   "Energie și mediu": 259,
-  "Justiție și afaceri interne": 272,
   "Educație și cercetare": 381,
   "Agricultură și dezvoltare rurală": 77,
   "Sănătate": 98,
@@ -24,6 +24,26 @@
   "Cultură, culte și sport": 31
  },
  "acts": [
+  {
+   "id": "316271",
+   "tip": "DECIZIE",
+   "numar": "973",
+   "data_act": "2026-10-07",
+   "titlu": "DECIZIA nr. 973 din 7 octombrie 2026",
+   "descriere": "asupra cererii de soluţionare a conflictului juridic de natură constituţională dintre Guvernul României, pe de o parte, şi Înalta Curte de Casaţie şi Justiţie, pe de altă parte",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "955",
+   "data_publicare": "2026-11-17",
+   "data_vigoare": "2026-11-17",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
   {
    "id": "316263",
    "tip": "RECTIFICARE",
@@ -404,6 +424,29 @@
    "termeni": [],
    "first_seen": "2026-11-17",
    "are_text": false
+  },
+  {
+   "id": "309955",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-11-16",
+   "titlu": "COMUNICAT din 16 noiembrie 2026",
+   "descriere": "privind sporul în cuantum de până la 300 lei brut lunar, corespunzător timpului lucrat, introdus prin O.U.G. nr. 36/2025 , raportat la plafonul instituit de art. 25 din Legea-cadru nr. 153/2017",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 4,
+   "termeni": [
+    "lucratori",
+    "spor"
+   ],
+   "first_seen": "2026-11-17",
+   "are_text": true
   },
   {
    "id": "316245",
