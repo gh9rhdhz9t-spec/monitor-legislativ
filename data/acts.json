@@ -1,29 +1,410 @@
 {
- "generated_at": "2026-11-16T14:00:05+00:00",
+ "generated_at": "2026-11-17T06:03:44+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2237,
- "new_this_run": 16,
+ "total": 2255,
+ "new_this_run": 18,
  "pages_scanned": 6,
  "categories": {
+  "Altele": 201,
+  "Muncă și dialog social": 31,
+  "Administrație publică": 295,
+  "Protecție socială și pensii": 43,
+  "Energie și mediu": 259,
+  "Justiție și afaceri interne": 272,
   "Educație și cercetare": 381,
-  "Justiție și afaceri interne": 268,
   "Agricultură și dezvoltare rurală": 77,
   "Sănătate": 98,
   "Fiscalitate și buget": 184,
   "Transporturi și infrastructură": 144,
-  "Administrație publică": 292,
-  "Altele": 193,
   "Economie, IMM și comerț": 178,
   "Digitalizare și comunicații": 16,
-  "Energie și mediu": 258,
-  "Protecție socială și pensii": 42,
   "Afaceri externe și UE": 21,
-  "Muncă și dialog social": 30,
   "Economie socială": 8,
   "Apărare și securitate națională": 16,
   "Cultură, culte și sport": 31
  },
  "acts": [
+  {
+   "id": "316263",
+   "tip": "RECTIFICARE",
+   "numar": "16",
+   "data_act": "2026-11-10",
+   "titlu": "RECTIFICARE nr. 16 din 10 noiembrie 2026",
+   "descriere": "referitoare la Hotărârea Parlamentului României nr. 16/2026",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "954",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316262",
+   "tip": "RECTIFICARE",
+   "numar": "15",
+   "data_act": "2026-11-10",
+   "titlu": "RECTIFICARE nr. 15 din 10 noiembrie 2026",
+   "descriere": "referitoare la Hotărârea Parlamentului României nr. 15/2026",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "954",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316261",
+   "tip": "RECTIFICARE",
+   "numar": "14",
+   "data_act": "2026-11-10",
+   "titlu": "RECTIFICARE nr. 14 din 10 noiembrie 2026",
+   "descriere": "referitoare la Hotărârea Parlamentului României nr. 14/2026",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "954",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316260",
+   "tip": "RECTIFICARE",
+   "numar": "13",
+   "data_act": "2026-11-10",
+   "titlu": "RECTIFICARE nr. 13 din 10 noiembrie 2026",
+   "descriere": "referitoare la Hotărârea Parlamentului României nr. 13/2026",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "954",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316259",
+   "tip": "RECTIFICARE",
+   "numar": "6",
+   "data_act": "2026-11-10",
+   "titlu": "RECTIFICARE nr. 6 din 10 noiembrie 2026",
+   "descriere": "referitoare la Hotărârea Parlamentului României nr. 6/2026",
+   "emitenti": [
+    "Parlamentul"
+   ],
+   "monitor_nr": "954",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [
+    "parlamentul"
+   ],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316258",
+   "tip": "DECIZIE",
+   "numar": "323",
+   "data_act": "2026-04-01",
+   "titlu": "DECIZIA nr. 323 din 1 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. (4) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "954",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 5,
+   "termeni": [
+    "salarizarea personalului",
+    "salarizare"
+   ],
+   "first_seen": "2026-11-17",
+   "are_text": true
+  },
+  {
+   "id": "316257",
+   "tip": "HOTARARE",
+   "numar": "156",
+   "data_act": "2026-11-16",
+   "titlu": "HOTĂRÂRE nr. 156 din 16 noiembrie 2026",
+   "descriere": "pentru modificarea Hotărârii Senatului nr. 134/2024 privind aprobarea componenţei numerice şi nominale a comisiilor permanente ale Senatului",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "954",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316256",
+   "tip": "HOTARARE",
+   "numar": "155",
+   "data_act": "2026-11-16",
+   "titlu": "HOTĂRÂRE nr. 155 din 16 noiembrie 2026",
+   "descriere": "privind alegerea unor membri în Biroul permanent al Senatului",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "954",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316255",
+   "tip": "HOTARARE",
+   "numar": "154",
+   "data_act": "2026-11-16",
+   "titlu": "HOTĂRÂRE nr. 154 din 16 noiembrie 2026",
+   "descriere": "privind vacantarea unei funcţii de secretar în Biroul permanent al Senatului",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "954",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316254",
+   "tip": "ORDIN",
+   "numar": "269",
+   "data_act": "2026-11-04",
+   "titlu": "ORDIN nr. 269 din 4 noiembrie 2026",
+   "descriere": "privind publicarea efectuării radierii din Registrul general Instituţii Financiare Nebancare a Societăţii A.M.R. LEASING IFN - S.A.",
+   "emitenti": [
+    "Banca Națională a României"
+   ],
+   "monitor_nr": "953",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316253",
+   "tip": "NORMA",
+   "numar": "17",
+   "data_act": "2026-11-03",
+   "titlu": "NORMĂ nr. 17 din 3 noiembrie 2026",
+   "descriere": "privind autorizarea fondurilor de plată a pensiilor private",
+   "emitenti": [
+    "Autoritatea de Supraveghere Financiară"
+   ],
+   "monitor_nr": "953",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2027-01-05",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 4,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-11-17",
+   "are_text": true
+  },
+  {
+   "id": "316252",
+   "tip": "ORDIN",
+   "numar": "2314",
+   "data_act": "2026-11-13",
+   "titlu": "ORDIN nr. 2.314 din 13 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea Ghidului de finanţare a Programului privind instalarea sistemelor de stocare a energiei electrice produse din surse regenerabile, în vederea acumulării necesarului pentru consum propriu şi livrării surplusului energetic în reţeaua naţională, aprobat prin Ordinul ministrului mediului, apelor şi pădurilor nr. 1.904/2026",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "953",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316251",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-10-29",
+   "titlu": "METODOLOGIE din 29 octombrie 2026",
+   "descriere": "privind culegerea datelor primare prevăzute la art. 2 alin. (3) din Legea nr. 53/2026 pentru prevenirea şi combaterea femicidului şi a violenţelor care îl precedă, precum şi pentru modificarea şi completarea unor acte normative şi compatibilizarea modului de colectare a acestora de către organele de poliţie şi organele judiciare",
+   "emitenti": [
+    "Parchetul de pe Lângă Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "953",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316250",
+   "tip": "ORDIN",
+   "numar": "917",
+   "data_act": "2026-10-29",
+   "titlu": "ORDIN nr. 917/C din 29 octombrie 2026",
+   "descriere": "pentru aprobarea Metodologiei privind culegerea datelor primare prevăzute la art. 2 alin. (3) din Legea nr. 53/2026 pentru prevenirea şi combaterea femicidului şi a violenţelor care îl precedă, precum şi pentru modificarea şi completarea unor acte normative şi compatibilizarea modului de colectare a acestora de către organele de poliţie şi organele judiciare",
+   "emitenti": [
+    "Parchetul de pe Lângă Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "953",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316249",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-11-10",
+   "titlu": "METODOLOGIE din 10 noiembrie 2026",
+   "descriere": "privind culegerea datelor primare prevăzute la art. 2 alin. (3) din Legea nr. 53/2026 pentru prevenirea şi combaterea femicidului şi a violenţelor care îl precedă, precum şi pentru modificarea şi completarea unor acte normative şi compatibilizarea modului de colectare a acestora de către organele de poliţie şi organele judiciare",
+   "emitenti": [
+    "Ministerul Afacerilor Interne"
+   ],
+   "monitor_nr": "953",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316248",
+   "tip": "ORDIN",
+   "numar": "169",
+   "data_act": "2026-11-10",
+   "titlu": "ORDIN nr. 169 din 10 noiembrie 2026",
+   "descriere": "pentru aprobarea Metodologiei privind culegerea datelor primare prevăzute la art. 2 alin. (3) din Legea nr. 53/2026 pentru prevenirea şi combaterea femicidului şi a violenţelor care îl precedă, precum şi pentru modificarea şi completarea unor acte normative şi compatibilizarea modului de colectare a acestora de către organele de poliţie şi organele judiciare",
+   "emitenti": [
+    "Ministerul Afacerilor Interne"
+   ],
+   "monitor_nr": "953",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316247",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-10-27",
+   "titlu": "METODOLOGIE din 27 octombrie 2026",
+   "descriere": "privind culegerea datelor primare prevăzute la art. 2 alin. (3) din Legea nr. 53/2026 pentru prevenirea şi combaterea femicidului şi a violenţelor care îl precedă, precum şi pentru modificarea şi completarea unor acte normative şi compatibilizarea modului de colectare a acestora de către organele de poliţie şi organele judiciare",
+   "emitenti": [
+    "Ministerul Justiției"
+   ],
+   "monitor_nr": "953",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
+  {
+   "id": "316246",
+   "tip": "ORDIN",
+   "numar": "2232",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 2.232/C din 27 octombrie 2026",
+   "descriere": "pentru aprobarea Metodologiei privind culegerea datelor primare prevăzute la art. 2 alin. (3) din Legea nr. 53/2026 pentru prevenirea şi combaterea femicidului şi a violenţelor care îl precedă, precum şi pentru modificarea şi completarea unor acte normative şi compatibilizarea modului de colectare a acestora de către organele de poliţie şi organele judiciare",
+   "emitenti": [
+    "Ministerul Justiției"
+   ],
+   "monitor_nr": "953",
+   "data_publicare": "2026-11-16",
+   "data_vigoare": "2026-11-16",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-17",
+   "are_text": false
+  },
   {
    "id": "316245",
    "tip": "ORDIN",
