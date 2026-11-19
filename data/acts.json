@@ -1,29 +1,390 @@
 {
- "generated_at": "2026-11-18T14:00:05+00:00",
+ "generated_at": "2026-11-19T06:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2298,
- "new_this_run": 41,
+ "total": 2315,
+ "new_this_run": 17,
  "pages_scanned": 6,
  "categories": {
+  "Transporturi și infrastructură": 145,
+  "Afaceri externe și UE": 22,
+  "Administrație publică": 303,
+  "Altele": 209,
+  "Energie și mediu": 280,
+  "Cultură, culte și sport": 32,
+  "Economie socială": 9,
   "Justiție și afaceri interne": 278,
-  "Altele": 204,
-  "Energie și mediu": 279,
   "Educație și cercetare": 385,
   "Economie, IMM și comerț": 179,
   "Muncă și dialog social": 36,
   "Sănătate": 99,
-  "Administrație publică": 296,
   "Agricultură și dezvoltare rurală": 78,
   "Fiscalitate și buget": 185,
   "Protecție socială și pensii": 43,
-  "Transporturi și infrastructură": 144,
   "Digitalizare și comunicații": 16,
-  "Afaceri externe și UE": 21,
-  "Economie socială": 8,
-  "Apărare și securitate națională": 16,
-  "Cultură, culte și sport": 31
+  "Apărare și securitate națională": 16
  },
  "acts": [
+  {
+   "id": "316329",
+   "tip": "ORDIN",
+   "numar": "1161",
+   "data_act": "2026-11-17",
+   "titlu": "ORDIN nr. 1.161 din 17 noiembrie 2026",
+   "descriere": "privind modificarea anexei la Ordinul ministrului transporturilor şi infrastructurii nr. 1.318/2025 pentru aprobarea Schemei de ajutor de stat privind promovarea infrastructurii pentru o mobilitate cu emisii zero în sprijinul întreprinderilor şi comunităţilor (e-MOVE RO)",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316328",
+   "tip": "DECIZIE",
+   "numar": "471",
+   "data_act": "2026-11-18",
+   "titlu": "DECIZIE nr. 471 din 18 noiembrie 2026",
+   "descriere": "privind numirea unui membru al Consiliului consultativ pentru dezvoltare durabilă",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316327",
+   "tip": "DECIZIE",
+   "numar": "470",
+   "data_act": "2026-11-18",
+   "titlu": "DECIZIE nr. 470 din 18 noiembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, prin detaşare, de către domnul Tibor Feneşi a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Instituţiei Prefectului - Judeţul Bihor",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici",
+    "detasare"
+   ],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316326",
+   "tip": "DECIZIE",
+   "numar": "469",
+   "data_act": "2026-11-18",
+   "titlu": "DECIZIE nr. 469 din 18 noiembrie 2026",
+   "descriere": "privind exercitarea, cu caracter temporar, de către doamna Claudia Nechifor a funcţiei publice vacante din categoria înalţilor funcţionari publici de secretar general al Instituţiei Prefectului - Judeţul Suceava",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [
+    "functionari publici"
+   ],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316325",
+   "tip": "DECIZIE",
+   "numar": "468",
+   "data_act": "2026-11-18",
+   "titlu": "DECIZIE nr. 468 din 18 noiembrie 2026",
+   "descriere": "privind numirea domnului Iosif-Marin Balog în funcţia de secretar de stat în cadrul Ministerului Culturii",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316324",
+   "tip": "DECIZIE",
+   "numar": "467",
+   "data_act": "2026-11-18",
+   "titlu": "DECIZIE nr. 467 din 18 noiembrie 2026",
+   "descriere": "privind numirea domnului Marius Ticuţă Dragomir în funcţia de inspector general adjunct, cu rang de subsecretar de stat, al Inspectoratului de Stat în Construcţii - I.S.C.",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316323",
+   "tip": "DECIZIE",
+   "numar": "466",
+   "data_act": "2026-11-18",
+   "titlu": "DECIZIE nr. 466 din 18 noiembrie 2026",
+   "descriere": "privind numirea doamnei Mădălina-Doris Săileanu în funcţia de inspector general, cu rang de secretar de stat, al Inspectoratului de Stat în Construcţii - I.S.C.",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316322",
+   "tip": "DECIZIE",
+   "numar": "465",
+   "data_act": "2026-11-18",
+   "titlu": "DECIZIE nr. 465 din 18 noiembrie 2026",
+   "descriere": "privind revocarea domnului Ionuţ Cotarcea din funcţia de inspector general adjunct, cu rang de subsecretar de stat, al Inspectoratului de Stat în Construcţii - I.S.C.",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316321",
+   "tip": "DECIZIE",
+   "numar": "464",
+   "data_act": "2026-11-18",
+   "titlu": "DECIZIE nr. 464 din 18 noiembrie 2026",
+   "descriere": "privind revocarea doamnei Valeria Enache din funcţia de inspector general, cu rang de secretar de stat, al Inspectoratului de Stat în Construcţii - I.S.C.",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316320",
+   "tip": "HOTARARE",
+   "numar": "82",
+   "data_act": "2026-11-18",
+   "titlu": "HOTĂRÂRE nr. 82 din 18 noiembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European şi Consiliu - Plan de acţiune privind securitatea în materie de drone şi soluţii antidrone - COM (2026) 81",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316319",
+   "tip": "HOTARARE",
+   "numar": "81",
+   "data_act": "2026-11-18",
+   "titlu": "HOTĂRÂRE nr. 81 din 18 noiembrie 2026",
+   "descriere": "privind modificarea anexei la Hotărârea Camerei Deputaţilor nr. 111/2024 pentru aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316318",
+   "tip": "HOTARARE",
+   "numar": "162",
+   "data_act": "2026-11-16",
+   "titlu": "HOTĂRÂRE nr. 162 din 16 noiembrie 2026",
+   "descriere": "referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor privind suveranitatea tehnologică europeană, însoţită de o strategie a UE privind sursele deschise - COM (2026) 503 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316317",
+   "tip": "HOTARARE",
+   "numar": "161",
+   "data_act": "2026-11-16",
+   "titlu": "HOTĂRÂRE nr. 161 din 16 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului de modificare a Regulamentului (UE) 2019/943 în ceea ce priveşte adaptarea facturilor de energie din Uniune la cerinţele viitorului, prin reducerea costurilor sistemului şi prin încurajarea electrificării şi a digitalizării - COM (2026) 600 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316316",
+   "tip": "HOTARARE",
+   "numar": "160",
+   "data_act": "2026-11-16",
+   "titlu": "HOTĂRÂRE nr. 160 din 16 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Decizie a Parlamentului European şi a Consiliului de reînnoire a unei acţiuni a Uniunii în favoarea evenimentului \"Capitalele europene ale culturii\" pentru anii 2034-2047 şi de abrogare a Deciziei nr. 445/2014/UE - COM (2026) 455 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Cultură, culte și sport",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316315",
+   "tip": "HOTARARE",
+   "numar": "159",
+   "data_act": "2026-11-16",
+   "titlu": "HOTĂRÂRE nr. 159 din 16 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Directivă a Parlamentului European şi a Consiliului de modificare a Directivei 2003/87/CE şi a Deciziei (UE) 2015/1.814 în ceea ce priveşte stimularea competitivităţii şi a decarbonizării eficiente din punctul de vedere al costurilor - COM (2026) 616 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316314",
+   "tip": "HOTARARE",
+   "numar": "158",
+   "data_act": "2026-11-16",
+   "titlu": "HOTĂRÂRE nr. 158 din 16 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului de stabilire a unui cadru de măsuri pentru consolidarea ecosistemului european al tehnologiei de tip cloud şi al IA (Regulament privind dezvoltarea tehnologiei de tip cloud şi a IA) - COM (2026) 502 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-19",
+   "are_text": false
+  },
+  {
+   "id": "316313",
+   "tip": "HOTARARE",
+   "numar": "157",
+   "data_act": "2026-11-16",
+   "titlu": "HOTĂRÂRE nr. 157 din 16 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Directivă a Consiliului privind cooperarea administrativă în domeniul fiscal (reformare) - COM (2026) 308 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "961",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Economie socială",
+   "scor": 4,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-19",
+   "are_text": true
+  },
   {
    "id": "316312",
    "tip": "ORDIN",
