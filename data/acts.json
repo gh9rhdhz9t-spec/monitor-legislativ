@@ -1,29 +1,251 @@
 {
- "generated_at": "2026-11-19T06:00:05+00:00",
+ "generated_at": "2026-11-20T06:01:00+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2315,
- "new_this_run": 17,
+ "total": 2326,
+ "new_this_run": 11,
  "pages_scanned": 6,
  "categories": {
-  "Transporturi și infrastructură": 145,
+  "Energie și mediu": 285,
+  "Digitalizare și comunicații": 17,
+  "Educație și cercetare": 386,
+  "Altele": 210,
+  "Transporturi și infrastructură": 146,
+  "Justiție și afaceri interne": 279,
+  "Fiscalitate și buget": 186,
   "Afaceri externe și UE": 22,
   "Administrație publică": 303,
-  "Altele": 209,
-  "Energie și mediu": 280,
   "Cultură, culte și sport": 32,
   "Economie socială": 9,
-  "Justiție și afaceri interne": 278,
-  "Educație și cercetare": 385,
   "Economie, IMM și comerț": 179,
   "Muncă și dialog social": 36,
   "Sănătate": 99,
   "Agricultură și dezvoltare rurală": 78,
-  "Fiscalitate și buget": 185,
   "Protecție socială și pensii": 43,
-  "Digitalizare și comunicații": 16,
   "Apărare și securitate națională": 16
  },
  "acts": [
+  {
+   "id": "316338",
+   "tip": "RAPORT",
+   "numar": "16335",
+   "data_act": "2026-09-14",
+   "titlu": "RAPORT nr. 16.335 din 14 septembrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Frăţie şi Reformă în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "962",
+   "data_publicare": "2026-11-19",
+   "data_vigoare": "2026-11-19",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-20",
+   "are_text": false
+  },
+  {
+   "id": "316337",
+   "tip": "RAPORT",
+   "numar": "16187",
+   "data_act": "2026-09-10",
+   "titlu": "RAPORT nr. 16.187 din 10 septembrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Naţional Creştin al Libertăţii",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "962",
+   "data_publicare": "2026-11-19",
+   "data_vigoare": "2026-11-19",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-20",
+   "are_text": false
+  },
+  {
+   "id": "316336",
+   "tip": "RAPORT",
+   "numar": "15114",
+   "data_act": "2026-08-25",
+   "titlu": "RAPORT nr. 15.114 din 25 august 2026",
+   "descriere": "privind verificarea respectării prevederilor legale referitoare la veniturile şi cheltuielile înregistrate de Partidul Eforie Rom în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "962",
+   "data_publicare": "2026-11-19",
+   "data_vigoare": "2026-11-19",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-20",
+   "are_text": false
+  },
+  {
+   "id": "316335",
+   "tip": "RAPORT",
+   "numar": "15037",
+   "data_act": "2026-08-24",
+   "titlu": "RAPORT nr. 15.037 din 24 august 2026",
+   "descriere": "privind verificarea respectării prevederilor legale referitoare la veniturile şi cheltuielile înregistrate în anul 2025 de Partidul pentru Proiecte şi Idei de Interes Local",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "962",
+   "data_publicare": "2026-11-19",
+   "data_vigoare": "2026-11-19",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-20",
+   "are_text": false
+  },
+  {
+   "id": "316334",
+   "tip": "RAPORT",
+   "numar": "14762",
+   "data_act": "2026-08-19",
+   "titlu": "RAPORT nr. 14.762 din 19 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Asociaţia Femeilor din România",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "962",
+   "data_publicare": "2026-11-19",
+   "data_vigoare": "2026-11-19",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-20",
+   "are_text": false
+  },
+  {
+   "id": "316333",
+   "tip": "DECIZIE",
+   "numar": "588",
+   "data_act": "2026-11-11",
+   "titlu": "DECIZIE nr. 588 din 11 noiembrie 2026",
+   "descriere": "pentru stabilirea formatului şi a modalităţii de transmitere a informaţiilor privind dezvoltarea şi localizarea geografică a reţelelor publice de comunicaţii electronice şi a elementelor de infrastructură fizică asociate acestora",
+   "emitenti": [
+    "Autoritatea Națională pentru Administrare și Reglementare în Comunicații"
+   ],
+   "monitor_nr": "962",
+   "data_publicare": "2026-11-19",
+   "data_vigoare": "2026-11-19",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-20",
+   "are_text": false
+  },
+  {
+   "id": "316332",
+   "tip": "ORDIN",
+   "numar": "6054",
+   "data_act": "2026-11-12",
+   "titlu": "ORDIN nr. 6.054 din 12 noiembrie 2026",
+   "descriere": "pentru aprobarea Metodologiei-cadru privind mobilitatea personalului didactic de predare din învăţământul preuniversitar în anul şcolar 2027-2028",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "962",
+   "data_publicare": "2026-11-19",
+   "data_vigoare": "2026-11-19",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-20",
+   "are_text": true
+  },
+  {
+   "id": "316331",
+   "tip": "ORDIN",
+   "numar": "1910",
+   "data_act": "2026-11-10",
+   "titlu": "ORDIN nr. 1.910 din 10 noiembrie 2026",
+   "descriere": "pentru modificarea anexei la Ordinul directorului general al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară nr. 570/2018 privind stabilirea structurii organizatorice şi a numărului de personal al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară şi al instituţiilor subordonate",
+   "emitenti": [
+    "Agenția Națională de Cadastru și Publicitate Imobiliară"
+   ],
+   "monitor_nr": "962",
+   "data_publicare": "2026-11-19",
+   "data_vigoare": "2026-11-19",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-20",
+   "are_text": false
+  },
+  {
+   "id": "316330",
+   "tip": "ORDIN",
+   "numar": "1160",
+   "data_act": "2026-11-17",
+   "titlu": "ORDIN nr. 1.160 din 17 noiembrie 2026",
+   "descriere": "privind aprobarea bugetului de venituri şi cheltuieli modificat pe anul 2026 al Centrului Român pentru Pregătirea şi Perfecţionarea Personalului din Transporturi Navale - CERONAV",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "962",
+   "data_publicare": "2026-11-19",
+   "data_vigoare": "2026-11-19",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-20",
+   "are_text": false
+  },
+  {
+   "id": "309957",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-11-18",
+   "titlu": "COMUNICAT din 18 noiembrie 2026",
+   "descriere": "privind constituționalitatea dispozițiilor art. 250^2 din Codul de procedură penală în măsura în care se interpretează că termenele pe care le reglementează sunt termene imperative (peremptorii)",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-20",
+   "are_text": false
+  },
+  {
+   "id": "309956",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-11-18",
+   "titlu": "COMUNICAT din 18 noiembrie 2026",
+   "descriere": "privind modalitatea de calcul a termenului prevăzut de art. 47 alin. (7) Cod procedură fiscală",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-11-18",
+   "data_vigoare": "2026-11-18",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-20",
+   "are_text": false
+  },
   {
    "id": "316329",
    "tip": "ORDIN",
