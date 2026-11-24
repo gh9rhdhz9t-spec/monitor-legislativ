@@ -1,29 +1,851 @@
 {
- "generated_at": "2026-11-24T06:00:05+00:00",
+ "generated_at": "2026-11-24T14:00:28+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2396,
- "new_this_run": 0,
+ "total": 2437,
+ "new_this_run": 41,
  "pages_scanned": 6,
  "categories": {
-  "Protecție socială și pensii": 44,
-  "Energie și mediu": 316,
-  "Justiție și afaceri interne": 284,
+  "Sănătate": 103,
+  "Energie și mediu": 337,
+  "Protecție socială și pensii": 47,
+  "Apărare și securitate națională": 19,
+  "Altele": 215,
+  "Justiție și afaceri interne": 290,
+  "Educație și cercetare": 389,
+  "Digitalizare și comunicații": 19,
+  "Transporturi și infrastructură": 147,
+  "Muncă și dialog social": 39,
   "Economie, IMM și comerț": 182,
-  "Muncă și dialog social": 38,
   "Administrație publică": 319,
-  "Educație și cercetare": 387,
   "Fiscalitate și buget": 188,
-  "Sănătate": 102,
-  "Apărare și securitate națională": 17,
-  "Altele": 213,
   "Agricultură și dezvoltare rurală": 80,
-  "Digitalizare și comunicații": 17,
-  "Transporturi și infrastructură": 146,
   "Afaceri externe și UE": 22,
   "Cultură, culte și sport": 32,
   "Economie socială": 9
  },
  "acts": [
+  {
+   "id": "316549",
+   "tip": "ORDIN",
+   "numar": "89",
+   "data_act": "2026-10-27",
+   "titlu": "ORDIN nr. 89 din 27 octombrie 2026",
+   "descriere": "pentru aprobarea listelor de medicamente, vaccinuri, dispozitive medicale şi materiale sanitare aferente operaţionalizării capabilităţilor medicale mobile Emergency Medical Teams 1 oferite de România prin Mecanismul european de protecţie civilă, precum şi pentru aprobarea procedurii de gestionare a acestora, prin scoatere, reîntregire şi împrospătare",
+   "emitenti": [
+    "Ministerul Sănătății"
+   ],
+   "monitor_nr": "975",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Sănătate",
+   "scor": 4,
+   "termeni": [
+    "ministerul sanatatii"
+   ],
+   "first_seen": "2026-11-24",
+   "are_text": true
+  },
+  {
+   "id": "316548",
+   "tip": "RAPORT",
+   "numar": "17873",
+   "data_act": "2026-10-05",
+   "titlu": "RAPORT nr. 17.873 din 5 octombrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Mişcarea Populară în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "974",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316547",
+   "tip": "RAPORT",
+   "numar": "16452",
+   "data_act": "2026-09-15",
+   "titlu": "RAPORT nr. 16.452 din 15 septembrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Credinţă Demnitate Unitate \"CDU\" în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "974",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316546",
+   "tip": "RAPORT",
+   "numar": "16451",
+   "data_act": "2026-09-15",
+   "titlu": "RAPORT nr. 16.451 din 15 septembrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Revoluţionar Creştin Democrat în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "974",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316545",
+   "tip": "RAPORT",
+   "numar": "16197",
+   "data_act": "2026-09-10",
+   "titlu": "RAPORT nr. 16.197 din 10 septembrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Românilor Patrioţi de Pretutindeni - P.R.P.P.",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "974",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316544",
+   "tip": "RAPORT",
+   "numar": "16195",
+   "data_act": "2026-09-10",
+   "titlu": "RAPORT nr. 16.195 din 10 septembrie 2026",
+   "descriere": "în urma verificării respectării prevederilor legale privind veniturile şi cheltuielile Partidului Naţionalist Reformarea României în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "974",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316543",
+   "tip": "RAPORT",
+   "numar": "16192",
+   "data_act": "2026-09-10",
+   "titlu": "RAPORT nr. 16.192 din 10 septembrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul REDUTA - Respect, Educaţie, Demnitate, Unitate, Tradiţie, Adevăr referitor la respectarea prevederilor legale privind veniturile şi cheltuielile înregistrate în perioada 1.01.2025-31.12.2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "974",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316542",
+   "tip": "RAPORT",
+   "numar": "14449",
+   "data_act": "2026-08-13",
+   "titlu": "RAPORT nr. 14.449 din 13 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Acţiunea pentru Bunăstarea Românilor în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "974",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316541",
+   "tip": "RAPORT",
+   "numar": "12586",
+   "data_act": "2026-07-21",
+   "titlu": "RAPORT nr. 12.586 din 21 iulie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Patrioţilor",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "974",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316540",
+   "tip": "DECIZIE",
+   "numar": "85",
+   "data_act": "2026-09-21",
+   "titlu": "DECIZIA nr. 85 din 21 septembrie 2026",
+   "descriere": "referitoare la interpretarea şi aplicarea prevederilor art. 30 alin. (1) lit. g) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările şi completările ulterioare, coroborate cu cele ale art. 10 alin. (1) din aceeaşi lege",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "974",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316539",
+   "tip": "ORDIN",
+   "numar": "235",
+   "data_act": "2026-11-19",
+   "titlu": "ORDIN nr. M.235 din 19 noiembrie 2026",
+   "descriere": "pentru aplicarea prevederilor art. 16 din Legea nr. 284/2024 pentru realizarea capabilităţii operaţionale de apărare aeriană prevăzute în Concepţia de realizare a capabilităţii operaţionale de apărare aeriană cu avioane multirol de generaţia a V-a, în cadrul programului de înzestrare \"Avion multirol de generaţia a V-a, F-35\", Faza I, şi unele măsuri privind derularea contractelor Guvern la Guvern specifice Programului Foreign Military Sales",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "974",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 3,
+   "termeni": [
+    "concediu"
+   ],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316538",
+   "tip": "ORDIN",
+   "numar": "234",
+   "data_act": "2026-11-19",
+   "titlu": "ORDIN nr. M.234 din 19 noiembrie 2026",
+   "descriere": "pentru aprobarea unor măsuri temporare de încadrare a unor funcţii vacante de subofiţeri din structurile subordonate Statului Major al Apărării",
+   "emitenti": [
+    "Ministerul Apărării Naționale"
+   ],
+   "monitor_nr": "974",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316537",
+   "tip": "ORDIN",
+   "numar": "178",
+   "data_act": "2026-11-23",
+   "titlu": "ORDIN nr. 178 din 23 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea unor acte normative din domeniul managementului resurselor umane în Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Ministerul Afacerilor Interne"
+   ],
+   "monitor_nr": "974",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316535",
+   "tip": "ORDIN",
+   "numar": "2356",
+   "data_act": "2026-11-23",
+   "titlu": "ORDIN nr. 2.356 din 23 noiembrie 2026",
+   "descriere": "pentru modificarea anexelor nr. 1 şi 2 la Regulamentul privind organizarea, funcţionarea şi componenţa Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum şi criteriile de atestare pentru activitatea de exploatare forestieră, aprobat prin Ordinul ministrului apelor şi pădurilor nr. 1.106/2018",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "973",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316534",
+   "tip": "HOTARARE",
+   "numar": "991",
+   "data_act": "2026-11-20",
+   "titlu": "HOTĂRÂRE nr. 991 din 20 noiembrie 2026",
+   "descriere": "privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului ale unor imobile aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Timiş, Hunedoara, Alba, Caraş-Severin şi Sibiu, schimbarea regimului juridic al unui imobil şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "973",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316533",
+   "tip": "DECIZIE",
+   "numar": "389",
+   "data_act": "2026-04-28",
+   "titlu": "DECIZIA nr. 389 din 28 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 9 alin. (1) lit. c) coroborat cu art. 2 lit. e) din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale, în forma anterioară modificării acestora prin Legea nr. 55/2021 privind modificarea şi completarea Legii nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale, ale art. 15 alin. (1) şi ale art. 367 alin. (6) din Codul penal , precum şi ale art. 16 alin. (1) lit. b) teza întâi şi ale art. 421 pct. 2 lit. b) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "973",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316532",
+   "tip": "DECIZIE",
+   "numar": "378",
+   "data_act": "2026-04-28",
+   "titlu": "DECIZIA nr. 378 din 28 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 304 alin. (1) din Codul de procedură civilă",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "973",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316531",
+   "tip": "HOTARARE",
+   "numar": "80",
+   "data_act": "2026-11-11",
+   "titlu": "HOTĂRÂRE nr. 80 din 11 noiembrie 2026",
+   "descriere": "pentru înfiinţarea unei comisii parlamentare de anchetă referitoare la impactul migraţiei asupra ordinii publice şi securităţii naţionale, respectarea legislaţiei privind regimul străinilor şi combaterea migraţiei ilegale",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "973",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316530",
+   "tip": "HOTARARE",
+   "numar": "79",
+   "data_act": "2026-11-11",
+   "titlu": "HOTĂRÂRE nr. 79 din 11 noiembrie 2026",
+   "descriere": "privind înfiinţarea Comisiei parlamentare de anchetă \"Mykonos-Nordis\" pentru investigarea zborurilor private către Mykonos şi Nisa efectuate de parlamentari, demnitari şi judecători ai Curţii Constituţionale",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "973",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316529",
+   "tip": "RAPORT",
+   "numar": "16449",
+   "data_act": "2026-09-15",
+   "titlu": "RAPORT nr. 16.449 din 15 septembrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alianţa Poporului Suveran",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316528",
+   "tip": "RAPORT",
+   "numar": "15396",
+   "data_act": "2026-08-28",
+   "titlu": "RAPORT nr. 15.396 din 28 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Uniunea Familiei Româneşti",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316527",
+   "tip": "RAPORT",
+   "numar": "15329",
+   "data_act": "2026-08-27",
+   "titlu": "RAPORT nr. 15.329 din 27 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Uniunea Creştin Democrată din România în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316526",
+   "tip": "RAPORT",
+   "numar": "15133",
+   "data_act": "2026-08-25",
+   "titlu": "RAPORT nr. 15.133 din 25 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Dreptăţii Sociale European în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316525",
+   "tip": "RAPORT",
+   "numar": "14773",
+   "data_act": "2026-08-19",
+   "titlu": "RAPORT nr. 14.773 din 19 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Solidarităţii Sociale în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316524",
+   "tip": "RAPORT",
+   "numar": "14536",
+   "data_act": "2026-08-17",
+   "titlu": "RAPORT nr. 14.536 din 17 august 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Repatrierea Diasporei Române în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316523",
+   "tip": "RAPORT",
+   "numar": "14366",
+   "data_act": "2026-10-09",
+   "titlu": "RAPORT nr. 14.366 din 9 octombrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Volt România",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316522",
+   "tip": "RAPORT",
+   "numar": "14363",
+   "data_act": "2026-09-10",
+   "titlu": "RAPORT nr. 14.363 din 10 septembrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Forţa Românească",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316521",
+   "tip": "RAPORT",
+   "numar": "14271",
+   "data_act": "2026-10-08",
+   "titlu": "RAPORT nr. 14.271 din 8 octombrie 2026",
+   "descriere": "privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Alternativa Civică, Atitudine, Solidaritate, Acţiune - \"A.C.A.S.A.\" în anul 2026",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316520",
+   "tip": "RAPORT",
+   "numar": "12715",
+   "data_act": "2026-10-20",
+   "titlu": "RAPORT nr. 12.715 din 20 octombrie 2026",
+   "descriere": "privind verificarea respectării prevederilor legale privind veniturile şi cheltuielile Partidului Liga pentru Deşteptarea României în anul 2025",
+   "emitenti": [
+    "Autoritatea Electorală Permanentă"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316519",
+   "tip": "ORDIN",
+   "numar": "6071",
+   "data_act": "2026-11-16",
+   "titlu": "ORDIN nr. 6.071 din 16 noiembrie 2026",
+   "descriere": "privind aprobarea programelor pentru concursul naţional de ocupare a posturilor didactice/catedrelor vacante/rezervate din învăţământul preuniversitar",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-24",
+   "are_text": true
+  },
+  {
+   "id": "316518",
+   "tip": "ORDIN",
+   "numar": "880",
+   "data_act": "2026-11-06",
+   "titlu": "ORDIN nr. 880 din 6 noiembrie 2026",
+   "descriere": "pentru conferirea Semnului onorific În Serviciul Patriei unor maiştri militari şi subofiţeri",
+   "emitenti": [
+    "Serviciul de Telecomunicații Speciale"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Apărare și securitate națională",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316517",
+   "tip": "ORDIN",
+   "numar": "879",
+   "data_act": "2026-11-06",
+   "titlu": "ORDIN nr. 879 din 6 noiembrie 2026",
+   "descriere": "pentru conferirea Semnului onorific În Serviciul Patriei unor ofiţeri",
+   "emitenti": [
+    "Serviciul de Telecomunicații Speciale"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316516",
+   "tip": "ORDIN",
+   "numar": "457",
+   "data_act": "2026-11-17",
+   "titlu": "ORDIN nr. 457 din 17 noiembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor subofiţeri din Serviciul de Informaţii Externe",
+   "emitenti": [
+    "Serviciul de Informații Externe"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316515",
+   "tip": "ORDIN",
+   "numar": "456",
+   "data_act": "2026-11-17",
+   "titlu": "ORDIN nr. 456 din 17 noiembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei unor ofiţeri din Serviciul de Informaţii Externe",
+   "emitenti": [
+    "Serviciul de Informații Externe"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316514",
+   "tip": "DECIZIE",
+   "numar": "135",
+   "data_act": "2026-11-19",
+   "titlu": "DECIZIE nr. 135 din 19 noiembrie 2026",
+   "descriere": "privind aprobarea Actului adiţional nr. 15 la contractele de servicii publice aprobate prin art. 1-6 din Hotărârea Guvernului nr. 1.453/2022 pentru aprobarea contractelor de servicii publice pentru perioada decembrie 2022-11 decembrie 2032 în transportul feroviar public de călători, stabilirea unor condiţionalităţi pentru Autoritatea pentru Reformă Feroviară, operatorii de transport feroviar şi Compania Naţională de Căi Ferate \"C.F.R.\" - S.A., în vederea implementării obligaţiilor de serviciu public feroviar din România, precum şi pentru aprobarea metodologiilor de predare în cadrul contractelor de servicii publice cu atribuire directă a materialului rulant feroviar achiziţionat cu fonduri europene",
+   "emitenti": [
+    "Autoritatea pentru Reformă Feroviară"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316513",
+   "tip": "HOTARARE",
+   "numar": "993",
+   "data_act": "2026-11-20",
+   "titlu": "HOTĂRÂRE nr. 993 din 20 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea Normelor metodologice de aplicare a Legii nr. 200/2006 privind constituirea şi utilizarea Fondului de garantare pentru plata creanţelor salariale, aprobate prin Hotărârea Guvernului nr. 1.850/2006",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Muncă și dialog social",
+   "scor": 4,
+   "termeni": [
+    "salariu",
+    "guvernul"
+   ],
+   "first_seen": "2026-11-24",
+   "are_text": true
+  },
+  {
+   "id": "316512",
+   "tip": "DECIZIE",
+   "numar": "200",
+   "data_act": "2026-03-05",
+   "titlu": "DECIZIA nr. 200 din 5 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 175 alin. (1) lit. b) teza a doua şi alin. (2) din Codul penal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "972",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316373",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-11-23",
+   "titlu": "COMUNICAT din 23 noiembrie 2026",
+   "descriere": "privind deschiderea dreptului la pensia privată şi valorificarea activului personal net",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
+  {
+   "id": "316372",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-11-23",
+   "titlu": "COMUNICAT din 23 noiembrie 2026",
+   "descriere": "privind aplicabilitatea măsurilor de protecție socială prevăzute de Legea nr. 285/2024 în cazul beneficiarilor pensiilor militare de stat",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 5,
+   "termeni": [
+    "pensii",
+    "protectie sociala"
+   ],
+   "first_seen": "2026-11-24",
+   "are_text": true
+  },
+  {
+   "id": "316371",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-11-23",
+   "titlu": "COMUNICAT din 23 noiembrie 2026",
+   "descriere": "privind obligația instanței de citare a intervenientului voluntar pentru discutarea admisibilității în principiu a cererii de intervenție",
+   "emitenti": [
+    "Înalta Curte de Casație și Justiție"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-11-23",
+   "data_vigoare": "2026-11-23",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-24",
+   "are_text": false
+  },
   {
    "id": "316510",
    "tip": "NORMA",
@@ -252,7 +1074,7 @@
    "numar": "1566",
    "data_act": "2026-03-25",
    "titlu": "DECIZIA nr. 1.566 din 25 martie 2026",
-   "descriere": "referitoare la acţiunea în contencios administrativ având ca obiect anulare act administrativ cu caracter normativ",
+   "descriere": "referitoare la anularea unui act administrativ cu caracter normativ, prin care Ministerul Finanţelor a reglementat o procedură de compensare a creanţelor civile rezultate din sau datorate conform unor hotărâri judecătoreşti sau hotărâri arbitrale, respectiv creanţe de natură civilă, derivate din raporturile juridice de drept privat în care ministerul sau statul sunt parte",
    "emitenti": [
     "Înalta Curte de Casație și Justiție"
    ],
@@ -1454,6 +2276,28 @@
     "casa nationala de asigurari de sanatate"
    ],
    "first_seen": "2026-11-23",
+   "are_text": true
+  },
+  {
+   "id": "316536",
+   "tip": "METODOLOGIE",
+   "numar": "",
+   "data_act": "2026-11-12",
+   "titlu": "METODOLOGIA-CADRU din 12 noiembrie 2026",
+   "descriere": "privind mobilitatea personalului didactic de predare din învăţământul preuniversitar în anul şcolar 2027-2028",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "962",
+   "data_publicare": "2026-11-19",
+   "data_vigoare": "2026-11-19",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 5,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-24",
    "are_text": true
   },
   {
