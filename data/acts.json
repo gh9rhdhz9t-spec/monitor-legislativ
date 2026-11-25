@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-25T06:00:00+00:00",
+ "generated_at": "2026-11-25T14:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2459,
- "new_this_run": 22,
+ "total": 2466,
+ "new_this_run": 7,
  "pages_scanned": 6,
  "categories": {
+  "Justiție și afaceri interne": 296,
+  "Energie și mediu": 348,
   "Economie, IMM și comerț": 183,
   "Altele": 216,
   "Sănătate": 104,
-  "Educație și cercetare": 392,
+  "Educație și cercetare": 393,
   "Administrație publică": 322,
-  "Energie și mediu": 347,
   "Fiscalitate și buget": 189,
   "Protecție socială și pensii": 48,
-  "Justiție și afaceri interne": 291,
   "Apărare și securitate națională": 19,
   "Digitalizare și comunicații": 19,
   "Transporturi și infrastructură": 147,
@@ -24,6 +24,126 @@
   "Economie socială": 9
  },
  "acts": [
+  {
+   "id": "316578",
+   "tip": "DECIZIE",
+   "numar": "400",
+   "data_act": "2026-04-30",
+   "titlu": "DECIZIA nr. 400 din 30 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. III din Legea nr. 240/2019 privind abrogarea Legii nr. 169/2017 pentru modificarea şi completarea Legii nr. 254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, precum şi pentru modificarea Legii nr. 254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "978",
+   "data_publicare": "2026-11-25",
+   "data_vigoare": "2026-11-25",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-25",
+   "are_text": false
+  },
+  {
+   "id": "316577",
+   "tip": "DECIZIE",
+   "numar": "399",
+   "data_act": "2026-04-30",
+   "titlu": "DECIZIA nr. 399 din 30 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 488^1 alin. (3) lit. a) cu referire la sintagma „de la începerea urmăririi penale“ şi lit. b) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "978",
+   "data_publicare": "2026-11-25",
+   "data_vigoare": "2026-11-25",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-25",
+   "are_text": false
+  },
+  {
+   "id": "316576",
+   "tip": "DECIZIE",
+   "numar": "398",
+   "data_act": "2026-04-30",
+   "titlu": "DECIZIA nr. 398 din 30 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a sintagmei \"în condiţiile prevăzute de lege\" din cuprinsul art. 215 alin. (7) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "978",
+   "data_publicare": "2026-11-25",
+   "data_vigoare": "2026-11-25",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-25",
+   "are_text": false
+  },
+  {
+   "id": "316575",
+   "tip": "DECIZIE",
+   "numar": "264",
+   "data_act": "2026-03-19",
+   "titlu": "DECIZIA nr. 264 din 19 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 400 din Codul de procedură penală , astfel cum au fost modificate prin art. I pct. 4 din Legea nr. 130/2021 pentru modificarea şi completarea Legii nr. 135/2010 privind Codul de procedură penală , ale art. 404 alin. (7) şi ale art. 411 alin. (1) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "978",
+   "data_publicare": "2026-11-25",
+   "data_vigoare": "2026-11-25",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-25",
+   "are_text": false
+  },
+  {
+   "id": "316574",
+   "tip": "DECIZIE",
+   "numar": "187",
+   "data_act": "2026-02-26",
+   "titlu": "DECIZIA nr. 187 din 26 februarie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 13 alin. (1) şi (2) din Legea nr. 176/2010 privind integritatea în exercitarea funcţiilor şi demnităţilor publice, pentru modificarea şi completarea Legii nr. 144/2007 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Integritate, precum şi pentru modificarea şi completarea altor acte normative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "978",
+   "data_publicare": "2026-11-25",
+   "data_vigoare": "2026-11-25",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-25",
+   "are_text": false
+  },
+  {
+   "id": "316573",
+   "tip": "DECRET",
+   "numar": "852",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 852 din 25 noiembrie 2026",
+   "descriere": "privind trecerea în rezervă a unui general-maior cu două stele din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "978",
+   "data_publicare": "2026-11-25",
+   "data_vigoare": "2026-11-25",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-25",
+   "are_text": false
+  },
   {
    "id": "316571",
    "tip": "DECIZIE",
@@ -477,6 +597,26 @@
     "functionari publici",
     "detasare"
    ],
+   "first_seen": "2026-11-25",
+   "are_text": false
+  },
+  {
+   "id": "316374",
+   "tip": "COMUNICAT",
+   "numar": "",
+   "data_act": "2026-11-24",
+   "titlu": "COMUNICAT din 24 noiembrie 2026",
+   "descriere": "privind dobândirea calității de titular în învățământul preuniversitar",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "0",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
    "first_seen": "2026-11-25",
    "are_text": false
   },
