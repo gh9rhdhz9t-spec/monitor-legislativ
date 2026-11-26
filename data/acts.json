@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-26T06:07:45+00:00",
+ "generated_at": "2026-11-26T14:00:00+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2486,
- "new_this_run": 20,
+ "total": 2516,
+ "new_this_run": 30,
  "pages_scanned": 6,
  "categories": {
+  "Energie și mediu": 369,
+  "Educație și cercetare": 399,
+  "Altele": 224,
   "Transporturi și infrastructură": 148,
-  "Energie și mediu": 352,
   "Administrație publică": 329,
   "Justiție și afaceri interne": 302,
   "Sănătate": 105,
-  "Altele": 217,
   "Economie, IMM și comerț": 183,
-  "Educație și cercetare": 393,
   "Fiscalitate și buget": 189,
   "Protecție socială și pensii": 48,
   "Apărare și securitate națională": 19,
@@ -24,6 +24,608 @@
   "Economie socială": 9
  },
  "acts": [
+  {
+   "id": "316629",
+   "tip": "ORDIN",
+   "numar": "2349",
+   "data_act": "2026-11-20",
+   "titlu": "ORDIN nr. 2.349 din 20 noiembrie 2026",
+   "descriere": "privind modificarea anexei la Ordinul ministrului mediului, apelor şi pădurilor nr. 475/2024 pentru aprobarea Ghidului de finanţare a Programului vizând sisteme de alimentare cu apă, canalizare şi epurare a apelor uzate",
+   "emitenti": [
+    "Ministerul Mediului, Apelor și Pădurilor"
+   ],
+   "monitor_nr": "980",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316628",
+   "tip": "DECRET",
+   "numar": "893",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 893 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului profesional de chestor de poliţie unui comisar-şef de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316627",
+   "tip": "DECRET",
+   "numar": "892",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 892 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului profesional de chestor de poliţie unui comisar-şef de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316626",
+   "tip": "DECRET",
+   "numar": "891",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 891 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului profesional de chestor de poliţie unui comisar-şef de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316625",
+   "tip": "DECRET",
+   "numar": "890",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 890 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului profesional de chestor de poliţie unui comisar-şef de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316624",
+   "tip": "DECRET",
+   "numar": "889",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 889 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului profesional de chestor de poliţie unui comisar-şef de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316623",
+   "tip": "DECRET",
+   "numar": "888",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 888 din 25 noiembrie 2026",
+   "descriere": "privind avansarea în gradul profesional de chestor principal de poliţie a unui chestor de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316622",
+   "tip": "DECRET",
+   "numar": "887",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 887 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316621",
+   "tip": "DECRET",
+   "numar": "886",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 886 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316620",
+   "tip": "DECRET",
+   "numar": "885",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 885 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316619",
+   "tip": "DECRET",
+   "numar": "884",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 884 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316618",
+   "tip": "DECRET",
+   "numar": "883",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 883 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-locotenent cu trei stele a unui general-maior cu două stele din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316617",
+   "tip": "DECRET",
+   "numar": "882",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 882 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-locotenent cu trei stele a unui general-maior cu două stele din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316616",
+   "tip": "DECRET",
+   "numar": "881",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 881 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea, în retragere, unui colonel, în retragere, din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316615",
+   "tip": "DECRET",
+   "numar": "880",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 880 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea, în retragere, unui colonel, în retragere, din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316614",
+   "tip": "DECRET",
+   "numar": "879",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 879 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea, în retragere, unui colonel, în retragere, din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316613",
+   "tip": "DECRET",
+   "numar": "878",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 878 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea, în retragere, unui colonel, în retragere, din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316612",
+   "tip": "DECRET",
+   "numar": "877",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 877 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-maior cu două stele, în retragere, a unui general de brigadă cu o stea, în retragere, din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316611",
+   "tip": "DECRET",
+   "numar": "876",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 876 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-locotenent cu trei stele, în retragere, a unui general-maior cu două stele, în retragere, din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316610",
+   "tip": "DECRET",
+   "numar": "875",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 875 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316609",
+   "tip": "DECRET",
+   "numar": "874",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 874 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316608",
+   "tip": "DECRET",
+   "numar": "873",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 873 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de contraamiral de flotilă cu o stea unui comandor din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316607",
+   "tip": "DECRET",
+   "numar": "872",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 872 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de contraamiral de flotilă cu o stea unui comandor din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316606",
+   "tip": "DECRET",
+   "numar": "871",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 871 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de flotilă aeriană cu o stea unui comandor din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316605",
+   "tip": "DECRET",
+   "numar": "870",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 870 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-maior cu două stele a unui general de flotilă aeriană cu o stea din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316604",
+   "tip": "DECRET",
+   "numar": "869",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 869 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-locotenent cu trei stele a unui general-maior cu două stele din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316603",
+   "tip": "DECRET",
+   "numar": "868",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 868 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-locotenent cu trei stele a unui general-maior cu două stele din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316602",
+   "tip": "DECRET",
+   "numar": "867",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 867 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-locotenent cu trei stele a unui general-maior cu două stele din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316601",
+   "tip": "DECRET",
+   "numar": "866",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 866 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-locotenent cu trei stele a unui general-maior cu două stele din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
+  {
+   "id": "316600",
+   "tip": "HOTARARE",
+   "numar": "84",
+   "data_act": "2026-11-25",
+   "titlu": "HOTĂRÂRE nr. 84 din 25 noiembrie 2026",
+   "descriere": "privind modificarea anexei la Hotărârea Camerei Deputaţilor nr. 111/2024 pentru aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "981",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-11-26",
+   "are_text": false
+  },
   {
    "id": "316598",
    "tip": "DECIZIE",
