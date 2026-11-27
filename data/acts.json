@@ -1,29 +1,1503 @@
 {
- "generated_at": "2026-11-27T06:03:20+00:00",
+ "generated_at": "2026-11-27T14:00:05+00:00",
  "source": "https://legislatie.just.ro/Public/RezultateCautare",
- "total": 2516,
- "new_this_run": 0,
+ "total": 2589,
+ "new_this_run": 73,
  "pages_scanned": 6,
  "categories": {
-  "Energie și mediu": 369,
-  "Educație și cercetare": 399,
-  "Altele": 224,
-  "Transporturi și infrastructură": 148,
-  "Administrație publică": 329,
-  "Justiție și afaceri interne": 302,
+  "Justiție și afaceri interne": 309,
+  "Energie și mediu": 376,
+  "Protecție socială și pensii": 51,
+  "Altele": 237,
+  "Economie, IMM și comerț": 188,
+  "Transporturi și infrastructură": 151,
+  "Fiscalitate și buget": 190,
+  "Administrație publică": 342,
+  "Digitalizare și comunicații": 27,
+  "Educație și cercetare": 410,
+  "Afaceri externe și UE": 23,
+  "Economie socială": 10,
   "Sănătate": 105,
-  "Economie, IMM și comerț": 183,
-  "Fiscalitate și buget": 189,
-  "Protecție socială și pensii": 48,
   "Apărare și securitate națională": 19,
-  "Digitalizare și comunicații": 19,
   "Muncă și dialog social": 39,
   "Agricultură și dezvoltare rurală": 80,
-  "Afaceri externe și UE": 22,
-  "Cultură, culte și sport": 32,
-  "Economie socială": 9
+  "Cultură, culte și sport": 32
  },
  "acts": [
+  {
+   "id": "316703",
+   "tip": "ORDIN",
+   "numar": "1034",
+   "data_act": "2026-11-18",
+   "titlu": "ORDIN nr. 1.034 din 18 noiembrie 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei din anii 2022, 2023 şi 2024 şi de procentul de indexare a salariului minim pe economie la data de 1.01.2022, la data de 1.01.2023, la data de 1.10.2023, respectiv la data de 1.07.2024, conform Sentinţei civile nr. 283 din 10.12.2025, pronunţată de Curtea de Apel Iaşi - Secţia contencios administrativ şi fiscal, precum şi Încheierii de îndreptare a erorii materiale din data de 28.01.2026, definitivă prin Decizia civilă nr. 3.649 din 17.09.2026, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 753/45/2025",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "989",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "salariul minim",
+    "salariu"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": true
+  },
+  {
+   "id": "316702",
+   "tip": "ORDIN",
+   "numar": "1033",
+   "data_act": "2026-11-18",
+   "titlu": "ORDIN nr. 1.033 din 18 noiembrie 2026",
+   "descriere": "pentru actualizarea tarifelor prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 1.156/2013 pentru aprobarea acţiunilor sanitar-veterinare cuprinse în Programul acţiunilor de supraveghere, prevenire, control şi eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecţia animalelor şi protecţia mediului, de imobilizare a animalelor care ameninţă viaţa sau integritatea corporală a persoanelor prin utilizarea şi administrarea substanţelor din categoria stupefiante, psihotrope, de identificare şi înregistrare a bovinelor, porcinelor, ovinelor, caprinelor şi ecvideelor, a acţiunilor prevăzute în Programul de supraveghere şi control în domeniul siguranţei alimentelor, precum şi a tarifelor aferente acestora, în funcţie de rata medie anuală a inflaţiei din anii 2021, 2022, 2023 şi 2024 şi de procentul de indexare a salariului minim pe economie la data de 1.01.2021, la data de 1.01.2022, la data de 1.01.2023, la data de 1.10.2023, respectiv la data de 1.07.2024, conform Sentinţei civile nr. 242 din 11.11.2025, pronunţată de Curtea de Apel Iaşi - Secţia contencios administrativ şi fiscal, definitivă prin Decizia civilă nr. 2.295 din 13.05.2026, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 667/45/2025",
+   "emitenti": [
+    "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor"
+   ],
+   "monitor_nr": "989",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 6,
+   "termeni": [
+    "salariul minim",
+    "salariu"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": true
+  },
+  {
+   "id": "316701",
+   "tip": "HOTARARE",
+   "numar": "1000",
+   "data_act": "2026-11-26",
+   "titlu": "HOTĂRÂRE nr. 1.000 din 26 noiembrie 2026",
+   "descriere": "privind trecerea unui imobil, cu achitarea contravalorii acestuia, din patrimoniul Companiei Naţionale de Transport al Energiei Electrice \"Transelectrica\" - S.A. în domeniul public al statului şi darea acestuia în administrarea Institutului Naţional pentru Studierea Holocaustului din România \"Elie Wiesel\"",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "989",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 1,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316700",
+   "tip": "DECIZIE",
+   "numar": "322",
+   "data_act": "2026-04-01",
+   "titlu": "DECIZIA nr. 322 din 1 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 85 şi 86 din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "989",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316699",
+   "tip": "DECIZIE",
+   "numar": "284",
+   "data_act": "2026-03-26",
+   "titlu": "DECIZIA nr. 284 din 26 martie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 59/2017 privind modificarea şi completarea unor acte normative din domeniul pensiilor de serviciu, în ansamblul său, precum şi a dispoziţiilor art. VII şi X din acelaşi act normativ, în special",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "989",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316698",
+   "tip": "DECRET",
+   "numar": "904",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 904 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "989",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316697",
+   "tip": "DECRET",
+   "numar": "903",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 903 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "989",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316696",
+   "tip": "DECRET",
+   "numar": "902",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 902 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-maior cu două stele a unui general de brigadă cu o stea din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "989",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316695",
+   "tip": "REGULAMENT",
+   "numar": "",
+   "data_act": "2026-11-17",
+   "titlu": "REGULAMENT din 17 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea Regulamentului de organizare şi funcţionare a Consiliului Concurenţei, pus în aplicare prin Ordinul preşedintelui Consiliului Concurenţei nr. 1.511/2023",
+   "emitenti": [
+    "Consiliul Concurenței"
+   ],
+   "monitor_nr": "988",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316694",
+   "tip": "ORDIN",
+   "numar": "2726",
+   "data_act": "2026-11-17",
+   "titlu": "ORDIN nr. 2.726 din 17 noiembrie 2026",
+   "descriere": "pentru punerea în aplicare a Regulamentului pentru modificarea şi completarea Regulamentului de organizare şi funcţionare a Consiliului Concurenţei, pus în aplicare prin Ordinul preşedintelui Consiliului Concurenţei nr. 1.511/2023",
+   "emitenti": [
+    "Consiliul Concurenței"
+   ],
+   "monitor_nr": "988",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316693",
+   "tip": "ORDIN",
+   "numar": "2397",
+   "data_act": "2026-11-20",
+   "titlu": "ORDIN nr. 2.397/C din 20 noiembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei pentru 15, 20 şi 25 de ani de activitate în domeniile apărării, ordinii publice şi siguranţei naţionale, pentru rezultate meritorii în îndeplinirea atribuţiilor şi în pregătirea profesională, poliţiştilor de penitenciare cu grade profesionale echivalente cu gradele de maiştri militari şi subofiţeri",
+   "emitenti": [
+    "Ministerul Justiției"
+   ],
+   "monitor_nr": "988",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316692",
+   "tip": "ORDIN",
+   "numar": "2395",
+   "data_act": "2026-11-20",
+   "titlu": "ORDIN nr. 2.395/C din 20 noiembrie 2026",
+   "descriere": "privind conferirea Semnului onorific În Serviciul Patriei pentru 15, 20 şi 25 de ani de activitate în domeniile apărării, ordinii publice şi siguranţei naţionale, pentru rezultate meritorii în îndeplinirea atribuţiilor şi în pregătirea profesională, poliţiştilor de penitenciare cu grade profesionale echivalente cu gradele de ofiţeri şi preoţi militari",
+   "emitenti": [
+    "Ministerul Justiției"
+   ],
+   "monitor_nr": "988",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316691",
+   "tip": "ORDIN",
+   "numar": "1159",
+   "data_act": "2026-11-17",
+   "titlu": "ORDIN nr. 1.159 din 17 noiembrie 2026",
+   "descriere": "pentru modificarea anexei la Ordinul ministrului transporturilor şi infrastructurii nr. 1.849/2023 privind aprobarea Schemei de ajutor de stat pentru realizarea de investiţii în infrastructura de transport intermodal/multimodal aferentă Programului Transport (PT 2021-2027), prioritatea 7 - Dezvoltarea transportului naval şi multimodal, obiectivul specific 3.1. Dezvoltarea unei reţele TEN-T, reziliente la schimbările climatice, inteligente, sigure, durabile şi intermodale",
+   "emitenti": [
+    "Ministerul Transporturilor și Infrastructurii"
+   ],
+   "monitor_nr": "988",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316690",
+   "tip": "DECIZIE",
+   "numar": "561",
+   "data_act": "2026-05-28",
+   "titlu": "DECIZIA nr. 561 din 28 mai 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 9/2017 privind unele măsuri bugetare în anul 2017, prorogarea unor termene, precum şi modificarea şi completarea unor acte normative, ale art. 11 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea şi completarea unor acte normative şi prorogarea unor termene, ale art. 41 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investiţiilor publice şi a unor măsuri fiscal-bugetare, modificarea şi completarea unor acte normative şi prorogarea unor termene, precum şi ale art. VII alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi pentru modificarea şi completarea unor acte normative",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "988",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Fiscalitate și buget",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316689",
+   "tip": "DECIZIE",
+   "numar": "390",
+   "data_act": "2026-04-28",
+   "titlu": "DECIZIA nr. 390 din 28 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 340 alin. (1) din Codul de procedură penală",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "988",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316688",
+   "tip": "DECRET",
+   "numar": "914",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 914 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Serviciul de Telecomunicaţii Speciale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "988",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316687",
+   "tip": "DECRET",
+   "numar": "913",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 913 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Serviciul de Telecomunicaţii Speciale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "988",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316686",
+   "tip": "DECRET",
+   "numar": "912",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 912 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Serviciul de Telecomunicaţii Speciale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "988",
+   "data_publicare": "2026-11-27",
+   "data_vigoare": "2026-11-27",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316685",
+   "tip": "ORD DE URGENTA",
+   "numar": "47",
+   "data_act": "2026-11-26",
+   "titlu": "ORDONANŢĂ DE URGENŢĂ nr. 47 din 26 noiembrie 2026",
+   "descriere": "pentru completarea anexei la Ordonanţa de urgenţă a Guvernului nr. 12/2026 privind măsurile aplicabile clienţilor casnici din piaţa de gaze naturale în perioada 1 aprilie 2026-31 martie 2027, precum şi pentru modificarea altor acte normative",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "987",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316684",
+   "tip": "DECIZIE",
+   "numar": "418",
+   "data_act": "2026-04-30",
+   "titlu": "DECIZIA nr. 418 din 30 aprilie 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (3) şi ale art. 5 alin. (4 )-( 7) din Ordonanţa de urgenţă a Guvernului nr. 77/2011 privind stabilirea unor contribuţii pentru finanţarea unor cheltuieli în domeniul sănătăţii",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "987",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316683",
+   "tip": "DECRET",
+   "numar": "901",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 901 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-locotenent cu trei stele a unui general-maior cu două stele din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "987",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316682",
+   "tip": "CUANTUM",
+   "numar": "TOTAL",
+   "data_act": "2026-11-26",
+   "titlu": "CUANTUM TOTAL din 26 noiembrie 2026",
+   "descriere": "publicat în temeiul Legii nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+   "emitenti": [
+    "Partide Politice"
+   ],
+   "monitor_nr": "986",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316681",
+   "tip": "DECIZIE",
+   "numar": "505",
+   "data_act": "2026-11-26",
+   "titlu": "DECIZIE nr. 505 din 26 noiembrie 2026",
+   "descriere": "privind numirea doamnei Maria-Alexandra Chivu în funcţia de secretar de stat în cadrul Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "986",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316680",
+   "tip": "DECIZIE",
+   "numar": "504",
+   "data_act": "2026-11-26",
+   "titlu": "DECIZIE nr. 504 din 26 noiembrie 2026",
+   "descriere": "pentru eliberarea doamnei Maria-Alexandra Chivu din funcţia de vicepreşedinte, cu rang de subsecretar de stat, al Autorităţii pentru Digitalizarea României",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "986",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316679",
+   "tip": "DECIZIE",
+   "numar": "503",
+   "data_act": "2026-11-26",
+   "titlu": "DECIZIE nr. 503 din 26 noiembrie 2026",
+   "descriere": "pentru numirea doamnei Mihaela Leila Banciu în funcţia de secretar de stat în cadrul Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "986",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316678",
+   "tip": "DECRET",
+   "numar": "911",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 911 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Serviciul de Informaţii Externe",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "986",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316677",
+   "tip": "DECRET",
+   "numar": "910",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 910 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-maior cu două stele a unui general de brigadă cu o stea din Serviciul de Informaţii Externe",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "986",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316676",
+   "tip": "DECRET",
+   "numar": "909",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 909 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-maior cu două stele a unui general de brigadă cu o stea din Serviciul de Informaţii Externe",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "986",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316675",
+   "tip": "DECRET",
+   "numar": "908",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 908 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-maior cu două stele a unui general de brigadă cu o stea din Serviciul de Informaţii Externe",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "986",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316674",
+   "tip": "DECRET",
+   "numar": "907",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 907 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-locotenent cu trei stele a unui general-maior cu două stele din Serviciul de Informaţii Externe",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "986",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316673",
+   "tip": "DECRET",
+   "numar": "906",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 906 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-locotenent cu trei stele a unui general-maior cu două stele din Serviciul de Informaţii Externe",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "986",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316672",
+   "tip": "DECRET",
+   "numar": "905",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 905 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-locotenent cu trei stele a unui general-maior cu două stele din Serviciul de Informaţii Externe",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "986",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316671",
+   "tip": "ORDIN",
+   "numar": "68",
+   "data_act": "2026-11-16",
+   "titlu": "ORDIN nr. 68 din 16 noiembrie 2026",
+   "descriere": "privind modificarea şi completarea Regulamentului privind drepturile şi obligaţiile membrilor Comitetului de reglementare, ale conducerii şi ale personalului angajat al Autorităţii Naţionale de Reglementare în Domeniul Energiei, aprobat prin Ordinul preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Energiei nr. 139/2014",
+   "emitenti": [
+    "Autoritatea Națională de Reglementare în Domeniul Energiei"
+   ],
+   "monitor_nr": "985",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 4,
+   "termeni": [
+    "angajator"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": true
+  },
+  {
+   "id": "316670",
+   "tip": "ORDIN",
+   "numar": "1912",
+   "data_act": "2026-11-25",
+   "titlu": "ORDIN nr. 1.912 din 25 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea Ordinului ministrului investiţiilor şi proiectelor europene nr. 5.748/2025 privind aprobarea Schemei de ajutor de stat şi de minimis pentru dezvoltarea antreprenoriatului prin finanţarea înfiinţării şi dezvoltării parcurilor industriale",
+   "emitenti": [
+    "Ministerul Investitiilor si Proiectelor Europene"
+   ],
+   "monitor_nr": "985",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Economie, IMM și comerț",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316669",
+   "tip": "DECRET",
+   "numar": "916",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 916 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Serviciul de Protecţie şi Pază",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "985",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316668",
+   "tip": "DECRET",
+   "numar": "915",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 915 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului de general de brigadă cu o stea unui colonel din Serviciul de Protecţie şi Pază",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "985",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316667",
+   "tip": "DECIZIE",
+   "numar": "502",
+   "data_act": "2026-11-26",
+   "titlu": "DECIZIE nr. 502 din 26 noiembrie 2026",
+   "descriere": "pentru numirea doamnei Oana Fotache Dubălaru în funcţia de secretar de stat în cadrul Ministerului Educaţiei şi Cercetării",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "984",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316666",
+   "tip": "DECIZIE",
+   "numar": "501",
+   "data_act": "2026-11-26",
+   "titlu": "DECIZIE nr. 501 din 26 noiembrie 2026",
+   "descriere": "privind numirea domnului Claudiu Mureşan în funcţia de secretar de stat în cadrul aparatului propriu de lucru al viceprim-ministrului, ministrul afacerilor interne",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "984",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316665",
+   "tip": "DECIZIE",
+   "numar": "500",
+   "data_act": "2026-11-26",
+   "titlu": "DECIZIE nr. 500 din 26 noiembrie 2026",
+   "descriere": "privind numirea doamnei Adeline Dan în funcţia de secretar de stat în cadrul Secretariatului General al Guvernului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "984",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316664",
+   "tip": "DECIZIE",
+   "numar": "499",
+   "data_act": "2026-11-26",
+   "titlu": "DECIZIE nr. 499 din 26 noiembrie 2026",
+   "descriere": "privind numirea domnului Florin-Alexandru Gavril în funcţia de secretar de stat în cadrul Secretariatului General al Guvernului",
+   "emitenti": [
+    "Prim-Ministrul"
+   ],
+   "monitor_nr": "984",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 1,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316663",
+   "tip": "HOTARARE",
+   "numar": "1001",
+   "data_act": "2026-11-26",
+   "titlu": "HOTĂRÂRE nr. 1.001 din 26 noiembrie 2026",
+   "descriere": "privind stabilirea datei realizării, la misiunile diplomatice şi oficiile consulare de carieră ale României din străinătate, în ceea ce priveşte cetăţenii români cu domiciliul în România, aflaţi în străinătate, a condiţiilor tehnice prevăzute la art. IV din Ordonanţa Guvernului nr. 12/2023 pentru modificarea şi completarea unor acte normative care cuprind dispoziţii privind evidenţa persoanelor şi cartea electronică de identitate",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "984",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Afaceri externe și UE",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316662",
+   "tip": "HOTARARE",
+   "numar": "990",
+   "data_act": "2026-11-20",
+   "titlu": "HOTĂRÂRE nr. 990 din 20 noiembrie 2026",
+   "descriere": "pentru modificarea şi completarea Hotărârii Guvernului nr. 409/2016 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a echipamentelor electrice de joasă tensiune",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "984",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316661",
+   "tip": "ORD DE URGENTA",
+   "numar": "46",
+   "data_act": "2026-11-26",
+   "titlu": "ORDONANŢĂ DE URGENŢĂ nr. 46 din 26 noiembrie 2026",
+   "descriere": "pentru modificarea art. 8 din Ordonanţa de urgenţă a Guvernului nr. 67/2023 privind instituirea unei măsuri cu caracter temporar de combatere a creşterii excesive a preţurilor la unele produse agricole şi alimentare, precum şi a art. 13 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 84/2023 privind instituirea unui mecanism de consultare şi reacţie coordonată în contextul implementării sistemului de autorizare la export introdus de Ucraina pentru produsele agricole",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "984",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 2,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316660",
+   "tip": "DECRET",
+   "numar": "863",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 863 din 25 noiembrie 2026",
+   "descriere": "privind trecerea în rezervă a unui general de flotilă aeriană din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "984",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316659",
+   "tip": "HOTARARE",
+   "numar": "999",
+   "data_act": "2026-11-26",
+   "titlu": "HOTĂRÂRE nr. 999 din 26 noiembrie 2026",
+   "descriere": "privind numirea domnului Andronache Marian în funcţia de subprefect al judeţului Suceava",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "983",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316658",
+   "tip": "HOTARARE",
+   "numar": "998",
+   "data_act": "2026-11-26",
+   "titlu": "HOTĂRÂRE nr. 998 din 26 noiembrie 2026",
+   "descriere": "privind numirea domnului Stanciu Cătălin-Dorian-Nicolae în funcţia de subprefect al judeţului Sibiu",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "983",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316657",
+   "tip": "HOTARARE",
+   "numar": "997",
+   "data_act": "2026-11-26",
+   "titlu": "HOTĂRÂRE nr. 997 din 26 noiembrie 2026",
+   "descriere": "privind numirea domnului Ionescu George în funcţia de subprefect al judeţului Prahova",
+   "emitenti": [
+    "Grupul de Suport Tehnico-Științific privind Gestionarea Bolilor Înalt Contagioase pe Teritoriul României"
+   ],
+   "monitor_nr": "983",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316656",
+   "tip": "HOTARARE",
+   "numar": "996",
+   "data_act": "2026-11-26",
+   "titlu": "HOTĂRÂRE nr. 996 din 26 noiembrie 2026",
+   "descriere": "privind numirea domnului Cismaru Constantin-Cristian în funcţia de subprefect al judeţului Olt",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "983",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316655",
+   "tip": "HOTARARE",
+   "numar": "995",
+   "data_act": "2026-11-26",
+   "titlu": "HOTĂRÂRE nr. 995 din 26 noiembrie 2026",
+   "descriere": "privind numirea doamnei Varadi-Goia Andrea în funcţia de subprefect al judeţului Cluj",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "983",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316654",
+   "tip": "HOTARARE",
+   "numar": "994",
+   "data_act": "2026-11-26",
+   "titlu": "HOTĂRÂRE nr. 994 din 26 noiembrie 2026",
+   "descriere": "privind eliberarea domnului Tănase Mircea-Adi din funcţia de subprefect al judeţului Prahova",
+   "emitenti": [
+    "Guvernul"
+   ],
+   "monitor_nr": "983",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 3,
+   "termeni": [
+    "guvernul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316653",
+   "tip": "DECIZIE",
+   "numar": "560",
+   "data_act": "2026-05-28",
+   "titlu": "DECIZIA nr. 560 din 28 mai 2026",
+   "descriere": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 30 alin. (1) lit. e) teza întâi, prin raportare la anexa nr. 2 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, şi a pct. 5 din anexa nr. 2 la Legea nr. 263/2010 , coroborat cu art. 56 alin. (3) lit. c) din aceeaşi lege",
+   "emitenti": [
+    "Curtea Constituțională"
+   ],
+   "monitor_nr": "983",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Protecție socială și pensii",
+   "scor": 3,
+   "termeni": [
+    "pensii"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316652",
+   "tip": "DECRET",
+   "numar": "862",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 862 din 25 noiembrie 2026",
+   "descriere": "privind înaintarea în gradul de general-maior cu două stele, la trecerea în rezervă, a unui general de brigadă cu o stea din Ministerul Apărării Naţionale",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "983",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Energie și mediu",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316651",
+   "tip": "DECRET",
+   "numar": "900",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 900 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului profesional de chestor de poliţie unui comisar-şef de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316650",
+   "tip": "DECRET",
+   "numar": "899",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 899 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului profesional de chestor de poliţie unui comisar-şef de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316649",
+   "tip": "DECRET",
+   "numar": "898",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 898 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului profesional de chestor de poliţie unui comisar-şef de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316648",
+   "tip": "DECRET",
+   "numar": "897",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 897 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului profesional de chestor de poliţie unui comisar-şef de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316647",
+   "tip": "DECRET",
+   "numar": "896",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 896 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului profesional de chestor de poliţie unui comisar-şef de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316646",
+   "tip": "DECRET",
+   "numar": "895",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 895 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului profesional de chestor de poliţie unui comisar-şef de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316645",
+   "tip": "DECRET",
+   "numar": "894",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 894 din 25 noiembrie 2026",
+   "descriere": "privind acordarea gradului profesional de chestor de poliţie unui comisar-şef de poliţie din Ministerul Afacerilor Interne",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 3,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316644",
+   "tip": "DECRET",
+   "numar": "865",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 865 din 25 noiembrie 2026",
+   "descriere": "privind trecerea în rezervă a unui general de brigadă cu o stea din Serviciul Român de Informaţii",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316643",
+   "tip": "DECRET",
+   "numar": "864",
+   "data_act": "2026-11-25",
+   "titlu": "DECRET nr. 864 din 25 noiembrie 2026",
+   "descriere": "privind trecerea în rezervă a unui general-maior cu două stele din Serviciul Român de Informaţii",
+   "emitenti": [
+    "Președintele României"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Administrație publică",
+   "scor": 2,
+   "termeni": [],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316642",
+   "tip": "HOTARARE",
+   "numar": "88",
+   "data_act": "2026-11-25",
+   "titlu": "HOTĂRÂRE nr. 88 din 25 noiembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Strategia privind egalitatea de gen 2026-2030 - COM (2026) 113",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316641",
+   "tip": "HOTARARE",
+   "numar": "87",
+   "data_act": "2026-11-25",
+   "titlu": "HOTĂRÂRE nr. 87 din 25 noiembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Strategia privind echitatea între generaţii - COM (2026) 110",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316640",
+   "tip": "HOTARARE",
+   "numar": "86",
+   "data_act": "2026-11-25",
+   "titlu": "HOTĂRÂRE nr. 86 din 25 noiembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Strategia portuară a UE - COM (2026) 112",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316639",
+   "tip": "HOTARARE",
+   "numar": "85",
+   "data_act": "2026-11-25",
+   "titlu": "HOTĂRÂRE nr. 85 din 25 noiembrie 2026",
+   "descriere": "privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor privind Strategia maritimă industrială a UE - COM (2026) 111",
+   "emitenti": [
+    "Camera Deputaților"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "camera deputatilor"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316638",
+   "tip": "HOTARARE",
+   "numar": "168",
+   "data_act": "2026-11-23",
+   "titlu": "HOTĂRÂRE nr. 168 din 23 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului privind Agenţia Uniunii Europene pentru Cooperare în Materie de Aplicare a Legii (Europol), de modificare a Regulamentelor (UE) 2018/1.726 şi (UE) 2024/982 şi de abrogare a Regulamentului (UE) 2016/794 - COM (2026) 580 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Economie socială",
+   "scor": 4,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": true
+  },
+  {
+   "id": "316637",
+   "tip": "HOTARARE",
+   "numar": "167",
+   "data_act": "2026-11-23",
+   "titlu": "HOTĂRÂRE nr. 167 din 23 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului privind Agenţia Uniunii Europene pentru Cooperare în Materie de Justiţie Penală (Eurojust) şi de abrogare a Regulamentului (UE) 2018/1.727 - COM (2026) 570 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Justiție și afaceri interne",
+   "scor": 4,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": true
+  },
+  {
+   "id": "316636",
+   "tip": "HOTARARE",
+   "numar": "166",
+   "data_act": "2026-11-23",
+   "titlu": "HOTĂRÂRE nr. 166 din 23 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului de modificare a Regulamentului (UE) 2021/1.139 în ceea ce priveşte simplificarea şi transpunerea Acordului OMC privind subvenţiile pentru pescuit - COM (2026) 498 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Transporturi și infrastructură",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316635",
+   "tip": "HOTARARE",
+   "numar": "165",
+   "data_act": "2026-11-23",
+   "titlu": "HOTĂRÂRE nr. 165 din 23 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului de stabilire a unui cadru de măsuri pentru consolidarea ecosistemului de inovare al Uniunii şi de modificare a Regulamentului (UE) 2017/1.001 (Actul european privind inovarea) - COM (2026) 567 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316634",
+   "tip": "HOTARARE",
+   "numar": "164",
+   "data_act": "2026-11-23",
+   "titlu": "HOTĂRÂRE nr. 164 din 23 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului privind digitalizarea coordonării sistemelor de securitate socială, de stabilire a unui cadru pentru Paşaportul european de securitate socială (ESSPASS) şi de modificare a Regulamentelor (CE) nr. 883/2004, (CE) nr. 987/2009 şi (UE) 2018/1.724 - COM (2026) 980 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Digitalizare și comunicații",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
+  {
+   "id": "316633",
+   "tip": "HOTARARE",
+   "numar": "163",
+   "data_act": "2026-11-23",
+   "titlu": "HOTĂRÂRE nr. 163 din 23 noiembrie 2026",
+   "descriere": "referitoare la propunerea de Regulament al Parlamentului European şi al Consiliului de instituire a unui cadru de măsuri în statele membre pentru a proteja accesibilitatea şi disponibilitatea locuinţelor (Actul legislativ pentru locuinţe la preţuri accesibile) - COM (2026) 599 final",
+   "emitenti": [
+    "Senatul"
+   ],
+   "monitor_nr": "982",
+   "data_publicare": "2026-11-26",
+   "data_vigoare": "2026-11-26",
+   "vigoare_text": "",
+   "categorie": "Altele",
+   "scor": 3,
+   "termeni": [
+    "senatul"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": false
+  },
   {
    "id": "316629",
    "tip": "ORDIN",
@@ -1162,6 +2636,50 @@
    "termeni": [],
    "first_seen": "2026-11-25",
    "are_text": false
+  },
+  {
+   "id": "316631",
+   "tip": "STANDARD",
+   "numar": "",
+   "data_act": "2026-11-13",
+   "titlu": "STANDARD din 13 noiembrie 2026",
+   "descriere": "de pregătire profesională pentru calificarea profesională logistician responsabil comenzi de nivel 4 al Cadrului naţional al calificărilor pentru care se asigură pregătirea prin învăţământul tehnologic şi tehnologic dual",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "976",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": true
+  },
+  {
+   "id": "316630",
+   "tip": "STANDARD",
+   "numar": "",
+   "data_act": "2026-11-13",
+   "titlu": "STANDARD din 13 noiembrie 2026",
+   "descriere": "de pregătire profesională pentru calificarea profesională operator platformă logistică de nivel 3 al Cadrului naţional al calificărilor",
+   "emitenti": [
+    "Ministerul Educației și Cercetării"
+   ],
+   "monitor_nr": "976",
+   "data_publicare": "2026-11-24",
+   "data_vigoare": "2026-11-24",
+   "vigoare_text": "",
+   "categorie": "Educație și cercetare",
+   "scor": 4,
+   "termeni": [
+    "ministerul educatiei"
+   ],
+   "first_seen": "2026-11-27",
+   "are_text": true
   },
   {
    "id": "316571",
